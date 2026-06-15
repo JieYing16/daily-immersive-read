@@ -57,6 +57,33 @@ pip install -r requirements.txt
 | `daily_reads.html`  | Generated reader — **not tracked** (rebuild it)    |
 | `requirements.txt`  | Python dependencies                                |
 
+## Daily delivery to iPhone
+
+Two pieces work together to deliver a fresh read to the phone each day:
+
+1. **Generation (automatic):** a scheduled task runs daily, writes a new entry
+   into `daily_reads.md`, rebuilds `daily_reads.html`, and copies the HTML into
+   the OneDrive folder (path set in `publish_path.txt`).
+2. **Notification (iPhone Shortcuts):** a time-based automation pings the phone
+   and opens the reader.
+
+### Set up the iPhone notification (Shortcuts → Automation)
+
+1. Install the **OneDrive** app on the iPhone, sign in, and make sure the
+   `Daily Immersive Read` folder syncs so `daily_reads.html` is reachable.
+2. Open the **Shortcuts** app and go to the **Automation** tab.
+3. Tap **+** (top right) → **Create Personal Automation**.
+4. Choose **Time of Day**, pick a time (e.g. 6:00 PM), set it to **Daily**, tap **Next**.
+5. Tap **Add Action**, search **Show Notification**, and set the text
+   (e.g. "📚 Today's Daily Immersive Read is ready").
+6. *(Optional)* Add a second action to jump straight to the reader — either
+   **Open App → OneDrive**, or **Open URLs** with a share link to
+   `daily_reads.html`.
+7. Tap **Next**, turn **off** "Ask Before Running" so it runs silently, then **Done**.
+
+> Adjust the time and the "open" action to match your setup — the only
+> requirement is that the automation fires *after* the generation task has run.
+
 ## Notes
 
 - `daily_reads.html` is a build artifact and is gitignored. Run `build_reader.py`
@@ -64,4 +91,5 @@ pip install -r requirements.txt
 
 ## License
 
-[MIT](LICENSE) © 2026 Jie Ying Lim
+**All rights reserved** © 2026 Jie Ying Lim. This repo is public for viewing
+only — please [request permission](LICENSE) before using or reusing any part.
