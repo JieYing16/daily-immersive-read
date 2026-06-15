@@ -110,19 +110,44 @@ def build():
 def publish(html_file):
     """Copy the reader to a local publish dir (e.g. OneDrive) for the iPhone.
 
-    The destination is read from 'publish_path.txt' (one line, an absolute
-    folder path). That file is gitignored so the public repo never exposes a
-    personal path. Skipped silently if the file is missing.
+    The destination is read from 'publish_path.txt' (one path per line). That
+    file is gitignored so the public repo never exposes a personal path.
+    Skipped silently if the file is missing.
+
+    Each line is tried directly first (works when run natively, e.g. on
+    Windows). If none of those folders exist — as happens when the scheduled
+    task runs in a Linux sandbox where the real path is mounted elsewhere — the
+    folder is located by name under any '/sessions/*/mnt/' mount.
     """
     cfg = BASE / "publish_path.txt"
     if not cfg.exists():
         return
-    dest_dir = Path(cfg.read_text(encoding="utf-8").strip())
-    if not dest_dir.is_dir():
-        print(f"Publish skipped: {dest_dir} is not a folder")
+    candidates = [ln.strip() for ln in
+                  cfg.read_text(encoding="utf-8").splitlines() if ln.strip()]
+    if not candidates:
+        return
+    dest_dir = _resolve_dest(candidates)
+    if dest_dir is None:
+        print(f"Publish skipped: no destination found from {candidates}")
         return
     shutil.copy2(html_file, dest_dir / html_file.name)
     print(f"Published to {dest_dir / html_file.name}")
+
+
+def _resolve_dest(candidates):
+    """Return the first usable publish folder, or None."""
+    # 1. Direct match — the path exists as written (native run).
+    for c in candidates:
+        p = Path(c)
+        if p.is_dir():
+            return p
+    # 2. Sandbox fallback — find the folder by name under any session mount.
+    for c in candidates:
+        name = Path(c.replace("\\", "/")).name  # basename, even for C:\... paths
+        for hit in sorted(Path("/sessions").glob(f"*/mnt/{name}")):
+            if hit.is_dir():
+                return hit
+    return None
 
 
 HEAD = """<!DOCTYPE html>
