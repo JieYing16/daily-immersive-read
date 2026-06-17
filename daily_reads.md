@@ -1,5 +1,22 @@
 # Daily Immersive Read Log
 
+## 2026-06-16
+
+### Topic: Environment
+
+**AI's Hidden Power and Water Bill**
+
+- A new United Nations University report measured the environmental footprint of AI. It found the world's **data centres** — the warehouses of computers that run AI services — used about **448 terawatt-hours of electricity in 2025**. If they were a country, that would make them the world's 11th-largest electricity user.
+- A *terawatt-hour* is a billion kilowatt-hours; a typical home uses a few thousand kilowatt-hours a year. So this is an enormous amount of power, and AI accounts for about a fifth of it.
+- Demand is climbing fast. The report projects data centres could reach **945 terawatt-hours by 2030** — more than double — driven largely by AI growth.
+- It's not just electricity: cooling all those machines also consumes huge volumes of **water**, with usage projected to hit trillions of litres by 2030.
+
+**Why it matters:** The AI tools many of us now use daily carry a real-world energy and water cost, raising pressure to power data centres with cleaner electricity and cool them more efficiently.
+
+*Source: UN University (UNU-INWEH) report, via Business Standard / Earth.Org, June 2026*
+
+---
+
 ## 2026-06-15
 
 ### Topic: Geopolitics
