@@ -1,0 +1,5 @@
+# All files require review by default
+*               @JieYing16
+
+# Daily log entries are content, not code — no review required
+daily_reads.md
