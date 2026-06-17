@@ -22,6 +22,7 @@ ENV/
 .mypy_cache/
 .ruff_cache/
 .pytest_cache/
+.claude/
 
 # --- OS noise ---
 .DS_Store
