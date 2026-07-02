@@ -36,13 +36,22 @@ TOPIC_COLOURS = {
 
 
 def parse_entries(text):
-    """Split the log on '## YYYY-MM-DD' headers into (date, body) pairs."""
+    """Split the log on '## YYYY-MM-DD' headers, then split each day's body
+    on '### Topic:' boundaries so a day with multiple topics (the normal
+    case: one entry per topic, up to 4/day) yields one (date, body) pair
+    per topic. Days with a single topic block still work the same way.
+    """
     parts = re.split(r"(?m)^##\s+(\d{4}-\d{2}-\d{2})\s*$", text)
     entries = []
     for i in range(1, len(parts), 2):
         date_str = parts[i].strip()
-        body = re.sub(r"(?m)^---\s*$", "", parts[i + 1]).strip()
-        entries.append((datetime.strptime(date_str, "%Y-%m-%d"), body))
+        date = datetime.strptime(date_str, "%Y-%m-%d")
+        day_body = re.sub(r"(?m)^---\s*$", "", parts[i + 1]).strip()
+        topic_blocks = re.split(r"(?m)(?=^###\s*Topic:)", day_body)
+        for block in topic_blocks:
+            block = block.strip()
+            if block:
+                entries.append((date, block))
     entries.sort(key=lambda e: e[0], reverse=True)  # newest first
     return entries
 

@@ -2,9 +2,9 @@
 
 > Personal knowledge log that turns a daily markdown journal into a readable, mobile-friendly HTML feed.
 
-**Goal:** Deliver one short, digestible piece of new information daily (1–2 min read) to broaden my knowledge across four rotating topics.
+**Goal:** Deliver four short, digestible pieces of new information daily (1–2 min read each) to broaden my knowledge across four fixed topics — one entry per topic, every day.
 
-## Topics (rotate daily or mix)
+## Topics (one entry per topic, every day)
 
 - **AI technology** — new tools, techniques, how AI/ML systems are built, research breakthroughs
 - **Geopolitics** — major developments, conflicts, policy shifts, international relations
@@ -12,6 +12,8 @@
 - **Economics** — markets, macroeconomic trends, trade, monetary policy, economic concepts explained
 
 ## Entry format
+
+Each day has **4 entries**, one per topic, each formatted as:
 
 - Title (catchy, 5–8 words)
 - 3–5 bullet points or a short paragraph (~150–200 words total)
@@ -22,9 +24,12 @@
 
 ## How it works
 
-`daily_reads.md` is the single source of truth — an append-only log. Each new
-entry is added under a `## YYYY-MM-DD` header. Running the build script
-regenerates `daily_reads.html`, a styled, dark-mode-aware reader grouped by month.
+`daily_reads.md` is the single source of truth — an append-only log. Each day
+gets one `## YYYY-MM-DD` header followed by **4 entries**, one per topic, each
+starting with `### Topic: <name>` in a fixed order (AI Technology → Geopolitics
+→ Environment → Economics). Running the build script regenerates
+`daily_reads.html`, a styled, dark-mode-aware reader grouped by month, with
+each topic rendered as its own card.
 
 ```
 daily_reads.md   ──►  build_reader.py  ──►  daily_reads.html
@@ -61,9 +66,9 @@ pip install -r requirements.txt
 
 Two pieces work together to deliver a fresh read to the phone each day:
 
-1. **Generation (automatic):** a scheduled task runs daily, writes a new entry
-   into `daily_reads.md`, rebuilds `daily_reads.html`, and copies the HTML into
-   the OneDrive folder (path set in `publish_path.txt`).
+1. **Generation (automatic):** a scheduled task runs daily, writes four new
+   entries (one per topic) into `daily_reads.md`, rebuilds `daily_reads.html`,
+   and copies the HTML into the OneDrive folder (path set in `publish_path.txt`).
 2. **Notification (iPhone Shortcuts):** a time-based automation pings the phone
    and opens the reader.
 
