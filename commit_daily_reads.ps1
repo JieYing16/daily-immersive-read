@@ -1,11 +1,11 @@
 $repo = "D:\GitHub\daily-immersive-read"
-$file = "daily_reads.md"
+$files = @("daily_reads.md", "index.html")
 
 Set-Location $repo
 
 $status = git status --porcelain $file 2>&1
 if ($status) {
-    git add $file
+    git add $files
     $date = Get-Date -Format "yyyy-MM-dd"
     git commit -m "chore: daily reads $date"
     git push origin main

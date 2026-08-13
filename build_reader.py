@@ -23,7 +23,8 @@ except ImportError:
 
 BASE = Path(__file__).parent
 SRC = BASE / "daily_reads.md"
-OUT = BASE / "daily_reads.html"
+OUT = BASE / "index.html"
+LOCAL_COPY = BASE / "daily_reads.html"
 
 # Topic -> colour accent (falls back to a neutral grey)
 TOPIC_COLOURS = {
@@ -84,7 +85,7 @@ def render_card(dt, body, md):
     pill = (f'<span class="topic" style="background:{colour}">{topic}</span>'
             if topic else "")
     heading = f'<h2 class="title">{title}</h2>' if title else ""
-    day_label = dt.strftime("%A, %-d %B %Y")
+    day_label = f"{dt.strftime('%A')}, {dt.day} {dt.strftime('%B %Y')}"
     return (f'<article class="card">'
             f'<div class="meta">{pill}'
             f'<span class="date">{day_label}</span></div>'
@@ -109,11 +110,13 @@ def build():
             f'<summary>{label}</summary>{cards}</details>'
         )
 
-    generated = datetime.now().strftime("%-d %b %Y, %H:%M")
+    now = datetime.now()
+    generated = f"{now.day} {now.strftime('%b %Y, %H:%M')}"
     html = HEAD + "".join(sections) + FOOT.replace("{{GEN}}", generated)
     OUT.write_text(html, encoding="utf-8")
+    LOCAL_COPY.write_text(html, encoding="utf-8")
     print(f"Wrote {OUT} ({len(entries)} entries)")
-    publish(OUT)
+    publish(LOCAL_COPY)
 
 
 def publish(html_file):
