@@ -1,100 +1,72 @@
-# Daily Immersive Read
+# Daily Immersive Read — new PWA
 
-> Personal knowledge log that turns a daily markdown journal into a readable, mobile-friendly HTML feed.
-
-**Goal:** Deliver four short, digestible pieces of new information daily (1–2 min read each) to broaden my knowledge across four fixed topics — one entry per topic, every day.
-
-## Topics (one entry per topic, every day)
-
-- **AI technology** — new tools, techniques, how AI/ML systems are built, research breakthroughs
-- **Geopolitics** — major developments, conflicts, policy shifts, international relations
-- **Environment/climate** — global warming, El Niño/La Niña, conservation news, climate science
-- **Economics** — markets, macroeconomic trends, trade, monetary policy, economic concepts explained
-
-## Entry format
-
-Each day has **4 entries**, one per topic, each formatted as:
-
-- Title (catchy, 5–8 words)
-- 3–5 bullet points or a short paragraph (~150–200 words total)
-- One "Why it matters" takeaway line
-- Source/date if referencing real news
-
-**Style:** Clear, neutral tone; no jargon without explanation; beginner-friendly.
-
-## How it works
-
-`daily_reads.md` is the single source of truth — an append-only log. Each day
-gets one `## YYYY-MM-DD` header followed by **4 entries**, one per topic, each
-starting with `### Topic: <name>` in a fixed order (AI Technology → Geopolitics
-→ Environment → Economics). Running the build script regenerates
-`daily_reads.html`, a styled, dark-mode-aware reader grouped by month, with
-each topic rendered as its own card.
+Replaces the single generated `index.html`. The reader is now a static app shell
+that fetches its content, so a new day changes only `reads.json`.
 
 ```
-daily_reads.md   ──►  build_reader.py  ──►  daily_reads.html
-(source of truth)      (generator)          (generated; gitignored)
+daily_reads.md  ──►  build_reader.py  ──►  reads.json  ──►  index.html + app.js
+(source of truth)     (generator)          (data)           (shell, cached)
 ```
 
-## Setup
+## Files
 
-```bash
-pip install -r requirements.txt
+| File | Purpose |
+| --- | --- |
+| `index.html` | App shell — top bar, drawer mount, nothing content-specific |
+| `app.js` | Screens, routing, reading state (vanilla JS, no build step) |
+| `app.css` | App layer on top of the design tokens |
+| `styles.css` | Organic design-system tokens (copied; do not edit here) |
+| `sw.js` | Service worker — shell cached, `reads.json` network-first |
+| `build_reader.py` | Parses `daily_reads.md` → `reads.json` |
+| `reads.json` | Generated data (commit it — it is what the phone fetches) |
+| `manifest.webmanifest`, `icon-*.png` | Unchanged |
+
+## Migrating the repo
+
+1. Copy this folder's files over the repo root (they replace `index.html`,
+   `build_reader.py`, `sw.js`).
+2. Delete `daily_reads.html` — no longer generated.
+3. Change `commit_daily_reads.ps1` / `scheduler/run_daily.ps1` to commit
+   `daily_reads.md` **and `reads.json`** instead of `index.html`.
+4. `python build_reader.py`, then push. On the phone, close and reopen the PWA
+   once so the new service worker (`dir-v2`) takes over.
+
+## What it does
+
+- **Today** — the four topic cards, all four on one screen, no scrolling.
+  Opening one auto-marks it read; the pill toggles that back.
+- **No fresh day?** It serves the newest day you haven't finished, with a note
+  saying so, instead of an empty screen.
+- **Progress** — 35-day grid, filled per day read. No streak, so a day the
+  laptop was off costs nothing.
+- **Bonus read** — appears only once today's four are done, drawn from the
+  oldest unopened entry in the archive. Below it, a topic request box.
+- **Archive / Bookmarks / Settings** — theme (light/dark/auto), text size,
+  topics, reminder time, export/import.
+
+## Still to wire up
+
+**Accounts.** The Sign in buttons currently explain what's missing. To make them
+real, create a free Firebase project, enable Google and Apple providers plus
+Firestore, and add to `index.html` before `app.js`:
+
+```html
+<script type="module">
+  import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js';
+  window.FB = initializeApp({ apiKey: '…', authDomain: '…', projectId: '…' });
+</script>
 ```
 
-## Usage
+then replace the `data-auth` handler in `app.js` with `signInWithPopup` and sync
+the `dir.v1` object to a `users/{uid}` document. Google/Apple sign-in means no
+password to store, reset or leak — which also answers the recovery question:
+account recovery is handled by Google/Apple, not by us. Multi-user hosting comes
+free with the same setup, since each user's state is keyed by `uid`.
 
-1. Add a new dated entry to `daily_reads.md` (see existing entries for the format).
-2. Rebuild the reader:
+**Topic requests.** Queued topics are held in localStorage. For the laptop to
+see them they need somewhere shared — the same Firestore document is the natural
+place once accounts exist.
 
-   ```bash
-   python build_reader.py
-   ```
-
-3. Open `daily_reads.html` in Safari on your iPhone for large, readable text.
-
-## Project structure
-
-| File                | Purpose                                            |
-| ------------------- | -------------------------------------------------- |
-| `daily_reads.md`    | Append-only log of entries (source of truth)       |
-| `build_reader.py`   | Generates the HTML reader from the log             |
-| `daily_reads.html`  | Generated reader — **not tracked** (rebuild it)    |
-| `requirements.txt`  | Python dependencies                                |
-
-## Daily delivery to iPhone
-
-Two pieces work together to deliver a fresh read to the phone each day:
-
-1. **Generation (automatic):** a scheduled task runs daily, writes four new
-   entries (one per topic) into `daily_reads.md`, rebuilds `daily_reads.html`,
-   and copies the HTML into the OneDrive folder (path set in `publish_path.txt`).
-2. **Notification (iPhone Shortcuts):** a time-based automation pings the phone
-   and opens the reader.
-
-### Set up the iPhone notification (Shortcuts → Automation)
-
-1. Install the **OneDrive** app on the iPhone, sign in, and make sure the
-   `Daily Immersive Read` folder syncs so `daily_reads.html` is reachable.
-2. Open the **Shortcuts** app and go to the **Automation** tab.
-3. Tap **+** (top right) → **Create Personal Automation**.
-4. Choose **Time of Day**, pick a time (e.g. 6:00 PM), set it to **Daily**, tap **Next**.
-5. Tap **Add Action**, search **Show Notification**, and set the text
-   (e.g. "📚 Today's Daily Immersive Read is ready").
-6. *(Optional)* Add a second action to jump straight to the reader — either
-   **Open App → OneDrive**, or **Open URLs** with a share link to
-   `daily_reads.html`.
-7. Tap **Next**, turn **off** "Ask Before Running" so it runs silently, then **Done**.
-
-> Adjust the time and the "open" action to match your setup — the only
-> requirement is that the automation fires *after* the generation task has run.
-
-## Notes
-
-- `daily_reads.html` is a build artifact and is gitignored. Run `build_reader.py`
-  to regenerate it after pulling changes.
-
-## License
-
-**All rights reserved** © 2026 Jie Ying Lim. This repo is public for viewing
-only — please [request permission](LICENSE) before using or reusing any part.
+**Reminders.** The time in Settings is stored but not yet fired. On iOS, PWA web
+push needs the app installed to the Home Screen; the existing Shortcuts
+automation still works in the meantime.

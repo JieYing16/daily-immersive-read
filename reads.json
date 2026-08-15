@@ -1,0 +1,1515 @@
+{
+ "generated": "2026-08-15T10:02:11.446Z",
+ "days": [
+  {
+   "date": "2026-08-15",
+   "label": "Saturday, 15 August 2026",
+   "entries": [
+    {
+     "id": "2026-08-15-ai-technology",
+     "topic": "AI Technology",
+     "title": "OpenAI Pauses a Model It Fears",
+     "mins": 1,
+     "bodyHtml": "<ul><li>In early <strong>August 2026</strong>, <strong>OpenAI</strong> slowed development of its next model, <strong>Astra</strong>, after internal tests suggested it might be able to find and exploit serious software flaws — and attack well-defended computer systems — <strong>without a human directing it</strong>.</li><li>Astra is the first system OpenAI has classified as <strong>\"Critical\"</strong> on the cybersecurity scale in its <strong>Preparedness Framework</strong>, the company's own rulebook for deciding when a model is too capable to release as-is.</li><li>Response measures: testing moved to <strong>isolated machines with no network access</strong>, model weights encrypted more heavily, tool access restricted, and automated monitoring of the model's reasoning steps to catch risky behaviour early.</li><li>Outside testers, including <strong>government agencies</strong> and the <strong>UK AI Security Institute</strong>, are running their own evaluations.</li></ul>",
+     "whyHtml": "This is the first time a leading lab has publicly held back a model because of <em>offensive</em> capability rather than bias or misinformation — a test of whether voluntary safety commitments hold when a product is ready to ship.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Model weights</em> are the numbers that encode what a model has learned — effectively the model itself, and the thing worth stealing.</p>",
+     "sourceHtml": "Source: Axios / TechCrunch / OpenAI, August 7–10, 2026"
+    },
+    {
+     "id": "2026-08-15-geopolitics",
+     "topic": "Geopolitics",
+     "title": "The World Now Fights Through Chokepoints",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Analysts marking <strong>14 August 2026</strong> noted five separate crises converging at once — the <strong>Strait of Hormuz</strong>, the <strong>Black Sea</strong>, the <strong>Taiwan Strait</strong>, drone manufacturing supply chains, and <strong>Gaza</strong>.</li><li>The common thread: great-power competition is increasingly fought through <strong>control of chokepoints, critical technologies and supply chains</strong> rather than direct battle.</li><li>The <strong>Strait of Hormuz</strong> has been largely blocked by <strong>Iran</strong> since late February 2026. A June memorandum briefly lifted the <strong>US naval blockade</strong> for a 60-day safe-passage window; after renewed attacks on commercial ships, Washington <strong>reimposed the blockade</strong> in early August.</li><li>Israeli defence officials have reportedly been surprised by how fast Iran rebuilt capability after the early-2026 war.</li><li>In the Indo-Pacific, the notable feature is regional states <strong>declining to organise their foreign policy</strong> around US–China rivalry.</li></ul>",
+     "whyHtml": "A handful of narrow waterways carry most of the world's oil and manufactured goods. Whoever can threaten to close one gains leverage without firing on another state directly — and everyone else pays in shipping and insurance costs.",
+     "noteHtml": "<p><strong>Jargon note:</strong> A <em>chokepoint</em> is a narrow passage that traffic must pass through, making it easy to block.</p>",
+     "sourceHtml": "Source: Foreign Affairs Forum / Council on Foreign Relations, August 14, 2026"
+    },
+    {
+     "id": "2026-08-15-environment",
+     "topic": "Environment",
+     "title": "Atlantic Current Cares How Fast, Not How Hot",
+     "mins": 1,
+     "bodyHtml": "<ul><li>A study published in <strong>Nature Climate Change</strong> in <strong>August 2026</strong> (Utrecht University) reframes the risk to the <strong>AMOC</strong> — the Atlantic current system that carries warm water north and keeps north-west Europe unusually mild.</li><li>Previous thinking assumed a fixed temperature \"breaking point\". The new work finds stability depends mainly on the <strong>rate</strong> of warming, not the final temperature.</li><li>In simulations with <strong>slow</strong> CO2 increases, the AMOC stayed stable up to about <strong>+5.5°C</strong> of global warming. Under <strong>fast</strong> increases — closer to today's pace — it collapsed at roughly <strong>+2°C</strong>.</li><li>The practical reading: emitting the same total carbon more slowly may keep the system intact, while emitting it quickly may not.</li></ul>",
+     "whyHtml": "Climate targets are usually written as temperature limits. If the AMOC responds to speed rather than level, then <em>how quickly</em> emissions fall matters as much as the endpoint — a different way of scoring climate policy.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>AMOC</em> stands for Atlantic Meridional Overturning Circulation. The Gulf Stream is part of it.</p>",
+     "sourceHtml": "Source: Nature Climate Change via Phys.org / ScienceDaily, August 14, 2026"
+    },
+    {
+     "id": "2026-08-15-economics",
+     "topic": "Economics",
+     "title": "AI's Borrowing Binge Lifts Real Yields",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Inflation-adjusted borrowing costs — <strong>real yields</strong> — have climbed to their highest in <strong>more than a decade</strong> across major economies, as AI companies and governments issue bonds at speed.</li><li><strong>US 30-year real yields</strong> are near <strong>3%</strong>, an <strong>18-year high</strong>. UK and German 10-year real yields are also at decade-plus highs.</li><li>The new ingredient is corporate: <strong>Alphabet, Amazon and Meta</strong> have sold nearly <strong>$220 billion</strong> of bonds so far in 2026, versus <strong>$108 billion</strong> in all of 2025. Morgan Stanley expects total global AI-related debt issuance to top <strong>$570 billion</strong> this year.</li><li>Higher real yields make bonds more attractive relative to shares and make borrowing dearer for governments, firms and households. Separately, <strong>US retail sales unexpectedly fell in July</strong>.</li></ul>",
+     "whyHtml": "The AI build-out is being financed with borrowed money, and that borrowing is now large enough to move the cost of capital for everyone else — a channel by which an AI slowdown, or an AI boom, reaches ordinary mortgages.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Real yield</em> is the return on a bond after subtracting expected inflation — the true cost of money.</p>",
+     "sourceHtml": "Source: Reuters analysis via Investing.com / The Star, August 13–14, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "label": "Thursday, 13 August 2026",
+   "entries": [
+    {
+     "id": "2026-08-13-ai-technology",
+     "topic": "AI Technology",
+     "title": "The $500 Billion Bet on AI Plumbing",
+     "mins": 1,
+     "bodyHtml": "<ul><li>On <strong>11 August 2026</strong>, <strong>Nvidia</strong> formed a roughly <strong>$500 billion financing alliance</strong> with six of the world's largest asset managers — <strong>Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs and KKR</strong> — to fund AI infrastructure: data centres, power supply and networking gear.</li><li>Separately, <strong>Anthropic</strong> signed a <strong>$9.1 billion, 20-year</strong> computing deal with <strong>Riot Platforms</strong> for <strong>191 megawatts</strong> of capacity at a Texas site. Riot was a Bitcoin miner — a sign that AI is now outbidding crypto for cheap electricity.</li><li>Anthropic also began embedding <strong>invisible watermarks</strong> into text and images produced by Claude, so AI-generated content can later be identified.</li><li>The pattern: the AI race is shifting away from who has the cleverest model toward who can secure <strong>chips, land, and power</strong> at scale.</li></ul>",
+     "whyHtml": "Model quality grabs headlines, but access to electricity and data centres is quietly becoming the real bottleneck — and the reason AI competition now looks more like an energy industry than a software one.",
+     "noteHtml": "<p><strong>Jargon note:</strong> A <em>megawatt</em> is a unit of power. 191 MW is roughly the electricity draw of a small city.</p>",
+     "sourceHtml": "Source: Tech Startups / buildfastwithai AI news roundup, August 11–12, 2026"
+    },
+    {
+     "id": "2026-08-13-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Somaliland Still Waiting for Country Number Two",
+     "mins": 1,
+     "bodyHtml": "<ul><li><strong>Somaliland</strong> is a self-declared state in the Horn of Africa that broke from <strong>Somalia</strong> in 1991. For over 30 years it has run its own government, currency and elections — but no country formally recognised it.</li><li>That changed on <strong>26 December 2025</strong>, when <strong>Israel</strong> became the first UN member state to recognise Somaliland as sovereign, in exchange for a diplomatic and possible security presence on the <strong>Red Sea</strong> coast.</li><li>As of <strong>August 2026</strong>, <strong>no second country has followed</strong>. Recognition remains an outlier rather than a trend.</li><li>In August, US Senator <strong>Ted Cruz</strong> publicly urged Washington to consider recognising Somaliland, framing it as a dependable security partner in a volatile region.</li><li>Somalia rejects the move outright, and African Union members are wary of any precedent that legitimises breakaway regions.</li></ul>",
+     "whyHtml": "Statehood is decided less by facts on the ground than by who agrees to say you exist — and the Red Sea, through which a large share of global trade passes, is now part of that bargaining.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Atlantic Council / The Africa Report / Washington Institute, August 2026"
+    },
+    {
+     "id": "2026-08-13-environment",
+     "topic": "Environment",
+     "title": "Record Heat, Seas and Gases in 2025",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The <strong>36th annual State of the Climate report</strong>, published in <strong>August 2026</strong>, confirms that 2025 set records across the three measures scientists watch most closely.</li><li><strong>Greenhouse gases:</strong> atmospheric carbon dioxide reached <strong>425.6 parts per million</strong> — the highest in the modern record, and higher than at any point in at least the last several hundred thousand years.</li><li><strong>Ocean heat content</strong> hit a record. Because water absorbs the vast majority of trapped heat, this is the most reliable long-run gauge of warming, less noisy than air temperature.</li><li><strong>Global mean sea level</strong> also set a record, driven by melting ice and by seawater physically expanding as it warms.</li><li>Separately, an analysis from Germany's <strong>Potsdam Institute</strong> found that warming has <strong>accelerated since around 2015</strong>, echoing earlier August findings.</li></ul>",
+     "whyHtml": "These are not forecasts but measurements of what already happened — the baseline that every adaptation plan, insurance model and coastal project now has to be built against.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Parts per million</em> means molecules of CO2 per million molecules of air. Pre-industrial levels were about 280 ppm.</p>",
+     "sourceHtml": "Source: NOAA State of the Climate report via Phys.org / Inside Climate News, August 10, 2026"
+    },
+    {
+     "id": "2026-08-13-economics",
+     "topic": "Economics",
+     "title": "Cool Inflation Keeps the Fed Frozen",
+     "mins": 1,
+     "bodyHtml": "<ul><li>US <strong>July inflation data</strong>, released <strong>12 August 2026</strong>, came in mild: the <strong>Consumer Price Index rose 0.1%</strong> for the month, and <strong>core CPI</strong> — which strips out volatile food and energy — rose <strong>0.2%</strong>. Both matched what economists expected.</li><li>Markets took it calmly. The <strong>S&amp;P 500</strong> rose about <strong>0.3%</strong>, the <strong>Nasdaq</strong> about <strong>0.5%</strong>, and the <strong>Dow</strong> finished roughly flat.</li><li>Traders now put roughly a <strong>60% chance</strong> that the <strong>Federal Reserve</strong> leaves its benchmark rate unchanged in the <strong>3.50%–3.75%</strong> range at its next meeting.</li><li>Notably, the debate has shifted: rather than arguing over how fast to <em>cut</em> rates, officials are split over whether a <em>hike</em> might eventually be needed — partly because tariffs are feeding into consumer prices.</li><li>Quiet data plus the tail end of earnings season made for an unusually uneventful market week.</li></ul>",
+     "whyHtml": "In-line inflation buys the Fed time to do nothing — and \"nothing\" is often the outcome markets like best, because it removes a source of surprise.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Core inflation</em> excludes food and energy prices, which swing sharply month to month, to reveal the underlying trend.</p>",
+     "sourceHtml": "Source: Yahoo Finance / CNBC / Charles Schwab market update, August 12, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-09",
+   "label": "Sunday, 9 August 2026",
+   "entries": [
+    {
+     "id": "2026-08-09-ai-technology",
+     "topic": "AI Technology",
+     "title": "An AI That Solved Open Math Problems",
+     "mins": 1,
+     "bodyHtml": "<ul><li>On <strong>1 August 2026</strong>, <strong>OpenAI</strong> said an internal version of its next model, <strong>Astra</strong>, solved <strong>ten previously unsolved problems</strong> in mathematics and theoretical computer science.</li><li>Crucially, it did not just assert answers. It produced proofs written in <strong>Lean</strong> — a \"proof assistant\" language in which every logical step is machine-checked — and published them on GitHub so others can verify them independently. This sidesteps the usual worry that a chatbot is confidently making things up.</li><li>The problems were real research territory, not textbook exercises: they included a construction related to <strong>non-sofic groups</strong> (a long-standing open question in group theory) and improved <strong>upper bounds on sphere packing</strong>, the problem of how densely spheres can be stacked.</li><li>The reported compute cost was roughly <strong>$2,000</strong> — small by frontier-model standards.</li></ul>",
+     "whyHtml": "Until now AI has mostly done work humans already knew how to do, faster. Producing verifiable new mathematics is a different category — it shifts the question from \"can AI assist researchers?\" to \"can AI be one?\"",
+     "noteHtml": "",
+     "sourceHtml": "Source: OpenAI / buildfastwithai roundup, August 1–2, 2026"
+    },
+    {
+     "id": "2026-08-09-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Three Nations Sign a Mecca Defence Pact",
+     "mins": 1,
+     "bodyHtml": "<ul><li>On <strong>7 August 2026</strong>, the leaders of <strong>Turkey, Saudi Arabia and Pakistan</strong> signed the <strong>Mecca Joint Defence Agreement</strong>, a mutual-defence treaty. President <strong>Erdoğan</strong>, Crown Prince <strong>Mohammed bin Salman</strong> and Prime Minister <strong>Shehbaz Sharif</strong> signed in person.</li><li>The core clause is NATO-style: an <strong>armed attack on any one of the three is treated as an attack on all</strong>. That is a far stronger commitment than the cooperation agreements common in the region.</li><li>Each brings something distinct — Turkey has <strong>NATO's second-largest army</strong>, Saudi Arabia is the <strong>world's top oil exporter</strong>, and Pakistan is the <strong>only Muslim-majority state with nuclear weapons</strong>.</li><li>The timing is pointed. Hours before signing, a senior Saudi official said the kingdom was bracing for attacks from <strong>Iran-aligned groups in Yemen and Iraq</strong>. It builds on a Saudi–Pakistan pact signed in September 2025, which Turkey has now joined.</li></ul>",
+     "whyHtml": "Middle Eastern security has long run through Washington. A bloc that can promise mutual defence without American sign-off is a real shift toward a multipolar region.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Al Jazeera / Breaking Defense / Atlantic Council, August 7, 2026"
+    },
+    {
+     "id": "2026-08-09-environment",
+     "topic": "Environment",
+     "title": "Warming Is Speeding Up, Statistically Confirmed",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Research published in early <strong>August 2026</strong> reports the <strong>first statistically significant evidence</strong> that Earth's long-term warming rate is not just high but <strong>accelerating</strong> — a claim scientists had suspected for years but could not confirm above natural year-to-year noise.</li><li>The numbers: temperatures have risen roughly <strong>0.35°C per decade</strong> over the past ten years, versus just under <strong>0.2°C per decade</strong> across 1970–2015. That is the fastest decade since records began in <strong>1880</strong>.</li><li>A related measure, <strong>Earth's energy imbalance</strong> — the gap between sunlight absorbed and heat radiated back to space — has hit a <strong>65-year high</strong> and roughly doubled in recent decades. It is the most direct gauge of how fast heat is piling up.</li><li>Where the heat goes: about <strong>91% into the oceans</strong>, 5% into land, 3% melting ice, and only <strong>1%</strong> into the air we actually feel.</li><li>A leading suspect is <strong>cleaner air</strong>: cutting sulphate pollution removed a cooling haze that had been masking some warming.</li></ul>",
+     "whyHtml": "Acceleration means past trends underestimate the future — projections and adaptation plans built on the older 0.2°C rate are already behind.",
+     "noteHtml": "",
+     "sourceHtml": "Source: ScienceDaily / WMO / Down To Earth, August 1, 2026"
+    },
+    {
+     "id": "2026-08-09-economics",
+     "topic": "Economics",
+     "title": "Central Banks Stop Moving Together",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Rate decisions in the first week of <strong>August 2026</strong> show the world's central banks pulling in different directions rather than following the US lead, as they largely did in 2022–24.</li><li><strong>India's</strong> Reserve Bank held its repo rate at <strong>5.25%</strong> while <em>raising</em> its growth forecast and <em>lowering</em> its inflation outlook — an unusually comfortable combination.</li><li><strong>Brazil</strong> cut its Selic rate to <strong>14.00%</strong> from 14.25%, a fourth straight cut, easing from one of the world's highest policy rates. <strong>Mexico</strong> held at <strong>6.50%</strong>, warning that inflation is falling more slowly than hoped.</li><li>In the <strong>US</strong>, the economy <em>shed</em> <strong>23,000 jobs</strong> in July, yet the <strong>S&amp;P 500 closed at a record</strong> — investors read weak hiring as ruling out any Federal Reserve rate rise. Bad news for the economy became good news for stocks.</li><li>Backdrop: the <strong>IMF</strong> trimmed 2026 global growth to about <strong>3.1%</strong>, citing Middle East conflict feeding into energy prices.</li></ul>",
+     "whyHtml": "When central banks diverge, capital chases the higher rates — moving currencies and borrowing costs in ways that hit emerging economies hardest.",
+     "noteHtml": "<p><strong>Jargon note:</strong> A <em>policy rate</em> (repo, Selic, fed funds) is what a central bank charges commercial banks to borrow. Raising it cools spending and inflation; cutting it does the reverse.</p>",
+     "sourceHtml": "Source: Boston Institute of Analytics / Rio Times Global Economy Briefing / IMF, August 2–8, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-08",
+   "label": "Saturday, 8 August 2026",
+   "entries": [
+    {
+     "id": "2026-08-08-ai-technology",
+     "topic": "AI Technology",
+     "title": "Meta Puts an Agent In Your Terminal",
+     "mins": 1,
+     "bodyHtml": "<ul><li>On <strong>5 August 2026</strong>, <strong>Meta Superintelligence Labs</strong> released <strong>Muse Code</strong> (in beta), a coding agent that runs in the <strong>terminal</strong> — the plain text window developers use to issue commands — rather than in a graphical app. It works on macOS and Linux, installs with one shell command, and needs no subscription.</li><li>It runs on a new model, <strong>Muse Spark 1.2</strong>, and is Meta's answer to similar tools from Anthropic, OpenAI and Google.</li><li>The design choices are the interesting part. <strong>Background agents</strong> stay alive for a whole session instead of being spawned per task, and parallel <strong>subagents</strong> work in isolated copies of the code repository so they cannot trip over each other.</li><li>Every model call, tool run, approval and edit is appended to a <strong>local event log</strong>, which makes a session replay-exact and restartable after a crash.</li><li>Pricing is <strong>$1.25 / $4.25 per million tokens</strong> (input/output), dropping to <strong>$0.10 / $0.20</strong> if the user lets Meta train on their code.</li></ul>",
+     "whyHtml": "The competition in coding AI has moved past model quality to plumbing — sandboxing, restartability, and who pays with data instead of cash.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Meta AI Research / The Register / Engadget, August 5–6, 2026"
+    },
+    {
+     "id": "2026-08-08-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Japan Builds Its First Spy Agency",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Japan has launched its <strong>National Intelligence Bureau</strong>, its first centralised intelligence agency since the <strong>Second World War</strong>, following landmark legislation passed by the <strong>Diet</strong> (Japan's parliament) in mid-2026.</li><li>Until now, Japanese intelligence was gathered by <strong>five separate bodies</strong> — including the Ministry of Defence, the Foreign Ministry and the National Police Agency — which collected information independently and rarely shared it. Analysts describe the result as bureaucratic silos.</li><li>The stated driver is a sharper security environment around <strong>China, Russia and North Korea</strong>. Tokyo has asked Western partners including the <strong>US, Australia and Germany</strong> for advice on building the capability.</li><li>Experts see it as a foundation for bigger steps: a possible <strong>anti-spy law</strong> and eventually a foreign intelligence service comparable to the CIA or MI6.</li><li><strong>Opposition lawmakers</strong> warn that expanded surveillance powers could erode privacy and civil liberties.</li></ul>",
+     "whyHtml": "Post-war Japan deliberately kept itself without a spy agency; reversing that says more about the region's threat level than any single incident would.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNN / The Week / WION, July 30 – August 7, 2026"
+    },
+    {
+     "id": "2026-08-08-environment",
+     "topic": "Environment",
+     "title": "A Super El Niño Is Taking Shape",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The <strong>World Meteorological Organization (WMO)</strong> said in its update for <strong>August–October 2026</strong> that <strong>El Niño</strong> will keep strengthening into a strong event, with the tropical Pacific sea surface running about <strong>2.9°C above normal</strong> and peaking around <strong>November</strong>.</li><li>El Niño is a recurring warming of the central and eastern Pacific Ocean that shifts weather worldwide — it does not create heat so much as <strong>redistribute</strong> it, tilting the odds toward heat and unusual rainfall.</li><li>Expected <strong>wetter</strong> than normal: the Greater Horn of Africa, parts of Central Asia, southern Europe, western North America south of 45°N, and southeastern South America. Expected <strong>drier</strong>: the Indian subcontinent, southern and eastern Australia, parts of Central America and the Caribbean, northwestern South America, and northern Europe.</li><li>A <strong>positive Indian Ocean Dipole</strong> — a second ocean temperature seesaw — is forecast alongside it, which can amplify drought, flood and wildfire risk around the Indian Ocean.</li><li>Forecast models agree unusually closely, meaning <strong>high confidence</strong>.</li></ul>",
+     "whyHtml": "El Niño's effects are predictable months ahead, so this is one of the rare climate warnings that governments can actually plan around.",
+     "noteHtml": "",
+     "sourceHtml": "Source: World Meteorological Organization / Phys.org, August 2026"
+    },
+    {
+     "id": "2026-08-08-economics",
+     "topic": "Economics",
+     "title": "Growth Returns, and So Does Inflation",
+     "mins": 1,
+     "bodyHtml": "<ul><li>US data released in early <strong>August 2026</strong> points to an economy speeding up rather than cooling. The <strong>ISM Manufacturing Index</strong> jumped to <strong>55.6</strong> in July, its highest since May 2022. Any reading above 50 signals expansion.</li><li>Manufacturing <strong>employment grew for the first time since September 2023</strong>, and new orders stayed firmly positive.</li><li>The catch is prices. The <strong>ISM Services Prices Index</strong> climbed to <strong>70.3</strong>, near its highest level since late 2022 — a sign firms are paying more for what they buy and passing it on.</li><li>Analysts attribute much of the pressure to <strong>supply constraints</strong> (tariffs, input costs, bottlenecks) rather than an overheating jobs market. That distinction matters: supply-driven inflation is not something interest rates fix easily.</li><li>This sits awkwardly with <strong>July's weak hiring numbers</strong> reported days earlier — a mixed picture rather than a clean signal.</li></ul>",
+     "whyHtml": "If inflation is being driven by supply rather than demand, the Federal Reserve's main tool becomes far less effective — and rate cuts get harder to justify.",
+     "noteHtml": "",
+     "sourceHtml": "Source: SignatureFD Market Brief / ISM, August 7, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-07",
+   "label": "Friday, 7 August 2026",
+   "entries": [
+    {
+     "id": "2026-08-07-ai-technology",
+     "topic": "AI Technology",
+     "title": "Flash Memory Gets an AI Fast Lane",
+     "mins": 1,
+     "bodyHtml": "<ul><li>On <strong>3 August 2026</strong>, at the Future of Memory and Storage conference, <strong>SanDisk</strong> and <strong>SK hynix</strong> published the first technical specification for <strong>High Bandwidth Flash (HBF)</strong> through the <strong>Open Compute Project (OCP)</strong>, an industry body that sets open hardware standards.</li><li>The problem it targets: running a large AI model requires holding huge amounts of data close to the chip. Today's fastest option, <strong>HBM (high-bandwidth memory)</strong>, is quick but small and expensive. <strong>SSDs</strong> are cheap and roomy but comparatively slow. HBF is a new middle layer — flash memory stacked and wired for speed.</li><li>The spec defines <strong>8-high and 16-high</strong> stacks of NAND flash chips, up to <strong>512GB per stack</strong>, with speeds from about <strong>0.4 to 3.0 terabytes per second</strong>.</li><li>It connects to CPUs and GPUs via <strong>UCIe</strong>, an open chiplet interconnect standard. <strong>Google</strong> and <strong>Tenstorrent</strong> have joined the consortium.</li></ul>",
+     "whyHtml": "The bottleneck in AI has quietly shifted from raw compute to how fast you can feed data to the chip.",
+     "noteHtml": "",
+     "sourceHtml": "Source: SK hynix / SanDisk / StorageNewsletter, August 3–5, 2026"
+    },
+    {
+     "id": "2026-08-07-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Netanyahu Breaks With Washington Over Gaza",
+     "mins": 1,
+     "bodyHtml": "<ul><li>On <strong>4 August 2026</strong>, Israeli Prime Minister <strong>Benjamin Netanyahu</strong> said Israeli forces will not withdraw from their current positions in Gaza until <strong>Hamas has completely disarmed</strong> — pushing back on a US-brokered deal announced days earlier.</li><li>The deal, built on an <strong>October ceasefire</strong> that ended major operations and returned the remaining hostages, called for Hamas to begin handing over weapons while Israel halted strikes and began pulling back from roughly <strong>60% of Gaza</strong> it now controls.</li><li>The two sides read the sequence differently. Israel wants disarmament <strong>first</strong>; Hamas wants strikes stopped and withdrawal started first. Neither will move until the other does.</li><li>The remarks were a <strong>rare public disagreement</strong> between Netanyahu and the Trump administration, which had presented the arrangement as settled.</li></ul>",
+     "whyHtml": "Ceasefire deals usually fail not on the terms themselves but on who is required to act first — and that is exactly where this one is stuck.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Euronews / The National / Business Standard, August 4–5, 2026"
+    },
+    {
+     "id": "2026-08-07-environment",
+     "topic": "Environment",
+     "title": "Europe Enters the Unstoppable Fire Era",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Research published in <strong>Scientific Reports</strong> in late July 2026, and discussed with <strong>Carbon Brief</strong> on <strong>4 August</strong>, finds a \"major intensification\" of <strong>fire weather</strong> across southern Europe over four decades.</li><li>Lead author <strong>Dr Raúl Cordero</strong> (University of Groningen) analysed France, Greece, Italy, Portugal and Spain since 1980. Days of <strong>extreme fire risk have more than doubled</strong> — from around 10 a year in the 1980s–90s to 20–25 today. The <strong>fire weather index</strong>, a score combining temperature, wind, moisture and rainfall, rose about <strong>50%</strong>.</li><li>The striking finding is about <strong>burned area</strong>. It had been <em>falling</em> for decades thanks to better firefighting — then began rising again after <strong>2018</strong>, despite unchanged resources.</li><li>This summer fits the pattern: <strong>40% more land burned in France</strong> than in its entire previous record year, with mass evacuations in France, Italy and Spain.</li></ul>",
+     "whyHtml": "For decades, better firefighting outran worsening conditions. That trade appears to have flipped.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Carbon Brief / Scientific Reports / New York Times, August 4, 2026"
+    },
+    {
+     "id": "2026-08-07-economics",
+     "topic": "Economics",
+     "title": "US Hiring Hits Weakest Month of 2026",
+     "mins": 1,
+     "bodyHtml": "<ul><li><strong>ADP Research</strong> reported on <strong>5 August 2026</strong> that US private employers added just <strong>44,000 jobs</strong> in July — the weakest month of the year, down sharply from June's revised <strong>95,000</strong>, and well short of the <strong>75,000</strong> economists expected.</li><li>ADP is a large payroll-processing company; its monthly report is watched as an early read on the labour market ahead of official government figures.</li><li>Growth came entirely from <strong>services</strong>, which added <strong>47,000</strong> jobs — led by education and health (<strong>36,000</strong>), financial activities (<strong>10,000</strong>) and professional services (<strong>9,000</strong>). <strong>Goods-producing</strong> industries, such as manufacturing and construction, <strong>lost 3,000</strong>.</li><li>Pay rose <strong>4.4%</strong> year-on-year, still comfortably ahead of inflation, suggesting employers are competing hard for the workers they do hire.</li></ul>",
+     "whyHtml": "Slowing hiring alongside firm wage growth is an awkward mix for the Federal Reserve — it argues for cutting rates and against it at the same time.",
+     "noteHtml": "",
+     "sourceHtml": "Source: ADP Research / CNBC / Forbes, August 5, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-05",
+   "label": "Wednesday, 5 August 2026",
+   "entries": [
+    {
+     "id": "2026-08-05-ai-technology",
+     "topic": "AI Technology",
+     "title": "Alibaba Ships Its Biggest Model Yet",
+     "mins": 1,
+     "bodyHtml": "<ul><li>On <strong>3 August 2026</strong>, Alibaba released <strong>Qwen3.8-Max</strong>, the largest and most capable model in its Qwen family, with <strong>2.4 trillion parameters</strong>.</li><li>Parameters are the internal numbers a model learns during training — roughly, its raw capacity. But Qwen3.8-Max uses a <strong>mixture-of-experts (MoE)</strong> design: the model is split into specialist sub-networks and only about <strong>95 billion</strong> parameters actually fire on any given request. That keeps running costs far below what 2.4 trillion would suggest.</li><li>It handles text, images and video, and accepts a <strong>1-million-token context window</strong> — enough to read several books in one go.</li><li>It is available now through Alibaba Cloud's Model Studio API, with <strong>open weights</strong> promised shortly, meaning anyone can download and run it.</li><li>On the Arena.AI leaderboard it ranked top among Chinese text models, behind Anthropic's Claude Fable 5 and three Opus variants, and second globally on visual tasks.</li></ul>",
+     "whyHtml": "Headline parameter counts are increasingly misleading — what you pay for is the fraction that actually switches on.",
+     "noteHtml": "",
+     "sourceHtml": "Source: MarkTechPost / eWeek / MLQ News, August 3, 2026"
+    },
+    {
+     "id": "2026-08-05-geopolitics",
+     "topic": "Geopolitics",
+     "title": "A Toll Booth on the World's Oil Route",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The <strong>New York Times</strong> reported on <strong>3 August 2026</strong> that Iran and Oman have narrowed talks to specific terms on a deal that would reopen the <strong>Strait of Hormuz</strong>, shut to most traffic since Iran began attacking shipping in July.</li><li>The proposed arrangement splits the waterway into <strong>two one-way lanes</strong>: inbound ships to the Persian Gulf would use an <strong>Iranian-controlled</strong> channel, outbound ships an <strong>Omani-controlled</strong> one.</li><li>Iranian officials describe <strong>\"service fees\"</strong> for security, environmental response and labour, split evenly between the two countries. A US official disputed that framing, insisting there would be <strong>no transit charges</strong> — the two sides are publicly describing the same deal differently.</li><li>The <strong>60-day US–Iran ceasefire expires around 12 August</strong>, though extension talks into the autumn are reportedly under way.</li></ul>",
+     "whyHtml": "If it holds, Iran ends the crisis with more control over the strait — and possibly an income stream — than it had before it started.",
+     "noteHtml": "",
+     "sourceHtml": "Source: New York Times / PBS NewsHour / Al Jazeera, August 3–4, 2026"
+    },
+    {
+     "id": "2026-08-05-environment",
+     "topic": "Environment",
+     "title": "Warming Has Doubled Its Pace Since 2015",
+     "mins": 1,
+     "bodyHtml": "<ul><li>A study from the <strong>Potsdam Institute for Climate Impact Research (PIK)</strong>, published in <em>Geophysical Research Letters</em> and covered on <strong>1 August 2026</strong>, reports the first statistically significant detection of <strong>accelerating</strong> global warming.</li><li>Over the past decade the warming rate has run at roughly <strong>0.35°C per decade</strong>, against just under <strong>0.2°C per decade</strong> from 1970 to 2015 — the fastest of any decade since records began in <strong>1880</strong>.</li><li>The team stripped out known natural wobbles such as El Niño and volcanic eruptions before measuring the trend, then repeated the analysis across <strong>five independent temperature datasets</strong> (NASA, NOAA, HadCRUT, Berkeley Earth, ERA5). The acceleration showed up in all of them, with <strong>over 98% statistical confidence</strong>.</li><li>If the current rate persists, the world would pass the Paris Agreement's <strong>1.5°C</strong> threshold on a long-term basis <strong>before 2030</strong>.</li></ul>",
+     "whyHtml": "The question has shifted from whether the planet is warming to whether it is warming faster than our plans assume.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Potsdam Institute (PIK) / ScienceDaily / Geophysical Research Letters, August 1–2, 2026"
+    },
+    {
+     "id": "2026-08-05-economics",
+     "topic": "Economics",
+     "title": "Record Highs While the Fed Sits Still",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The <strong>S&amp;P 500</strong> closed at a record <strong>7,600</strong> on <strong>4 August 2026</strong>, up <strong>1.48%</strong> on the day, with the dollar firming ahead of a closely watched US services survey.</li><li>The <strong>Federal Reserve</strong> has now held its benchmark rate at <strong>3.50%–3.75%</strong> for five straight meetings. Philadelphia Fed President <strong>Anna Paulson</strong> said current rates are already high enough to pull inflation back to target — but <strong>three FOMC members dissented</strong> in July, preferring a hike.</li><li>That is a notable reversal: markets began 2026 expecting cuts and now price <strong>one to two hikes</strong> by year-end, as inflation proved sticky and the labour market stayed firm.</li><li>Elsewhere, <strong>HSBC</strong> posted <strong>$10.1bn</strong> in second-quarter pre-tax profit on 16% revenue growth, and spot gold rose to <strong>$4,059</strong> an ounce.</li></ul>",
+     "whyHtml": "Stocks hitting records while rate-cut hopes evaporate suggests investors are betting on earnings, not cheap money.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNBC / Trading Economics / Rio Times, August 4, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-03",
+   "label": "Monday, 3 August 2026",
+   "entries": [
+    {
+     "id": "2026-08-03-ai-technology",
+     "topic": "AI Technology",
+     "title": "A Model Cracks Ten Open Math Problems",
+     "mins": 1,
+     "bodyHtml": "<ul><li>On <strong>1 August 2026</strong>, OpenAI published ten results in mathematics and theoretical computer science produced by an internal version of <strong>Astra</strong>, its next major model.</li><li>The problems span six fields — group theory, von Neumann algebras, high-dimensional geometry, quantum complexity, lattice cryptography and extremal combinatorics. The headline result is an explicit construction of a <strong>non-sofic group</strong>, a question open since 1999.</li><li>What makes this different from past claims is <strong>verifiability</strong>. Every proof is written in <strong>Lean 4</strong>, a language that lets a computer check each logical step mechanically. The published repository reports a <em>\"sorry\" count of zero</em> — meaning no step was left as an unproven placeholder.</li><li>OpenAI put the compute cost of finding all ten solutions at roughly <strong>$2,000</strong>.</li><li>Alongside the proofs it released a <strong>249-page manuscript</strong> and reasoning walkthroughs. Mathematician Thomas Bloom, who publicly debunked a similar 2025 claim, called this one \"big news.\"</li></ul>",
+     "whyHtml": "AI claims about science usually rest on trust. Machine-checkable proofs remove the trust: anyone can run the checker and see for themselves.",
+     "noteHtml": "",
+     "sourceHtml": "Source: OpenAI / SiliconANGLE / TechTimes, August 1–2, 2026"
+    },
+    {
+     "id": "2026-08-03-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Traffic Collapses in the Strait of Hormuz",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The <strong>Strait of Hormuz</strong> — the narrow sea passage between Iran and Oman through which roughly a fifth of the world's oil normally moves — has seen shipping fall off a cliff.</li><li>Iran began attacking commercial vessels there on <strong>7 July</strong>. The United States responded by reinstating a <strong>naval blockade of Iranian ports on 14 July</strong>, collapsing a US–Iran memorandum signed only on 17 June.</li><li>Lloyd's List Intelligence counted just <strong>53 vessel transits</strong> in the week to <strong>20 July</strong>, down <strong>66%</strong> from 157 the week before.</li><li>As of <strong>28 July</strong>, US forces had redirected <strong>18</strong> ships attempting to run the blockade, disabled <strong>2</strong> that refused to comply, and boarded <strong>2</strong> more.</li><li>The pressure has spread. Yemen's Houthis declared their own blockade of <strong>Saudi ports on 20 July</strong> and claimed attacks on two Saudi crude tankers in the Red Sea on 22 July.</li></ul>",
+     "whyHtml": "No shots need to be fired at a country's economy to hurt it. Controlling who may sail through a 33-km-wide channel is enough.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNBC / UANI / Axios, July 13–28, 2026"
+    },
+    {
+     "id": "2026-08-03-environment",
+     "topic": "Environment",
+     "title": "The Arctic Ice Pause Was Never Real",
+     "mins": 1,
+     "bodyHtml": "<ul><li>A study published in <strong>PNAS on 20 July 2026</strong> by the University of Southampton and the National Oceanography Centre finds that the apparent <strong>slowdown in Arctic winter sea-ice loss</strong> during the early 2020s was a temporary wobble, not a recovery.</li><li><strong>Sea-ice extent</strong> means the area of ocean covered by ice; scientists watch its winter peak because that is when the ice is largest and most stable.</li><li>Between <strong>2024 and 2025</strong> that winter peak fell <strong>5.8%</strong> — the biggest year-on-year drop in the satellite record, which began in <strong>1978</strong>. <strong>2026</strong> recovered slightly but still came in <strong>second lowest</strong> ever.</li><li>Two record-low winters back to back have restored a statistically significant long-term decline that had briefly looked flat.</li><li>The lesson is about reading data: a few years of flat numbers inside a noisy record can look like a trend reversal when it is just normal variation.</li></ul>",
+     "whyHtml": "Short pauses in climate data are routinely mistaken for good news. This one lasted a few years and turned out to be noise.",
+     "noteHtml": "",
+     "sourceHtml": "Source: PNAS / University of Southampton / Phys.org, July 20, 2026"
+    },
+    {
+     "id": "2026-08-03-economics",
+     "topic": "Economics",
+     "title": "Japan Holds Rates as Yen Nears Lows",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The <strong>Bank of Japan</strong> kept its short-term policy rate at <strong>1.0%</strong> on <strong>31 July</strong>, the highest level since <strong>September 1995</strong>, after a 25-basis-point hike in June. The vote was <strong>8–1</strong>, with board member Hajime Takata pushing for 1.25%.</li><li>The BoJ <strong>cut</strong> its FY2026 inflation forecast to <strong>2.5%</strong> from 2.8%, mostly because the government is subsidising summer energy bills. But it warned that underlying inflation would run \"clearly above\" <strong>2%</strong> from the second half of the fiscal year, citing wage rises, oil prices and a weak yen.</li><li>The <strong>yen</strong> has been trading near a <strong>40-year low</strong>, around <strong>163 to the dollar</strong>. Tokyo reportedly intervened in the currency market — buying yen to prop it up — alongside a US \"rate check,\" pushing it back to about <strong>158</strong>.</li><li>GDP growth for FY2026 was upgraded to <strong>0.8%</strong>.</li></ul>",
+     "whyHtml": "A weak currency makes imports dearer, which feeds inflation — so Japan is now fighting on two fronts with one interest rate.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNBC / TechTimes / Trading Economics, July 27–31, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-02",
+   "label": "Sunday, 2 August 2026",
+   "entries": [
+    {
+     "id": "2026-08-02-ai-technology",
+     "topic": "AI Technology",
+     "title": "Coding Agents Speed Up Science, With Caveats",
+     "mins": 1,
+     "bodyHtml": "<ul><li>OpenAI and academic partners published a <strong>field report</strong> on <strong>July 28–29</strong> covering eight real deployments of AI <strong>coding agents</strong> — models that read, write and run code on their own — inside working research labs.</li><li>The headline numbers are large: a <strong>60× speedup</strong> in RNA-sequencing quality control, a <strong>20,000-line</strong> C/C++ genome aligner rewritten from scratch in <strong>Rust</strong> at <strong>99.8% parity</strong> with the original, and a GPU redesign that cut synthetic genome generation from <strong>1,610 seconds to 27 seconds</strong> per run.</li><li>Five of the eight projects used OpenAI's <strong>Codex</strong> alone; three paired it with <strong>Anthropic's Claude Code</strong>.</li><li>The caveat is the interesting part. Agents reliably finished <em>well-defined</em> tasks, but could not judge whether the science was <strong>correct</strong> — and when their code was wrong, they still presented it confidently.</li><li>Every success depended on a human first deciding what \"correct\" meant and building tests to prove it.</li></ul>",
+     "whyHtml": "Writing code is getting cheap. Deciding what counts as a right answer — and checking for it — is now the real bottleneck in research.",
+     "noteHtml": "",
+     "sourceHtml": "Source: OpenAI / The Decoder / AI News, July 28–29, 2026"
+    },
+    {
+     "id": "2026-08-02-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Congo's Ebola Outbreak Becomes Second Largest",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The Democratic Republic of the Congo's <strong>17th Ebola outbreak</strong>, declared on <strong>14 May</strong> in Ituri province, has become the <strong>second-largest on record</strong> and the fastest-growing ever documented.</li><li>As of late July there were <strong>3,605 confirmed cases and 1,587 deaths</strong> — a <strong>44% fatality rate</strong>. It has spread from a single health zone to <strong>49 zones across five provinces</strong>: Ituri, North Kivu, South Kivu, Haut-Uélé and Tshopo.</li><li>The cause is the <strong>Bundibugyo virus</strong>, a less common species of Ebola, which complicates the vaccine and treatment options built mainly around the more familiar Zaire strain.</li><li><strong>Uganda declared its linked outbreak over on 28 July</strong>. A US aid worker who tested positive was medically evacuated to Germany on 13 July.</li><li>The <strong>WHO</strong> reports early signs of stabilisation, but says the outbreak is still expanding.</li></ul>",
+     "whyHtml": "Eastern DRC is also an active conflict zone. Disease follows the same roads that displaced people and armed groups use, so a health emergency there quickly becomes a regional security problem.",
+     "noteHtml": "",
+     "sourceHtml": "Source: WHO / Al Jazeera / CNN / ECDC, July 30–31, 2026"
+    },
+    {
+     "id": "2026-08-02-environment",
+     "topic": "Environment",
+     "title": "Mongolia Hosts UN Summit on Dying Land",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The <strong>UN Convention to Combat Desertification</strong> holds its <strong>COP17</strong> in <strong>Ulaanbaatar, Mongolia, from 17–28 August</strong>, under the theme <em>\"Restoring Land. Restoring Hope.\"</em></li><li><strong>Desertification</strong> is the process by which usable land loses its fertility and turns dry and unproductive — driven by drought, overgrazing, deforestation and poor farming practice, and accelerated by warming.</li><li>The scale is easy to miss: up to <strong>40% of the world's land</strong> is already degraded, with knock-on effects for food output, water supply and migration.</li><li>Mongolia is a pointed choice of host. Roughly <strong>77%</strong> of its <strong>1.56 million km²</strong> is already degraded.</li><li>Around <strong>10,000 delegates</strong> from the convention's <strong>197 Parties</strong> are expected. It is the <strong>first of 2026's three Rio Convention COPs</strong> — land, biodiversity and climate — so it sets the tone for the rest.</li><li>It coincides with the <strong>International Year of Rangelands and Pastoralists</strong>; over a billion people live off rangelands.</li></ul>",
+     "whyHtml": "Climate talks get the headlines, but soil is where food, water and migration pressures actually collide.",
+     "noteHtml": "",
+     "sourceHtml": "Source: UNCCD / UN News / FAO, conference dates 17–28 August 2026"
+    },
+    {
+     "id": "2026-08-02-economics",
+     "topic": "Economics",
+     "title": "Why Emerging Markets Wait on the Fed",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The <strong>US Federal Reserve</strong> held its benchmark rate at <strong>3.50–3.75%</strong> in July. Notably, three of the twelve voters dissented in favour of a <strong>rate hike</strong> — not a cut.</li><li>That decision echoes far beyond America. Most <strong>emerging-market</strong> central banks — think Brazil, Indonesia, South Africa — have quietly <strong>stopped cutting</strong> their own rates, after expecting a year of easing.</li><li>The mechanism is simple. If a country cuts rates while the US does not, money tends to flow out toward higher American returns, weakening the local currency. A weaker currency makes imported fuel and food <strong>more expensive</strong>, so the country effectively imports inflation.</li><li>The <strong>IMF</strong> has cut its 2026 emerging-market growth forecast from <strong>4.2% to 3.9%</strong> while raising expected inflation from <strong>4.8% to 5.5%</strong> — slower growth <em>and</em> higher prices, the hardest combination to treat.</li></ul>",
+     "whyHtml": "Interest rates set in Washington quietly determine how much borrowing costs in dozens of countries that had no vote in the decision.",
+     "noteHtml": "",
+     "sourceHtml": "Source: PIIE / IMF / US Bank / CNBC, July 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-01",
+   "label": "Saturday, 1 August 2026",
+   "entries": [
+    {
+     "id": "2026-08-01-ai-technology",
+     "topic": "AI Technology",
+     "title": "Diffusion Models Learn to Write Text",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Almost every chatbot today writes <strong>autoregressively</strong> — one word at a time, each word waiting for the one before it. That is why long answers feel slow.</li><li><strong>NVIDIA's</strong> open-weight <strong>Nemotron-Labs-TwoTower</strong>, released in early July, borrows the <strong>diffusion</strong> approach used by image generators: it produces several tokens <em>in parallel</em>, then refines them over a few passes, like sharpening a blurry photo.</li><li>The result is <strong>2.42× higher throughput</strong> while keeping <strong>98.7%</strong> of the original model's benchmark quality.</li><li>The clever part is the \"two tower\" design: NVIDIA <strong>froze</strong> an existing autoregressive model (Nemotron-3-Nano-30B) and trained only a small second network beside it. No expensive re-training from scratch was needed.</li><li>Weights and training code are public on Hugging Face under a licence that permits commercial use.</li></ul>",
+     "whyHtml": "If labs can bolt parallel generation onto models they already own, faster AI stops being a question of buying more chips and becomes a question of better architecture.",
+     "noteHtml": "",
+     "sourceHtml": "Source: NVIDIA / MarkTechPost / Tech Times, July 1–10, 2026"
+    },
+    {
+     "id": "2026-08-01-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Hormuz Tensions Squeeze Global Shipping Again",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The <strong>Strait of Hormuz</strong> — a 33km-wide channel carrying roughly a fifth of the world's seaborne oil — is again a flashpoint. A US–Iran memorandum signed in <strong>June</strong> had briefly reopened trade, with transits hitting a wartime high of <strong>54 in one day</strong> on June 24.</li><li>That thaw collapsed. After Iranian attacks on <strong>three commercial vessels</strong> on <strong>July 7</strong>, the US Treasury <strong>revoked</strong> its 60-day licence for Iranian oil exports and launched strikes on Iranian military and IRGC maritime targets.</li><li>Traffic through the strait has since fallen sharply, and a drone strike near an <strong>Egyptian port by the Suez Canal</strong> has widened the risk zone to the second great shipping chokepoint.</li><li><strong>ASEAN</strong> foreign ministers meeting in <strong>Manila</strong> are preparing a joint statement urging an immediate ceasefire and the reopening of Hormuz.</li></ul>",
+     "whyHtml": "Two narrow waterways carry a large share of world trade. When both look unsafe at once, the cost shows up in fuel and freight prices everywhere — not just in the region.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Lloyd's List Intelligence / UANI / regional briefings, July 7–31, 2026"
+    },
+    {
+     "id": "2026-08-01-environment",
+     "topic": "Environment",
+     "title": "Warming Redraws Africa's Malaria Map",
+     "mins": 1,
+     "bodyHtml": "<ul><li>A major study in <em>Nature</em>, published <strong>July 29</strong>, offers what researchers call the most comprehensive look yet at climate change's effect on any infectious disease — in this case <strong>childhood malaria</strong> in Africa.</li><li>Mosquitoes that carry malaria have a temperature \"sweet spot.\" Warming pushes some regions <strong>into</strong> that range and others <strong>past</strong> it, so risk is not simply rising — it is <strong>moving</strong>.</li><li>Historically, warming has probably <strong>increased</strong> cases in <strong>East and southern Africa</strong> while <strong>averting</strong> a comparable number in <strong>West Africa</strong>, netting out at about <strong>1 extra case per 1,000 children</strong> continent-wide.</li><li>Looking ahead, average malaria rates across Africa are projected to <strong>fall</strong> this century as temperatures overshoot the mosquito's optimum — but cooler highland areas face <strong>new</strong> risk.</li></ul>",
+     "whyHtml": "A falling continental average can hide places where danger is climbing fast. Health systems have to prepare for a map that shifts, not a single trend line.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Nature / Yale News / Carbon Brief, July 29, 2026"
+    },
+    {
+     "id": "2026-08-01-economics",
+     "topic": "Economics",
+     "title": "Oil at $92 Unsettles a Wild July",
+     "mins": 1,
+     "bodyHtml": "<ul><li><strong>Brent crude</strong> closed out the month near <strong>$92.27 a barrel</strong> on <strong>July 31</strong> — roughly <strong>$19.67 higher</strong> than a year ago, driven largely by Middle East supply fears.</li><li>US stocks still finished Friday higher: the <strong>S&amp;P 500 +0.7%</strong>, the <strong>Dow +276 points (+0.5%)</strong> and the <strong>Nasdaq +1%</strong>, with <strong>Amazon</strong> surging and <strong>Apple</strong> falling.</li><li>The catch is inflation. Oil is an <strong>input cost</strong> for almost everything — it powers the trucks, ships and factories behind ordinary goods — so an expensive barrel feeds through to shop prices with a lag of months.</li><li>The <strong>US Energy Information Administration</strong> still expects retail petrol to fall about <strong>41 cents a gallon</strong> in the third quarter to just under <strong>$3.80</strong>, a forecast that now looks optimistic.</li></ul>",
+     "whyHtml": "Rising oil undercuts the case for interest-rate cuts. Cheap borrowing is hard to justify while the single most widely used input in the economy keeps getting dearer.",
+     "noteHtml": "",
+     "sourceHtml": "Source: AP via ClickOrlando / Fortune / EIA, July 31, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-31",
+   "label": "Friday, 31 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-31-ai-technology",
+     "topic": "AI Technology",
+     "title": "China's Kimi K3 Goes Open-Weight",
+     "mins": 1,
+     "bodyHtml": "<ul><li>On <strong>July 27</strong>, Chinese lab <strong>Moonshot AI</strong> released <strong>Kimi K3</strong> with <strong>open weights</strong> — meaning anyone can download the model file and run it themselves, rather than only renting access through an API.</li><li>At <strong>2.8 trillion parameters</strong> it is currently the largest openly released model in the world. It uses a <strong>Mixture-of-Experts</strong> design, where only a small slice of the network activates for each request, so it is cheaper to run than its size suggests.</li><li>It handles <strong>text, images and video</strong> natively and has a <strong>1-million-token context window</strong> — roughly the length of several long books read in one pass.</li><li>Pricing is about <strong>$3 per million input tokens and $15 per million output tokens</strong>, noticeably below comparable US frontier models. Anthropic's <strong>Claude Opus 5</strong> had launched days earlier on <strong>July 24</strong>.</li></ul>",
+     "whyHtml": "Open weights let researchers, startups and governments build on frontier-scale AI without permission from the lab that made it — which shifts who controls the technology, not just who can afford it.",
+     "noteHtml": "",
+     "sourceHtml": "Source: ThursdAI / LLM-Stats, July 26–27, 2026"
+    },
+    {
+     "id": "2026-07-31-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Russian Missile Strays Into NATO Airspace",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Overnight into <strong>Thursday, July 30</strong>, Russia fired more than <strong>70 missiles and 280 drones</strong> at Ukraine — one of the largest single barrages of the war. At least <strong>eight to ten civilians</strong> were killed, including six members of one family near <strong>Kryvyi Rih</strong>.</li><li>Ukraine's air force intercepted <strong>55 missiles and 265 drones</strong>, but one missile crossed into <strong>Poland</strong> and landed in a rural area, prompting <strong>NATO</strong> to scramble fighter jets.</li><li>President <strong>Zelenskyy</strong> blamed a \"critical shortage\" of Western-supplied <strong>anti-ballistic missile interceptors</strong> — the specialised, expensive munitions needed to stop fast ballistic missiles, as opposed to slower drones.</li><li>Russia said it targeted air bases, arms factories and military logistics sites. Tens of thousands in Kyiv sheltered in subway stations overnight.</li></ul>",
+     "whyHtml": "A Russian missile landing inside NATO territory is the kind of accident that can widen a war — and Ukraine's interceptor shortage means more of them are likely to get through.",
+     "noteHtml": "",
+     "sourceHtml": "Source: NPR / Al Jazeera / Euronews, July 30, 2026"
+    },
+    {
+     "id": "2026-07-31-environment",
+     "topic": "Environment",
+     "title": "Atlantic Slowdown Will Soak California",
+     "mins": 1,
+     "bodyHtml": "<ul><li>A <strong>University of California, Riverside</strong> study in <em>Nature Communications</em> finds that a weakening <strong>AMOC</strong> — the Atlantic conveyor belt that carries warm water north toward Greenland — will intensify storms on the <em>opposite</em> side of the continent.</li><li>The mechanism runs through the air, not the water: as the AMOC slows, shifting ocean temperatures strengthen high-altitude winds that steer storms, letting them carry more moisture toward the <strong>US West Coast</strong>.</li><li>The result is more frequent and wetter <strong>atmospheric rivers</strong> — narrow airborne corridors of concentrated water vapour that deliver much of California's rain in a few intense bursts.</li><li>The same slowdown does the reverse to <strong>Greenland</strong>, cutting the snowfall that replenishes its ice sheet. Under a high-emissions scenario, both effects grow through the end of this century.</li></ul>",
+     "whyHtml": "It shows climate impacts travel: a change in the North Atlantic can reshape flood risk, water supply and infrastructure planning thousands of kilometres away.",
+     "noteHtml": "",
+     "sourceHtml": "Source: UC Riverside / Phys.org / ScienceDaily, July 27–29, 2026"
+    },
+    {
+     "id": "2026-07-31-economics",
+     "topic": "Economics",
+     "title": "Three Dissents as Fed Sits Still",
+     "mins": 1,
+     "bodyHtml": "<ul><li>On <strong>Wednesday, July 29</strong>, the Federal Reserve voted <strong>9–3</strong> to hold its benchmark interest rate at <strong>3.5%–3.75%</strong> — the fifth consecutive hold, and the lowest level since November 2022.</li><li><strong>Three</strong> regional Fed presidents dissented (Hammack, Kashkari and Logan), the first three-way dissent pointing the same direction since <strong>2016</strong>. Their concern: inflation has now sat above the Fed's <strong>2% target</strong> for more than five years.</li><li>Markets disliked it. The <strong>Dow fell over 840 points (-1.6%)</strong>, the <strong>S&amp;P 500 -0.6%</strong> and the <strong>Nasdaq -0.5%</strong>. The <strong>10-year Treasury yield</strong> rose to <strong>4.657%</strong> while the 2-year fell to <strong>4.236%</strong>.</li><li>The Fed described activity as expanding at a \"solid pace\" with strong capital investment, but flagged uncertainty from the <strong>Middle East conflict</strong>.</li></ul>",
+     "whyHtml": "A rising long-term yield alongside a falling short-term one signals investors expect inflation to stay stubborn — the bond market quietly disagreeing with the Fed's patience.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNBC / Federal Reserve, July 29, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "label": "Tuesday, 28 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-28-ai-technology",
+     "topic": "AI Technology",
+     "title": "AI Kills an 87-Year-Old Math Conjecture",
+     "mins": 1,
+     "bodyHtml": "<ul><li>On <strong>July 20</strong>, mathematician <strong>Levent Alpöge</strong> posted a three-line counterexample that disproves the <strong>Jacobian conjecture</strong> — a problem open since <strong>1939</strong>.</li><li>The conjecture claimed that a certain class of polynomial maps (formulas that turn one set of coordinates into another) must always be reversible if a quantity called the <strong>Jacobian determinant</strong> is a non-zero constant.</li><li>Alpöge found the counterexample working with <strong>Claude Fable 5</strong>: a map in three variables whose Jacobian determinant is always <strong>-2</strong>, yet which sends three different inputs to the same output — so it cannot be reversed.</li><li>Because the answer was so short, mathematicians worldwide <strong>verified it within hours</strong>. The two-variable (\"plane\") case remains open.</li></ul>",
+     "whyHtml": "This is a rare case of AI contributing to a genuine mathematical discovery rather than just summarising known work — and the result was short enough for humans to check independently, which is what made it credible.",
+     "noteHtml": "",
+     "sourceHtml": "Source: The Conversation / Secret Blogging Seminar, July 20–27, 2026"
+    },
+    {
+     "id": "2026-07-28-geopolitics",
+     "topic": "Geopolitics",
+     "title": "US and Iran Pause After 13 Nights",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Over the weekend of <strong>July 25–26</strong>, the US halted its air campaign against Iran, ending <strong>13 consecutive nights</strong> of strikes. Iran said it would hold fire as long as the US does.</li><li>President Trump directed the military to conduct no new strikes, with officials framing the pause as creating \"space\" for <strong>diplomacy</strong> rather than a formal ceasefire.</li><li>The fighting had disrupted shipping through the <strong>Strait of Hormuz</strong> — the narrow sea passage carrying roughly a fifth of the world's oil — and spilled over into the <strong>Red Sea</strong>.</li><li>The pause is fragile: it rests on mutual restraint, not a signed agreement, and the earlier deal meant to end the war has already collapsed once.</li></ul>",
+     "whyHtml": "A pause is not peace, but it reopens the world's most important oil shipping lane — and buys time for talks that could stop a regional war from restarting.",
+     "noteHtml": "",
+     "sourceHtml": "Source: NBC News / Just Security, July 26–27, 2026"
+    },
+    {
+     "id": "2026-07-28-environment",
+     "topic": "Environment",
+     "title": "Earth's Waters Are Quietly Losing Oxygen",
+     "mins": 1,
+     "bodyHtml": "<ul><li>A review in <em>Limnology and Oceanography</em> led by <strong>Scripps Institution of Oceanography</strong> warns that <strong>aquatic deoxygenation</strong> — falling dissolved oxygen in oceans, rivers and lakes — is pushing Earth into an \"unsafe space.\"</li><li>Average oxygen in the global ocean has dropped about <strong>2% over the past 50 years</strong>. A separate analysis of more than <strong>21,000 river systems</strong> found nearly <strong>80% losing oxygen</strong> over four decades.</li><li>Three main causes: <strong>warming water</strong> (warm water holds less oxygen), <strong>nutrient pollution</strong> from farm runoff and sewage that feeds oxygen-consuming algae, and changes in how deep water mixes with the surface.</li><li>The authors argue oxygen loss should be treated as its own <strong>planetary boundary</strong>, because it amplifies climate change, biodiversity loss and nutrient pollution at the same time.</li></ul>",
+     "whyHtml": "Oxygen is the one thing nearly all aquatic life needs — and unlike a heatwave, its decline is invisible until fisheries and ecosystems start collapsing.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Scripps / Phys.org / ScienceDaily, July 19–25, 2026"
+    },
+    {
+     "id": "2026-07-28-economics",
+     "topic": "Economics",
+     "title": "Relief Rally, But Tech Investors Get Nervous",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Markets closed mixed on <strong>Friday, July 24</strong>: the <strong>Dow rose 0.5%</strong> to <strong>51,947.25</strong> and the <strong>S&amp;P 500</strong> was flat at <strong>7,411.98</strong>, while the <strong>Nasdaq fell</strong> on a tech selloff.</li><li>The trigger was growing unease about the enormous sums big technology firms are spending on AI data centres — investors are asking when that <strong>capital expenditure</strong> (\"capex\") will actually produce profits.</li><li>With Iran strikes paused, <strong>Brent crude fell 8.7%</strong> to <strong>$88.36</strong> and US <strong>WTI dropped 7.5%</strong> to <strong>$82.61</strong> on Monday, after Brent had topped <strong>$100</strong> the week before. Bonds and gold gained in the relief rally.</li><li>Underlying data stayed solid: <strong>new home sales +1.6%</strong> in June (628,000 annualised) and <strong>durable goods orders +1.6%</strong>, suggesting businesses are still investing despite high interest rates.</li></ul>",
+     "whyHtml": "Cheaper oil eases inflation pressure just as the Fed decides on rates this week — but the AI-spending jitters hint that the market's biggest engine may be running on faith.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Yahoo Finance / Bloomberg / CNBC, July 24–27, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-27",
+   "label": "Monday, 27 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-27-ai-technology",
+     "topic": "AI Technology",
+     "title": "Opus 5 Lands, Giant Open Model Follows",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Anthropic released <strong>Claude Opus 5</strong> on July 26, retaking the top spot on a key benchmark: it scored <strong>43.3%</strong> on FrontierBench v0.1 versus <strong>37.5%</strong> for OpenAI's GPT-5.6 Sol, released earlier this month.</li><li>Hours later, China's Moonshot AI published the open weights for <strong>Kimi K3</strong> — at <strong>2.8 trillion parameters</strong> (the internal settings a model learns during training), it is the largest \"open-weight\" model ever released, meaning anyone can download and run it.</li><li>The full download is about <strong>1.4 terabytes</strong>, kept manageable by MXFP4 <strong>quantization</strong> — a compression trick that stores each parameter with fewer bits at little cost to quality.</li><li>The back-to-back releases show the frontier race now runs on two tracks: closed flagship models from US labs and ever-larger open models, often from China.</li></ul>",
+     "whyHtml": "The gap between the best closed models and free-to-download ones keeps narrowing — shifting power over cutting-edge AI beyond a handful of companies.",
+     "noteHtml": "",
+     "sourceHtml": "Source: BuildFastWithAI / LLM Stats, July 26, 2026"
+    },
+    {
+     "id": "2026-07-27-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Europe Bets $50 Billion on Long-Range Missiles",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Twelve European nations, led by the <strong>UK</strong>, pledged <strong>$50 billion over a decade</strong> at the July NATO summit to build \"deep precision strike\" weapons — missiles that can hit targets <strong>300–2,000 km</strong> away.</li><li>Signatories include France, Germany, Finland, Sweden, Türkiye, and the Nordics and Baltics — a broad coalition agreeing to share technology and expand joint weapons production.</li><li>The joint statement explicitly cites <strong>US force reductions in Europe</strong> as a driver: European allies are being pushed to shoulder more of NATO's deterrence burden themselves.</li><li>In parallel, nine allies agreed to develop a prototype <strong>generic NATO 155mm artillery shell</strong>, so ammunition made in one country works in another's guns — a lesson learned from supply shortages in Ukraine.</li></ul>",
+     "whyHtml": "Europe is building the ability to strike deep into enemy territory without US help — the clearest sign yet that it's planning for a NATO where America does less.",
+     "noteHtml": "",
+     "sourceHtml": "Source: GOV.UK / Janes / Breaking Defense, July 7–8, 2026"
+    },
+    {
+     "id": "2026-07-27-environment",
+     "topic": "Environment",
+     "title": "Mangroves Stage a Rare Global Comeback",
+     "mins": 1,
+     "bodyHtml": "<ul><li>A 40-year satellite study published in <em>Science</em> by Tulane University researchers finds <strong>Southeast Asia's mangroves</strong> — coastal forests that grow in salt water — have flipped from net loss to <strong>net growth since 2010</strong>.</li><li>The region once drove the destruction, accounting for nearly <strong>60% of global mangrove losses</strong> between the 1980s and 2010, mostly cleared for shrimp farms and rice paddies.</li><li>Since 2010 it has gained over <strong>1,000 square kilometres</strong> of mangroves, contributing about <strong>43% of the world's total mangrove gains</strong> — thanks to restoration projects and stronger protections.</li><li>One caveat: young replanted forests have shallower roots and store far less carbon than the mature stands they replace, and need decades to catch up.</li></ul>",
+     "whyHtml": "Mangroves shield coastlines from storms and store more carbon per hectare than rainforests — proof that ecosystem decline can be reversed with sustained effort.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Mongabay / Eco-Business / Science, June–July 2026"
+    },
+    {
+     "id": "2026-07-27-economics",
+     "topic": "Economics",
+     "title": "All Eyes on the Fed's Meeting This Week",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The Federal Reserve's rate-setting committee (the <strong>FOMC</strong>) meets <strong>July 28–29</strong> — starting tomorrow — with markets treating it as the summer's key economic event.</li><li>Betting markets have swung sharply: odds of \"no change\" to interest rates peaked near <strong>97%</strong>, then slipped as some traders priced in roughly a <strong>one-in-three chance of a hike</strong> after Iran-war oil disruptions stoked inflation fears.</li><li>June's surprise <strong>0.4% CPI drop</strong> (the biggest since 2020) argues for holding steady, but two Fed vice chairs signalled that <strong>inflation risks still outweigh job-market worries</strong>.</li><li>It is one of the first major tests for Chair <strong>Kevin Warsh</strong>: cut too soon and inflation could reignite; hold too long and growth may stall.</li></ul>",
+     "whyHtml": "Whatever the Fed decides this week sets the tone for mortgages, markets, and the dollar for the rest of the year — and reveals how it weighs war-driven oil risk against cooling inflation.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Polymarket / Federal News Network / CNBC, July 23–26, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-26",
+   "label": "Sunday, 26 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-26-ai-technology",
+     "topic": "AI Technology",
+     "title": "GPT-5.6 Arrives as a Three-Model Family",
+     "mins": 1,
+     "bodyHtml": "<ul><li>OpenAI released <strong>GPT-5.6</strong> on July 9 as three tiers: <strong>Sol</strong> (flagship, built for hard problems and long autonomous tasks), <strong>Terra</strong> (balanced mid-range), and <strong>Luna</strong> (fast and cheap) — priced at $5/$30, $2.50/$15, and $1/$6 per million input/output tokens respectively.</li><li>It launched alongside <strong>ChatGPT Work</strong>, an AI \"agent\" (software that carries out multi-step jobs on its own, not just answers questions) aimed at completing whole work tasks end to end.</li><li>Unusually, the release followed a <strong>two-week government review</strong>: access was limited to about 20 US-government-vetted organizations until the Commerce Department's AI standards center cleared it for the public.</li><li>Rivals moved fast the same month — Anthropic's Claude Sonnet 5 pushed agent-style coding into everyday business use, and NVIDIA open-sourced a \"diffusion\" language model that writes text in parallel for over 2x higher speed.</li></ul>",
+     "whyHtml": "Frontier AI releases now come in tiers, ship with agents, and pass government checks first — a sign the industry is maturing from experiments into regulated infrastructure.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Simon Willison / Dataconomy / SpaceDaily, July 9–25, 2026"
+    },
+    {
+     "id": "2026-07-26-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Trump: Iran Talks Serious, US \"Locked and Loaded\"",
+     "mins": 1,
+     "bodyHtml": "<ul><li>President Trump said Iran is showing its \"<strong>most serious</strong>\" commitment yet in negotiations with Washington, but warned the US remains \"<strong>locked and loaded</strong>\" if diplomacy fails — leaving major military strikes on the table.</li><li>The remarks come amid the conflict that began in February 2026 with US and Israeli strikes on Iran, and just days after the US reinstated its blockade of Iranian ports and imposed a 20% toll on cargo through the <strong>Strait of Hormuz</strong>, the channel carrying about a fifth of the world's oil.</li><li>Analysts say July's key global risks — Iran talks, NATO shifts, escalating trade wars, and tariffs — are increasingly intertwined and reshaping markets together.</li><li>The war in <strong>Ukraine</strong> remains a parallel source of uncertainty, affecting energy flows, defense spending, and supply chains, while EU industrial policies are raising fresh tensions with <strong>China</strong>.</li></ul>",
+     "whyHtml": "A single sentence from Washington can now move oil prices, markets, and alliance politics at once — diplomacy and military threat are running on the same clock.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Anadolu Agency morning briefing / EY Geostrategic Analysis, July 25, 2026"
+    },
+    {
+     "id": "2026-07-26-environment",
+     "topic": "Environment",
+     "title": "New York Hits Pause on AI Data Centers",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Governor Kathy Hochul signed an executive order on July 14 making New York the <strong>first US state</strong> to impose a statewide moratorium on new data centers.</li><li>The order blocks construction of new \"<strong>hyperscale</strong>\" centers — facilities using 50 megawatts or more of power (roughly a small city's worth) — for up to one year while the state writes tougher rules.</li><li>Driving the pause: data centers, fueled by the AI boom, consume massive amounts of <strong>electricity and water</strong> for cooling, and communities worry they push up household utility bills.</li><li>Hochul wants operators to pay a premium for extra energy supply or generate their own power, and wants host communities to receive benefits like infrastructure funding before permits resume.</li></ul>",
+     "whyHtml": "The AI build-out is colliding with limits on power, water, and public patience — and other states are watching New York's experiment closely.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNBC / NBC News / Fortune, July 14, 2026"
+    },
+    {
+     "id": "2026-07-26-economics",
+     "topic": "Economics",
+     "title": "Inflation Cools, but a Red Flag Lurks",
+     "mins": 1,
+     "bodyHtml": "<ul><li>June's Consumer Price Index (CPI, the main US inflation gauge) <strong>fell 0.4%</strong>, dragging annual inflation down to <strong>3.5%</strong> — well below the 3.8% economists expected. Core inflation (which strips out food and energy) held at <strong>2.6%</strong>.</li><li>The Federal Reserve — now chaired by <strong>Kevin Warsh</strong> — held interest rates at <strong>3.50–3.75%</strong> in June by a unanimous vote, and markets overwhelmingly expect no change at the July 28–29 meeting.</li><li>The Fed's own July forecast carried a warning: <strong>Iran-war-driven inflation</strong> appears to be spilling beyond energy into the broader economy, complicating the \"inflation is beaten\" story.</li><li>The cooler CPI eased fears (from just days earlier) that surging oil prices would force a rate <strong>hike</strong> this summer.</li></ul>",
+     "whyHtml": "Inflation is finally bending down, but a war-driven oil shock could still undo it — the Fed is stuck watching both the data and the Strait of Hormuz.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Federal News Network / Motley Fool / Trading Economics, July 16–25, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-24",
+   "label": "Friday, 24 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-24-ai-technology",
+     "topic": "AI Technology",
+     "title": "OpenAI Bets Big on Workplace AI Agents",
+     "mins": 1,
+     "bodyHtml": "<ul><li>OpenAI launched <strong>Presence</strong> on July 22 — an enterprise platform that plugs AI \"agents\" (software that can take actions on its own, not just chat) into a company's internal systems, with shared rules, permissions, and safety guardrails across voice and chat.</li><li>It targets real work like customer support and sales; early testers include big names such as <strong>BBVA, SoftBank, and IAG</strong> (British Airways' parent).</li><li>The same week, Google released <strong>Gemini 3.6 Flash</strong>, a cheaper, faster model that uses about 17% fewer words to answer — cutting its output price to $7.50 per million tokens from $9.</li><li>OpenAI also unveiled <strong>Project Camellia</strong>, a planned $30 billion, 3.2-gigawatt AI data-center campus in Georgia — a reminder of the enormous power and money now behind AI.</li></ul>",
+     "whyHtml": "The AI battle is shifting from flashy chatbots to agents that quietly do office work — and the winners will be whoever companies actually trust with their systems.",
+     "noteHtml": "",
+     "sourceHtml": "Source: BuildFastWithAI AI News roundup, July 22–23, 2026"
+    },
+    {
+     "id": "2026-07-24-geopolitics",
+     "topic": "Geopolitics",
+     "title": "US Reinstates Hormuz Blockade, Adds Cargo Toll",
+     "mins": 1,
+     "bodyHtml": "<ul><li>President Trump announced the US is <strong>reinstating its blockade of Iranian ports</strong> near the Strait of Hormuz and imposing a <strong>20% toll on all cargo</strong> passing through the passage — the channel that carries roughly a fifth of the world's oil.</li><li>The move marks a fresh escalation in a conflict that began in February 2026, when US and Israeli strikes hit Iran and shipping through Hormuz was largely choked off.</li><li>EU foreign-policy chief <strong>Kaja Kallas</strong> warned that the Iran and Ukraine wars are \"very much interlinked\" through Russia, urging the West not to lose focus on Ukraine while the Middle East dominates headlines.</li><li>Ukraine, meanwhile, is finding new partners: President Zelenskyy signed a security-cooperation deal with <strong>Saudi Arabia</strong>, as Gulf states show growing interest in Ukrainian weapons technology.</li></ul>",
+     "whyHtml": "A tax on the world's busiest oil route ties Middle East tensions directly to global energy prices — and pulls Ukraine and the Gulf into the same widening story.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNBC / CSIS / Euronews, July 22–23, 2026"
+    },
+    {
+     "id": "2026-07-24-environment",
+     "topic": "Environment",
+     "title": "El Niño Strengthens Toward a Possible Record",
+     "mins": 1,
+     "bodyHtml": "<ul><li>NOAA confirms <strong>El Niño</strong> — a natural warming of the tropical Pacific that adds heat on top of climate change — has formed and is expected to intensify to <strong>moderate or strong</strong> by autumn.</li><li>Forecasters say it could peak around <strong>October–December 2026</strong>, with 23 of 26 models pointing to a \"<strong>very strong</strong>\" event; some warn it may rank among the strongest ever recorded.</li><li>El Niño typically brings <strong>drier weather</strong> to Southeast Asia, Australia, and southern Africa, and <strong>wetter conditions</strong> to the southern US, Peru, and the Horn of Africa — plus a temporary global temperature bump of 0.1–0.2°C.</li><li>It arrives atop an already scorching year: 2026 is running about <strong>1.46°C above pre-industrial levels</strong>, and over 150 million hectares have burned in wildfires worldwide so far.</li></ul>",
+     "whyHtml": "A strong El Niño stacked on record warming could push global temperatures and extreme weather into uncharted territory over the next year.",
+     "noteHtml": "",
+     "sourceHtml": "Source: NOAA / Washington Post / Carbon Brief, July 10–18, 2026"
+    },
+    {
+     "id": "2026-07-24-economics",
+     "topic": "Economics",
+     "title": "Oil Surge Revives Bets on a Fed Hike",
+     "mins": 1,
+     "bodyHtml": "<ul><li><strong>US Treasury yields hit their highest of 2026</strong> as the Iran conflict pushed oil prices sharply higher — the 10-year yield reached about <strong>4.7%</strong> and the 30-year touched <strong>5.19%</strong>, near its highest since 2007. (Bond yields rise when investors expect higher inflation or interest rates.)</li><li>With oil climbing, traders now see a real chance the <strong>Federal Reserve raises rates</strong> at its July 28–29 meeting — odds sit around <strong>one-in-three</strong> — though most still expect a hold at the current <strong>3.50–3.75%</strong>.</li><li>Looking further out, futures markets price a roughly <strong>82% chance of a hike in September</strong>, up sharply from a month ago.</li><li>The trigger is Trump's new <strong>20% Hormuz cargo toll</strong>, which threatens to keep energy costs — and therefore inflation — elevated.</li></ul>",
+     "whyHtml": "One oil shock is nudging the Fed from \"when do we cut?\" back toward \"do we hike?\" — raising borrowing costs for households and businesses alike.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Bloomberg / CNBC / Forbes, July 23, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-20",
+   "label": "Monday, 20 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-20-ai-technology",
+     "topic": "AI Technology",
+     "title": "AI That Knows Physics Invents New Magnets",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Researchers at the US Ames National Laboratory built an AI workflow around a model called <strong>DuctGPT</strong> that designs <strong>rare-earth-free permanent magnets</strong> — the strong magnets inside electric motors, wind turbines, and speakers.</li><li>Unlike most AI, which learns patterns from existing data, DuctGPT is trained on the <strong>underlying physics</strong> of materials, so it can propose compounds that have never been made before.</li><li>The system also weighs <strong>production cost and supply-chain availability</strong>, not just performance — a practical constraint most research models ignore.</li><li>Rare-earth elements are mined and refined mostly in China, so magnets that skip them entirely would ease a major industrial dependency for the US and Europe.</li></ul>",
+     "whyHtml": "AI is moving from summarizing what we know to inventing materials we've never had — with geopolitics baked into the design brief.",
+     "noteHtml": "",
+     "sourceHtml": "Source: AIapps July 2026 roundup / Ames National Laboratory, July 2026"
+    },
+    {
+     "id": "2026-07-20-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Gulf States Scramble to Route Around Hormuz",
+     "mins": 1,
+     "bodyHtml": "<ul><li>As US strikes on Iran entered their <strong>ninth straight night</strong>, Iranian retaliation has spread beyond the US itself: <strong>Bahrain</strong> and other Gulf partners have been hit, following earlier strikes on Jordan and Kuwait.</li><li>The <strong>UAE is weighing construction of a new port</strong> that would let its oil exports bypass the Strait of Hormuz entirely — the narrow chokepoint through which roughly a fifth of the world's oil flows.</li><li>Analysts say the war is narrowing into a <strong>struggle over Hormuz itself</strong>: whoever controls or disrupts the strait holds leverage over global energy prices.</li><li>Farther afield, satellite images show China building a <strong>full-scale mock-up of a US destroyer</strong> in a remote desert — a reminder that other powers are studying this conflict closely.</li></ul>",
+     "whyHtml": "When Gulf states start pouring concrete to avoid a waterway, they're signaling they expect this crisis to outlast the shooting.",
+     "noteHtml": "",
+     "sourceHtml": "Source: This Week In Geopolitics / Geopolitical Monitor, July 19, 2026"
+    },
+    {
+     "id": "2026-07-20-environment",
+     "topic": "Environment",
+     "title": "Pacific \"Fever\" Breaks Global Ocean Records",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Global average <strong>sea surface temperature hit a record for the date</strong> on June 21 (20.86°C), edging past the previous highs set in 2023 and 2024 — and the heat has persisted into July.</li><li>A <strong>marine heatwave</strong> — a stretch of unusually warm ocean water — now covers an area of the Pacific roughly <strong>eight times the size of the United States</strong>.</li><li>Warm oceans store energy that fuels <strong>stronger storms and hotter weather</strong> downwind; scientists warn this Pacific pattern could shape storm season across Asia and the Americas.</li><li>The heat is already deadly on land: France <strong>doubled its estimate of excess deaths</strong> from June's heatwave to more than 2,000, and a study found that heatwave would have been \"virtually impossible\" 50 years ago.</li></ul>",
+     "whyHtml": "The ocean is the planet's thermostat — when it runs a fever this large, the weather everywhere else follows.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Washington Post / Carbon Brief, July 5–7, 2026"
+    },
+    {
+     "id": "2026-07-20-economics",
+     "topic": "Economics",
+     "title": "Oil Nears $91 as War Premium Returns",
+     "mins": 1,
+     "bodyHtml": "<ul><li><strong>Brent crude jumped 3.3% to $90.97</strong> a barrel after the ninth night of US strikes on Iran and the collapse of the interim peace deal revived fears of a supply cutoff at Hormuz.</li><li>The <strong>US dollar surged to its strongest since February</strong> as traders bet the oil shock will keep inflation sticky — expectations for Fed rate cuts this year shrank further, dimming hopes of a September cut.</li><li><strong>China's central bank held its key lending rates steady</strong> (1-year at 3.0%), choosing currency stability over stimulus despite a sluggish manufacturing recovery; the <strong>ECB meets Thursday</strong> with rates already at 2.25% after June's hike.</li><li>The IMF still sees global growth at <strong>3.0% for 2026</strong>, but the burden is uneven: energy importers suffer while AI-linked economies get a demand boost.</li></ul>",
+     "whyHtml": "One waterway is now setting the price of oil, the path of interest rates, and the strength of the dollar all at once.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Rio Times Global Economy Briefing / IMF, July 20, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-19",
+   "label": "Sunday, 19 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-19-ai-technology",
+     "topic": "AI Technology",
+     "title": "Frontier Labs Collide, AI Prices Tumble",
+     "mins": 1,
+     "bodyHtml": "<ul><li>In the space of about 24 hours on <strong>July 9</strong>, three frontier AI labs shipped new flagship models: OpenAI's <strong>GPT-5.6</strong> family (Sol for high-end reasoning, Terra for mid-range work at roughly half the cost, Luna for fast cheap tasks), xAI's <strong>Grok 4.5</strong>, and Anthropic's <strong>Claude Sonnet 5</strong>.</li><li>The simultaneous launches set off a <strong>price war</strong>: the cost of <em>inference</em> — actually running a model to answer queries — has dropped to record lows as each lab undercuts the others.</li><li>Chinese lab <strong>DeepSeek</strong> announced it is designing its own custom inference chips, aiming to reduce dependence on both Nvidia and Huawei hardware.</li><li>On the research side, several teams published models that predict <strong>protein dynamics</strong> — how proteins flex and change shape over time, a step beyond predicting one static structure.</li></ul>",
+     "whyHtml": "When frontier AI gets cheaper by the week, the real advantage shifts from having access to knowing what to build with it.",
+     "noteHtml": "",
+     "sourceHtml": "Source: AIapps / AIToolsRecap industry roundups, July 9–12, 2026"
+    },
+    {
+     "id": "2026-07-19-geopolitics",
+     "topic": "Geopolitics",
+     "title": "US–Iran War Deepens, World on Alert",
+     "mins": 1,
+     "bodyHtml": "<ul><li>US strikes inside Iran killed at least <strong>12 more people</strong> in a single day, bringing the death toll to around <strong>50</strong> since this phase of fighting began; Tehran has formally suspended its commitments under last month's interim agreement with Washington.</li><li>Iranian strikes in <strong>Jordan</strong> killed two US service members and left one missing — a significant widening, since Jordan is a US partner far from the Strait of Hormuz flashpoint.</li><li>The US State Department issued a <strong>worldwide caution</strong> on Saturday, advising Americans everywhere to \"exercise increased caution\" amid risk of unforeseen escalation.</li><li><strong>Kuwait</strong> reported injuries and major damage to a \"vital\" oil-sector site after repeated Iranian attacks, showing the conflict lapping at Gulf energy infrastructure beyond Iran itself.</li></ul>",
+     "whyHtml": "What began as a shipping dispute in the Strait of Hormuz is now a direct shooting war touching third countries and Gulf oil facilities.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNN live coverage, July 18, 2026"
+    },
+    {
+     "id": "2026-07-19-environment",
+     "topic": "Environment",
+     "title": "Britain's \"Firewave\" as Wildfires Circle North",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The UK has now logged <strong>25 non-consecutive days at 30°C or above</strong>, including nine days over 34°C — a stretch being called a \"<strong>firewave</strong>\" that is straining fire and emergency services built for a cooler climate.</li><li>Across the Channel, France deployed <strong>water-dumping planes refilling from the Seine</strong> to contain a forest fire in Fontainebleau near Paris, while smoke from Canadian wildfires cast an orange haze over Ontario and the northern US.</li><li>Attribution scientists reaffirmed this week that human-caused warming has a \"<strong>direct and well-understood impact</strong>\" on extreme heat and rainfall — this is no longer a statistical debate.</li><li>The policy backdrop is moving the other way: US clean-energy funding cuts have led to <strong>$83 billion</strong> in cancelled or delayed investment, and incoming UK prime minister Andy Burnham plans to approve new <strong>North Sea drilling</strong> within days of taking office.</li></ul>",
+     "whyHtml": "Wildfire seasons on both sides of the Atlantic are now peaking simultaneously — just as major economies scale back the clean-energy push.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Carbon Brief \"Debriefed\", July 17, 2026"
+    },
+    {
+     "id": "2026-07-19-economics",
+     "topic": "Economics",
+     "title": "IMF Warns the Inflation Fight Has Stalled",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The IMF's July update confirms <strong>disinflation has stalled worldwide</strong>: a resilient US job market and war-driven energy costs are keeping price growth sticky in both rich and developing economies.</li><li>The <strong>ECB</strong> raised its deposit rate to <strong>2.25%</strong> in June and signals rates will stay restrictive through summer, possibly to year-end; the <strong>Fed</strong> is similarly stuck — falling jobless claims give it no data-based reason to cut.</li><li>There were small bright spots: US consumers' one-year inflation expectations slipped to <strong>4.2%</strong> (lowest since March), and Friday's US inflation figures came in softer than expected, knocking gold prices down.</li><li>Markets are repricing \"tighter for longer\": the S&amp;P 500 sits about 1% below its record, while emerging markets are hit harder — Brazil's Ibovespa is down 12.5% from its peak. <strong>Oil is the wildcard</strong>, with Brent elevated on Middle East supply fears.</li></ul>",
+     "whyHtml": "\"Higher for longer\" interest rates are now a global condition — and one oil spike away from getting worse.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Rio Times Global Economy Briefing / IMF July update, July 17, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-16",
+   "label": "Thursday, 16 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-16-ai-technology",
+     "topic": "AI Technology",
+     "title": "AI That Knows Physics Hunts New Magnets",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Scientists at the US <strong>Ames National Laboratory</strong> are using a physics-informed AI to search for <strong>permanent magnets that don't need rare-earth metals</strong> — the elements (mostly refined in China) inside EV motors, wind turbines, and headphones.</li><li>Unlike typical AI that only spots patterns in old data, this approach builds in the underlying physics, so the model can propose genuinely new materials while weighing production cost and supply-chain risk.</li><li>The team screened over <strong>1,000 candidate alloy compositions</strong>, drawing on an earlier tool called <strong>DuctGPT</strong> that predicts how workable (ductile) a metal alloy will be.</li><li>A reality check: some headlines claimed a rare-earth-free magnet had been \"found\" — experts say it's a promising roadmap, not yet a proven replacement for today's neodymium magnets.</li></ul>",
+     "whyHtml": "If AI can shortcut decades of trial-and-error materials science, critical-mineral chokepoints like China's rare-earth grip get easier to break.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Ames National Laboratory via Newswise / TechXplore, late June–July 2026"
+    },
+    {
+     "id": "2026-07-16-geopolitics",
+     "topic": "Geopolitics",
+     "title": "NATO's Ankara Summit Births \"NATO 3.0\"",
+     "mins": 1,
+     "bodyHtml": "<ul><li>NATO's 36th summit, held <strong>July 7–8 in Ankara, Turkey</strong>, is being dubbed the start of \"<strong>NATO 3.0</strong>\" — a more <strong>European-led alliance</strong> adapting to shrinking US military commitments.</li><li>Leaders reported European allies and Canada have added over <strong>$139 billion</strong> in core defence spending since committing at the 2025 Hague summit to reach <strong>5% of GDP by 2035</strong>.</li><li>The biggest headline was bilateral: President Trump announced the US would <strong>lift CAATSA sanctions</strong> imposed on Turkey in 2020 over its purchase of Russian S-400 missiles, and signalled he may approve <strong>F-35 fighter jet</strong> sales to Ankara.</li><li>Analysts were split — some saw a workmanlike summit that held the alliance together in wartime conditions; others said it deliberately \"kicked the can down the road\" on US–Europe burden-sharing tensions.</li></ul>",
+     "whyHtml": "The alliance that anchored Western security for 75 years is quietly reorganizing around Europe, with Turkey's stock rising fast.",
+     "noteHtml": "",
+     "sourceHtml": "Source: NATO / Atlantic Council / Foreign Policy, July 7–13, 2026"
+    },
+    {
+     "id": "2026-07-16-environment",
+     "topic": "Environment",
+     "title": "Oceans Hit Record Heat, Enter \"Uncharted Territory\"",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Global average <strong>sea surface temperatures hit 20.96°C on June 21</strong> — the hottest reading ever for that time of year, beating the previous June records set in 2023 and 2024 — and have stayed at record levels every day since, per the EU's Copernicus climate service.</li><li>Copernicus director Carlo Buontempo warned conditions \"could indicate the beginning of a new phase, leading, once more, to <strong>uncharted territory</strong>.\"</li><li>The marine heat coincides with brutal heatwaves on land: attribution scientists at <strong>World Weather Attribution</strong> found the June heat in both Europe and the US would have been \"<strong>virtually impossible</strong>\" without human-caused warming.</li><li>Warmer oceans supercharge the emerging <strong>El Niño</strong>, absorb less carbon dioxide, and stress coral reefs and fisheries already near their limits.</li></ul>",
+     "whyHtml": "The ocean stores over 90% of the heat trapped by greenhouse gases — when it breaks records, everything downstream (weather, storms, food chains) follows.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Copernicus/C3S via Carbon Brief / Al Jazeera, July 1–7, 2026"
+    },
+    {
+     "id": "2026-07-16-economics",
+     "topic": "Economics",
+     "title": "South Korea's First Rate Hike Since 2023",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The <strong>Bank of Korea raised its base rate today</strong> by 25 basis points to <strong>2.75%</strong> — its first hike in over three years — kicking off a new tightening cycle.</li><li>The trigger: inflation accelerated to <strong>3.2% in June</strong>, well above the 2% target, fuelled by oil prices pushed up by the Iran conflict and a weak <strong>won</strong>, which touched a 17-year low near 1,561 per dollar in early June.</li><li>Policymakers also pointed to fast-growing household debt and rising property prices as reasons to cool the economy down.</li><li>The BoK could afford to tighten because growth worries have eased — a <strong>semiconductor export boom driven by AI demand</strong> has the economy on track for 2.6% growth this year; a survey suggests another hike may come in October.</li></ul>",
+     "whyHtml": "Korea shows how the Hormuz oil shock is forcing even export-strong economies to raise rates — a preview of pressure other central banks may face.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNBC / The Korea Herald, July 16, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "label": "Wednesday, 15 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-15-ai-technology",
+     "topic": "AI Technology",
+     "title": "China's \"Human-Like AI\" Rules Kick In Today",
+     "mins": 1,
+     "bodyHtml": "<ul><li>China's new regulations on <strong>anthropomorphic AI</strong> — chatbots and agents designed to act like people — take effect today, forcing giants like <strong>ByteDance and Alibaba</strong> to disable humanlike features (simulated emotions, persona-driven companionship) in their AI agents.</li><li>The rules are among the world's first to target not what AI <em>says</em> but how <em>human it feels</em>, reflecting Beijing's worry about emotional attachment to AI companions and social manipulation at scale.</li><li>Western labs face no equivalent restrictions, creating a visible split: Chinese consumer AI is becoming deliberately more \"tool-like\" while US products lean into personality.</li><li>Pushback is emerging at home too — Z.ai founder Tang Jie published a widely shared memo arguing China's AI should stay open rather than restricted, including reported curbs on overseas use.</li></ul>",
+     "whyHtml": "How \"human\" an AI is allowed to feel is becoming a regulatory question, not just a design choice.",
+     "noteHtml": "",
+     "sourceHtml": "Source: dentro.de / Crescendo AI news roundups, July 15, 2026"
+    },
+    {
+     "id": "2026-07-15-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Ceasefire Unravels as US Blockades Iranian Ports",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The US military <strong>reimposed its blockade of Iranian ports</strong> from 4 p.m. on July 14, responding to Iran's fresh attacks on commercial ships in the Strait of Hormuz — including two vessels hit in Omani waters.</li><li>The interim ceasefire is effectively dead: both Washington and Tehran now say the <strong>Islamabad memorandum</strong> signed last month is no longer binding, and Iran says it has no obligation to reopen the strait to shipping.</li><li>President Trump <strong>backtracked on the proposed 20% \"security toll\"</strong> for cargo transiting Hormuz after criticism that it amounted to a tax on global trade.</li><li>US strikes on Iran continued for a fourth straight night, including on Qeshm, Iran's island in the strait, raising fears of a slide back into all-out war.</li></ul>",
+     "whyHtml": "The collapse of the ceasefire framework removes the main off-ramp from a conflict sitting on the world's most important oil route.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNN / The Washington Post / Times of Israel, July 14–15, 2026"
+    },
+    {
+     "id": "2026-07-15-environment",
+     "topic": "Environment",
+     "title": "Could Brighter Clouds Tame a Super El Niño?",
+     "mins": 1,
+     "bodyHtml": "<ul><li>A new study in <strong>Science Advances</strong> finds that <strong>marine cloud brightening</strong> — spraying microscopic sea-salt particles into low ocean clouds so they reflect more sunlight — could weaken or even neutralize an emerging El Niño if deployed early over the eastern Pacific.</li><li>Instead of running risky real-world tests, researchers studied a \"natural experiment\": smoke from Australia's 2019–20 Black Summer bushfires, which brightened Pacific clouds and measurably nudged the ocean toward cooler La Niña conditions.</li><li>Modeling suggests targeted brightening could boost La Niña-like cooling effects by about <strong>40%</strong> — timely, since forecasters say a strong El Niño is currently brewing.</li><li>Scientists caution the technique is experimental and could backfire, potentially disrupting rainfall patterns far from where it's applied.</li></ul>",
+     "whyHtml": "For the first time, researchers are seriously modeling whether geoengineering could switch off the planet's biggest natural climate disruptor — with all the risks that implies.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Science Advances via CNN / Science News, July 8–10, 2026"
+    },
+    {
+     "id": "2026-07-15-economics",
+     "topic": "Economics",
+     "title": "Inflation Cools, Markets Breathe, Fed Holds Fire",
+     "mins": 1,
+     "bodyHtml": "<ul><li>June's US inflation report landed better than feared: consumer prices rose <strong>3.5% year-on-year</strong>, down sharply from May's 4.2% and below the 3.9% economists expected; <strong>core inflation</strong> (excluding food and energy) eased to 2.6%.</li><li>Stocks rebounded — the S&amp;P 500 gained 0.4% and the Nasdaq 0.9%, led by chipmakers Micron (+4.9%) and Nvidia (+4.1%).</li><li>Traders slashed the odds of a Fed <strong>rate hike</strong> this month to under 17%, from about 42% a day earlier; the Fed's target rate stays at 3.50–3.75%.</li><li>New Fed Chair <strong>Kevin Warsh</strong>, testifying before Congress for the first time, pledged to make high inflation \"a thing of the past\" but warned the improvement isn't \"mission accomplished\" — especially with the Iran war threatening a new oil shock.</li></ul>",
+     "whyHtml": "One good inflation print pulled the Fed back from the brink of a rare mid-cycle rate hike — but oil remains the wildcard.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNBC / CNN / AP, July 14–15, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "label": "Tuesday, 14 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-14-ai-technology",
+     "topic": "AI Technology",
+     "title": "AI Invents Magnets Without Rare-Earth Metals",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Scientists at the US Ames Laboratory built an AI workflow around a physics-trained model called <strong>DuctGPT</strong> that can invent new materials — and used it to discover <strong>permanent magnets that need no rare-earth metals</strong>.</li><li>Rare earths (elements like neodymium) are essential to today's magnets in EV motors, wind turbines and electronics, but their supply is dominated by China — making alternatives a long-sought prize.</li><li>Unlike typical AI that just spots patterns in data, DuctGPT was trained to understand the <strong>underlying physics</strong>, letting it propose genuinely new material designs rather than remixing known ones.</li><li>It's part of a broader July trend of AI moving into real scientific discovery, alongside a wave of frontier model releases (OpenAI's GPT-5.6, Meta's Muse Spark 1.1) from the major labs.</li></ul>",
+     "whyHtml": "AI that designs real-world materials could loosen China's grip on the minerals behind the clean-energy economy.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Ames Laboratory via AIapps / ZoneTechify, July 2026"
+    },
+    {
+     "id": "2026-07-14-geopolitics",
+     "topic": "Geopolitics",
+     "title": "US Blockades Hormuz, Iran Hits Jordan Base",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The US-Iran confrontation escalated again: Iran's Revolutionary Guard announced <strong>attacks on an American air base in Jordan</strong> used by US forces to launch strikes into Iran.</li><li>The US plans to begin <strong>enforcing a blockade of the Strait of Hormuz</strong> — the channel carrying roughly a fifth of the world's oil — from Tuesday afternoon, charging a <strong>20% fee on all cargo</strong> crossing the waterway.</li><li>Renewed attacks on shipping in the strait, plus US strikes, pushed <strong>Brent crude toward $79 a barrel</strong>, while US 10-year Treasury yields rose about 10 basis points as investors repriced inflation risk.</li><li>Separately, Russia's FSB said it foiled a Ukrainian drone attack on a defense plant near Moscow, finding 35 explosive-laden FPV drones hidden in a shipment of ceramic tiles.</li></ul>",
+     "whyHtml": "A blockade of the world's top oil chokepoint turns a regional conflict into a direct tax on global energy trade.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Geopolitical Monitor / Rio Times, July 14, 2026"
+    },
+    {
+     "id": "2026-07-14-environment",
+     "topic": "Environment",
+     "title": "Ocean Heat Record Confirmed as Cyclone Seasons Stretch",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Sea-surface temperatures hit a <strong>record high in June</strong>, confirmed independently by two services under the EU's Copernicus Earth-observation program — warm oceans are the fuel for heat waves and storms.</li><li>The World Meteorological Organization says <strong>El Niño conditions have emerged</strong> in the Pacific, with forecast models in \"remarkable agreement\" that it will be a <strong>strong</strong> event, likely toppling more temperature records in the coming months.</li><li>New research finds the season for <strong>\"intense\" tropical cyclones</strong> (the strongest hurricanes and typhoons) has lengthened by <strong>10–14 days per decade</strong> worldwide since the 1980s.</li><li>Copernicus scientists warn the combination of record oceans plus El Niño stacks the odds toward a dangerous second half of 2026.</li></ul>",
+     "whyHtml": "Warmer oceans don't just break records — they widen the window each year when the most destructive storms can form.",
+     "noteHtml": "",
+     "sourceHtml": "Source: NBC News / Carbon Brief, July 7–14, 2026"
+    },
+    {
+     "id": "2026-07-14-economics",
+     "topic": "Economics",
+     "title": "CPI Day: Rate-Hike Bets Meet Oil Shock",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The US June <strong>Consumer Price Index (CPI)</strong> — the main inflation gauge — lands this morning; economists expect a <strong>0.2% monthly decline</strong>, which would be the largest drop since April 2020, thanks to an earlier oil price slide.</li><li>But the timing is awkward: the <strong>Hormuz blockade is pushing oil back up</strong>, so markets care most about <strong>core inflation</strong> (which strips out volatile food and energy) as a cleaner read ahead of the July Fed meeting.</li><li>Markets assign about a <strong>65% chance the Fed holds rates steady</strong> now — but expect a quarter-point <strong>hike in September</strong> and another in January 2027, a hawkish path rare in modern Fed history.</li><li>Stock futures were mixed premarket: Dow and S&amp;P 500 slightly lower, Nasdaq futures up 0.2%, as investors juggled CPI, oil and AI-trade repositioning.</li></ul>",
+     "whyHtml": "Today's report decides whether the Fed's next move is a pause — or the first hike of this cycle.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Yahoo Finance / TheStreet / Motley Fool, July 13–14, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-13",
+   "label": "Monday, 13 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-13-ai-technology",
+     "topic": "AI Technology",
+     "title": "Cheap Chinese Model Rattles Silicon Valley Giants",
+     "mins": 1,
+     "bodyHtml": "<ul><li>China's Z.ai released <strong>GLM-5.2</strong>, an open-source model it claims performs nearly on par with Anthropic's Claude Opus 4.8 and OpenAI's GPT-5.5 — at a fraction of the cost. On long, open-ended technical projects it trails the top US model by just <strong>1%</strong>.</li><li>The launch came a day after the US <strong>banned Anthropic from supplying its newest models to non-Americans</strong>, giving GLM-5.2 an opening: it now tops open-weight AI ranking charts.</li><li>Notably, the GLM-5 family was trained on roughly <strong>100,000 Huawei Ascend chips with no Nvidia silicon at any stage</strong> — evidence US chip export controls aren't stopping frontier-level training in China.</li><li>Being open source (freely downloadable and modifiable), it has \"no regional limits\" — anyone worldwide can run or adapt it.</li></ul>",
+     "whyHtml": "If a free Chinese model matches paid US frontier models, the economics — and the geography — of the AI race shift fast.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Euronews / Tom's Hardware / CNBC, June 30–July 3, 2026"
+    },
+    {
+     "id": "2026-07-13-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Iran Widens Strikes, Declares Hormuz Closed",
+     "mins": 1,
+     "bodyHtml": "<ul><li>In a sharp escalation, Iran extended strikes to <strong>Qatar and the UAE for the first time in months</strong>, plus Jordan, Kuwait and Oman, while again declaring the <strong>Strait of Hormuz</strong> — the channel carrying roughly a fifth of the world's oil — closed \"until further notice.\" US Central Command denied the strait was actually shut.</li><li>The US said it struck <strong>over 300 Iranian targets across three nights</strong>, days after President Trump's threat to \"decimate\" Iran derailed the fragile return to nuclear talks.</li><li>Markets reacted immediately: <strong>oil surged about 4%</strong>, and equities fell across the US, Europe and Asia — South Korean shares sank over 5% as the risk-off wave hit tech.</li><li>The escalation lands in an already crowded July: NATO strategy shifts, trade wars and tariff deadlines are all in play this month.</li></ul>",
+     "whyHtml": "A shooting war around the world's most important oil chokepoint puts a floor under energy prices and a ceiling on market calm.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Geopolitical Monitor / investingLive, July 13, 2026"
+    },
+    {
+     "id": "2026-07-13-environment",
+     "topic": "Environment",
+     "title": "46 Million Americans Under Extreme Heat Alerts",
+     "mins": 1,
+     "bodyHtml": "<ul><li>More than <strong>46 million people across the US</strong> were under extreme heat alerts in early July, as record-warm oceans and an emerging strong El Niño (a natural Pacific warming pattern that adds heat on top of climate change) stack the odds toward more dangerous heat waves.</li><li>In southern France, a <strong>large wildfire forced evacuations</strong> in the Hérault and Aude departments, with hundreds of firefighters battling flames fueled by drought and strong winds.</li><li>New research analyzing over <strong>5,100 plant and animal species</strong> found climate change has caused more frequent local extinctions among temperate species than tropical ones — a surprise, since tropical species were assumed most vulnerable.</li><li>Scientists describe some recent heat events as <strong>\"impossible\" without climate change</strong> — they simply could not have occurred in a pre-warming climate.</li></ul>",
+     "whyHtml": "The heat records set at sea last month are now translating into fires, alerts and evacuations on land.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Carbon Brief / NBC News, July 2–7, 2026"
+    },
+    {
+     "id": "2026-07-13-economics",
+     "topic": "Economics",
+     "title": "Hawkish Fed Meets Oil Shock This Week",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The Federal Reserve is holding rates at <strong>3.50%–3.75%</strong> under Chair Kevin Warsh, whose hawkish (inflation-fighting) tone has futures markets now pricing a <strong>bigger chance of a rate hike than a cut</strong> — a striking reversal.</li><li><strong>Oil jumped on the Hormuz strikes</strong>: Brent pushed toward <strong>$79 a barrel</strong> after a 5.4% weekly gain, exactly the kind of energy-price pressure that could feed inflation and harden the Fed's stance.</li><li>The week's twin tests arrive Tuesday: <strong>June CPI inflation data</strong> plus a wall of Fed speeches, alongside Q2 earnings season kicking off with JPMorgan, Wells Fargo, Bank of America, Citigroup and Goldman Sachs.</li><li>Monday itself was quiet on the calendar — the calm before a data-heavy week with stocks still near record highs.</li></ul>",
+     "whyHtml": "An oil shock landing the day before a crucial inflation print could turn a hawkish Fed even more so.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNBC / Schwab / IG, July 10–13, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-12",
+   "label": "Sunday, 12 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-12-ai-technology",
+     "topic": "AI Technology",
+     "title": "Apple Sues OpenAI Over Talent Raid",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Apple filed a lawsuit against OpenAI in federal court on July 11, alleging <strong>trade secret theft</strong> and citing more than <strong>400 former Apple employees</strong> now at OpenAI. Apple frames the hiring of its chip, on-device AI, and hardware design teams as a coordinated campaign to extract confidential technology — not ordinary job-hopping.</li><li>The <strong>UN Global Dialogue on AI Governance</strong> convened 169 countries — the largest multilateral AI meeting ever — with AI pioneer Yoshua Bengio warning the technology is outpacing governments' ability to adapt.</li><li>A CNBC investigation found <strong>Chinese AI models now account for 30–46%</strong> of US enterprise token usage (the \"fuel\" AI apps consume) on developer platforms — above 30% every week since February.</li><li>Leaked plans point to Google's <strong>Gemini 3.5 Pro</strong> launching July 17 with a 2-million-token context window (roughly 20 novels of text it can consider at once).</li></ul>",
+     "whyHtml": "The AI race is increasingly being fought in courtrooms and at the UN, not just in research labs.",
+     "noteHtml": "",
+     "sourceHtml": "Source: BuildFastWithAI / UN News, July 11–12, 2026"
+    },
+    {
+     "id": "2026-07-12-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Trump Threatens Iran Day After Talks",
+     "mins": 1,
+     "bodyHtml": "<ul><li>President Trump threatened to <strong>\"decimate\" Iran</strong> just one day after agreeing to renewed nuclear negotiations — whiplash diplomacy that has mediators like Qatar and Pakistan struggling to keep talks alive amid continued attacks near the Strait of Hormuz.</li><li><strong>Kyiv was hit by Russian ballistic missiles and a drone swarm</strong>, injuring at least 10–11 people, as Russia keeps rejecting peace talks and analysts expect escalation in the coming months.</li><li>Analysts' July outlook flags a crowded risk calendar: <strong>NATO strategy shifts, escalating trade wars, tariffs, and the Iran talks</strong> all landing in the same month, with knock-on effects for global markets.</li><li>One longer-term thread to watch: <strong>copper supply chains</strong> — a key input for AI data centers — are riddled with geopolitical risk, and analysts warn of a coming squeeze.</li></ul>",
+     "whyHtml": "When threats and negotiations come from the same capital within 24 hours, allies and adversaries alike struggle to price in what happens next.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Euronews / Geopolitical Monitor / Geopolitical Futures, July 11, 2026"
+    },
+    {
+     "id": "2026-07-12-environment",
+     "topic": "Environment",
+     "title": "Oceans Break Heat Record as El Niño Returns",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Ocean surface temperatures hit a <strong>record high in June</strong>, independently confirmed by two European monitoring services (Copernicus Climate and Marine), fueling fears of more dangerous heat waves this summer.</li><li>A WMO scientist confirmed <strong>El Niño conditions have emerged</strong> in the equatorial Pacific — a natural warming pattern that adds extra heat on top of climate change — with forecast models in \"remarkable agreement\" that it will be a <strong>strong</strong> one, making more temperature records likely.</li><li>New research finds the season for <strong>intense tropical cyclones has lengthened by 10–14 days per decade</strong> since the 1980s, while Pacific cyclones now live shorter lives — compressing the time forecasters have to warn people.</li><li>The past <strong>eleven years are the eleven hottest on record</strong>, and the world is heading for a temporary overshoot above the 1.5°C target.</li></ul>",
+     "whyHtml": "Record-warm oceans plus a strong El Niño is the recipe for a run of broken temperature records over the next year.",
+     "noteHtml": "",
+     "sourceHtml": "Source: NBC News / Carbon Brief / WMO, July 7–11, 2026"
+    },
+    {
+     "id": "2026-07-12-economics",
+     "topic": "Economics",
+     "title": "S&P Nears Record Ahead of Inflation Test",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The <strong>S&amp;P 500 is up 10.7% year-to-date</strong> and sits just 0.45% below its all-time closing high after last week's 1.2% gain — a bull market grinding higher despite Middle East turmoil.</li><li><strong>Tech led the rebound</strong>: the \"Magnificent 7\" megacaps gained 4.9% for the week, while small caps and materials lagged. <strong>Meta climbed another ~3% Friday</strong> after a string of AI announcements.</li><li><strong>Oil stayed tame</strong> even as attacks slowed shipping through the Strait of Hormuz — markets are still betting the crisis stays contained.</li><li>The next test comes fast: <strong>June CPI inflation data lands July 14</strong>, the same day Fed Chair Kevin Warsh testifies to Congress, with Delta Air Lines kicking off earnings season.</li></ul>",
+     "whyHtml": "With stocks priced near perfection, Tuesday's inflation number will decide whether the record falls or the rally stalls.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Seeking Alpha / Schwab, July 11, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-11",
+   "label": "Saturday, 11 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-11-ai-technology",
+     "topic": "AI Technology",
+     "title": "GPT-5.6 Arrives as Agent Rules Tighten",
+     "mins": 1,
+     "bodyHtml": "<ul><li>OpenAI launched <strong>GPT-5.6</strong> in three variants — Sol, Terra, and Luna — while xAI's Grok 4.5 debuted with a token-efficiency claim that could cut costs for high-volume \"agentic\" workloads (AI systems that act autonomously on your behalf).</li><li>Deloitte's 2026 enterprise survey found nearly <strong>3 in 4 companies</strong> plan to deploy agentic AI within two years — but a KPMG survey shows almost half have already scaled back deployments after costs exceeded value.</li><li>Microsoft is pushing more of its own <strong>MAI models</strong> into Excel and Outlook, reducing its reliance on OpenAI and Anthropic for productivity features.</li><li>China's new rules on <strong>\"anthropomorphic\" AI companions</strong> take effect July 15: emotionally engaging chatbots face restrictions, while work-focused agents are permitted. ByteDance and Alibaba are already pulling humanlike agent features.</li></ul>",
+     "whyHtml": "The AI industry is maturing on two fronts at once — companies are discovering agents are expensive to run, and regulators are starting to draw lines around AI that acts like a person.",
+     "noteHtml": "",
+     "sourceHtml": "Source: BuildFastWithAI / MarketingProfs / Solutions Review, July 8–10, 2026"
+    },
+    {
+     "id": "2026-07-11-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Gulf Mediators Scramble as Hormuz Burns",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Qatar, Pakistan, and other regional mediators held urgent calls with US and Iranian officials to revive nuclear negotiations after the ceasefire collapsed; mediators believe recent attacks in the <strong>Strait of Hormuz</strong> — a chokepoint for a fifth of the world's oil — were launched by a hardline Iranian faction opposed to any deal with Washington.</li><li>US strikes and Iranian retaliation continued for a second consecutive night as President Trump declared the truce \"over\" from the NATO summit in Ankara.</li><li>Kremlin insiders say <strong>Putin is rejecting peace talks</strong> with Kyiv and is likely to escalate in the coming months; Ukraine's drones hit a dozen Russian oil tankers and several crude depots, deepening Russia's fuel shortages.</li><li>Palestinian Authority President Mahmoud Abbas set <strong>parliamentary elections for November</strong> — the first in over two decades.</li></ul>",
+     "whyHtml": "The world's most dangerous flashpoint now runs through a strait carrying 20% of global oil, and diplomacy is racing sabotage to determine what happens next.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Just Security / FDD / Atalayar, July 10, 2026"
+    },
+    {
+     "id": "2026-07-11-environment",
+     "topic": "Environment",
+     "title": "\"Impossible\" Heat Dome Kills 25 Americans",
+     "mins": 1,
+     "bodyHtml": "<ul><li>At least <strong>25 people died</strong> as a \"heat dome\" (a high-pressure system trapping hot air in place) smothered the eastern US, with 20+ states above 100°F and <strong>140 million people</strong> under heat alerts.</li><li>Scientists at World Weather Attribution concluded the combined heat and humidity would have been <strong>\"virtually impossible\" without human-caused warming</strong> — one of their starkest findings yet.</li><li>Yale and Columbia released the 2026 <strong>Environmental Performance Index</strong>: European countries fill the entire top 10 on climate action, but researchers warn their easy wins are running out and farm-related pollution remains a weak spot.</li><li>West Coast health agencies reported spikes in respiratory and heat-related illness tied to poor air quality and urban heat islands; separately, researchers found a next-generation pesticide may impair <strong>bumblebee reproduction</strong>.</li></ul>",
+     "whyHtml": "Attribution science can now say \"impossible without climate change\" about deadly weather in near-real time — shrinking the gap between disaster and accountability.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Yale E360 / World Weather Attribution via Carbon Brief, July 7–10, 2026"
+    },
+    {
+     "id": "2026-07-11-economics",
+     "topic": "Economics",
+     "title": "Markets Shrug Off Hormuz, Cheer Chip IPO",
+     "mins": 1,
+     "bodyHtml": "<ul><li>US stocks ended the week higher despite Middle East turmoil: the <strong>S&amp;P 500 rose 0.42% to 7,575</strong>, the Nasdaq added 0.29%, and the Dow gained 0.29%.</li><li>South Korean chipmaker <strong>SK Hynix</strong> listed on the Nasdaq, pricing at $149 and opening at $170 (+14%) — raising <strong>$26.5 billion</strong>, one of the year's biggest IPOs, to fund memory-chip expansion for AI.</li><li><strong>Nvidia rose ~4%</strong> and <strong>Meta jumped ~6%</strong> (up nearly 15% for the week, its best since early 2024) on signs Meta is taming its AI cost structure.</li><li>Oil stayed surprisingly calm even as attacks slowed shipping through the Strait of Hormuz — traders are watching the strait, not yet pricing a full supply shock.</li><li>Next week's tests: June CPI inflation data (July 14), Fed Chair Kevin Warsh's congressional testimony, and big-bank earnings.</li></ul>",
+     "whyHtml": "Markets are betting the Hormuz crisis stays contained — a bet that makes next week's inflation data and any escalation doubly important.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNBC / Schwab, July 10, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-10",
+   "label": "Friday, 10 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-10-ai-technology",
+     "topic": "AI Technology",
+     "title": "Sonnet 5 Lands as AI Race Reshuffles",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Anthropic launched <strong>Claude Sonnet 5</strong> on July 1, promising stronger long-run coding, tool use, and debugging at introductory pricing of <strong>$2/$10 per million tokens</strong> (rising to $3/$15 after August 31).</li><li>The same week, the US Commerce Department <strong>lifted export controls on Claude Fable 5</strong> after nearly three weeks offline; it returned with a new classifier that blocks known jailbreak techniques.</li><li>OpenAI announced <strong>\"Jalapeño\"</strong>, its first custom inference chip — hardware built specifically to run (not train) AI models more cheaply, reducing reliance on NVIDIA.</li><li>The infrastructure race keeps heating up: Blackstone committed <strong>$30 billion</strong> to AI data centers in Japan, and Qualcomm bought AI startup Modular for $4 billion.</li><li>Meanwhile, debate continues over whether China's low-cost GLM-5.2 shows the US lead shrinking.</li></ul>",
+     "whyHtml": "Cheaper frontier models plus custom chips mean the AI competition is shifting from \"who's smartest\" to \"who can deliver intelligence at the lowest cost.\"",
+     "noteHtml": "",
+     "sourceHtml": "Source: LLM-Stats / Crescendo AI news roundups, July 1–9, 2026"
+    },
+    {
+     "id": "2026-07-10-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Iran Ceasefire Collapses as NATO Summit Wraps",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The US declared its ceasefire with Iran <strong>\"over\"</strong> and carried out a second day of strikes; Iran retaliated against targets in <strong>Qatar, Kuwait, and Bahrain</strong>, widening the conflict to Gulf states hosting US forces.</li><li>At the NATO summit, allies pledged <strong>€70 billion in military aid to Ukraine</strong> for 2026, with at least the same level promised for 2027 — one of the largest coordinated commitments of the war.</li><li>The US also greenlit Ukraine to <strong>produce Patriot missile interceptors</strong> domestically, a step toward self-sufficient air defense.</li><li>The summit was overshadowed by public rifts, including US criticism of Spain as a \"terrible NATO ally\" and renewed friction over Greenland.</li><li>Russia, squeezed by Ukrainian drone strikes on refineries, <strong>banned diesel exports</strong> to protect domestic fuel supplies.</li></ul>",
+     "whyHtml": "A reignited US–Iran conflict and record Ukraine aid pledges in the same week show both major flashpoints escalating rather than cooling.",
+     "noteHtml": "",
+     "sourceHtml": "Source: The Cipher Brief / Foreign Exchanges / Atalayar, July 9, 2026"
+    },
+    {
+     "id": "2026-07-10-environment",
+     "topic": "Environment",
+     "title": "Oceans Hit Record Heat as El Niño Builds",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Global <strong>ocean surface temperatures hit a record high in June</strong>, per Europe's Copernicus Climate Change Service — a worrying baseline because warm oceans supercharge heatwaves and storms.</li><li>The WMO confirmed <strong>El Niño conditions have emerged</strong> in the equatorial Pacific, with forecast models in \"remarkable agreement\" that it will be a <strong>strong</strong> event — typically adding extra heat on top of long-term warming.</li><li>Extreme heat in the US has killed <strong>at least two dozen people</strong> in a week, with roughly 40 million under heat alerts; Washington DC's Reagan National Airport logged back-to-back records of 102°F and 103°F over July 3–4.</li><li>In southern France, a drought- and wind-fueled <strong>wildfire forced evacuations</strong> as hundreds of firefighters battled the blaze.</li></ul>",
+     "whyHtml": "A strong El Niño arriving on top of record-warm oceans stacks the deck for more broken temperature records — and more deadly heat — over the next year.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Carbon Brief / NBC News / Axios, July 2–9, 2026"
+    },
+    {
+     "id": "2026-07-10-economics",
+     "topic": "Economics",
+     "title": "Fed Minutes Flag Hikes, Oil Jumps on Iran",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Minutes from the Fed's June meeting revealed most policymakers now expect a <strong>rate hike</strong> may be needed this year — not a cut — with US inflation at <strong>4.2%</strong>, the highest 12-month reading since April 2023.</li><li>Oil spiked as the US–Iran ceasefire collapsed: <strong>Brent settled 5.2% higher at $78.02</strong>, reviving the energy-driven inflation fear that has haunted markets all year.</li><li>Stocks rotated rather than crashed: the blue-chip Dow sank about 1% while chip strength kept the Nasdaq barely positive — an \"oil-and-rates\" story, not a wholesale sell-off.</li><li>The labor market stayed firm: initial jobless claims fell to <strong>215,000</strong>, the lowest since late May.</li><li>In contrast, <strong>China's consumer prices rose just 1%</strong> year-on-year, underscoring how differently the world's two biggest economies are running.</li></ul>",
+     "whyHtml": "Markets that began 2026 pricing rate cuts are now bracing for hikes — with oil as the wildcard that could force the Fed's hand.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNBC / GO Markets / Yahoo Finance, July 8–9, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-08",
+   "label": "Wednesday, 8 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-08-ai-technology",
+     "topic": "AI Technology",
+     "title": "China's Open-Source GLM-5.2 Rattles Silicon Valley",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Chinese lab Z.ai (Zhipu AI) released <strong>GLM-5.2</strong>, an open-source model whose weights are freely downloadable under the permissive MIT license — no usage restrictions or regional locks.</li><li>On long, open-ended coding projects it reportedly trails Anthropic's Claude Opus 4.8 by just <strong>1%</strong> while edging past GPT-5.5, and it runs at roughly <strong>one-sixth the cost</strong> of closed US frontier models ($1.40 vs $5 per million input tokens).</li><li>The release landed just after the US restricted Anthropic's most advanced models to Americans only — a pointed contrast to GLM-5.2's \"technical access without borders\" pitch.</li><li>Security firms warn the flip side of openness: near-frontier capability is now available for anyone — including bad actors — to run locally and customize without oversight.</li></ul>",
+     "whyHtml": "If open Chinese models stay within 1% of closed US ones at a fraction of the price, export controls on AI may end up steering customers toward China rather than containing capability.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Euronews / Interconnects / Axios, June 25–July 3, 2026"
+    },
+    {
+     "id": "2026-07-08-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Kyiv Hit Hard as NATO Summit Convenes in Ankara",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Russia launched one of its <strong>deadliest recent attacks on Kyiv</strong> in the days before NATO leaders gathered in Ankara, a familiar pattern of escalation timed to major Western summits.</li><li>NATO is expected to unveil <strong>major defense announcements</strong> at the summit, with allies under pressure to show concrete support for Ukraine beyond statements.</li><li>Meanwhile, Iran held <strong>funeral ceremonies for its Supreme Leader</strong> on July 7 — a leadership transition with big implications for the region, from the Strait of Hormuz to Iran's proxy network, and one reason oil markets remain jittery.</li><li>The two events compound an already strained backdrop: analysts count 110+ active conflicts globally, the most since World War II.</li></ul>",
+     "whyHtml": "A NATO summit, a battered Kyiv, and a leadership vacuum in Tehran landing in the same week means several of the world's most dangerous flashpoints are moving at once.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Control Risks geopolitical calendar / BBVA Research, July 7, 2026"
+    },
+    {
+     "id": "2026-07-08-environment",
+     "topic": "Environment",
+     "title": "Heatwave Melts Europe's Rails, Trains Cancelled En Masse",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Europe's record heatwave is physically breaking transport infrastructure: track temperatures have hit <strong>60°C (140°F)</strong>, causing steel rails to buckle and overhead power lines to sag onto trains.</li><li><strong>Eurostar cancelled services between July 5–9</strong>, cutting London–Amsterdam trains back to Brussels; Belgium's SNCB is scrapping <strong>100 trains per day</strong> as older non-air-conditioned stock fails.</li><li>Much of the rail network in France and Belgium was built decades ago for a cooler climate, and years of maintenance cuts have left it especially vulnerable.</li><li>Engineers' biggest fears are \"track buckles and dewirements\" — both bring derailment risks and can halt entire corridors for days.</li></ul>",
+     "whyHtml": "Climate adaptation isn't just about seawalls — everyday infrastructure like railways was engineered for a climate that no longer exists, and retrofitting it will cost billions.",
+     "noteHtml": "",
+     "sourceHtml": "Source: UN News / France24 / Railway Pro, July 5–8, 2026"
+    },
+    {
+     "id": "2026-07-08-economics",
+     "topic": "Economics",
+     "title": "New Fed Chair Scraps Forward Guidance, Markets Recalibrate",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The Fed held rates at <strong>3.50–3.75%</strong> in a unanimous vote at Kevin Warsh's first meeting as Chair, but the bigger news is <em>how</em> he communicates: Warsh has <strong>dropped \"forward guidance\"</strong> — the Fed's practice of signaling future rate moves — in favor of pure data dependence.</li><li>His hawkish tone on price stability led some investors to start pricing in possible rate <strong>hikes</strong>, a sharp shift from earlier hopes for cuts.</li><li>The backdrop is uncomfortable: headline inflation is running at <strong>4.2%</strong>, partly because the Iran conflict has pushed up oil, gasoline, plastics, and fertilizer prices, though core inflation is a milder 2.9%.</li><li>Q1 GDP growth was revised to a solid <strong>2.1% annualized</strong>, giving the Fed little urgency to ease.</li></ul>",
+     "whyHtml": "Without forward guidance, every inflation and jobs report now moves markets more violently — expect choppier trading until investors learn to read the new Fed.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Federal Reserve / GO Markets / Welch &amp; Forbes, June 17–July 7, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-07",
+   "label": "Tuesday, 7 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-07-ai-technology",
+     "topic": "AI Technology",
+     "title": "White House Nears Deal on Frontier AI Safety Rules",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The White House is in advanced talks with leading AI companies to finalize <strong>voluntary standards for releasing frontier models</strong>, with an announcement possible as soon as this week.</li><li>The move comes as the <strong>UN Global Dialogue on AI Governance</strong> wraps its first session in Geneva and hands off to the <strong>ITU AI for Good Global Summit</strong> (July 7–10), keeping Geneva the center of AI policy debate this week.</li><li>On the technical side, <strong>Gemini 3.5 Pro</strong> entered expanded enterprise preview on Vertex AI with a <strong>2-million-token context window</strong> — the largest of any production frontier model — while several rival labs are restricting their newest models to government-vetted partners only.</li><li>Together, these moves show governments and AI labs converging on the same question: how to keep releasing more powerful models without outrunning the safety rules meant to contain them.</li></ul>",
+     "whyHtml": "Voluntary US standards plus a UN dialogue in the same week suggest 2026 may be the year AI governance shifts from talk to actual (if informal) rules.",
+     "noteHtml": "",
+     "sourceHtml": "Source: UN News / White House reporting, July 6–7, 2026"
+    },
+    {
+     "id": "2026-07-07-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Analysts Warn 2026 Has Most Active Conflicts Since WWII",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Geopolitical analysts tracking global conflict counts say <strong>2026 has more active conflicts (110+) than at any point since World War II</strong>, converging with a fraying international nuclear order and a perceived US retreat from its traditional role as global security anchor.</li><li>Separately, the <strong>US-China rivalry</strong> is increasingly framed around industrial dominance rather than military posturing: China has built a commanding lead in the \"electric stack\" — EVs, batteries, drones, robotics, and AI infrastructure — while the US leans on its position as the world's largest oil and gas producer.</li><li>Regional flashpoints are multiplying too: Myanmar is becoming a new arena of China-India competition, and Europe is bracing for fallout from Chinese industrial overcapacity spreading beyond EVs into solar, wind components, and semiconductors.</li><li>This backdrop frames this week's NATO gathering in Ankara and ongoing Iran-related tensions over the Strait of Hormuz.</li></ul>",
+     "whyHtml": "A record number of simultaneous conflicts plus weakening global institutions means fewer effective brakes on any single crisis escalating — a structural risk, not just a bad news week.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Control Risks / Lazard geopolitical outlooks, July 2026"
+    },
+    {
+     "id": "2026-07-07-environment",
+     "topic": "Environment",
+     "title": "Marine Heatwaves Now Cover 82% of the World's Oceans",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Scientists confirmed <strong>June 2026 was the hottest June ever recorded for global sea surface temperatures</strong>, at 21.0°C (69.8°F), beating prior records set in 2023 and 2024.</li><li>Marine heatwaves have expanded steadily through the first half of 2026 and now affect roughly <strong>82% of the global ocean</strong> — an extraordinary share that scientists say raises the odds of further extreme weather as a new El Niño develops.</li><li>The World Weather Attribution network found that the recent triple-digit heat gripping Washington, DC and Philadelphia would have been \"virtually impossible\" without fossil-fuel-driven climate change.</li><li>Compounding the picture, a major wildfire in southern France (July 1) forced evacuations, and over 46 million people in the US remained under extreme heat alerts entering July.</li></ul>",
+     "whyHtml": "When most of the planet's ocean surface is running a fever, the atmosphere above it holds more energy and moisture — a direct ingredient for the stronger storms and heat waves scientists expect later this summer.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Al Jazeera / World Weather Attribution, July 1–4, 2026"
+    },
+    {
+     "id": "2026-07-07-economics",
+     "topic": "Economics",
+     "title": "Chip Stocks Rebound, SK Hynix Lists in the US for $28B",
+     "mins": 1,
+     "bodyHtml": "<ul><li>US stocks extended gains, with the <strong>S&amp;P 500 up 0.72% to 7,537.43</strong>, the <strong>Nasdaq up 1.12% to 26,121.16</strong>, and the <strong>Dow closing at a fresh record of 53,055.91</strong> — a reversal after semiconductor stocks had slumped days earlier.</li><li>South Korean chipmaker <strong>SK Hynix debuted a US listing</strong>, raising roughly <strong>$28 billion</strong>, while chip-linked names like Western Digital (+7%) and Teradyne (+2.8%) led the tech rally.</li><li>The <strong>Consumer Price Index rose 4.2% year-over-year through May 2026</strong>, the largest 12-month increase since April 2023, keeping new Fed Chair Kevin Warsh cautious about cutting rates despite a soft jobs report (57,000 jobs added in June, about half of forecasts).</li><li>Job openings, however, climbed to <strong>7.594 million</strong>, the highest level in a year — a sign hiring demand hasn't collapsed even as headline job growth cools.</li></ul>",
+     "whyHtml": "Markets are cheering record highs and a blockbuster IPO, but sticky 4%+ inflation means the Fed has little room to cut rates even if job growth keeps slowing — a tension investors will have to live with through summer.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNBC / Schwab market update, July 6–7, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-06",
+   "label": "Monday, 6 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-06-ai-technology",
+     "topic": "AI Technology",
+     "title": "World's First AI Governance Summit Opens in Geneva",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The <strong>UN Global Dialogue on AI Governance</strong> opened July 6 at Geneva's Palexpo center — the first-ever intergovernmental platform where all 193 UN member states sit at the same table with industry, academia, and civil society to discuss AI rules.</li><li>Co-chaired by ambassadors from El Salvador and Estonia, the two-day session includes high-level talks, thematic panels, and side events; a second session is planned for New York in May 2027.</li><li>Scientists at the summit warned that AI's capabilities are advancing faster than safety controls, cautioning that \"control is not guaranteed\" without coordinated international oversight.</li><li>The gathering overlaps with two other Geneva events this week: the WSIS Forum on digital cooperation (July 6–10) and the ITU's AI for Good Global Summit (July 7–10), making Geneva a hub for AI policy this week.</li></ul>",
+     "whyHtml": "This is the first time every UN member state has formally convened specifically on AI — a signal that governments are trying to get ahead of AI risks rather than regulate after the fact.",
+     "noteHtml": "",
+     "sourceHtml": "Source: UN News / ITU, July 6, 2026"
+    },
+    {
+     "id": "2026-07-06-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Russia Hits Kyiv Again as Ukraine Strikes Back",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Russia launched its <strong>second large-scale attack on Kyiv in under a week</strong>, while Ukrainian drones struck an oil terminal and port facility in <strong>St. Petersburg</strong>, deep inside Russian territory — showing both sides escalating strikes far from the front line.</li><li>Over the weekend, President Trump held separate calls with Presidents Putin and Zelenskyy; the Kremlin described the Trump-Putin call as \"businesslike and very constructive,\" while Zelenskyy said he agreed to continue talks at the upcoming NATO summit.</li><li>Heads of state from <strong>32 countries</strong> are gathering in Ankara, Turkey starting this week for a two-day NATO conference expected to address the war's next phase.</li><li>Separately, the standoff over Iran's Strait of Hormuz threats has shifted into \"blockade diplomacy,\" with the US tightening pressure on Iranian ports even as negotiations continue in Pakistan.</li></ul>",
+     "whyHtml": "More than four years into the war, strikes are reaching further into both countries' territory even as diplomatic channels stay open — a sign the conflict's next turning point may hinge on the Ankara talks.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNBC, July 6, 2026"
+    },
+    {
+     "id": "2026-07-06-environment",
+     "topic": "Environment",
+     "title": "Oceans Hit Record Heat as El Niño Looms",
+     "mins": 1,
+     "bodyHtml": "<ul><li><strong>Ocean surface temperatures hit a record high in June 2026</strong>, independently confirmed by the Copernicus Climate Change Service and Copernicus Marine Service, with scientists warning more records are likely to fall as a new El Niño develops in the tropical Pacific.</li><li>The UN World Meteorological Organization says strengthening El Niño conditions make additional severe heat waves and weather extremes increasingly likely worldwide in the coming months.</li><li>In Europe, a punishing heat wave has melted train tracks and buckled roads, disrupting transport networks, while a large wildfire in southern France forced evacuations on July 1, fueled by drought and strong winds.</li><li>In the US, more than 46 million people were under extreme heat alerts in early July — part of a broader pattern of back-to-back heat events this summer.</li></ul>",
+     "whyHtml": "Record ocean heat is a leading indicator for the atmosphere above it — warmer oceans mean more moisture and energy feeding storms and heat waves, so this summer's extremes may just be the preview.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Copernicus / WMO / NBC News, July 2026"
+    },
+    {
+     "id": "2026-07-06-economics",
+     "topic": "Economics",
+     "title": "Fed Chief Flags Inflation Risk as Chip Stocks Slide",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Fed Chair <strong>Kevin Warsh</strong> said inflation remains \"too high\" even as officials grow more open-minded about AI's potential to be deflationary through productivity gains — a tension the Fed will have to navigate before any rate cut.</li><li>The <strong>Dow Jones</strong> closed at a record <strong>52,900.07</strong> (+1.14%), but the S&amp;P 500 was roughly flat and the Nasdaq fell 0.8%, dragged down by a second straight day of semiconductor losses — the VanEck Semiconductor ETF dropped 4.5%, with Teradyne down 13.6% and KLA down 11.5%.</li><li>June's jobs report showed only <strong>57,000 jobs added</strong>, about half of what economists expected, though unemployment ticked down to 4.2% from 4.3%.</li><li>Oil prices fell nearly 2% to just above <strong>$68 a barrel</strong>, down almost 20% over the past two weeks.</li></ul>",
+     "whyHtml": "A weak jobs report, a wobbling chip sector, and a cautious Fed chair paint a picture of an economy sending mixed signals — good news for rate-cut hopes, but a warning sign for growth.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNBC, July 1–6, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-05",
+   "label": "Sunday, 5 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-05-ai-technology",
+     "topic": "AI Technology",
+     "title": "Tesla Caps Employee AI Spending at $200 a Week",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Starting July 6, 2026, Tesla will limit each employee to <strong>$200 per week</strong> in AI \"token\" spending — the usage-based fee companies pay every time staff query AI models like GPT or Claude through internal tools.</li><li>The cap follows months where some engineers were reportedly burning through <strong>thousands of dollars a week</strong> in AI usage, as coding assistants and research agents get looped into more of the day-to-day workflow.</li><li>Employees who need to exceed the limit will now require explicit manager sign-off, turning AI usage from an unmonitored perk into a budgeted line item.</li><li>Separately, a <strong>1.6-trillion-parameter</strong> Chinese AI model trained entirely on domestic chips was open-sourced under an MIT license this week, and five governments jointly warned that AI-powered cyberattacks are \"months, not years\" away.</li></ul>",
+     "whyHtml": "As AI moves from novelty to daily tool, its running costs are becoming real enough that even AI-forward companies like Tesla are rationing it — a sign the \"AI is basically free\" era is ending.",
+     "noteHtml": "",
+     "sourceHtml": "Source: BuildFastWithAI / unrot.co, July 4, 2026"
+    },
+    {
+     "id": "2026-07-05-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Millions Mourn Iran's Khamenei as Tensions Simmer",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Iran held mass funeral ceremonies for Supreme Leader <strong>Ayatollah Ali Khamenei</strong> starting July 4, with authorities estimating around <strong>15 million people</strong> would take part over several days — Tehran imposed extensive traffic restrictions as mourners filled the Grand Mosalla complex.</li><li>The funeral follows the recent <strong>\"Twelve-Day War\"</strong> between Iran and Israel/US forces; on July 4, Iran said it would \"definitely\" begin charging fees for ships transiting the <strong>Strait of Hormuz</strong>, though \"friendly nations\" might get special treatment.</li><li>The UK and France said Oman has agreed to help ensure safe navigation through Omani waters near the strait, a sign of diplomatic efforts to keep a critical oil shipping route open.</li><li>Also on July 4, Presidents <strong>Trump and Putin</strong> held an 85-minute call on the Ukraine war; Russia signaled openness to a political resolution but only on its own terms, while continuing strikes on Ukrainian regions including Kharkiv and Zaporizhia.</li></ul>",
+     "whyHtml": "A leadership transition in Iran combined with new threats over Hormuz shipping fees keeps one of the world's most important oil chokepoints — and a fragile ceasefire — under strain.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNN / Times of Israel, July 4, 2026"
+    },
+    {
+     "id": "2026-07-05-environment",
+     "topic": "Environment",
+     "title": "Record Heat Wave Grips US East Coast Over July 4th",
+     "mins": 1,
+     "bodyHtml": "<ul><li>An intense heat wave made worse by climate change hit the eastern US through the July 4th holiday weekend, with Philadelphia and Washington, DC logging a third straight day of <strong>triple-digit heat index</strong> values and highs near <strong>100°F (38°C)</strong>.</li><li>The extreme heat and humidity also fueled a <strong>severe storm risk</strong> across the Mid-Atlantic and Northeast, with forecasters warning of damaging wind gusts up to 60 mph that threatened to disrupt fireworks displays.</li><li>Cities like New York were expected to cool into the mid-80s by the weekend's end, but Washington, DC stayed hot and humid with continued afternoon thunderstorm chances.</li><li>This US heat wave follows closely on the heels of a similar deadly heat emergency in Europe reported earlier in the week, reinforcing a pattern of back-to-back extreme heat events on both sides of the Atlantic this summer.</li></ul>",
+     "whyHtml": "Back-to-back heat waves on two continents show how climate change is turning what used to be rare summer spikes into a recurring, health- and infrastructure-straining norm.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNN / AccuWeather, July 4, 2026"
+    },
+    {
+     "id": "2026-07-05-economics",
+     "topic": "Economics",
+     "title": "Key US Tariff Set to Expire This Month",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The <strong>Section 122 tariff</strong> — a 10% duty imposed on a broad range of imports — is scheduled to expire on <strong>July 24, 2026</strong>, and the Trump administration is now weighing whether to extend, replace, or let it lapse.</li><li>Trade officials are also considering a new <strong>Section 301 tariff</strong> of 10–12.5% targeting products from roughly <strong>60 countries</strong> flagged in forced-labor investigations, a narrower but more targeted tool than blanket tariffs.</li><li>Analysts estimate current tariffs amount to the largest US tax increase as a share of GDP since 1993, costing the average household around <strong>$1,500 in 2026</strong>; letting Section 122 expire would still leave a $760–$940 hit from other tariffs already in place.</li><li>Economists continue to flag <strong>stagflation risk</strong> — slowing job growth (just 57,000 added in June) paired with tariff-driven inflation — as the scenario that would leave the Federal Reserve with the fewest good options.</li></ul>",
+     "whyHtml": "Whether this tariff expires or gets replaced will directly shape prices households pay this summer, and signals whether Washington is leaning toward easing or extending its trade war.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Tax Foundation / Yale Budget Lab, July 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-03",
+   "label": "Friday, 3 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-03-ai-technology",
+     "topic": "AI Technology",
+     "title": "Claude Sonnet 5 Becomes Free Users' New Default",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Anthropic launched <strong>Claude Sonnet 5</strong> on July 1, 2026, and made it the default model for every Free and Pro user worldwide — replacing Sonnet 4.6.</li><li>Anthropic describes it as the most \"agentic\" Sonnet yet, meaning it's better at independently carrying out multi-step tasks (using tools, writing and running code, browsing) rather than just answering single questions.</li><li>On several benchmarks it reportedly performs close to Anthropic's larger flagship model, <strong>Opus 4.8</strong>, despite being a smaller, cheaper model.</li><li>Anthropic is running introductory pricing through August 31, undercutting the previous Sonnet 4.6 price — a bid to keep developers building on Claude as competition with Google's Gemini and OpenAI's models intensifies.</li></ul>",
+     "whyHtml": "Cheaper, more capable \"default\" models mean the AI assistants most people use every day keep getting more autonomous — narrowing the gap between free and premium tiers.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Anthropic / TechCrunch coverage, July 1, 2026"
+    },
+    {
+     "id": "2026-07-03-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Russia's Biggest Kyiv Strike Yet Kills Dozens",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Russia launched one of its largest attacks of the war on Kyiv overnight into July 2, firing <strong>74 missiles</strong> (24 ballistic) and <strong>496 drones</strong>, killing at least 17–21 civilians and damaging 30 locations across the city.</li><li>In the Darnytskyi district, six floors of a nine-story residential building collapsed; many residents sheltered in subway stations after Ukrainian President <strong>Zelenskyy</strong> issued early warnings.</li><li>Moscow framed the strike as retaliation for Ukraine's deepening drone campaign against Russian oil infrastructure — including a fresh strike on one of Russia's largest refineries in the <strong>Nizhny Novgorod</strong> region, thousands of kilometers from the front line.</li><li>The exchange triggered regional alarm: <strong>Poland scrambled jets</strong> and <strong>Finland restricted airspace</strong> as a precaution, showing how the war's effects keep spilling beyond Ukraine's borders.</li></ul>",
+     "whyHtml": "Both sides are now trading blows deep in each other's territory (capital city vs. oil refineries) rather than just at the front line — a pattern that raises the risk of the war drawing in neighboring NATO states.",
+     "noteHtml": "",
+     "sourceHtml": "Source: NPR / PBS News / CNBC, July 2, 2026"
+    },
+    {
+     "id": "2026-07-03-environment",
+     "topic": "Environment",
+     "title": "Melting Rails, 1,300 Deaths: Europe's Heat Emergency",
+     "mins": 1,
+     "bodyHtml": "<ul><li>A severe European heatwave has been linked to over <strong>1,300 excess deaths</strong> since late June, prompting the <strong>WHO</strong> to call it a serious public health emergency and warn that Europe is warming faster than any other continent.</li><li>Extreme heat is buckling steel train tracks and roads in <strong>Belgium, Denmark, France, and the UK</strong>, forcing transit operators to slow or cancel services to avoid derailments, since heat makes rails expand, warp, and overhead power lines sag.</li><li>A new <strong>UN Economic Commission for Europe (UNECE)</strong> report warns this is a preview: extreme weather is projected to increasingly pummel roads, railways, ports, and airports across Europe, Central Asia, and North America between 2051 and 2080.</li><li>This comes on top of the record-warm oceans and building El Niño reported this week, suggesting the back half of 2026 could bring more, not fewer, heat records.</li></ul>",
+     "whyHtml": "Infrastructure built for a cooler climate is now failing in real time — a preview of the retrofit costs governments will face as extreme heat becomes routine rather than exceptional.",
+     "noteHtml": "",
+     "sourceHtml": "Source: UN News / WHO, July 1–2, 2026"
+    },
+    {
+     "id": "2026-07-03-economics",
+     "topic": "Economics",
+     "title": "US Job Growth Stalls, Fed Faces a Harder Call",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The US economy added just <strong>57,000 jobs</strong> in June 2026, far below the roughly 110,000–115,000 economists expected, though the unemployment rate ticked down slightly to <strong>4.2%</strong> from 4.3%.</li><li>Average hourly earnings rose <strong>0.3%</strong> for the month and <strong>3.5%</strong> over the past year — wage growth that's still outpacing inflation but cooling alongside hiring.</li><li>Markets reacted unevenly: the <strong>Dow Jones</strong> rose over 1% to a fresh record on hopes of a patient Fed, while the <strong>Nasdaq</strong> fell 0.8% as a sell-off in chip stocks continued.</li><li>Analysts at Schwab noted the soft jobs data gives the Federal Reserve room to \"take a patient approach\" on interest rates rather than rushing a decision either way.</li></ul>",
+     "whyHtml": "A weakening but not collapsing job market is the trickiest scenario for the Fed — too weak to ignore, too strong to justify an urgent rate cut, leaving borrowing costs uncertain for households and businesses alike.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Reuters / Yahoo Finance / Schwab, July 2, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-02",
+   "label": "Thursday, 2 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-02-ai-technology",
+     "topic": "AI Technology",
+     "title": "California Gives Every State Agency Half-Price Claude",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Governor <strong>Gavin Newsom</strong> announced on June 29 a first-of-its-kind deal letting every California state agency — and any city or county that opts in — access <strong>Anthropic's Claude</strong> at a <strong>50% discount</strong>, plus free staff training and technical help from Anthropic.</li><li>Claude becomes the first AI tool offered through California's new <strong>Statewide IT Shared Services (SITeS)</strong> portal, a central marketplace for state agencies to buy AI tools at transparent, pre-negotiated prices.</li><li>Some agencies were already piloting Claude before the deal: the <strong>DMV</strong> for customer service work, and the <strong>Department of Health Care Services</strong> for internal workflows.</li><li>Newsom framed it around augmenting, not replacing, government workers: \"AI should not replace the human work of government; it should help our workers move faster... and deliver better results for Californians.\"</li></ul>",
+     "whyHtml": "This is the largest state-government AI rollout in the US so far — a real-world test of whether AI can make public services faster without cutting the humans out of the loop.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Office of Gov. Gavin Newsom / TechCrunch / CBS Sacramento, June 29, 2026"
+    },
+    {
+     "id": "2026-07-02-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Ukraine's Drone Strikes Now Reach Deep Into Russia",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Ukraine has sharply expanded its long-range drone campaign, striking a Russian oil refinery in <strong>Ufa</strong> — more than 1,300 km (800 miles) from the front line — and a military-industrial facility in the <strong>Penza</strong> region on June 30–July 1.</li><li>Russia claimed it shot down <strong>419 Ukrainian drones</strong> in a single day, including some over the Moscow region, where a strike reportedly killed a six-month-old baby. Overnight Russian counterattacks killed at least three people in southeastern Ukraine.</li><li>Kyiv also signed a <strong>$2.53 billion deal with Sweden</strong> for 16 used <strong>Gripen E fighter jets</strong>, to be delivered starting early 2027 — a sign Ukraine is planning for a long war, not an imminent ceasefire.</li><li>Peace talks remain stalled: President <strong>Putin</strong> said this week Russia will keep pursuing full control of the four Ukrainian regions it annexed in 2022 (Donetsk, Luhansk, Kherson, Zaporizhzhia), rejecting a Ukrainian proposal to scale back fighting.</li></ul>",
+     "whyHtml": "Nearly four and a half years in, both sides are escalating and rearming rather than negotiating — a sign the war's next phase may be longer and reach farther from the front lines than before.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Al Jazeera / AFP, July 1, 2026"
+    },
+    {
+     "id": "2026-07-02-environment",
+     "topic": "Environment",
+     "title": "Oceans Hit Record Heat as El Niño Builds",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Europe's <strong>Copernicus Climate Change Service</strong> confirmed that global ocean surface temperatures hit a <strong>record high in June 2026</strong> — two independent Copernicus services measured it separately and got the same result.</li><li>Scientists warn this record heat, combined with a developing <strong>El Niño</strong> (see the June 20 entry), puts the climate system into \"uncharted territory,\" raising the odds of even more temperature records falling over the next few months.</li><li>On the ground, the effect is already visible: more than <strong>46 million people across the US</strong> were under extreme heat alerts in early July, part of what climate scientists call one of the fastest-growing and deadliest weather threats.</li><li>Forecasters now expect El Niño to strengthen rapidly through the July–September window, with model averages pointing toward a <strong>strong event</strong> (around +2.0°C above normal in the tropical Pacific).</li></ul>",
+     "whyHtml": "Warmer oceans store and release more heat energy, fueling stronger heatwaves, storms, and coral bleaching — record-warm seas are an early warning sign for a hotter back half of 2026.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Copernicus Climate Change Service / WMO / NBC News, late June–July 2026"
+    },
+    {
+     "id": "2026-07-02-economics",
+     "topic": "Economics",
+     "title": "China's Investment Slump Is the Worst Since 2020",
+     "mins": 1,
+     "bodyHtml": "<ul><li>China's <strong>fixed-asset investment</strong> (spending by companies and government on things like factories, property, and infrastructure) fell <strong>4.1% year-on-year</strong> in the January–May 2026 period — far worse than the 2% decline economists expected, and the steepest drop since <strong>May 2020</strong>.</li><li><strong>Property investment</strong> is the biggest drag, down <strong>16.2%</strong>, though infrastructure and manufacturing investment are still growing, just more slowly than earlier in the year.</li><li>Retail sales fell <strong>0.6%</strong> in May from a year earlier — China's <strong>first drop in retail spending since the end of Covid lockdowns in late 2022</strong> — with car purchases down a sharp 16%.</li><li>Together, weak spending by both businesses and consumers is piling pressure on Beijing to roll out a bigger stimulus package to prop up growth.</li></ul>",
+     "whyHtml": "China is the world's second-largest economy, so a deepening slowdown there can ripple through global trade, commodity prices, and any country that sells into or relies on Chinese demand.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Bloomberg / CNBC / Reuters, June 16, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-01",
+   "label": "Wednesday, 1 July 2026",
+   "entries": [
+    {
+     "id": "2026-07-01-ai-technology",
+     "topic": "AI Technology",
+     "title": "Tenstorrent CEO Denies Qualcomm's Billion-Dollar Bid",
+     "mins": 1,
+     "bodyHtml": "<ul><li>In mid-June, Reuters and several outlets reported that <strong>Qualcomm</strong> — best known for smartphone chips — was in talks to acquire <strong>Tenstorrent</strong>, an AI chip startup, for <strong>$8–10 billion</strong>.</li><li>Tenstorrent designs chips using <strong>RISC-V</strong>, an open, royalty-free chip blueprint (unlike proprietary designs from Intel or Arm). Buying it would give Qualcomm its own AI chip technology to compete with <strong>Nvidia</strong> and <strong>AMD</strong>, who currently dominate the AI hardware market.</li><li>The move fit a pattern: Qualcomm also confirmed a separate acquisition (of \"Modular\") the same week, together committing over <strong>$14 billion</strong> toward building AI hardware that doesn't rely on Nvidia.</li><li>On <strong>June 30</strong>, Tenstorrent CEO <strong>Jim Keller</strong> publicly denied any acquisition talks with Qualcomm were taking place, directly contradicting the earlier reports and leaving the deal's status unclear.</li></ul>",
+     "whyHtml": "Big tech companies are racing to reduce their dependence on Nvidia's AI chips — but this episode shows how unreliable early \"deal talk\" reporting can be, even when it moves stock prices.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Reuters / The Information / GuruFocus, June 15–30, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-30",
+   "label": "Tuesday, 30 June 2026",
+   "entries": [
+    {
+     "id": "2026-06-30-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Maduro's US Trial Hits Another Delay",
+     "mins": 1,
+     "bodyHtml": "<ul><li><strong>Nicolás Maduro</strong>, Venezuela's longtime leader, was captured in a <strong>US military operation</strong> in Caracas on <strong>January 3, 2026</strong>, flown to New York, and charged in US federal court. He has been held at a Brooklyn detention centre ever since.</li><li>The charges are <strong>narco-terrorism conspiracy and cocaine trafficking</strong> — US prosecutors accuse him of running a network that smuggled large amounts of cocaine into the United States. He and his wife, <strong>Cilia Flores</strong>, pleaded <strong>not guilty</strong> in January.</li><li>Maduro was due back in court <strong>today, June 30</strong>, but a judge <strong>pushed the hearing to July 22, 2026</strong> — at least the third such delay, blamed on the case's legal and logistical complexity.</li><li>His lawyers call the prosecution <strong>politically motivated</strong> and a breach of international law; Maduro himself has claimed to be a \"prisoner of war.\"</li></ul>",
+     "whyHtml": "A foreign head of state being seized and tried on US soil is extraordinary and legally untested — the outcome could reshape how Washington deals with hostile governments.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Reuters / Lawfare / Latin Times, June 30, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-25",
+   "label": "Thursday, 25 June 2026",
+   "entries": [
+    {
+     "id": "2026-06-25-ai-technology",
+     "topic": "AI Technology",
+     "title": "Apple Gives Siri a Brain Transplant",
+     "mins": 1,
+     "bodyHtml": "<ul><li>At its annual <strong>WWDC 2026</strong> developer event in early June, Apple unveiled <strong>\"Siri AI\"</strong> — a top-to-bottom rebuild of its voice assistant that the company says is far more intelligent, conversational, and capable than the old Siri.</li><li>The big shift: instead of answering one command at a time, the new Siri can <strong>understand context and handle multi-step tasks</strong> across your apps — closer to chatting with a helper than barking orders at a gadget.</li><li>Notably, Apple is <strong>partnering with Google</strong>, using its <strong>Gemini</strong> AI technology to power some of Siri's smarts — a striking admission that Apple fell behind rivals and needs outside help to catch up.</li><li>There's also a <strong>dedicated Siri app</strong> that saves your past conversations (synced across your devices via iCloud), a more natural-sounding voice, and tighter integration with the iPhone's <em>Dynamic Island</em> (the pill-shaped area at the top of the screen).</li><li>A <strong>public beta</strong> is due in July, with the full release in September alongside the expected iPhone 18.</li></ul>",
+     "whyHtml": "Apple powers over a billion iPhones, so a smarter Siri could put capable AI in the hands of everyday users who have never tried a chatbot — but leaning on Google's tech shows how hard the AI race has become.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Apple Newsroom / TechCrunch / CNBC, June 8, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-21",
+   "label": "Sunday, 21 June 2026",
+   "entries": [
+    {
+     "id": "2026-06-21-economics",
+     "topic": "Economics",
+     "title": "Japan Hikes Rates to a 31-Year High",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The <strong>Bank of Japan</strong> (BoJ) — Japan's central bank, which sets the cost of borrowing — raised its key interest rate by a quarter point to <strong>1.00%</strong> on <strong>June 16, 2026</strong>. That is the highest it has been since September 1995, a 31-year high.</li><li>For decades Japan kept rates near or even below <strong>zero</strong> to fight the opposite problem: stubbornly <em>falling</em> prices and weak growth. So lifting rates this far signals a real shift — Japan now has lasting inflation to manage, like much of the world.</li><li>The trigger is a <strong>weak yen</strong> (Japan's currency) and rising prices, worsened by the Iran war pushing up energy costs. Higher rates make the yen more attractive to hold and help cool inflation by making loans pricier.</li><li>The board voted <strong>7-1</strong> in favour. Because markets had priced the move as near-certain (about 97% odds), the yen barely moved on the news.</li></ul>",
+     "whyHtml": "Japan exiting its ultra-cheap-money era affects global markets, because investors have long borrowed cheaply in yen to invest elsewhere — so even small BoJ moves ripple worldwide.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNBC / Al Jazeera, June 16, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-20",
+   "label": "Saturday, 20 June 2026",
+   "entries": [
+    {
+     "id": "2026-06-20-environment",
+     "topic": "Environment",
+     "title": "El Niño Is Back — Expect a Hotter Year",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The UN's weather agency (the <strong>WMO</strong>) has confirmed that <strong>El Niño has returned</strong> and is likely to strengthen through the second half of 2026, with forecasters putting the odds of it lasting into November at <strong>90% or higher</strong>.</li><li><em>El Niño</em> is a natural climate pattern in which the central and eastern Pacific Ocean warms up more than usual. This shifts weather worldwide — typically pushing <strong>global temperatures higher</strong> and bringing more extreme weather, such as heatwaves in some regions and unusual droughts or heavy rain in others.</li><li>Most forecast models expect at least a <strong>moderate, possibly strong</strong> event, though how intense it gets is still uncertain.</li><li>The UN urged countries to strengthen <strong>early-warning systems</strong>, cautioning that temperatures will run above average \"nearly everywhere.\" Combined with long-term warming, this makes it \"virtually certain\" 2026 will land among the <strong>10 hottest years on record</strong>.</li></ul>",
+     "whyHtml": "El Niño sits on top of human-driven warming, so its return raises the risk of record heat, crop stress, and weather disasters — a reminder for vulnerable regions to prepare now.",
+     "noteHtml": "",
+     "sourceHtml": "Source: WMO / UN News / NOAA, June 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-19",
+   "label": "Friday, 19 June 2026",
+   "entries": [
+    {
+     "id": "2026-06-19-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Ethiopia's Ruling Party Heads for Landslide",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Ethiopia, Africa's second-most populous country, held its <strong>7th general election on June 1, 2026</strong>, with more than <strong>54 million registered voters</strong> — one of the continent's largest democratic exercises this year.</li><li>Early and verified vote counts show Prime Minister <strong>Abiy Ahmed's Prosperity Party</strong> far in front and on track for a sweeping win, echoing its landslide in 2021. Final nationwide results are being confirmed in mid-June.</li><li>A general election is how voters choose members of parliament; the party that wins the most seats forms the government and its leader stays prime minister. A near-total win means little organised opposition to check the ruling party.</li><li>The vote was <strong>incomplete</strong>: no voting took place in the entire <strong>Tigray region</strong> — still recovering from a recent war — and in parts of Amhara and Oromia, due to ongoing insecurity. Critics say this, plus a weak opposition, limits how representative the result is.</li></ul>",
+     "whyHtml": "A landslide further cements Abiy's grip on a strategically important nation in the Horn of Africa, while unvoted conflict zones are a reminder that Ethiopia's internal divisions remain unresolved.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Bloomberg / Al Jazeera / Ethiopia's NEBE, June 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-18",
+   "label": "Thursday, 18 June 2026",
+   "entries": [
+    {
+     "id": "2026-06-18-ai-technology",
+     "topic": "AI Technology",
+     "title": "Microsoft Builds Its Own AI Models",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Microsoft unveiled a family of <strong>seven new in-house AI models</strong> at its Build 2026 event, marking its clearest step yet toward relying less on its partner <strong>OpenAI</strong> (the maker of ChatGPT) for core AI.</li><li>Two stand out. <strong>MAI-Thinking-1</strong> is Microsoft's first <em>reasoning model</em> — one built to work through problems step by step — scoring strongly on hard maths and software tests. <strong>MAI-Code-1-Flash</strong> is a fast coding assistant that turns plain-English descriptions into working code.</li><li>A notable claim: both were trained <em>from scratch</em> on licensed, enterprise-grade data, <strong>without copying</strong> from rivals' models like OpenAI's GPT series — addressing concerns about how AI is trained.</li><li>The goal is cost and independence: cheaper models Microsoft fully controls let it compete directly with OpenAI, Anthropic, and Google across more of the AI stack.</li></ul>",
+     "whyHtml": "It signals the AI market is maturing into rivalry even among close partners, which tends to mean more choice and lower prices for the developers and businesses that use these tools.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNBC / Microsoft AI / TechTimes, June 2, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-17",
+   "label": "Wednesday, 17 June 2026",
+   "entries": [
+    {
+     "id": "2026-06-17-economics",
+     "topic": "Economics",
+     "title": "Fed Holds Rates as Inflation Lingers",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The US Federal Reserve — the country's central bank, which sets the cost of borrowing — was widely expected to <strong>keep its key interest rate unchanged</strong> at its meeting concluding today, leaving the target range at <strong>3.50%–3.75%</strong>.</li><li>The interest rate is the main lever the Fed uses to steer the economy: higher rates make loans pricier and cool spending, helping tame <em>inflation</em> (the rate at which prices rise); lower rates do the opposite.</li><li>Rates have sat unchanged since December 2025 because inflation is still running <strong>above the Fed's 2% goal</strong>, hovering near three-year highs, partly due to high energy prices tied to the Middle East conflict.</li><li>This is the <strong>first meeting led by new Fed Chair Kevin Warsh</strong>, sworn in last month. Markets are watching his projections for whether a rate cut is off the table — or even a future hike on it.</li></ul>",
+     "whyHtml": "The Fed's rate shapes what you pay on mortgages, car loans, and credit cards, so a continued hold means borrowing stays expensive while the bank waits for inflation to ease.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNBC / Kiplinger, June 17, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-16",
+   "label": "Tuesday, 16 June 2026",
+   "entries": [
+    {
+     "id": "2026-06-16-environment",
+     "topic": "Environment",
+     "title": "AI's Hidden Power and Water Bill",
+     "mins": 1,
+     "bodyHtml": "<ul><li>A new United Nations University report measured the environmental footprint of AI. It found the world's <strong>data centres</strong> — the warehouses of computers that run AI services — used about <strong>448 terawatt-hours of electricity in 2025</strong>. If they were a country, that would make them the world's 11th-largest electricity user.</li><li>A <em>terawatt-hour</em> is a billion kilowatt-hours; a typical home uses a few thousand kilowatt-hours a year. So this is an enormous amount of power, and AI accounts for about a fifth of it.</li><li>Demand is climbing fast. The report projects data centres could reach <strong>945 terawatt-hours by 2030</strong> — more than double — driven largely by AI growth.</li><li>It's not just electricity: cooling all those machines also consumes huge volumes of <strong>water</strong>, with usage projected to hit trillions of litres by 2030.</li></ul>",
+     "whyHtml": "The AI tools many of us now use daily carry a real-world energy and water cost, raising pressure to power data centres with cleaner electricity and cool them more efficiently.",
+     "noteHtml": "",
+     "sourceHtml": "Source: UN University (UNU-INWEH) report, via Business Standard / Earth.Org, June 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-15",
+   "label": "Monday, 15 June 2026",
+   "entries": [
+    {
+     "id": "2026-06-15-geopolitics",
+     "topic": "Geopolitics",
+     "title": "US and Iran Strike a Peace Deal",
+     "mins": 1,
+     "bodyHtml": "<ul><li>The United States and Iran announced they have reached an agreement to end their war, with both sides declaring an immediate and permanent halt to military operations on all fronts, including in Lebanon. An official signing ceremony is set for <strong>Switzerland on Friday, June 19</strong>.</li><li>A headline term: the <strong>Strait of Hormuz will reopen</strong> once the deal is signed. This narrow waterway between Iran and Oman is one of the world's most important oil routes — roughly a fifth of global oil passes through it — so its closure during the war squeezed energy supplies.</li><li>The path here was bumpy. Earlier in June, Iran briefly <strong>suspended talks</strong> in protest over Israel's actions in Lebanon before negotiations got back on track.</li><li>One sticking point remains: Iran's nuclear program. Tehran says 60-day nuclear talks will only begin once the US <strong>releases billions in frozen Iranian funds</strong> — a claim a US official rejected.</li></ul>",
+     "whyHtml": "Reopening the Strait of Hormuz could ease global oil prices and inflation, while the unresolved nuclear question signals the peace is fragile and far from final.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNN / Al Jazeera, June 14, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-14",
+   "label": "Sunday, 14 June 2026",
+   "entries": [
+    {
+     "id": "2026-06-14-ai-technology",
+     "topic": "AI Technology",
+     "title": "Gemini 3.1 Ultra Stretches AI's Memory",
+     "mins": 1,
+     "bodyHtml": "<ul><li>Google released Gemini 3.1 Ultra, its newest flagship AI model. Its headline feature is a <strong>2-million-token context window</strong> — roughly the amount of text in several long novels that the model can \"hold in mind\" at once when answering you.</li><li>A token is just a chunk of text (about ¾ of a word). A bigger context window means the AI can read and reason over much more material in a single conversation without forgetting earlier parts.</li><li>It is <strong>natively multimodal</strong>, meaning the same model handles text, images, audio, and video together rather than needing separate tools.</li><li>A new sandboxed <em>Code Execution</em> tool lets the model write, run, and test code mid-conversation — useful for data tasks like the Python work you do.</li></ul>",
+     "whyHtml": "Larger context windows let AI tackle whole documents, codebases, or datasets in one go, reducing the manual chopping-up that limits today's tools.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Crescendo AI News / LLM-Stats, June 2026"
+    }
+   ]
+  }
+ ]
+}
