@@ -126,7 +126,14 @@
       ? WORD[total] + ' reads, then you\u2019re done.'
       : WORD[done] + ' down, ' + WORD[total - done].toLowerCase() + ' to go.';
 
-    var html = '<div class="dayhead"><span class="dayname">' + esc(day.label.split(',')[0]) + '</span>' +
+    // label is "Saturday, 15 August 2026" - split so the date can be styled
+    // separately. The year is dropped here; the archive still shows it in full.
+    var labelParts = day.label.split(', ');
+    var dayName = labelParts[0];
+    var dayDate = (labelParts[1] || '').replace(/\s+\d{4}$/, '');
+
+    var html = '<div class="dayhead"><span class="dayname">' + esc(dayName) + '</span>' +
+      (dayDate ? '<span class="daydate">' + esc(dayDate) + '</span>' : '') +
       '<button class="daypill" data-go="progress">' + readDays + ' days read</button></div>' +
       '<h2 class="daylede">' + (done === total ? 'That\u2019s the day closed.' : head) + '</h2>' +
       '<p class="daysub">' + (done === total
@@ -436,9 +443,21 @@
   // ── boot ─────────────────────────────────────────────────
   applyTheme();
   fetch('./reads.json', { cache: 'no-cache' })
-    .then(function (r) { return r.json(); })
+    .then(function (r) {
+      // A 404 still resolves, so check explicitly - otherwise the real cause
+      // surfaces later as a confusing JSON parse error.
+      if (!r.ok) { throw new Error('HTTP ' + r.status + ' fetching reads.json'); }
+      return r.json();
+    })
     .then(function (json) { DATA = json; render(); })
-    .catch(function () {
-      el('screen').innerHTML = '<div class="empty">Couldn\'t load today\'s reads. If you\'re offline, the last synced copy will appear once you reconnect.</div>';
+    .catch(function (err) {
+      var isFile = location.protocol === 'file:';
+      var offline = !navigator.onLine;
+      var msg =
+        isFile ? 'Open this over http://localhost, not as a file:// path - the browser blocks reads.json on file://.' :
+        offline ? 'You\'re offline. The last synced copy will appear once you reconnect.' :
+        'Couldn\'t load today\'s reads.';
+      el('screen').innerHTML = '<div class="empty">' + msg + '</div>';
+      console.error('reads.json failed to load:', err);
     });
 })();

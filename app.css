@@ -276,8 +276,12 @@ body {
 
 
 /* ── Today as a path ───────────────────────────────────── */
-.dayhead { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; }
+.dayhead { display: flex; align-items: baseline; gap: 8px; margin-bottom: 14px; }
 .dayname { font-family: var(--font-heading); font-size: 1.16rem; line-height: 1.2; }
+.daydate {
+  font-family: var(--font-body); font-size: .84rem; line-height: 1.2;
+  color: var(--color-neutral-700); white-space: nowrap;
+}
 .daypill {
   margin-left: auto; border: 0; border-radius: 999px;
   background: var(--color-surface); color: var(--color-accent-700);
