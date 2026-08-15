@@ -2,7 +2,11 @@
 // Shell (html/css/js/icons): stale-while-revalidate, so the app opens instantly
 // and picks up a new build on the next launch.
 // reads.json: network-first, so a fresh day always wins when online.
-const CACHE = 'dir-v2';
+// Bump this on every shell change (index.html / app.js / app.css / styles.css).
+// The activate handler deletes any cache whose name differs, so a new version
+// is what forces phones to drop the old JS instead of serving it for another
+// launch or two.
+const CACHE = 'dir-v3';
 const SHELL = [
   './', './index.html', './app.js', './app.css', './styles.css',
   './manifest.webmanifest', './icon-192.png', './icon-512.png'
