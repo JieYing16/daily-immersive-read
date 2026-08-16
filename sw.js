@@ -24,18 +24,30 @@ self.addEventListener('activate', (e) => {
   );
 });
 
+// Only a real, same-origin success is worth storing. Without this check a 404
+// body gets cached like any other: a failed deploy would overwrite the last
+// good reads.json (leaving the app with no data at all once offline), and a
+// momentary 404 on app.js would be served as the script on the next launch.
+const cacheable = (res) => res && res.ok && res.type === 'basic';
+
 self.addEventListener('fetch', (e) => {
   const req = e.request;
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
   if (url.origin !== location.origin) return;
 
+  const store = (res) => {
+    const copy = res.clone();
+    return caches.open(CACHE).then((c) => c.put(req, copy));
+  };
+
   // Data — always try the network first.
   if (url.pathname.endsWith('reads.json')) {
     e.respondWith(
       fetch(req).then((res) => {
-        const copy = res.clone();
-        caches.open(CACHE).then((c) => c.put(req, copy));
+        // waitUntil, not a floating promise: the browser is free to kill the
+        // worker once the response is delivered, which can land mid-write.
+        if (cacheable(res)) e.waitUntil(store(res));
         return res;
       }).catch(() => caches.match(req))
     );
@@ -43,14 +55,16 @@ self.addEventListener('fetch', (e) => {
   }
 
   // Shell — serve cache immediately, refresh in the background.
+  const net = fetch(req)
+    .then((res) => (cacheable(res) ? store(res).then(() => res) : res))
+    .catch(() => null);
+
+  // Registered synchronously, while the event is still active: a cache hit
+  // settles respondWith straight away, so the revalidation is exactly the
+  // work that would otherwise be cut short before it wrote anything.
+  e.waitUntil(net);
+
   e.respondWith(
-    caches.match(req).then((hit) => {
-      const net = fetch(req).then((res) => {
-        const copy = res.clone();
-        caches.open(CACHE).then((c) => c.put(req, copy));
-        return res;
-      }).catch(() => hit);
-      return hit || net;
-    })
+    caches.match(req).then((hit) => hit || net.then((res) => res || Response.error()))
   );
 });
