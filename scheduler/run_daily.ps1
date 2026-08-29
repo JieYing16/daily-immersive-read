@@ -75,6 +75,26 @@ function Write-Log {
     Write-Host $line
 }
 
+function Invoke-Native {
+    <#  Run a child process, log every line it writes, and return its exit code.
+
+        $ErrorActionPreference is dropped to 'Continue' for the duration of the
+        call. Under 'Stop', PowerShell 5.1 promotes *any* stderr line from a
+        native command to a terminating NativeCommandError - even on exit code
+        0 - so a claude banner or a python deprecation warning was enough to
+        abort the whole run and log that line as the failure. The assignment is
+        function-scoped, so it reverts on return; callers check the exit code.  #>
+    param(
+        [Parameter(Mandatory)][string]$FilePath,
+        [string[]]$Arguments = @(),
+        [Parameter(Mandatory)][string]$Tag
+    )
+    $ErrorActionPreference = 'Continue'
+
+    & $FilePath @Arguments 2>&1 | ForEach-Object { Write-Log "  ${Tag}: $_" }
+    return $LASTEXITCODE
+}
+
 function Resolve-Python {
     <#  Prefer the repo virtualenv so the scheduled run uses the same
         interpreter (and the same 'markdown' install) as a manual run.  #>
@@ -121,9 +141,9 @@ try {
     }
 
     Write-Log "Generating entries for $today ..."
-    & $claude.Source @ClaudeArgs 2>&1 | ForEach-Object { Write-Log "  claude: $_" }
-    if ($LASTEXITCODE -ne 0) {
-        Write-Log "Generation exited with code $LASTEXITCODE." 'WARN'
+    $code = Invoke-Native -FilePath $claude.Source -Arguments $ClaudeArgs -Tag 'claude'
+    if ($code -ne 0) {
+        Write-Log "Generation exited with code $code." 'WARN'
     }
 
     # Verify the generation actually wrote something before we build/commit.
@@ -135,14 +155,17 @@ try {
     # Build -----------------------------------------------------------------
     $python = Resolve-Python
     Write-Log "Rebuilding reads.json with $python ..."
-    & $python (Join-Path $Repo 'build_reader.py') 2>&1 | ForEach-Object { Write-Log "  build: $_" }
-    if ($LASTEXITCODE -ne 0) { throw "build_reader.py failed with code $LASTEXITCODE." }
+    $code = Invoke-Native -FilePath $python -Arguments @((Join-Path $Repo 'build_reader.py')) -Tag 'build'
+    if ($code -ne 0) { throw "build_reader.py failed with code $code." }
 
     # Commit ----------------------------------------------------------------
+    # Also routed through Invoke-Native: the commit script shells out to git,
+    # which writes CRLF warnings and push progress to stderr on success.
     $commit = Join-Path $Repo 'commit_daily_reads.ps1'
     if (Test-Path $commit) {
         Write-Log 'Committing ...'
-        & $commit 2>&1 | ForEach-Object { Write-Log "  commit: $_" }
+        $code = Invoke-Native -FilePath $commit -Tag 'commit'
+        if ($code -ne 0) { throw "commit_daily_reads.ps1 failed with code $code." }
     }
     else {
         Write-Log "No commit_daily_reads.ps1 - skipping commit." 'WARN'
