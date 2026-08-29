@@ -123,33 +123,45 @@ try {
 
     $today = Get-Date -Format 'yyyy-MM-dd'
 
-    if ((Test-TodayPresent $markdown) -and -not $Force) {
-        Write-Log "Entries for $today already present - nothing to do."
-        exit 0
-    }
+    # Present in the file is not the same as published. A day written by hand,
+    # or a run that died after generating, leaves daily_reads.md modified and
+    # uncommitted - and the phone reads reads.json from main, so it never sees
+    # that day. So this skips generation only; build and commit still run, and
+    # both are no-ops when there is genuinely nothing new.
+    $skipGeneration = (Test-TodayPresent $markdown) -and -not $Force
 
     if ($DryRun) {
-        Write-Log "DRY RUN: would generate entries for $today, rebuild, and commit."
+        if ($skipGeneration) {
+            Write-Log "DRY RUN: entries for $today already present - would rebuild and commit only."
+        }
+        else {
+            Write-Log "DRY RUN: would generate entries for $today, rebuild, and commit."
+        }
         exit 0
     }
 
     # Generation ------------------------------------------------------------
-    $claude = Get-Command $ClaudeExe -ErrorAction SilentlyContinue
-    if (-not $claude) {
-        Write-Log "'$ClaudeExe' not on PATH. Edit `$ClaudeExe in this script." 'ERROR'
-        exit 2
+    if ($skipGeneration) {
+        Write-Log "Entries for $today already present - skipping generation."
     }
+    else {
+        $claude = Get-Command $ClaudeExe -ErrorAction SilentlyContinue
+        if (-not $claude) {
+            Write-Log "'$ClaudeExe' not on PATH. Edit `$ClaudeExe in this script." 'ERROR'
+            exit 2
+        }
 
-    Write-Log "Generating entries for $today ..."
-    $code = Invoke-Native -FilePath $claude.Source -Arguments $ClaudeArgs -Tag 'claude'
-    if ($code -ne 0) {
-        Write-Log "Generation exited with code $code." 'WARN'
-    }
+        Write-Log "Generating entries for $today ..."
+        $code = Invoke-Native -FilePath $claude.Source -Arguments $ClaudeArgs -Tag 'claude'
+        if ($code -ne 0) {
+            Write-Log "Generation exited with code $code." 'WARN'
+        }
 
-    # Verify the generation actually wrote something before we build/commit.
-    if (-not (Test-TodayPresent $markdown)) {
-        Write-Log "No '## $today' header after generation - stopping without commit." 'ERROR'
-        exit 3
+        # Verify the generation actually wrote something before we build/commit.
+        if (-not (Test-TodayPresent $markdown)) {
+            Write-Log "No '## $today' header after generation - stopping without commit." 'ERROR'
+            exit 3
+        }
     }
 
     # Build -----------------------------------------------------------------
