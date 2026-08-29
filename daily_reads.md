@@ -1,5 +1,72 @@
 # Daily Immersive Read Log
 
+## 2026-08-29
+
+### Topic: AI Technology
+
+**Amazon Retires AI's Original Human Workforce**
+
+- **Amazon** confirmed in late **August 2026** that it will shut down **Mechanical Turk** on **30 September 2026**, ending a 21-year-old marketplace. It stopped accepting new customers on 30 July.
+- Launched in **2005**, MTurk let businesses post tiny digital jobs — labelling images, transcribing audio, filling in surveys — that computers could not then do. At its peak it had over **500,000** registered workers, often paid cents per task.
+- Jeff Bezos once described it as **"artificial artificial intelligence"**: software that looked automated but was really people behind a screen.
+- The data those workers produced helped train the first generation of machine-learning systems. Newer, better-funded rivals such as **Scale AI**, **Mercor** and **Prolific** have since taken the work, and Amazon largely stopped investing in the platform.
+
+**Why it matters:** AI is often described as if it built itself. MTurk's closure is a reminder that today's models were trained on labels typed by hundreds of thousands of low-paid people — and that this work has not disappeared, only moved to companies that pay more and are harder to see.
+
+**Jargon note:** *Data labelling* means tagging raw material — "this photo contains a cat" — so a model has correct answers to learn from.
+
+*Source: CNBC / Fast Company / Quartz, August 25–27, 2026*
+
+### Topic: Geopolitics
+
+**Hormuz Talks Stall, Sanctions Tighten Instead**
+
+- The **60-day deadline** for a US–Iran deal, set by a memorandum signed in June, **expired in mid-August 2026** with no agreement. The two sides remain deadlocked over who manages shipping through the **Strait of Hormuz** and over Iran's frozen funds abroad.
+- The earlier truce broke down after Iran objected to how vessels were transiting the strait and began targeting ships, prompting renewed US strikes.
+- On **20 August** Washington imposed fresh sanctions on **Hezbollah** and threatened what President Trump called "crushing economic warfare" against Iran. A US blockade is sharply reducing Iranian oil exports, including to China.
+- **Oman** and **Qatar** are still mediating. Trump says a direct backchannel exists with Iran's Revolutionary Guard; the Guard denies it.
+- Analysts note Iran's decades under sanctions have produced a **"survival economy"** able to absorb pressure for a long time.
+
+**Why it matters:** Sanctions work by making a government's life expensive enough that it changes course. When the target has spent thirty years learning to live without the global financial system, that lever gets weaker — and the pressure lands on shipping costs and oil prices everyone pays.
+
+**Jargon note:** A *memorandum of understanding* records what parties intend to do. It is not a binding treaty, which is partly why deadlines in one can pass without consequence.
+
+*Source: CNN / Al Jazeera, August 17–21, 2026*
+
+### Topic: Environment
+
+**Europe's Rivers Run Their Lowest Ever**
+
+- **July 2026** saw the **Rhine's** flow fall to its **lowest on record**. At **Kaub** — the shallow bottleneck barges must clear to reach southern Germany and Switzerland — the level hit **24 centimetres**, the lowest since measurements began in **1880**.
+- The **Danube** dropped to a record low in Hungary, causing water and energy problems around **Budapest** and stranding barges and ferries.
+- Causes stacked up: **little Alpine snow last winter**, months of scarce rain, and **five separate heat waves** across the Rhine basin.
+- Roughly **half of Europe's land area** is in drought, with about 9% at alert level — southern Germany, Hungary, Romania, Austria, Czechia and Slovakia.
+- Barges must sail part-empty to sit higher in the water, so each trip carries less cargo at higher cost. Forecasters say it would take **weeks of steady rain** to recover, possibly dragging into October.
+
+**Why it matters:** The Rhine is a working motorway for coal, chemicals and grain. A drought that shows up as a pretty satellite photo also shows up as freight surcharges and factory slowdowns — climate arriving through the supply chain rather than the weather forecast.
+
+**Jargon note:** A ship's *draft* is how deep it sits below the waterline. Shallow rivers force lighter loads and shallower draft.
+
+*Source: CNN / ESA / Insurance Journal, August 5–16, 2026*
+
+### Topic: Economics
+
+**Fed Talks Hikes While Data Weakens**
+
+- Speaking at the **Jackson Hole** symposium on **28 August 2026**, Fed Chair **Kevin Warsh** said inflation remains too high and that "we have work to do" if readings do not improve — without committing to a rate move.
+- Markets responded by raising the odds of an **interest-rate increase** at the Fed's September meeting, an unusual bet after a long pause.
+- The Fed has held its policy rate at **3.50%–3.75%** for **five consecutive meetings**.
+- Chicago Fed President **Austan Goolsbee** agreed inflation is the main problem, noting a couple of calmer months but adding that this is not "out of the woods".
+- Awkwardly, the growth data has softened: **July payrolls and retail sales both fell**.
+
+**Why it matters:** Rising prices normally come with a hot economy, and the cure — higher rates — cools both. When inflation is stubborn while jobs and spending weaken, the Fed's two goals point in opposite directions, and whichever it chooses, something gives.
+
+**Jargon note:** *Nonfarm payrolls* is the monthly US count of jobs added or lost, excluding farm work — the headline gauge of the labour market.
+
+*Source: CNBC / Trading Economics, August 27–28, 2026*
+
+---
+
 ## 2026-08-15
 
 ### Topic: AI Technology

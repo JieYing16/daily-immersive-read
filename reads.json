@@ -1,6 +1,52 @@
 {
- "generated": "2026-08-15T21:07:07",
+ "generated": "2026-08-29T13:53:20",
  "days": [
+  {
+   "date": "2026-08-29",
+   "label": "Saturday, 29 August 2026",
+   "entries": [
+    {
+     "id": "2026-08-29-ai-technology",
+     "topic": "AI Technology",
+     "title": "Amazon Retires AI's Original Human Workforce",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li><strong>Amazon</strong> confirmed in late <strong>August 2026</strong> that it will shut down <strong>Mechanical Turk</strong> on <strong>30 September 2026</strong>, ending a 21-year-old marketplace. It stopped accepting new customers on 30 July.</li>\n<li>Launched in <strong>2005</strong>, MTurk let businesses post tiny digital jobs — labelling images, transcribing audio, filling in surveys — that computers could not then do. At its peak it had over <strong>500,000</strong> registered workers, often paid cents per task.</li>\n<li>Jeff Bezos once described it as <strong>\"artificial artificial intelligence\"</strong>: software that looked automated but was really people behind a screen.</li>\n<li>The data those workers produced helped train the first generation of machine-learning systems. Newer, better-funded rivals such as <strong>Scale AI</strong>, <strong>Mercor</strong> and <strong>Prolific</strong> have since taken the work, and Amazon largely stopped investing in the platform.</li>\n</ul>",
+     "whyHtml": "AI is often described as if it built itself. MTurk's closure is a reminder that today's models were trained on labels typed by hundreds of thousands of low-paid people — and that this work has not disappeared, only moved to companies that pay more and are harder to see.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Data labelling</em> means tagging raw material — \"this photo contains a cat\" — so a model has correct answers to learn from.</p>",
+     "sourceHtml": "Source: CNBC / Fast Company / Quartz, August 25–27, 2026"
+    },
+    {
+     "id": "2026-08-29-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Hormuz Talks Stall, Sanctions Tighten Instead",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>The <strong>60-day deadline</strong> for a US–Iran deal, set by a memorandum signed in June, <strong>expired in mid-August 2026</strong> with no agreement. The two sides remain deadlocked over who manages shipping through the <strong>Strait of Hormuz</strong> and over Iran's frozen funds abroad.</li>\n<li>The earlier truce broke down after Iran objected to how vessels were transiting the strait and began targeting ships, prompting renewed US strikes.</li>\n<li>On <strong>20 August</strong> Washington imposed fresh sanctions on <strong>Hezbollah</strong> and threatened what President Trump called \"crushing economic warfare\" against Iran. A US blockade is sharply reducing Iranian oil exports, including to China.</li>\n<li><strong>Oman</strong> and <strong>Qatar</strong> are still mediating. Trump says a direct backchannel exists with Iran's Revolutionary Guard; the Guard denies it.</li>\n<li>Analysts note Iran's decades under sanctions have produced a <strong>\"survival economy\"</strong> able to absorb pressure for a long time.</li>\n</ul>",
+     "whyHtml": "Sanctions work by making a government's life expensive enough that it changes course. When the target has spent thirty years learning to live without the global financial system, that lever gets weaker — and the pressure lands on shipping costs and oil prices everyone pays.",
+     "noteHtml": "<p><strong>Jargon note:</strong> A <em>memorandum of understanding</em> records what parties intend to do. It is not a binding treaty, which is partly why deadlines in one can pass without consequence.</p>",
+     "sourceHtml": "Source: CNN / Al Jazeera, August 17–21, 2026"
+    },
+    {
+     "id": "2026-08-29-environment",
+     "topic": "Environment",
+     "title": "Europe's Rivers Run Their Lowest Ever",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li><strong>July 2026</strong> saw the <strong>Rhine's</strong> flow fall to its <strong>lowest on record</strong>. At <strong>Kaub</strong> — the shallow bottleneck barges must clear to reach southern Germany and Switzerland — the level hit <strong>24 centimetres</strong>, the lowest since measurements began in <strong>1880</strong>.</li>\n<li>The <strong>Danube</strong> dropped to a record low in Hungary, causing water and energy problems around <strong>Budapest</strong> and stranding barges and ferries.</li>\n<li>Causes stacked up: <strong>little Alpine snow last winter</strong>, months of scarce rain, and <strong>five separate heat waves</strong> across the Rhine basin.</li>\n<li>Roughly <strong>half of Europe's land area</strong> is in drought, with about 9% at alert level — southern Germany, Hungary, Romania, Austria, Czechia and Slovakia.</li>\n<li>Barges must sail part-empty to sit higher in the water, so each trip carries less cargo at higher cost. Forecasters say it would take <strong>weeks of steady rain</strong> to recover, possibly dragging into October.</li>\n</ul>",
+     "whyHtml": "The Rhine is a working motorway for coal, chemicals and grain. A drought that shows up as a pretty satellite photo also shows up as freight surcharges and factory slowdowns — climate arriving through the supply chain rather than the weather forecast.",
+     "noteHtml": "<p><strong>Jargon note:</strong> A ship's <em>draft</em> is how deep it sits below the waterline. Shallow rivers force lighter loads and shallower draft.</p>",
+     "sourceHtml": "Source: CNN / ESA / Insurance Journal, August 5–16, 2026"
+    },
+    {
+     "id": "2026-08-29-economics",
+     "topic": "Economics",
+     "title": "Fed Talks Hikes While Data Weakens",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Speaking at the <strong>Jackson Hole</strong> symposium on <strong>28 August 2026</strong>, Fed Chair <strong>Kevin Warsh</strong> said inflation remains too high and that \"we have work to do\" if readings do not improve — without committing to a rate move.</li>\n<li>Markets responded by raising the odds of an <strong>interest-rate increase</strong> at the Fed's September meeting, an unusual bet after a long pause.</li>\n<li>The Fed has held its policy rate at <strong>3.50%–3.75%</strong> for <strong>five consecutive meetings</strong>.</li>\n<li>Chicago Fed President <strong>Austan Goolsbee</strong> agreed inflation is the main problem, noting a couple of calmer months but adding that this is not \"out of the woods\".</li>\n<li>Awkwardly, the growth data has softened: <strong>July payrolls and retail sales both fell</strong>.</li>\n</ul>",
+     "whyHtml": "Rising prices normally come with a hot economy, and the cure — higher rates — cools both. When inflation is stubborn while jobs and spending weaken, the Fed's two goals point in opposite directions, and whichever it chooses, something gives.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Nonfarm payrolls</em> is the monthly US count of jobs added or lost, excluding farm work — the headline gauge of the labour market.</p>",
+     "sourceHtml": "Source: CNBC / Trading Economics, August 27–28, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-08-15",
    "label": "Saturday, 15 August 2026",
