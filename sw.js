@@ -1,9 +1,16 @@
 // Daily Immersive Read — service worker.
-// Strategy: network-first for the page (so a new day's reads always win),
-// falling back to the last cached copy when offline. Icons/manifest are
-// cache-first since they never change.
-const CACHE = 'dir-v1';
-const SHELL = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
+// Shell (html/css/js/icons): stale-while-revalidate, so the app opens instantly
+// and picks up a new build on the next launch.
+// reads.json: network-first, so a fresh day always wins when online.
+// Bump this on every shell change (index.html / app.js / app.css / styles.css).
+// The activate handler deletes any cache whose name differs, so a new version
+// is what forces phones to drop the old JS instead of serving it for another
+// launch or two.
+const CACHE = 'dir-v3';
+const SHELL = [
+  './', './index.html', './app.js', './app.css', './styles.css',
+  './manifest.webmanifest', './icon-192.png', './icon-512.png'
+];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
@@ -20,25 +27,30 @@ self.addEventListener('activate', (e) => {
 self.addEventListener('fetch', (e) => {
   const req = e.request;
   if (req.method !== 'GET') return;
+  const url = new URL(req.url);
+  if (url.origin !== location.origin) return;
 
-  const isPage = req.mode === 'navigate' || (req.headers.get('accept') || '').includes('text/html');
-
-  if (isPage) {
+  // Data — always try the network first.
+  if (url.pathname.endsWith('reads.json')) {
     e.respondWith(
-      fetch(req)
-        .then((res) => {
-          caches.open(CACHE).then((c) => c.put(req, res.clone()));
-          return res;
-        })
-        .catch(() => caches.match(req).then((hit) => hit || caches.match('./index.html')))
+      fetch(req).then((res) => {
+        const copy = res.clone();
+        caches.open(CACHE).then((c) => c.put(req, copy));
+        return res;
+      }).catch(() => caches.match(req))
     );
     return;
   }
 
+  // Shell — serve cache immediately, refresh in the background.
   e.respondWith(
-    caches.match(req).then((hit) => hit || fetch(req).then((res) => {
-      caches.open(CACHE).then((c) => c.put(req, res.clone()));
-      return res;
-    }))
+    caches.match(req).then((hit) => {
+      const net = fetch(req).then((res) => {
+        const copy = res.clone();
+        caches.open(CACHE).then((c) => c.put(req, copy));
+        return res;
+      }).catch(() => hit);
+      return hit || net;
+    })
   );
 });

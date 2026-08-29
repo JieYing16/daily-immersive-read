@@ -1,5 +1,70 @@
 # Daily Immersive Read Log
 
+## 2026-08-15
+
+### Topic: AI Technology
+
+**OpenAI Pauses a Model It Fears**
+
+- In early **August 2026**, **OpenAI** slowed development of its next model, **Astra**, after internal tests suggested it might be able to find and exploit serious software flaws — and attack well-defended computer systems — **without a human directing it**.
+- Astra is the first system OpenAI has classified as **"Critical"** on the cybersecurity scale in its **Preparedness Framework**, the company's own rulebook for deciding when a model is too capable to release as-is.
+- Response measures: testing moved to **isolated machines with no network access**, model weights encrypted more heavily, tool access restricted, and automated monitoring of the model's reasoning steps to catch risky behaviour early.
+- Outside testers, including **government agencies** and the **UK AI Security Institute**, are running their own evaluations.
+
+**Why it matters:** This is the first time a leading lab has publicly held back a model because of *offensive* capability rather than bias or misinformation — a test of whether voluntary safety commitments hold when a product is ready to ship.
+
+**Jargon note:** *Model weights* are the numbers that encode what a model has learned — effectively the model itself, and the thing worth stealing.
+
+*Source: Axios / TechCrunch / OpenAI, August 7–10, 2026*
+
+### Topic: Geopolitics
+
+**The World Now Fights Through Chokepoints**
+
+- Analysts marking **14 August 2026** noted five separate crises converging at once — the **Strait of Hormuz**, the **Black Sea**, the **Taiwan Strait**, drone manufacturing supply chains, and **Gaza**.
+- The common thread: great-power competition is increasingly fought through **control of chokepoints, critical technologies and supply chains** rather than direct battle.
+- The **Strait of Hormuz** has been largely blocked by **Iran** since late February 2026. A June memorandum briefly lifted the **US naval blockade** for a 60-day safe-passage window; after renewed attacks on commercial ships, Washington **reimposed the blockade** in early August.
+- Israeli defence officials have reportedly been surprised by how fast Iran rebuilt capability after the early-2026 war.
+- In the Indo-Pacific, the notable feature is regional states **declining to organise their foreign policy** around US–China rivalry.
+
+**Why it matters:** A handful of narrow waterways carry most of the world's oil and manufactured goods. Whoever can threaten to close one gains leverage without firing on another state directly — and everyone else pays in shipping and insurance costs.
+
+**Jargon note:** A *chokepoint* is a narrow passage that traffic must pass through, making it easy to block.
+
+*Source: Foreign Affairs Forum / Council on Foreign Relations, August 14, 2026*
+
+### Topic: Environment
+
+**Atlantic Current Cares How Fast, Not How Hot**
+
+- A study published in **Nature Climate Change** in **August 2026** (Utrecht University) reframes the risk to the **AMOC** — the Atlantic current system that carries warm water north and keeps north-west Europe unusually mild.
+- Previous thinking assumed a fixed temperature "breaking point". The new work finds stability depends mainly on the **rate** of warming, not the final temperature.
+- In simulations with **slow** CO2 increases, the AMOC stayed stable up to about **+5.5°C** of global warming. Under **fast** increases — closer to today's pace — it collapsed at roughly **+2°C**.
+- The practical reading: emitting the same total carbon more slowly may keep the system intact, while emitting it quickly may not.
+
+**Why it matters:** Climate targets are usually written as temperature limits. If the AMOC responds to speed rather than level, then *how quickly* emissions fall matters as much as the endpoint — a different way of scoring climate policy.
+
+**Jargon note:** *AMOC* stands for Atlantic Meridional Overturning Circulation. The Gulf Stream is part of it.
+
+*Source: Nature Climate Change via Phys.org / ScienceDaily, August 14, 2026*
+
+### Topic: Economics
+
+**AI's Borrowing Binge Lifts Real Yields**
+
+- Inflation-adjusted borrowing costs — **real yields** — have climbed to their highest in **more than a decade** across major economies, as AI companies and governments issue bonds at speed.
+- **US 30-year real yields** are near **3%**, an **18-year high**. UK and German 10-year real yields are also at decade-plus highs.
+- The new ingredient is corporate: **Alphabet, Amazon and Meta** have sold nearly **$220 billion** of bonds so far in 2026, versus **$108 billion** in all of 2025. Morgan Stanley expects total global AI-related debt issuance to top **$570 billion** this year.
+- Higher real yields make bonds more attractive relative to shares and make borrowing dearer for governments, firms and households. Separately, **US retail sales unexpectedly fell in July**.
+
+**Why it matters:** The AI build-out is being financed with borrowed money, and that borrowing is now large enough to move the cost of capital for everyone else — a channel by which an AI slowdown, or an AI boom, reaches ordinary mortgages.
+
+**Jargon note:** *Real yield* is the return on a bond after subtracting expected inflation — the true cost of money.
+
+*Source: Reuters analysis via Investing.com / The Star, August 13–14, 2026*
+
+---
+
 ## 2026-08-13
 
 ### Topic: AI Technology

@@ -1,18 +1,18 @@
 #!/usr/bin/env python3
-"""Generate a mobile-friendly HTML reader from daily_reads.md.
+"""Generate reads.json (the app's data file) from daily_reads.md.
 
-Single source of truth = daily_reads.md (append-only log).
-Run this after each new entry to refresh daily_reads.html:
+Replaces the old build_reader.py, which baked a whole HTML page. The reader is
+now a static PWA (index.html + app.js + app.css + styles.css) that fetches this
+JSON, so a new day only changes data — the shell stays cached.
 
-    pip install markdown        # one-time
+    pip install markdown
     python build_reader.py
-
-Open daily_reads.html in Safari on your iPhone for large, readable text.
 """
+import json
+import math
 import re
 import shutil
 import sys
-from collections import OrderedDict
 from datetime import datetime
 from pathlib import Path
 
@@ -23,208 +23,119 @@ except ImportError:
 
 BASE = Path(__file__).parent
 SRC = BASE / "daily_reads.md"
-OUT = BASE / "index.html"
-LOCAL_COPY = BASE / "daily_reads.html"
+OUT = BASE / "reads.json"
 
-# Topic -> colour accent (falls back to a neutral grey)
-TOPIC_COLOURS = {
-    "ai technology": "#3b82f6",
-    "geopolitics": "#ef4444",
-    "environment/climate": "#22c55e",
-    "environment": "#22c55e",
-    "economics": "#a855f7",
-}
+WORDS_PER_MIN = 200
 
 
-def parse_entries(text):
-    """Split the log on '## YYYY-MM-DD' headers, then split each day's body
-    on '### Topic:' boundaries so a day with multiple topics (the normal
-    case: one entry per topic, up to 4/day) yields one (date, body) pair
-    per topic. Days with a single topic block still work the same way.
-    """
+def slug(s):
+    return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
+
+
+def parse_days(text):
     parts = re.split(r"(?m)^##\s+(\d{4}-\d{2}-\d{2})\s*$", text)
-    entries = []
+    days = []
     for i in range(1, len(parts), 2):
-        date_str = parts[i].strip()
-        date = datetime.strptime(date_str, "%Y-%m-%d")
-        day_body = re.sub(r"(?m)^---\s*$", "", parts[i + 1]).strip()
-        topic_blocks = re.split(r"(?m)(?=^###\s*Topic:)", day_body)
-        for block in topic_blocks:
-            block = block.strip()
-            if block:
-                entries.append((date, block))
-    entries.sort(key=lambda e: e[0], reverse=True)  # newest first
-    return entries
+        date = datetime.strptime(parts[i].strip(), "%Y-%m-%d")
+        body = re.sub(r"(?m)^---\s*$", "", parts[i + 1]).strip()
+        blocks = [b.strip() for b in re.split(r"(?m)(?=^###\s*Topic:)", body) if b.strip()]
+        days.append((date, blocks))
+    days.sort(key=lambda d: d[0], reverse=True)
+    return days
 
 
-def render_card(dt, body, md):
-    """Turn one day's markdown body into a styled HTML card."""
+def split_block(block):
+    """Pull the topic, title and the special lines out of one topic block."""
     topic = ""
-    m = re.search(r"(?m)^###\s*Topic:\s*(.+)$", body)
+    m = re.search(r"(?m)^###\s*Topic:\s*(.+)$", block)
     if m:
         topic = m.group(1).strip()
-        body = re.sub(r"(?m)^###\s*Topic:\s*.+$", "", body)
+        block = re.sub(r"(?m)^###\s*Topic:\s*.+$", "", block)
 
     title = ""
-    tm = re.search(r"(?m)^\*\*(.+?)\*\*\s*$", body)
+    tm = re.search(r"(?m)^\*\*(.+?)\*\*\s*$", block)
     if tm:
         title = tm.group(1).strip()
-        body = body.replace(tm.group(0), "", 1)
+        block = block.replace(tm.group(0), "", 1)
 
-    md.reset()
-    body_html = md.convert(body.strip())
-    # Highlight the takeaway and source lines via CSS hooks
-    body_html = body_html.replace(
-        "<p><strong>Why it matters:</strong>",
-        '<p class="why"><strong>Why it matters:</strong>',
-    )
-    body_html = re.sub(r"<p><em>(Source[^<]*)</em></p>",
-                       r'<p class="source">\1</p>', body_html)
-
-    colour = TOPIC_COLOURS.get(topic.lower(), "#64748b")
-    pill = (f'<span class="topic" style="background:{colour}">{topic}</span>'
-            if topic else "")
-    heading = f'<h2 class="title">{title}</h2>' if title else ""
-    day_label = f"{dt.strftime('%A')}, {dt.day} {dt.strftime('%B %Y')}"
-    return (f'<article class="card">'
-            f'<div class="meta">{pill}'
-            f'<span class="date">{day_label}</span></div>'
-            f'{heading}{body_html}</article>')
+    why = note = source = ""
+    keep = []
+    for line in block.splitlines():
+        s = line.strip()
+        if s.startswith("**Why it matters:**"):
+            why = s[len("**Why it matters:**"):].strip()
+        elif s.startswith("**Jargon note:**"):
+            note = s
+        elif re.match(r"^\*Source", s):
+            source = s.strip("*").strip()
+        else:
+            keep.append(line)
+    return topic, title, "\n".join(keep).strip(), why, note, source
 
 
 def build():
-    entries = parse_entries(SRC.read_text(encoding="utf-8"))
     md = markdown.Markdown(extensions=["extra"])
 
-    months = OrderedDict()
-    for dt, body in entries:
-        months.setdefault(dt.strftime("%Y-%m"), []).append((dt, body))
+    def conv(text):
+        md.reset()
+        return md.convert(text) if text else ""
 
-    sections = []
-    for idx, (key, items) in enumerate(months.items()):
-        label = datetime.strptime(key, "%Y-%m").strftime("%B %Y")
-        cards = "".join(render_card(dt, body, md) for dt, body in items)
-        open_attr = " open" if idx == 0 else ""  # newest month expanded
-        sections.append(
-            f'<details class="month"{open_attr}>'
-            f'<summary>{label}</summary>{cards}</details>'
-        )
+    days = []
+    for date, blocks in parse_days(SRC.read_text(encoding="utf-8")):
+        key = date.strftime("%Y-%m-%d")
+        entries = []
+        for block in blocks:
+            topic, title, body, why, note, source = split_block(block)
+            words = len(re.findall(r"\w+", " ".join([body, why, note])))
+            entries.append({
+                "id": "%s-%s" % (key, slug(topic) or "entry"),
+                "topic": topic,
+                "title": title,
+                "mins": max(1, min(4, math.ceil(words / WORDS_PER_MIN))),
+                "bodyHtml": conv(body),
+                "whyHtml": conv(why).replace("<p>", "").replace("</p>", "").strip(),
+                "noteHtml": conv(note),
+                "sourceHtml": source,
+            })
+        days.append({
+            "date": key,
+            "label": "%s, %d %s" % (date.strftime("%A"), date.day, date.strftime("%B %Y")),
+            "entries": entries,
+        })
 
-    now = datetime.now()
-    generated = f"{now.day} {now.strftime('%b %Y, %H:%M')}"
-    html = HEAD + "".join(sections) + FOOT.replace("{{GEN}}", generated)
-    OUT.write_text(html, encoding="utf-8")
-    LOCAL_COPY.write_text(html, encoding="utf-8")
-    print(f"Wrote {OUT} ({len(entries)} entries)")
-    publish(LOCAL_COPY)
+    payload = {"generated": datetime.now().isoformat(timespec="seconds"), "days": days}
+    OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
+    print("Wrote %s (%d days, %d entries)" % (
+        OUT, len(days), sum(len(d["entries"]) for d in days)))
+    publish(OUT)
 
 
-def publish(html_file):
-    """Copy the reader to a local publish dir (e.g. OneDrive) for the iPhone.
-
-    The destination is read from 'publish_path.txt' (one path per line). That
-    file is gitignored so the public repo never exposes a personal path.
-    Skipped silently if the file is missing.
-
-    Each line is tried directly first (works when run natively, e.g. on
-    Windows). If none of those folders exist — as happens when the scheduled
-    task runs in a Linux sandbox where the real path is mounted elsewhere — the
-    folder is located by name under any '/sessions/*/mnt/' mount.
-    """
+def publish(data_file):
+    """Copy reads.json to a local publish dir (e.g. OneDrive), if configured."""
     cfg = BASE / "publish_path.txt"
     if not cfg.exists():
         return
-    candidates = [ln.strip() for ln in
-                  cfg.read_text(encoding="utf-8").splitlines() if ln.strip()]
-    if not candidates:
+    candidates = [ln.strip() for ln in cfg.read_text(encoding="utf-8").splitlines() if ln.strip()]
+    dest = _resolve_dest(candidates)
+    if dest is None:
+        print("Publish skipped: no destination found from %s" % candidates)
         return
-    dest_dir = _resolve_dest(candidates)
-    if dest_dir is None:
-        print(f"Publish skipped: no destination found from {candidates}")
-        return
-    shutil.copy2(html_file, dest_dir / html_file.name)
-    print(f"Published to {dest_dir / html_file.name}")
+    shutil.copy2(data_file, dest / data_file.name)
+    print("Published to %s" % (dest / data_file.name))
 
 
 def _resolve_dest(candidates):
-    """Return the first usable publish folder, or None."""
-    # 1. Direct match — the path exists as written (native run).
     for c in candidates:
         p = Path(c)
         if p.is_dir():
             return p
-    # 2. Sandbox fallback — find the folder by name under any session mount.
     for c in candidates:
-        name = Path(c.replace("\\", "/")).name  # basename, even for C:\... paths
-        for hit in sorted(Path("/sessions").glob(f"*/mnt/{name}")):
+        name = Path(c.replace("\\", "/")).name
+        for hit in sorted(Path("/sessions").glob("*/mnt/%s" % name)):
             if hit.is_dir():
                 return hit
     return None
 
-
-HEAD = """<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Daily Immersive Read</title>
-<style>
-  :root { font-size: 19px; }
-  * { box-sizing: border-box; }
-  body {
-    margin: 0; padding: 16px max(16px, env(safe-area-inset-right)) 48px;
-    max-width: 700px; margin-inline: auto;
-    font-family: -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
-    line-height: 1.7; color: #1c1c1e; background: #f2f2f7;
-    -webkit-text-size-adjust: 100%;
-  }
-  h1.page { font-size: 1.7rem; margin: 8px 0 20px; }
-  details.month { margin-bottom: 22px; }
-  details.month > summary {
-    font-size: 1.15rem; font-weight: 700; padding: 12px 4px;
-    cursor: pointer; list-style: none; color: #3a3a3c;
-    border-bottom: 2px solid #d1d1d6;
-  }
-  details.month > summary::-webkit-details-marker { display: none; }
-  details.month > summary::after { content: " ▾"; color: #8e8e93; }
-  details.month:not([open]) > summary::after { content: " ▸"; }
-  .card {
-    background: #fff; border-radius: 18px; padding: 22px 20px;
-    margin: 18px 0; box-shadow: 0 1px 4px rgba(0,0,0,.08);
-  }
-  .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 10px;
-          margin-bottom: 10px; }
-  .topic { color: #fff; font-size: .8rem; font-weight: 700;
-           letter-spacing: .03em; text-transform: uppercase;
-           padding: 3px 10px; border-radius: 999px; }
-  .date { color: #8e8e93; font-size: .9rem; }
-  h2.title { font-size: 1.4rem; line-height: 1.3; margin: 6px 0 14px; }
-  .card ul { padding-left: 1.2em; margin: 12px 0; }
-  .card li { margin-bottom: 10px; }
-  .card p { margin: 12px 0; }
-  .why { background: #fff8e1; border-left: 4px solid #f59e0b;
-         padding: 12px 14px; border-radius: 8px; }
-  .source { color: #8e8e93; font-size: .85rem; font-style: italic; }
-  @media (prefers-color-scheme: dark) {
-    body { background: #000; color: #e5e5ea; }
-    .card { background: #1c1c1e; box-shadow: none; }
-    details.month > summary { color: #d1d1d6; border-color: #38383a; }
-    .date, .source { color: #8e8e93; }
-    .why { background: #2a2410; border-left-color: #f59e0b; }
-  }
-</style>
-</head>
-<body>
-<h1 class="page">Daily Immersive Read</h1>
-"""
-
-FOOT = """
-<p class="source" style="text-align:center;margin-top:32px">
-  Generated {{GEN}}
-</p>
-</body>
-</html>
-"""
 
 if __name__ == "__main__":
     build()
