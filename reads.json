@@ -1,6 +1,52 @@
 {
- "generated": "2026-08-29T18:05:03",
+ "generated": "2026-08-30T15:17:52",
  "days": [
+  {
+   "date": "2026-08-30",
+   "label": "Sunday, 30 August 2026",
+   "entries": [
+    {
+     "id": "2026-08-30-ai-technology",
+     "topic": "AI Technology",
+     "title": "OpenAI's Own Chip Outruns Nvidia's Best",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>At the <strong>Hot Chips</strong> conference on <strong>25 August 2026</strong>, OpenAI published the first benchmarks for <strong>Jalapeño</strong>, the custom chip it designed with <strong>Broadcom</strong> and unveiled in June.</li>\n<li>On <strong>InferenceX</strong>, a public benchmark run by SemiAnalysis, Jalapeño did <strong>1.5–1.9× more AI work per watt</strong> than Nvidia's <strong>GB200 and GB300</strong> systems, with <strong>1.7–3.6× lower</strong> end-to-end delay, across three open models (GPT-OSS 120B, DeepSeek R1, Kimi K2.5).</li>\n<li>The results were independently verified. OpenAI used its own models to help design the chip, going from hiring a team to finished design in about <strong>16 months</strong>.</li>\n<li>Deployment starts in \"<strong>very small volumes</strong>\" by the end of 2026, scaling up in <strong>2027</strong>. OpenAI says it will keep buying Nvidia hardware regardless.</li>\n</ul>",
+     "whyHtml": "Nvidia's dominance rests partly on the assumption that nobody else can build competitive AI silicon. A customer proving otherwise — while still buying — signals that the profit margins on AI chips may narrow, which eventually shapes what running AI costs everyone downstream.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Inference</em> is a model answering a question, as opposed to <em>training</em>, which is teaching it in the first place. Inference is the part that runs millions of times a day, so efficiency per watt is where the electricity bill lives.</p>",
+     "sourceHtml": "Source: CNBC / SemiAnalysis / Seeking Alpha, August 25–26, 2026"
+    },
+    {
+     "id": "2026-08-30-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Syria's Kurdish Militia Dissolves Into The State",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>On <strong>25 August 2026</strong>, commander <strong>Mazloum Abdi</strong> announced that the <strong>Syrian Democratic Forces (SDF)</strong> — the Kurdish-led militia that held Syria's northeast for a decade — would dissolve as an independent army and merge into Syria's national military.</li>\n<li>Two days later, on <strong>27 August</strong>, President <strong>Ahmed al-Sharaa</strong> appointed Abdi a <strong>presidential adviser</strong>, folding the former commander into the new government rather than sidelining him.</li>\n<li>Alongside the merger, <strong>Kurdish</strong> will formally enter Syria's school system for the first time from the <strong>2026–2027</strong> academic year, as an elective taught two periods a week.</li>\n<li>The SDF was the main US partner on the ground against the Islamic State, so its dissolution also rewrites how Washington engages northeastern Syria.</li>\n</ul>",
+     "whyHtml": "Post-war countries usually fail at exactly this step — persuading armed groups to give up their guns in exchange for a place in the state. Syria is attempting it with the largest such group, and the language concession suggests the bargain is political recognition, not just rank. Whether it holds is the test of whether Syria has one government or several.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Integration</em> here means fighters keep serving but under a national chain of command, rather than answering to their own commanders.</p>",
+     "sourceHtml": "Source: Al Jazeera / France 24 / The National, August 25–27, 2026"
+    },
+    {
+     "id": "2026-08-30-environment",
+     "topic": "Environment",
+     "title": "Arctic Melt Season Quietly Strips Ocean Nutrients",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The <strong>Met Office's August 2026</strong> sea-ice briefing put Arctic ice extent on <strong>2 August</strong> at <strong>7.02 million sq km</strong> — the <strong>9th lowest</strong> for that date since satellite records began in <strong>1979</strong>, and <strong>1.38 million sq km</strong> below the 1981–2010 average.</li>\n<li>By <strong>16 August</strong> the ranking was similar: 8th lowest by Japan's JAXA, 9th by the US <strong>NSIDC</strong>. The annual minimum arrives around mid-September.</li>\n<li>The sharpest changes came on the <strong>Pacific side</strong> of the Arctic during the first half of August.</li>\n<li>Separately, researchers report that fast-vanishing sea ice is driving a chemical shift that <strong>strips nitrate</strong> from Arctic surface waters — a nutrient the plankton at the base of the food web depend on.</li>\n</ul>",
+     "whyHtml": "Headlines track ice as a number, and 9th-lowest sounds unremarkable next to a record. The nutrient finding is the reason it isn't: less ice changes how the water mixes, and a food web can be quietly starved without any dramatic figure being broken.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Sea-ice extent</em> counts ocean area at least 15% covered by ice. It says nothing about thickness, which is why extent can look stable while the ice thins.</p>",
+     "sourceHtml": "Source: Met Office / NSIDC / ScienceDaily, August 2–16, 2026"
+    },
+    {
+     "id": "2026-08-30-economics",
+     "topic": "Economics",
+     "title": "US Tariffs Hit Highest Level Since 1930s",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The average tariff on goods entering the <strong>United States</strong> reached about <strong>19.5%</strong> by the end of <strong>August 2026</strong> — higher than at any point between the <strong>1930s</strong> and <strong>2024</strong>, according to J.P. Morgan's tracking.</li>\n<li>The administration has signalled tariffs on <strong>pharmaceuticals</strong> could climb toward <strong>200%</strong> by late 2026.</li>\n<li>The <strong>Tax Foundation</strong> estimates the imposed and scheduled tariffs will reduce long-run US GDP by <strong>0.4%</strong> and hours worked by the equivalent of <strong>345,000 full-time jobs</strong>.</li>\n<li>Effects show up abroad too: <strong>Japan's</strong> 2026 growth is forecast at <strong>0.4%</strong>, down from about <strong>1.1%</strong> in 2025, largely on tariff drag.</li>\n<li>The <strong>World Bank</strong> still expects global growth of <strong>2.6%</strong> in 2026 — resilient, but slightly below 2025's 2.7%.</li>\n</ul>",
+     "whyHtml": "A tariff is a tax paid at the border, and someone downstream absorbs it — importer, retailer or shopper. At 19.5% average, the US has quietly reversed roughly ninety years of falling trade barriers, and the cost lands gradually, in prices, rather than as a single announcement.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Long-run GDP</em> means the size of the economy after it has fully adjusted, typically over a decade — not next year's growth figure.</p>",
+     "sourceHtml": "Source: J.P. Morgan Global Research / Tax Foundation / World Bank, August 2026"
+    }
+   ]
+  },
   {
    "date": "2026-08-29",
    "label": "Saturday, 29 August 2026",

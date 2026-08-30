@@ -1,5 +1,70 @@
 # Daily Immersive Read Log
 
+## 2026-08-30
+
+### Topic: AI Technology
+
+**OpenAI's Own Chip Outruns Nvidia's Best**
+
+- At the **Hot Chips** conference on **25 August 2026**, OpenAI published the first benchmarks for **Jalapeño**, the custom chip it designed with **Broadcom** and unveiled in June.
+- On **InferenceX**, a public benchmark run by SemiAnalysis, Jalapeño did **1.5–1.9× more AI work per watt** than Nvidia's **GB200 and GB300** systems, with **1.7–3.6× lower** end-to-end delay, across three open models (GPT-OSS 120B, DeepSeek R1, Kimi K2.5).
+- The results were independently verified. OpenAI used its own models to help design the chip, going from hiring a team to finished design in about **16 months**.
+- Deployment starts in "**very small volumes**" by the end of 2026, scaling up in **2027**. OpenAI says it will keep buying Nvidia hardware regardless.
+
+**Why it matters:** Nvidia's dominance rests partly on the assumption that nobody else can build competitive AI silicon. A customer proving otherwise — while still buying — signals that the profit margins on AI chips may narrow, which eventually shapes what running AI costs everyone downstream.
+
+**Jargon note:** *Inference* is a model answering a question, as opposed to *training*, which is teaching it in the first place. Inference is the part that runs millions of times a day, so efficiency per watt is where the electricity bill lives.
+
+*Source: CNBC / SemiAnalysis / Seeking Alpha, August 25–26, 2026*
+
+### Topic: Geopolitics
+
+**Syria's Kurdish Militia Dissolves Into The State**
+
+- On **25 August 2026**, commander **Mazloum Abdi** announced that the **Syrian Democratic Forces (SDF)** — the Kurdish-led militia that held Syria's northeast for a decade — would dissolve as an independent army and merge into Syria's national military.
+- Two days later, on **27 August**, President **Ahmed al-Sharaa** appointed Abdi a **presidential adviser**, folding the former commander into the new government rather than sidelining him.
+- Alongside the merger, **Kurdish** will formally enter Syria's school system for the first time from the **2026–2027** academic year, as an elective taught two periods a week.
+- The SDF was the main US partner on the ground against the Islamic State, so its dissolution also rewrites how Washington engages northeastern Syria.
+
+**Why it matters:** Post-war countries usually fail at exactly this step — persuading armed groups to give up their guns in exchange for a place in the state. Syria is attempting it with the largest such group, and the language concession suggests the bargain is political recognition, not just rank. Whether it holds is the test of whether Syria has one government or several.
+
+**Jargon note:** *Integration* here means fighters keep serving but under a national chain of command, rather than answering to their own commanders.
+
+*Source: Al Jazeera / France 24 / The National, August 25–27, 2026*
+
+### Topic: Environment
+
+**Arctic Melt Season Quietly Strips Ocean Nutrients**
+
+- The **Met Office's August 2026** sea-ice briefing put Arctic ice extent on **2 August** at **7.02 million sq km** — the **9th lowest** for that date since satellite records began in **1979**, and **1.38 million sq km** below the 1981–2010 average.
+- By **16 August** the ranking was similar: 8th lowest by Japan's JAXA, 9th by the US **NSIDC**. The annual minimum arrives around mid-September.
+- The sharpest changes came on the **Pacific side** of the Arctic during the first half of August.
+- Separately, researchers report that fast-vanishing sea ice is driving a chemical shift that **strips nitrate** from Arctic surface waters — a nutrient the plankton at the base of the food web depend on.
+
+**Why it matters:** Headlines track ice as a number, and 9th-lowest sounds unremarkable next to a record. The nutrient finding is the reason it isn't: less ice changes how the water mixes, and a food web can be quietly starved without any dramatic figure being broken.
+
+**Jargon note:** *Sea-ice extent* counts ocean area at least 15% covered by ice. It says nothing about thickness, which is why extent can look stable while the ice thins.
+
+*Source: Met Office / NSIDC / ScienceDaily, August 2–16, 2026*
+
+### Topic: Economics
+
+**US Tariffs Hit Highest Level Since 1930s**
+
+- The average tariff on goods entering the **United States** reached about **19.5%** by the end of **August 2026** — higher than at any point between the **1930s** and **2024**, according to J.P. Morgan's tracking.
+- The administration has signalled tariffs on **pharmaceuticals** could climb toward **200%** by late 2026.
+- The **Tax Foundation** estimates the imposed and scheduled tariffs will reduce long-run US GDP by **0.4%** and hours worked by the equivalent of **345,000 full-time jobs**.
+- Effects show up abroad too: **Japan's** 2026 growth is forecast at **0.4%**, down from about **1.1%** in 2025, largely on tariff drag.
+- The **World Bank** still expects global growth of **2.6%** in 2026 — resilient, but slightly below 2025's 2.7%.
+
+**Why it matters:** A tariff is a tax paid at the border, and someone downstream absorbs it — importer, retailer or shopper. At 19.5% average, the US has quietly reversed roughly ninety years of falling trade barriers, and the cost lands gradually, in prices, rather than as a single announcement.
+
+**Jargon note:** *Long-run GDP* means the size of the economy after it has fully adjusted, typically over a decade — not next year's growth figure.
+
+*Source: J.P. Morgan Global Research / Tax Foundation / World Bank, August 2026*
+
+---
+
 ## 2026-08-29
 
 ### Topic: AI Technology
