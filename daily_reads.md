@@ -1,5 +1,69 @@
 # Daily Immersive Read Log
 
+## 2026-09-01
+
+### Topic: AI Technology
+
+**Google's Most Google Person Walks Out**
+
+- **Jeff Dean**, who joined Google in **1999** and became its chief scientist, has left after **27 years** to co-found a startup called **Discovery Loop**.
+- Three more senior figures went with him: **Sanjay Ghemawat**, his long-time engineering partner, plus **Oriol Vinyals** from DeepMind and **Quoc Le** from Google Brain.
+- Discovery Loop is set up as a **public benefit corporation** and aims to automate scientific and engineering research itself — starting with machine-learning research, then hardware design, drug discovery and clean energy.
+- Google is a **founding investor and cloud partner**, so the split is amicable. **Radical Ventures** and **Khosla Ventures** are co-leading a seed round that remains open.
+
+**Why it matters:** Dean built much of the plumbing modern computing runs on, so his departure is read as a signal about where the interesting work now sits. The bet behind Discovery Loop is bigger than another chatbot: that AI's main payoff is speeding up research itself, compounding into every field that depends on experiments.
+
+**Jargon note:** A *public benefit corporation* is a for-profit company legally required to weigh a stated public mission alongside shareholder returns.
+
+*Source: Bloomberg / Yahoo Finance / TechTimes, August 2026*
+
+### Topic: Geopolitics
+
+**America Strikes Iran Again Over Mines**
+
+- On **30 August 2026**, US forces struck **two Iranian rocket launchers** on **Larak Island**, after the Revolutionary Guards were seen preparing to fire rockets carrying **sea mines** into the Strait of Hormuz.
+- It was the first known US strike inside Iran in about **a month**, ending a lull that began when President Trump paused a two-week campaign in late July.
+- Iran said it retaliated against air bases in **Jordan** and the **UAE**; the UAE separately reported intercepting an Iranian drone over its waters. Both Washington and Tehran claim they control the strait.
+- US military leaders have reportedly warned Defense Secretary **Pete Hegseth** that a prolonged campaign against Iran is unsustainable and would weaken readiness elsewhere.
+
+**Why it matters:** Roughly a fifth of the world's oil moves through this one waterway, and mines are cheap, hard to find and slow to clear. Even the threat of them raises insurance costs and reroutes ships, so a small strike on two launchers is really a fight over whether global shipping trusts the route at all.
+
+**Jargon note:** A *sea mine* is an explosive left floating or anchored underwater, triggered by a passing ship. Clearing them takes specialised vessels and weeks.
+
+*Source: Axios / Fortune / Newsweek, August 30, 2026*
+
+### Topic: Environment
+
+**Manhattan-Sized Ice Island Leaves Greenland**
+
+- On **4 August 2026**, a **76.4 sq km** slab broke free from the floating tongue of **Petermann Glacier** in northwest Greenland — an area roughly the size of Manhattan, and possibly **150 m thick**.
+- It is Petermann's largest loss of floating ice since **2012**, and the biggest Arctic calving event since **2020**.
+- **ESA's Sentinel-1** satellites caught cracks spreading along the ice tongue's centreline on **3 August**, a day before the break. The event was spotted by a PhD student at the **University of Ottawa**.
+- The new ice island drifted quickly into **Nares Strait**, colliding with an island on the way. Researchers are tracking it by satellite and aerial survey.
+
+**Why it matters:** A floating ice tongue is already in the water, so losing it doesn't directly raise sea level. The concern is what it was doing before it left: acting as a brake on the land ice behind it. Remove the brake and the glacier can flow faster — and that ice does raise the sea.
+
+**Jargon note:** *Calving* is when a chunk breaks off a glacier's end. A *tabular* iceberg is the flat-topped kind that comes off a floating ice shelf or tongue.
+
+*Source: ESA / ScienceDaily / Phys.org, August 4–26, 2026*
+
+### Topic: Economics
+
+**Fed Chair Warsh Refuses To Blink**
+
+- Speaking at the **Jackson Hole** symposium in late August, Fed chair **Kevin Warsh** said this summer's better-than-expected inflation readings do **not** convince him the underlying trend has improved.
+- The message was that recent data is not enough to justify softening policy — a hawkish stance that helped push **Treasury yields to multi-year highs** during August.
+- Second-quarter **GDP** grew at an annual rate of just **1.5%**, so the economy is cooling while the Fed stays cautious on cutting.
+- The **August jobs report**, due **Friday 4 September**, is the next test. Forecasts range widely: economists broadly expect around **55,000** new jobs, while **Barclays** predicts just **25,000** — which would put the three-month average near **7,000**, roughly the level where the labour market stops growing at all.
+
+**Why it matters:** The Fed is caught between two risks it can't fix at once — cut rates and inflation may stick, hold and hiring may stall. Which way it leans decides borrowing costs on mortgages, cards and business loans for everyone else.
+
+**Jargon note:** *Hawkish* means favouring higher interest rates to fight inflation; *dovish* means favouring lower rates to support jobs and growth.
+
+*Source: CNBC / Bloomberg / Kiplinger, August 29–31, 2026*
+
+---
+
 ## 2026-08-30
 
 ### Topic: AI Technology

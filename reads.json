@@ -1,6 +1,52 @@
 {
- "generated": "2026-08-30T23:17:51",
+ "generated": "2026-09-01T15:05:03",
  "days": [
+  {
+   "date": "2026-09-01",
+   "label": "Tuesday, 1 September 2026",
+   "entries": [
+    {
+     "id": "2026-09-01-ai-technology",
+     "topic": "AI Technology",
+     "title": "Google's Most Google Person Walks Out",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li><strong>Jeff Dean</strong>, who joined Google in <strong>1999</strong> and became its chief scientist, has left after <strong>27 years</strong> to co-found a startup called <strong>Discovery Loop</strong>.</li>\n<li>Three more senior figures went with him: <strong>Sanjay Ghemawat</strong>, his long-time engineering partner, plus <strong>Oriol Vinyals</strong> from DeepMind and <strong>Quoc Le</strong> from Google Brain.</li>\n<li>Discovery Loop is set up as a <strong>public benefit corporation</strong> and aims to automate scientific and engineering research itself — starting with machine-learning research, then hardware design, drug discovery and clean energy.</li>\n<li>Google is a <strong>founding investor and cloud partner</strong>, so the split is amicable. <strong>Radical Ventures</strong> and <strong>Khosla Ventures</strong> are co-leading a seed round that remains open.</li>\n</ul>",
+     "whyHtml": "Dean built much of the plumbing modern computing runs on, so his departure is read as a signal about where the interesting work now sits. The bet behind Discovery Loop is bigger than another chatbot: that AI's main payoff is speeding up research itself, compounding into every field that depends on experiments.",
+     "noteHtml": "<p><strong>Jargon note:</strong> A <em>public benefit corporation</em> is a for-profit company legally required to weigh a stated public mission alongside shareholder returns.</p>",
+     "sourceHtml": "Source: Bloomberg / Yahoo Finance / TechTimes, August 2026"
+    },
+    {
+     "id": "2026-09-01-geopolitics",
+     "topic": "Geopolitics",
+     "title": "America Strikes Iran Again Over Mines",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>30 August 2026</strong>, US forces struck <strong>two Iranian rocket launchers</strong> on <strong>Larak Island</strong>, after the Revolutionary Guards were seen preparing to fire rockets carrying <strong>sea mines</strong> into the Strait of Hormuz.</li>\n<li>It was the first known US strike inside Iran in about <strong>a month</strong>, ending a lull that began when President Trump paused a two-week campaign in late July.</li>\n<li>Iran said it retaliated against air bases in <strong>Jordan</strong> and the <strong>UAE</strong>; the UAE separately reported intercepting an Iranian drone over its waters. Both Washington and Tehran claim they control the strait.</li>\n<li>US military leaders have reportedly warned Defense Secretary <strong>Pete Hegseth</strong> that a prolonged campaign against Iran is unsustainable and would weaken readiness elsewhere.</li>\n</ul>",
+     "whyHtml": "Roughly a fifth of the world's oil moves through this one waterway, and mines are cheap, hard to find and slow to clear. Even the threat of them raises insurance costs and reroutes ships, so a small strike on two launchers is really a fight over whether global shipping trusts the route at all.",
+     "noteHtml": "<p><strong>Jargon note:</strong> A <em>sea mine</em> is an explosive left floating or anchored underwater, triggered by a passing ship. Clearing them takes specialised vessels and weeks.</p>",
+     "sourceHtml": "Source: Axios / Fortune / Newsweek, August 30, 2026"
+    },
+    {
+     "id": "2026-09-01-environment",
+     "topic": "Environment",
+     "title": "Manhattan-Sized Ice Island Leaves Greenland",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>4 August 2026</strong>, a <strong>76.4 sq km</strong> slab broke free from the floating tongue of <strong>Petermann Glacier</strong> in northwest Greenland — an area roughly the size of Manhattan, and possibly <strong>150 m thick</strong>.</li>\n<li>It is Petermann's largest loss of floating ice since <strong>2012</strong>, and the biggest Arctic calving event since <strong>2020</strong>.</li>\n<li><strong>ESA's Sentinel-1</strong> satellites caught cracks spreading along the ice tongue's centreline on <strong>3 August</strong>, a day before the break. The event was spotted by a PhD student at the <strong>University of Ottawa</strong>.</li>\n<li>The new ice island drifted quickly into <strong>Nares Strait</strong>, colliding with an island on the way. Researchers are tracking it by satellite and aerial survey.</li>\n</ul>",
+     "whyHtml": "A floating ice tongue is already in the water, so losing it doesn't directly raise sea level. The concern is what it was doing before it left: acting as a brake on the land ice behind it. Remove the brake and the glacier can flow faster — and that ice does raise the sea.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Calving</em> is when a chunk breaks off a glacier's end. A <em>tabular</em> iceberg is the flat-topped kind that comes off a floating ice shelf or tongue.</p>",
+     "sourceHtml": "Source: ESA / ScienceDaily / Phys.org, August 4–26, 2026"
+    },
+    {
+     "id": "2026-09-01-economics",
+     "topic": "Economics",
+     "title": "Fed Chair Warsh Refuses To Blink",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Speaking at the <strong>Jackson Hole</strong> symposium in late August, Fed chair <strong>Kevin Warsh</strong> said this summer's better-than-expected inflation readings do <strong>not</strong> convince him the underlying trend has improved.</li>\n<li>The message was that recent data is not enough to justify softening policy — a hawkish stance that helped push <strong>Treasury yields to multi-year highs</strong> during August.</li>\n<li>Second-quarter <strong>GDP</strong> grew at an annual rate of just <strong>1.5%</strong>, so the economy is cooling while the Fed stays cautious on cutting.</li>\n<li>The <strong>August jobs report</strong>, due <strong>Friday 4 September</strong>, is the next test. Forecasts range widely: economists broadly expect around <strong>55,000</strong> new jobs, while <strong>Barclays</strong> predicts just <strong>25,000</strong> — which would put the three-month average near <strong>7,000</strong>, roughly the level where the labour market stops growing at all.</li>\n</ul>",
+     "whyHtml": "The Fed is caught between two risks it can't fix at once — cut rates and inflation may stick, hold and hiring may stall. Which way it leans decides borrowing costs on mortgages, cards and business loans for everyone else.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Hawkish</em> means favouring higher interest rates to fight inflation; <em>dovish</em> means favouring lower rates to support jobs and growth.</p>",
+     "sourceHtml": "Source: CNBC / Bloomberg / Kiplinger, August 29–31, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-08-30",
    "label": "Sunday, 30 August 2026",
