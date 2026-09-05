@@ -1,6 +1,52 @@
 {
- "generated": "2026-09-01T23:05:02",
+ "generated": "2026-09-05T17:42:28",
  "days": [
+  {
+   "date": "2026-09-05",
+   "label": "Saturday, 5 September 2026",
+   "entries": [
+    {
+     "id": "2026-09-05-ai-technology",
+     "topic": "AI Technology",
+     "title": "The AI Boom Runs Out Of Transformers",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>America's AI data-centre buildout is stalling on hardware nobody talks about: <strong>transformers</strong>, <strong>switchgear</strong> and substations that move electricity into the buildings.</li>\n<li>Roughly <strong>12 GW</strong> of new US data-centre capacity is meant to come online in <strong>2026</strong>, but only about <strong>a third</strong> of it is actually under construction. Analysts estimate around <strong>40%</strong> of planned capacity faces delays.</li>\n<li>The shortage is real, not theoretical: power transformers are running an estimated <strong>15%</strong> below demand, and lead times for the largest units have stretched to as long as <strong>five years</strong>.</li>\n<li>Much of the equipment comes from <strong>China</strong> — near <strong>30%</strong> of some transformer and switchgear categories, and over <strong>40%</strong> of US power equipment overall — just as Washington restricts exactly those imports.</li>\n</ul>",
+     "whyHtml": "The bottleneck for AI has quietly shifted from chips to electricity. A data centre can have every GPU it ordered and still sit dark for years waiting on one steel-and-copper box. That is a slower, harder problem to buy your way out of, and it puts a real ceiling on how fast AI capacity can actually grow.",
+     "noteHtml": "<p><strong>Jargon note:</strong> A <em>transformer</em> here is the electrical kind — a device that steps voltage up or down so grid power can be used in a building. Nothing to do with the AI model architecture of the same name.</p>",
+     "sourceHtml": "Source: CNBC / Tom's Hardware, September 3, 2026"
+    },
+    {
+     "id": "2026-09-05-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Putin Dangles A Deal, Again",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Speaking at the <strong>Eastern Economic Forum</strong> in <strong>Vladivostok</strong> on <strong>3 September 2026</strong>, President <strong>Vladimir Putin</strong> said there was a chance of reaching an agreement to end the war in Ukraine.</li>\n<li>He insisted Russia and Ukraine \"should come to an agreement between themselves first of all\", and said contacts continue — but mainly through <strong>intelligence channels</strong>, not formal talks.</li>\n<li>Putin also called Ukrainian attacks on civilian merchant ships and reported threats to civilian aircraft \"acts of state terrorism\", saying they complicate the prospects for talks.</li>\n<li><strong>President Zelenskiy</strong> said preliminary dates had been set for a visit by <strong>US negotiators</strong> to both countries, and Kyiv described a \"new dynamic\" in peace efforts.</li>\n</ul>",
+     "whyHtml": "After roughly <strong>four and a half years</strong> of war and a front line that has barely moved, no formal peace talks have happened since <strong>February</strong>. So the meaningful detail is not the optimism — Putin has offered that before — but the scheduling of American negotiators. Words are cheap; calendar dates are the first thing that costs something.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Reuters / NBC News / Bloomberg, September 3–4, 2026"
+    },
+    {
+     "id": "2026-09-05-environment",
+     "topic": "Environment",
+     "title": "The UN Concedes 1.5 Degrees Is Gone",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>2 September 2026</strong>, the <strong>UN Environment Programme</strong> published <em>Limiting Overshoot</em>, its first report to accept that global warming will cross the <strong>1.5°C</strong> Paris Agreement threshold — likely within a few years.</li>\n<li>Even the most optimistic scenario modelled has temperatures peaking at <strong>1.8°C</strong>. Most scenarios peak higher.</li>\n<li>The report reframes the goal as <strong>\"overshoot, peak and decline\"</strong>: go past 1.5°C, get the peak as low as possible, then come back under it as fast as possible.</li>\n<li>It warns that some consequences — ecosystem collapse, glacier loss, pressure on food and water — may be <strong>irreversible</strong> even if temperatures later fall.</li>\n</ul>",
+     "whyHtml": "For a decade, 1.5°C was framed as a line the world could still avoid crossing. The UN's own agency now says it won't be. That changes the question from prevention to damage control: how high the peak goes, how long it lasts, and how well people are protected while it does. Adaptation stops being a fallback and becomes half the job.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Overshoot</em> means exceeding a temperature limit temporarily, then returning below it — usually by removing carbon from the atmosphere later.</p>",
+     "sourceHtml": "Source: UNEP / UN News / Nature, September 2, 2026"
+    },
+    {
+     "id": "2026-09-05-economics",
+     "topic": "Economics",
+     "title": "Jobs Report Blows Past Every Forecast",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>US <strong>nonfarm payrolls</strong> rose <strong>162,000</strong> in August, against a consensus forecast of about <strong>53,000</strong> — roughly triple what economists expected.</li>\n<li>The <strong>unemployment rate</strong> held steady at <strong>4.1%</strong>, and the month's gain far outpaced the <strong>31,000</strong> average over the previous 12 months.</li>\n<li>Growth was concentrated in a few places: <strong>leisure and hospitality</strong> added <strong>62,000</strong> jobs (<strong>59,000</strong> of them in restaurants and bars), and <strong>local government education</strong> added <strong>42,000</strong>, reversing a prior decline.</li>\n<li>Traders reacted by raising bets that the Fed could <strong>hike</strong> rates at this month's meeting, not cut.</li>\n</ul>",
+     "whyHtml": "Days earlier the worry was that hiring had nearly stopped — some forecasts implied a labour market barely growing at all. One strong month flips that story and removes the Fed's easiest excuse to cut rates. For anyone with a mortgage, credit card or business loan, \"good news on jobs\" and \"cheaper borrowing\" are pulling in opposite directions.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Nonfarm payrolls</em> counts jobs added or lost across the US economy excluding farms, published monthly. It is the single most closely watched US economic number.</p>",
+     "sourceHtml": "Source: CNBC / UPI / BLS, September 4, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-09-01",
    "label": "Tuesday, 1 September 2026",

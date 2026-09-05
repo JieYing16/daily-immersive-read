@@ -1,5 +1,67 @@
 # Daily Immersive Read Log
 
+## 2026-09-05
+
+### Topic: AI Technology
+
+**The AI Boom Runs Out Of Transformers**
+
+- America's AI data-centre buildout is stalling on hardware nobody talks about: **transformers**, **switchgear** and substations that move electricity into the buildings.
+- Roughly **12 GW** of new US data-centre capacity is meant to come online in **2026**, but only about **a third** of it is actually under construction. Analysts estimate around **40%** of planned capacity faces delays.
+- The shortage is real, not theoretical: power transformers are running an estimated **15%** below demand, and lead times for the largest units have stretched to as long as **five years**.
+- Much of the equipment comes from **China** — near **30%** of some transformer and switchgear categories, and over **40%** of US power equipment overall — just as Washington restricts exactly those imports.
+
+**Why it matters:** The bottleneck for AI has quietly shifted from chips to electricity. A data centre can have every GPU it ordered and still sit dark for years waiting on one steel-and-copper box. That is a slower, harder problem to buy your way out of, and it puts a real ceiling on how fast AI capacity can actually grow.
+
+**Jargon note:** A *transformer* here is the electrical kind — a device that steps voltage up or down so grid power can be used in a building. Nothing to do with the AI model architecture of the same name.
+
+*Source: CNBC / Tom's Hardware, September 3, 2026*
+
+### Topic: Geopolitics
+
+**Putin Dangles A Deal, Again**
+
+- Speaking at the **Eastern Economic Forum** in **Vladivostok** on **3 September 2026**, President **Vladimir Putin** said there was a chance of reaching an agreement to end the war in Ukraine.
+- He insisted Russia and Ukraine "should come to an agreement between themselves first of all", and said contacts continue — but mainly through **intelligence channels**, not formal talks.
+- Putin also called Ukrainian attacks on civilian merchant ships and reported threats to civilian aircraft "acts of state terrorism", saying they complicate the prospects for talks.
+- **President Zelenskiy** said preliminary dates had been set for a visit by **US negotiators** to both countries, and Kyiv described a "new dynamic" in peace efforts.
+
+**Why it matters:** After roughly **four and a half years** of war and a front line that has barely moved, no formal peace talks have happened since **February**. So the meaningful detail is not the optimism — Putin has offered that before — but the scheduling of American negotiators. Words are cheap; calendar dates are the first thing that costs something.
+
+*Source: Reuters / NBC News / Bloomberg, September 3–4, 2026*
+
+### Topic: Environment
+
+**The UN Concedes 1.5 Degrees Is Gone**
+
+- On **2 September 2026**, the **UN Environment Programme** published *Limiting Overshoot*, its first report to accept that global warming will cross the **1.5°C** Paris Agreement threshold — likely within a few years.
+- Even the most optimistic scenario modelled has temperatures peaking at **1.8°C**. Most scenarios peak higher.
+- The report reframes the goal as **"overshoot, peak and decline"**: go past 1.5°C, get the peak as low as possible, then come back under it as fast as possible.
+- It warns that some consequences — ecosystem collapse, glacier loss, pressure on food and water — may be **irreversible** even if temperatures later fall.
+
+**Why it matters:** For a decade, 1.5°C was framed as a line the world could still avoid crossing. The UN's own agency now says it won't be. That changes the question from prevention to damage control: how high the peak goes, how long it lasts, and how well people are protected while it does. Adaptation stops being a fallback and becomes half the job.
+
+**Jargon note:** *Overshoot* means exceeding a temperature limit temporarily, then returning below it — usually by removing carbon from the atmosphere later.
+
+*Source: UNEP / UN News / Nature, September 2, 2026*
+
+### Topic: Economics
+
+**Jobs Report Blows Past Every Forecast**
+
+- US **nonfarm payrolls** rose **162,000** in August, against a consensus forecast of about **53,000** — roughly triple what economists expected.
+- The **unemployment rate** held steady at **4.1%**, and the month's gain far outpaced the **31,000** average over the previous 12 months.
+- Growth was concentrated in a few places: **leisure and hospitality** added **62,000** jobs (**59,000** of them in restaurants and bars), and **local government education** added **42,000**, reversing a prior decline.
+- Traders reacted by raising bets that the Fed could **hike** rates at this month's meeting, not cut.
+
+**Why it matters:** Days earlier the worry was that hiring had nearly stopped — some forecasts implied a labour market barely growing at all. One strong month flips that story and removes the Fed's easiest excuse to cut rates. For anyone with a mortgage, credit card or business loan, "good news on jobs" and "cheaper borrowing" are pulling in opposite directions.
+
+**Jargon note:** *Nonfarm payrolls* counts jobs added or lost across the US economy excluding farms, published monthly. It is the single most closely watched US economic number.
+
+*Source: CNBC / UPI / BLS, September 4, 2026*
+
+---
+
 ## 2026-09-01
 
 ### Topic: AI Technology
