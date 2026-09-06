@@ -1,6 +1,52 @@
 {
- "generated": "2026-09-05T23:05:02",
+ "generated": "2026-09-06T21:05:04",
  "days": [
+  {
+   "date": "2026-09-06",
+   "label": "Sunday, 6 September 2026",
+   "entries": [
+    {
+     "id": "2026-09-06-ai-technology",
+     "topic": "AI Technology",
+     "title": "Claude Writes Maths' Longest Machine-Checked Proof",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li><strong>Anthropic</strong> said its model <strong>Claude</strong> produced the first end-to-end, computer-verified formalisation of <strong>Fermat's Last Theorem</strong>, working largely autonomously for about <strong>11 days</strong>.</li>\n<li>The output is enormous: roughly <strong>13 million lines</strong> of <strong>Lean</strong> code and around <strong>30,000</strong> intermediate theorems proved — the largest Lean proof written to date.</li>\n<li>It was not one model grinding away alone. A system called <strong>Prove2Me</strong> kept a map of the theorems still to prove and coordinated <strong>several dozen</strong> Claude agents against it, burning about <strong>6 billion tokens</strong>.</li>\n<li>Important caveat: Claude did not discover new mathematics. It translated a known route — a simplified version of <strong>Andrew Wiles's 1995</strong> proof — into a form software can check line by line.</li>\n</ul>",
+     "whyHtml": "Verifying a big mathematical proof by hand can take human experts years, and mistakes have slipped through before. If machines can do the translation work reliably, \"is this proof correct?\" becomes a question you answer in days rather than years. The same trick — turn an argument into something a computer can check — is what people hope will eventually make AI-generated reasoning trustworthy in general.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Lean</em> is a programming language for writing mathematics so precisely that a computer can check every step. <em>Formalisation</em> is the act of rewriting an ordinary human proof into that form.</p>",
+     "sourceHtml": "Source: Anthropic / SiliconANGLE, September 4, 2026"
+    },
+    {
+     "id": "2026-09-06-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Trump's Envoys Spend Three Hours With Putin",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li><strong>Steve Witkoff</strong> and <strong>Jared Kushner</strong> met <strong>Vladimir Putin</strong> at the Kremlin on <strong>Saturday 5 September 2026</strong> for roughly <strong>three hours</strong>, followed by dinner, carrying what President <strong>Trump</strong> called a concrete proposal to end the war in Ukraine.</li>\n<li>Kremlin adviser <strong>Yury Ushakov</strong> called the talks \"substantive, very frank and constructive\" and said \"a whole series of ideas\" for a settlement had been formulated — notably stopping short of agreement.</li>\n<li>The envoys were due in <strong>Kyiv</strong> on <strong>Sunday</strong> to put the same proposal to Ukrainian officials.</li>\n<li>The backdrop was not friendly: hours before they landed, Russia struck Ukraine's <strong>Security Service headquarters</strong> in Kyiv and then hit both of the city's <strong>international airports</strong> overnight.</li>\n</ul>",
+     "whyHtml": "This follows Putin's talk of a possible deal earlier in the week, so the dates on the calendar have now turned into an actual meeting — the first real movement since formal talks stopped in <strong>February</strong>. But Putin's territorial demands reportedly have not changed, and those are precisely what Kyiv cannot accept. Watch Sunday's Kyiv meeting, not Saturday's warm words.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNN / Al Jazeera / Washington Post, September 5, 2026"
+    },
+    {
+     "id": "2026-09-06-environment",
+     "topic": "Environment",
+     "title": "El Nino Is About To Get Severe",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>The <strong>World Meteorological Organization</strong> says <strong>El Niño</strong> is now firmly established in the Pacific and is forecast to reach <strong>\"very strong\"</strong> intensity before peaking near the end of <strong>2026</strong>.</li>\n<li>Model agreement is unusually tight: <strong>25 of 26</strong> models put the key Pacific temperature gauge in the very strong band — at least <strong>+2°C</strong> above normal — for <strong>October–December</strong>, and fifteen of them forecast <strong>+3°C</strong> or more.</li>\n<li>The odds of it persisting are effectively certain: close to <strong>100%</strong> through <strong>September–November 2026</strong> and again through <strong>December–February 2027</strong>.</li>\n<li>Expected effects for the next three months include above-normal temperatures across almost all land areas, plus a <strong>positive Indian Ocean Dipole</strong> that typically means drought in Australia and Southeast Asia and heavy rain in East Africa.</li>\n</ul>",
+     "whyHtml": "El Niño is the single biggest driver of year-to-year swings in global weather, and it stacks on top of the long-term warming trend rather than replacing it. A very strong event means the next twelve months are likely to bring record heat, harvest failures in some regions and flooding in others — and unlike climate policy, this one is already locked in.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>El Niño</em> is a periodic warming of the central and eastern Pacific Ocean that shifts rainfall and temperature patterns worldwide for a year or so at a time.</p>",
+     "sourceHtml": "Source: World Meteorological Organization / UN News, September 3, 2026"
+    },
+    {
+     "id": "2026-09-06-economics",
+     "topic": "Economics",
+     "title": "Canada's Counter-Tariffs Hit On Monday",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>Canada's retaliatory tariffs on American goods take effect <strong>Monday 8 September 2026</strong>, covering around <strong>700 products</strong> at rates of <strong>15%, 25% or 50%</strong> depending on the item.</li>\n<li>Targets include <strong>steel, dairy, appliances, agricultural equipment, pulp and paper and electronics</strong> — deliberately matched to US rates \"dollar for dollar\".</li>\n<li>This answers the <strong>50%</strong> US tariff that hit about <strong>C$27.6 billion</strong> of Canadian exports on <strong>22 August</strong>, the day trade talks collapsed. No negotiations have resumed since.</li>\n<li>Economist <strong>Trevor Tombe</strong> estimates the counter-tariffs add roughly <strong>C$4 billion</strong> in costs across the Canadian economy. Households earning under <strong>C$30,000</strong> a year could lose more than <strong>0.5%</strong> of disposable income; a family with children may pay about <strong>C$250</strong> more annually.</li>\n</ul>",
+     "whyHtml": "Tariffs are argued about as trade policy but land as a price increase, and they land hardest on people with the least room to absorb one. Both countries have now taxed each other's goods and stopped talking, so the cost sits with shoppers on both sides of the border until someone restarts negotiations.",
+     "noteHtml": "<p><strong>Jargon note:</strong> A <em>retaliatory tariff</em> is a tax a country puts on imports specifically to answer another country's tariffs, usually chosen to hurt politically sensitive industries.</p>",
+     "sourceHtml": "Source: CNBC / Money.ca, August 22 – September 5, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-09-05",
    "label": "Saturday, 5 September 2026",

@@ -1,5 +1,67 @@
 # Daily Immersive Read Log
 
+## 2026-09-06
+
+### Topic: AI Technology
+
+**Claude Writes Maths' Longest Machine-Checked Proof**
+
+- **Anthropic** said its model **Claude** produced the first end-to-end, computer-verified formalisation of **Fermat's Last Theorem**, working largely autonomously for about **11 days**.
+- The output is enormous: roughly **13 million lines** of **Lean** code and around **30,000** intermediate theorems proved — the largest Lean proof written to date.
+- It was not one model grinding away alone. A system called **Prove2Me** kept a map of the theorems still to prove and coordinated **several dozen** Claude agents against it, burning about **6 billion tokens**.
+- Important caveat: Claude did not discover new mathematics. It translated a known route — a simplified version of **Andrew Wiles's 1995** proof — into a form software can check line by line.
+
+**Why it matters:** Verifying a big mathematical proof by hand can take human experts years, and mistakes have slipped through before. If machines can do the translation work reliably, "is this proof correct?" becomes a question you answer in days rather than years. The same trick — turn an argument into something a computer can check — is what people hope will eventually make AI-generated reasoning trustworthy in general.
+
+**Jargon note:** *Lean* is a programming language for writing mathematics so precisely that a computer can check every step. *Formalisation* is the act of rewriting an ordinary human proof into that form.
+
+*Source: Anthropic / SiliconANGLE, September 4, 2026*
+
+### Topic: Geopolitics
+
+**Trump's Envoys Spend Three Hours With Putin**
+
+- **Steve Witkoff** and **Jared Kushner** met **Vladimir Putin** at the Kremlin on **Saturday 5 September 2026** for roughly **three hours**, followed by dinner, carrying what President **Trump** called a concrete proposal to end the war in Ukraine.
+- Kremlin adviser **Yury Ushakov** called the talks "substantive, very frank and constructive" and said "a whole series of ideas" for a settlement had been formulated — notably stopping short of agreement.
+- The envoys were due in **Kyiv** on **Sunday** to put the same proposal to Ukrainian officials.
+- The backdrop was not friendly: hours before they landed, Russia struck Ukraine's **Security Service headquarters** in Kyiv and then hit both of the city's **international airports** overnight.
+
+**Why it matters:** This follows Putin's talk of a possible deal earlier in the week, so the dates on the calendar have now turned into an actual meeting — the first real movement since formal talks stopped in **February**. But Putin's territorial demands reportedly have not changed, and those are precisely what Kyiv cannot accept. Watch Sunday's Kyiv meeting, not Saturday's warm words.
+
+*Source: CNN / Al Jazeera / Washington Post, September 5, 2026*
+
+### Topic: Environment
+
+**El Nino Is About To Get Severe**
+
+- The **World Meteorological Organization** says **El Niño** is now firmly established in the Pacific and is forecast to reach **"very strong"** intensity before peaking near the end of **2026**.
+- Model agreement is unusually tight: **25 of 26** models put the key Pacific temperature gauge in the very strong band — at least **+2°C** above normal — for **October–December**, and fifteen of them forecast **+3°C** or more.
+- The odds of it persisting are effectively certain: close to **100%** through **September–November 2026** and again through **December–February 2027**.
+- Expected effects for the next three months include above-normal temperatures across almost all land areas, plus a **positive Indian Ocean Dipole** that typically means drought in Australia and Southeast Asia and heavy rain in East Africa.
+
+**Why it matters:** El Niño is the single biggest driver of year-to-year swings in global weather, and it stacks on top of the long-term warming trend rather than replacing it. A very strong event means the next twelve months are likely to bring record heat, harvest failures in some regions and flooding in others — and unlike climate policy, this one is already locked in.
+
+**Jargon note:** *El Niño* is a periodic warming of the central and eastern Pacific Ocean that shifts rainfall and temperature patterns worldwide for a year or so at a time.
+
+*Source: World Meteorological Organization / UN News, September 3, 2026*
+
+### Topic: Economics
+
+**Canada's Counter-Tariffs Hit On Monday**
+
+- Canada's retaliatory tariffs on American goods take effect **Monday 8 September 2026**, covering around **700 products** at rates of **15%, 25% or 50%** depending on the item.
+- Targets include **steel, dairy, appliances, agricultural equipment, pulp and paper and electronics** — deliberately matched to US rates "dollar for dollar".
+- This answers the **50%** US tariff that hit about **C$27.6 billion** of Canadian exports on **22 August**, the day trade talks collapsed. No negotiations have resumed since.
+- Economist **Trevor Tombe** estimates the counter-tariffs add roughly **C$4 billion** in costs across the Canadian economy. Households earning under **C$30,000** a year could lose more than **0.5%** of disposable income; a family with children may pay about **C$250** more annually.
+
+**Why it matters:** Tariffs are argued about as trade policy but land as a price increase, and they land hardest on people with the least room to absorb one. Both countries have now taxed each other's goods and stopped talking, so the cost sits with shoppers on both sides of the border until someone restarts negotiations.
+
+**Jargon note:** A *retaliatory tariff* is a tax a country puts on imports specifically to answer another country's tariffs, usually chosen to hurt politically sensitive industries.
+
+*Source: CNBC / Money.ca, August 22 – September 5, 2026*
+
+---
+
 ## 2026-09-05
 
 ### Topic: AI Technology
