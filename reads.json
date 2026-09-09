@@ -1,6 +1,52 @@
 {
- "generated": "2026-09-06T22:05:04",
+ "generated": "2026-09-09T16:53:39",
  "days": [
+  {
+   "date": "2026-09-09",
+   "label": "Wednesday, 9 September 2026",
+   "entries": [
+    {
+     "id": "2026-09-09-ai-technology",
+     "topic": "AI Technology",
+     "title": "China Plans To Sextuple Its Compute",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>China's <strong>Ministry of Industry and Information Technology</strong> published a five-year plan on <strong>7 September 2026</strong> setting a target of <strong>9,800 EFLOPS</strong> of \"intelligent computing\" capacity by <strong>2030</strong>.</li>\n<li>That is roughly <strong>six times</strong> the <strong>1,590 EFLOPS</strong> baseline from the end of <strong>2025</strong>. Capacity had already reached <strong>2,185 EFLOPS</strong> by June 2026, up <strong>177%</strong> in a year.</li>\n<li>Backing it is a headline figure of <strong>3.8 trillion yuan</strong> (about <strong>$532 billion</strong>) in cumulative information-infrastructure investment across <strong>2026–2030</strong>.</li>\n<li>The plan runs to <strong>13 headline targets</strong> and <strong>26 key tasks</strong>, covering not just raw compute but power efficiency, network build-out and getting industries to actually use AI.</li>\n<li>The context is chip export controls: Beijing is betting it can compensate for restricted access to top-end foreign chips by building far more domestic capacity.</li>\n</ul>",
+     "whyHtml": "Modern AI is mostly a question of how much computing power you can afford to point at a problem. A national target this specific is a statement that China intends to compete on volume rather than wait for permission to buy the best hardware — which shapes how quickly the technology arrives everywhere, and at what price.",
+     "noteHtml": "<p><strong>Jargon note:</strong> An <em>EFLOP</em> (exaFLOP) is a quintillion calculations per second. \"Intelligent compute\" is Beijing's term for the chips specifically suited to training and running AI models.</p>",
+     "sourceHtml": "Source: MIIT / China.org.cn / Unite.AI, September 7–8, 2026"
+    },
+    {
+     "id": "2026-09-09-geopolitics",
+     "topic": "Geopolitics",
+     "title": "US And Iran Now Fighting At Sea",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>5 September 2026</strong>, Iran's <strong>Revolutionary Guard</strong> fired ballistic missiles at a <strong>US aircraft carrier and a guided-missile destroyer</strong> near the <strong>Strait of Hormuz</strong>. US Central Command answered by striking <strong>three Iranian vessels</strong>.</li>\n<li>The following day, Iran's naval forces said they had attacked <strong>three oil tankers</strong> using what Tehran called an unauthorised route through the strait, plus three other US-linked ships.</li>\n<li>Iran's parliament speaker, <strong>Mohammad Baqer Qalibaf</strong>, threatened retaliation against energy infrastructure across the Gulf. Security council secretary <strong>Mohsen Rezaei</strong> said a <strong>restricted zone</strong> outside the strait would be declared within days.</li>\n<li>Analysts describe the exchange as \"calculated escalation\": both sides are now mixing military strikes with economic pressure — Iran threatening shipping, the US hitting vessels tied to Iranian oil revenue.</li>\n</ul>",
+     "whyHtml": "Roughly a fifth of the world's traded oil passes through the Strait of Hormuz, a channel about 33km wide at its narrowest. Neither side has to close it for the effect to be felt — insurance costs and freight rates rise the moment tankers start getting hit, and that reaches petrol pumps far from the Gulf. Note the knock-on in today's economics entry.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Al Jazeera / Army Recognition / The Cipher Brief, September 5–8, 2026"
+    },
+    {
+     "id": "2026-09-09-environment",
+     "topic": "Environment",
+     "title": "UN Says 1.5C Will Be Crossed",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>A <strong>UN Environment Programme</strong> report, <em>Limiting Overshoot</em>, published <strong>2 September 2026</strong>, states that global warming is set to pass <strong>1.5°C</strong> above pre-industrial levels — likely <strong>within the next few years</strong>.</li>\n<li>Even the most optimistic scenario has temperatures peaking at <strong>1.8°C</strong>. Most other scenarios put the peak above <strong>2°C</strong>.</li>\n<li>UNEP's proposed response is an <strong>\"overshoot, peak and decline\"</strong> path: cut emissions hard now to keep the peak low, then pull temperatures back below 1.5°C using long-term <strong>carbon dioxide removal</strong>.</li>\n<li>The report warns that longer and higher overshoot raises the odds of crossing <strong>tipping points</strong> — destabilised ice sheets, degradation of the <strong>Amazon</strong>, and disruption of the Atlantic current system that moderates European climate.</li>\n<li>It is blunt that removal only works as an addition to emissions cuts, not a substitute, and only if peak warming stays well below 2°C.</li>\n</ul>",
+     "whyHtml": "For a decade, 1.5°C was framed as a line the world must not cross. This report quietly retires that framing and replaces it with a harder question: how far past, for how long, and can we come back? That shift matters because \"we missed the target\" is easily heard as \"so why bother\" — and UNEP's whole argument is that every fraction of a degree, and every year spent above the line, still changes the outcome.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Overshoot</em> means temporarily exceeding a temperature limit before bringing warming back down. <em>Carbon dioxide removal</em> covers ways of taking CO2 back out of the air — planting forests, or industrial capture — and storing it.</p>",
+     "sourceHtml": "Source: UN Environment Programme, September 2, 2026"
+    },
+    {
+     "id": "2026-09-09-economics",
+     "topic": "Economics",
+     "title": "Hot Jobs Data Revives Rate-Hike Talk",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>US employers added <strong>162,000 jobs</strong> in <strong>August 2026</strong> — roughly <strong>three times</strong> the <strong>53,000</strong> forecast, and the strongest month since March. Revisions added another <strong>55,000</strong> across June and July.</li>\n<li>The unemployment rate held at <strong>4.1%</strong>; labour-force participation recovered to <strong>61.6%</strong>. Average hourly earnings rose <strong>0.3%</strong> on the month and <strong>3.1%</strong> over the year.</li>\n<li>Markets promptly repriced the <strong>16 September</strong> Federal Reserve meeting toward a rate <strong>rise</strong>, with implied odds moving to about <strong>59–60%</strong> from <strong>52%</strong>.</li>\n<li>Fed officials <strong>Christopher Waller</strong> and <strong>John Williams</strong> both acknowledged recent progress on inflation but said a hike is on the table if this week's <strong>August CPI</strong> reading, due Thursday, comes in high.</li>\n<li>Stocks slipped early in the week as rate worries stacked on top of rising oil prices from the Gulf strikes and the new US–Canada tariff exchange.</li>\n</ul>",
+     "whyHtml": "For most of the past two years the debate was about when rates would come <em>down</em>. A jobs report this strong flips the question, because a hot labour market can keep inflation alive. If the Fed hikes on 16 September, mortgages, car loans and credit cards get more expensive — so Thursday's inflation figure is the number to watch, not the jobs number that has already landed.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>CPI</em> (Consumer Price Index) tracks the average price of a basket of everyday goods and services; it is the main gauge of inflation the Fed and markets react to.</p>",
+     "sourceHtml": "Source: CNBC / Al Jazeera / Charles Schwab, September 4–8, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-09-06",
    "label": "Sunday, 6 September 2026",

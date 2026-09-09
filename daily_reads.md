@@ -1,5 +1,70 @@
 # Daily Immersive Read Log
 
+## 2026-09-09
+
+### Topic: AI Technology
+
+**China Plans To Sextuple Its Compute**
+
+- China's **Ministry of Industry and Information Technology** published a five-year plan on **7 September 2026** setting a target of **9,800 EFLOPS** of "intelligent computing" capacity by **2030**.
+- That is roughly **six times** the **1,590 EFLOPS** baseline from the end of **2025**. Capacity had already reached **2,185 EFLOPS** by June 2026, up **177%** in a year.
+- Backing it is a headline figure of **3.8 trillion yuan** (about **$532 billion**) in cumulative information-infrastructure investment across **2026–2030**.
+- The plan runs to **13 headline targets** and **26 key tasks**, covering not just raw compute but power efficiency, network build-out and getting industries to actually use AI.
+- The context is chip export controls: Beijing is betting it can compensate for restricted access to top-end foreign chips by building far more domestic capacity.
+
+**Why it matters:** Modern AI is mostly a question of how much computing power you can afford to point at a problem. A national target this specific is a statement that China intends to compete on volume rather than wait for permission to buy the best hardware — which shapes how quickly the technology arrives everywhere, and at what price.
+
+**Jargon note:** An *EFLOP* (exaFLOP) is a quintillion calculations per second. "Intelligent compute" is Beijing's term for the chips specifically suited to training and running AI models.
+
+*Source: MIIT / China.org.cn / Unite.AI, September 7–8, 2026*
+
+### Topic: Geopolitics
+
+**US And Iran Now Fighting At Sea**
+
+- On **5 September 2026**, Iran's **Revolutionary Guard** fired ballistic missiles at a **US aircraft carrier and a guided-missile destroyer** near the **Strait of Hormuz**. US Central Command answered by striking **three Iranian vessels**.
+- The following day, Iran's naval forces said they had attacked **three oil tankers** using what Tehran called an unauthorised route through the strait, plus three other US-linked ships.
+- Iran's parliament speaker, **Mohammad Baqer Qalibaf**, threatened retaliation against energy infrastructure across the Gulf. Security council secretary **Mohsen Rezaei** said a **restricted zone** outside the strait would be declared within days.
+- Analysts describe the exchange as "calculated escalation": both sides are now mixing military strikes with economic pressure — Iran threatening shipping, the US hitting vessels tied to Iranian oil revenue.
+
+**Why it matters:** Roughly a fifth of the world's traded oil passes through the Strait of Hormuz, a channel about 33km wide at its narrowest. Neither side has to close it for the effect to be felt — insurance costs and freight rates rise the moment tankers start getting hit, and that reaches petrol pumps far from the Gulf. Note the knock-on in today's economics entry.
+
+*Source: Al Jazeera / Army Recognition / The Cipher Brief, September 5–8, 2026*
+
+### Topic: Environment
+
+**UN Says 1.5C Will Be Crossed**
+
+- A **UN Environment Programme** report, *Limiting Overshoot*, published **2 September 2026**, states that global warming is set to pass **1.5°C** above pre-industrial levels — likely **within the next few years**.
+- Even the most optimistic scenario has temperatures peaking at **1.8°C**. Most other scenarios put the peak above **2°C**.
+- UNEP's proposed response is an **"overshoot, peak and decline"** path: cut emissions hard now to keep the peak low, then pull temperatures back below 1.5°C using long-term **carbon dioxide removal**.
+- The report warns that longer and higher overshoot raises the odds of crossing **tipping points** — destabilised ice sheets, degradation of the **Amazon**, and disruption of the Atlantic current system that moderates European climate.
+- It is blunt that removal only works as an addition to emissions cuts, not a substitute, and only if peak warming stays well below 2°C.
+
+**Why it matters:** For a decade, 1.5°C was framed as a line the world must not cross. This report quietly retires that framing and replaces it with a harder question: how far past, for how long, and can we come back? That shift matters because "we missed the target" is easily heard as "so why bother" — and UNEP's whole argument is that every fraction of a degree, and every year spent above the line, still changes the outcome.
+
+**Jargon note:** *Overshoot* means temporarily exceeding a temperature limit before bringing warming back down. *Carbon dioxide removal* covers ways of taking CO2 back out of the air — planting forests, or industrial capture — and storing it.
+
+*Source: UN Environment Programme, September 2, 2026*
+
+### Topic: Economics
+
+**Hot Jobs Data Revives Rate-Hike Talk**
+
+- US employers added **162,000 jobs** in **August 2026** — roughly **three times** the **53,000** forecast, and the strongest month since March. Revisions added another **55,000** across June and July.
+- The unemployment rate held at **4.1%**; labour-force participation recovered to **61.6%**. Average hourly earnings rose **0.3%** on the month and **3.1%** over the year.
+- Markets promptly repriced the **16 September** Federal Reserve meeting toward a rate **rise**, with implied odds moving to about **59–60%** from **52%**.
+- Fed officials **Christopher Waller** and **John Williams** both acknowledged recent progress on inflation but said a hike is on the table if this week's **August CPI** reading, due Thursday, comes in high.
+- Stocks slipped early in the week as rate worries stacked on top of rising oil prices from the Gulf strikes and the new US–Canada tariff exchange.
+
+**Why it matters:** For most of the past two years the debate was about when rates would come *down*. A jobs report this strong flips the question, because a hot labour market can keep inflation alive. If the Fed hikes on 16 September, mortgages, car loans and credit cards get more expensive — so Thursday's inflation figure is the number to watch, not the jobs number that has already landed.
+
+**Jargon note:** *CPI* (Consumer Price Index) tracks the average price of a basket of everyday goods and services; it is the main gauge of inflation the Fed and markets react to.
+
+*Source: CNBC / Al Jazeera / Charles Schwab, September 4–8, 2026*
+
+---
+
 ## 2026-09-06
 
 ### Topic: AI Technology
