@@ -1,6 +1,52 @@
 {
- "generated": "2026-09-09T16:53:39",
+ "generated": "2026-09-11T22:11:21",
  "days": [
+  {
+   "date": "2026-09-11",
+   "label": "Friday, 11 September 2026",
+   "entries": [
+    {
+     "id": "2026-09-11-ai-technology",
+     "topic": "AI Technology",
+     "title": "Pentagon Weighs Lending An AI Startup Billions",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>The <strong>Wall Street Journal</strong> reported on <strong>10 September 2026</strong> that the US Department of Defense is in talks to lend roughly <strong>$5 billion</strong> to <strong>Fluidstack</strong>, a startup that rents out AI computing power.</li>\n<li>The money would come from the Pentagon's <strong>Office of Strategic Capital</strong>, a lending arm set up to fund industries the military considers strategically important.</li>\n<li>Notably, the loan is not for building more data centres. It is aimed at <strong>manufacturing capacity for the parts</strong> data centres depend on — chiefly <strong>power equipment and cooling gear</strong>, the components that currently decide how fast new sites can come online.</li>\n<li>The backdrop is an executive order signed last month declaring a <strong>national emergency</strong> over the electricity grid and barring some <strong>foreign-made equipment</strong> from it.</li>\n<li>Fluidstack already has supply partnerships with <strong>Google</strong> and <strong>Anthropic</strong>. The talks are unconfirmed by either party and could still change.</li>\n</ul>",
+     "whyHtml": "The bottleneck in AI has quietly shifted from chips to electricity — transformers, switchgear and cooling systems with multi-year waiting lists. A defence-budget loan to a private compute company signals that Washington now treats data-centre plumbing the way it treats shipyards or munitions plants: infrastructure too important to leave to the market's timetable.",
+     "noteHtml": "<p><strong>Jargon note:</strong> An <em>AI cloud company</em> owns racks of specialised chips and rents time on them, so other firms can train or run AI models without buying the hardware.</p>",
+     "sourceHtml": "Source: Wall Street Journal via Reuters / Data Center Dynamics, September 10–11, 2026"
+    },
+    {
+     "id": "2026-09-11-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Ukraine Strikes Siberia, 3,200km Away",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Ukraine's <strong>Special Operations Forces</strong> struck the <strong>Novy Urengoy</strong> gas condensate treatment plant in Russia's <strong>Yamalo-Nenets</strong> region on <strong>9 September 2026</strong> — about <strong>3,200km</strong> from the Ukrainian border, its deepest strike of the war.</li>\n<li>The previous record was roughly <strong>2,500km</strong>, set against the Omsk refinery in July 2026. A nearby plant, <strong>Purovsky</strong>, was hit in the same operation.</li>\n<li>Yamalo-Nenets produces around <strong>80%</strong> of Russia's natural gas. The targeted plant processes about <strong>19.5 million tonnes</strong> of crude and gas a year and makes diesel used by the Russian military.</li>\n<li>Ukrainian manufacturer <strong>Fire Point</strong> said its <strong>FP-1</strong> drone carried out the strike. At that range, defences built around jamming satellite navigation have less to work with.</li>\n<li>It is the first time Ukrainian forces have reached the region at all.</li>\n</ul>",
+     "whyHtml": "Distance has been Russia's most reliable defence — move anything valuable far enough east and it was safe. A cheap drone flying two thousand miles removes that assumption, and puts Russia's energy export income, not just its front-line supplies, inside reach. Other militaries will be reading the same lesson about their own rear areas.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Kyiv Independent / Kyiv Post / The War Zone, September 9–10, 2026"
+    },
+    {
+     "id": "2026-09-11-environment",
+     "topic": "Environment",
+     "title": "August Ties Hottest Month Ever Recorded",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>The EU's <strong>Copernicus Climate Change Service</strong> reported on <strong>10 September 2026</strong> that <strong>August 2026</strong> was the joint-hottest month on record, tied with July 2023.</li>\n<li>Global average surface temperature reached <strong>16.96°C</strong> — <strong>1.65°C</strong> above pre-industrial levels and <strong>0.85°C</strong> above the 1991–2020 average.</li>\n<li>It was the first month since <strong>November 2025</strong> to push back above the <strong>1.5°C</strong> mark that the Paris Agreement set as a long-term ceiling.</li>\n<li>Oceans between 60°S and 60°N averaged <strong>21.07°C</strong>, the warmest August on record, beating <strong>20.98°C</strong> in 2023.</li>\n<li><strong>Western Europe</strong> closed out its hottest summer ever measured, passing the benchmark set in <strong>2003</strong>.</li>\n<li>Scientists attribute the spike to continued fossil-fuel burning plus strong <strong>El Niño</strong> conditions warming the equatorial Pacific.</li>\n</ul>",
+     "whyHtml": "This lands a week after the UN said the 1.5°C line will be crossed — and shows what that looks like month to month rather than in a forecast. Ocean heat is the part to watch: warm seas hold more energy, which feeds stronger storms, raises sea levels through simple expansion, and takes years to shed even if emissions fall.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>El Niño</em> is a recurring warming of the tropical Pacific that temporarily raises global temperatures on top of the longer-term warming trend.</p>",
+     "sourceHtml": "Source: Copernicus Climate Change Service / Euronews, September 10, 2026"
+    },
+    {
+     "id": "2026-09-11-economics",
+     "topic": "Economics",
+     "title": "Inflation Ticks Up Before Fed Decision",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>US consumer prices rose <strong>0.4%</strong> in <strong>August 2026</strong>, taking the annual rate to <strong>3.4%</strong>, the <strong>Bureau of Labor Statistics</strong> reported on <strong>11 September</strong>. Both figures matched forecasts.</li>\n<li><strong>Core</strong> inflation — excluding food and energy — rose <strong>0.3%</strong> on the month, <strong>0.1 percentage point</strong> above expectations. The annual core rate was <strong>2.4%</strong>, as predicted.</li>\n<li>Price rises were broad rather than concentrated: used cars and trucks up <strong>0.4%</strong>, new vehicles up <strong>0.3%</strong>.</li>\n<li>This is the last major inflation reading before the <strong>Federal Reserve</strong> meeting concluding <strong>16 September</strong>, where officials vote on interest rates.</li>\n<li>Markets had already shifted toward expecting a rate <strong>rise</strong> after August's unexpectedly strong jobs report. The hotter-than-forecast core figure does not settle the question either way.</li>\n</ul>",
+     "whyHtml": "Inflation running above the Fed's <strong>2%</strong> target, with a labour market still adding jobs, is the combination that argues for raising rates rather than cutting. For households, a hike means higher costs on mortgages, car loans and credit card balances — which is why a single decimal point in the core number gets this much attention.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Core inflation</em> strips out food and energy because those prices swing sharply month to month; what is left is a steadier read on the underlying trend.</p>",
+     "sourceHtml": "Source: US Bureau of Labor Statistics / CNBC, September 11, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-09-09",
    "label": "Wednesday, 9 September 2026",

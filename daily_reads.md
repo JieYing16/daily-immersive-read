@@ -1,5 +1,72 @@
 # Daily Immersive Read Log
 
+## 2026-09-11
+
+### Topic: AI Technology
+
+**Pentagon Weighs Lending An AI Startup Billions**
+
+- The **Wall Street Journal** reported on **10 September 2026** that the US Department of Defense is in talks to lend roughly **$5 billion** to **Fluidstack**, a startup that rents out AI computing power.
+- The money would come from the Pentagon's **Office of Strategic Capital**, a lending arm set up to fund industries the military considers strategically important.
+- Notably, the loan is not for building more data centres. It is aimed at **manufacturing capacity for the parts** data centres depend on — chiefly **power equipment and cooling gear**, the components that currently decide how fast new sites can come online.
+- The backdrop is an executive order signed last month declaring a **national emergency** over the electricity grid and barring some **foreign-made equipment** from it.
+- Fluidstack already has supply partnerships with **Google** and **Anthropic**. The talks are unconfirmed by either party and could still change.
+
+**Why it matters:** The bottleneck in AI has quietly shifted from chips to electricity — transformers, switchgear and cooling systems with multi-year waiting lists. A defence-budget loan to a private compute company signals that Washington now treats data-centre plumbing the way it treats shipyards or munitions plants: infrastructure too important to leave to the market's timetable.
+
+**Jargon note:** An *AI cloud company* owns racks of specialised chips and rents time on them, so other firms can train or run AI models without buying the hardware.
+
+*Source: Wall Street Journal via Reuters / Data Center Dynamics, September 10–11, 2026*
+
+### Topic: Geopolitics
+
+**Ukraine Strikes Siberia, 3,200km Away**
+
+- Ukraine's **Special Operations Forces** struck the **Novy Urengoy** gas condensate treatment plant in Russia's **Yamalo-Nenets** region on **9 September 2026** — about **3,200km** from the Ukrainian border, its deepest strike of the war.
+- The previous record was roughly **2,500km**, set against the Omsk refinery in July 2026. A nearby plant, **Purovsky**, was hit in the same operation.
+- Yamalo-Nenets produces around **80%** of Russia's natural gas. The targeted plant processes about **19.5 million tonnes** of crude and gas a year and makes diesel used by the Russian military.
+- Ukrainian manufacturer **Fire Point** said its **FP-1** drone carried out the strike. At that range, defences built around jamming satellite navigation have less to work with.
+- It is the first time Ukrainian forces have reached the region at all.
+
+**Why it matters:** Distance has been Russia's most reliable defence — move anything valuable far enough east and it was safe. A cheap drone flying two thousand miles removes that assumption, and puts Russia's energy export income, not just its front-line supplies, inside reach. Other militaries will be reading the same lesson about their own rear areas.
+
+*Source: Kyiv Independent / Kyiv Post / The War Zone, September 9–10, 2026*
+
+### Topic: Environment
+
+**August Ties Hottest Month Ever Recorded**
+
+- The EU's **Copernicus Climate Change Service** reported on **10 September 2026** that **August 2026** was the joint-hottest month on record, tied with July 2023.
+- Global average surface temperature reached **16.96°C** — **1.65°C** above pre-industrial levels and **0.85°C** above the 1991–2020 average.
+- It was the first month since **November 2025** to push back above the **1.5°C** mark that the Paris Agreement set as a long-term ceiling.
+- Oceans between 60°S and 60°N averaged **21.07°C**, the warmest August on record, beating **20.98°C** in 2023.
+- **Western Europe** closed out its hottest summer ever measured, passing the benchmark set in **2003**.
+- Scientists attribute the spike to continued fossil-fuel burning plus strong **El Niño** conditions warming the equatorial Pacific.
+
+**Why it matters:** This lands a week after the UN said the 1.5°C line will be crossed — and shows what that looks like month to month rather than in a forecast. Ocean heat is the part to watch: warm seas hold more energy, which feeds stronger storms, raises sea levels through simple expansion, and takes years to shed even if emissions fall.
+
+**Jargon note:** *El Niño* is a recurring warming of the tropical Pacific that temporarily raises global temperatures on top of the longer-term warming trend.
+
+*Source: Copernicus Climate Change Service / Euronews, September 10, 2026*
+
+### Topic: Economics
+
+**Inflation Ticks Up Before Fed Decision**
+
+- US consumer prices rose **0.4%** in **August 2026**, taking the annual rate to **3.4%**, the **Bureau of Labor Statistics** reported on **11 September**. Both figures matched forecasts.
+- **Core** inflation — excluding food and energy — rose **0.3%** on the month, **0.1 percentage point** above expectations. The annual core rate was **2.4%**, as predicted.
+- Price rises were broad rather than concentrated: used cars and trucks up **0.4%**, new vehicles up **0.3%**.
+- This is the last major inflation reading before the **Federal Reserve** meeting concluding **16 September**, where officials vote on interest rates.
+- Markets had already shifted toward expecting a rate **rise** after August's unexpectedly strong jobs report. The hotter-than-forecast core figure does not settle the question either way.
+
+**Why it matters:** Inflation running above the Fed's **2%** target, with a labour market still adding jobs, is the combination that argues for raising rates rather than cutting. For households, a hike means higher costs on mortgages, car loans and credit card balances — which is why a single decimal point in the core number gets this much attention.
+
+**Jargon note:** *Core inflation* strips out food and energy because those prices swing sharply month to month; what is left is a steadier read on the underlying trend.
+
+*Source: US Bureau of Labor Statistics / CNBC, September 11, 2026*
+
+---
+
 ## 2026-09-09
 
 ### Topic: AI Technology
