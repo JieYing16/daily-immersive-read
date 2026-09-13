@@ -1,6 +1,52 @@
 {
- "generated": "2026-09-11T22:11:21",
+ "generated": "2026-09-13T15:40:32",
  "days": [
+  {
+   "date": "2026-09-13",
+   "label": "Sunday, 13 September 2026",
+   "entries": [
+    {
+     "id": "2026-09-13-ai-technology",
+     "topic": "AI Technology",
+     "title": "Hackers Sent AI Agents To Work",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>Security firm <strong>GreyNoise</strong> reported on <strong>10 September 2026</strong> that a suspected Russian-speaking attacker used <strong>hundreds of AI agents</strong> to break into <strong>440</strong> servers running <strong>PaperCut NG/MF</strong>, a common office print-management system.</li>\n<li>The victims were <strong>395 organisations</strong> across <strong>48 countries</strong>. <strong>Education</strong> was hit hardest by a wide margin, with <strong>204</strong> of them.</li>\n<li>The attacker first built a private copy of the software at home, used the agents to develop and test exploits for two flaws (<strong>CVE-2026-81578</strong> and <strong>CVE-2026-82078</strong>), then let them loose. Some break-ins took <strong>seconds</strong>.</li>\n<li>The agents harvested login credentials from <strong>280</strong> hosts, stole secrets from <strong>137</strong>, and reached full <strong>domain admin</strong> control — the keys to an entire network — in <strong>12</strong>.</li>\n<li>Tellingly, the operator gave the agents a list of <strong>28 countries</strong> to avoid, mostly former Soviet states. The agents ignored the rule inconsistently.</li>\n</ul>",
+     "whyHtml": "Attacks like this used to be limited by how many skilled people an attacker could pay. Handing the tedious parts to AI agents removes that ceiling, so a single operator can now work through hundreds of targets at once. The agents disobeying their own instructions is the other half of the story: automated attacks are becoming both faster and less predictable, including to the people running them.",
+     "noteHtml": "<p><strong>Jargon note:</strong> An <em>AI agent</em> is a model given a goal and the ability to run commands on its own, repeatedly, without a human approving each step.</p>",
+     "sourceHtml": "Source: GreyNoise via The Hacker News / BleepingComputer / The Register, September 10–11, 2026"
+    },
+    {
+     "id": "2026-09-13-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Houthis Seize The Red Sea Gateway",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>Iran-backed <strong>Houthi</strong> forces captured <strong>Perim Island</strong>, sitting in the middle of the <strong>Bab el-Mandeb Strait</strong>, the narrow entrance to the Red Sea, on <strong>11 September 2026</strong>.</li>\n<li>They also took the historic port city of <strong>Mocha</strong> and pushed on the coastal town of <strong>Dhubab</strong> — their largest territorial gains in years.</li>\n<li><strong>Saudi Arabia</strong> shut down its <strong>East–West pipeline</strong> on Friday after drone attacks caused injuries. That pipeline exists precisely to move crude across the country and avoid this strait.</li>\n<li>Roughly a tenth of world seaborne trade passes through Bab el-Mandeb on the route between Europe and Asia via the Suez Canal.</li>\n<li>Saudi forces struck <strong>Mokha airport</strong> in response. The fighting opens a new front in the wider Iran conflict.</li>\n</ul>",
+     "whyHtml": "Chokepoints are where geography turns into leverage. Perim Island overlooks a passage about 30km wide, so whoever holds it can make shipping insurers nervous without firing much at all. Rerouting cargo around Africa adds roughly ten days and real cost, and that shows up later in fuel prices and shop shelves far from Yemen.",
+     "noteHtml": "<p><strong>Jargon note:</strong> A <em>chokepoint</em> is a narrow sea passage that carries far more traffic than its size suggests, making it easy to disrupt and hard to replace.</p>",
+     "sourceHtml": "Source: NPR / NBC News / CBC News, September 11–12, 2026"
+    },
+    {
+     "id": "2026-09-13-environment",
+     "topic": "Environment",
+     "title": "Nature May Add Its Own Warming",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>A study published in <strong>Environmental Research Letters</strong> in <strong>September 2026</strong> estimates that warming already underway will trigger extra greenhouse-gas releases from nature itself, amplifying global warming by roughly <strong>20–30%</strong>.</li>\n<li>In plain numbers, that is an additional <strong>0.2–0.4°C</strong> this century on top of what human emissions alone would cause, depending on the scenario.</li>\n<li>Three mechanisms do most of the work: <strong>methane</strong> escaping from warming wetlands and lakes, <strong>carbon</strong> released as frozen <strong>permafrost</strong> thaws, and emissions from <strong>wildfires</strong> made more likely by heat and drought.</li>\n<li>These are <strong>feedback loops</strong> — warming causes a release, the release causes more warming — and most current climate targets are built on models that count them only partially.</li>\n<li>The authors argue emissions budgets should be tightened to account for the gap.</li>\n</ul>",
+     "whyHtml": "Climate targets are usually framed as a budget: burn this much and no more. If nature adds a fifth to a third on top of whatever humans emit, the real budget is smaller than the one countries are planning against — meaning the same pledges deliver less cooling than promised. It also explains why scientists worry about thresholds: some of these releases, once started, do not stop when emissions do.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Permafrost</em> is ground that has stayed frozen for at least two years, holding plant matter that starts decomposing — and releasing carbon — once it thaws.</p>",
+     "sourceHtml": "Source: Environmental Research Letters via SustainabilityOnline, September 11, 2026"
+    },
+    {
+     "id": "2026-09-13-economics",
+     "topic": "Economics",
+     "title": "Bond Yields Near A 5% Milestone",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>The <strong>US 10-year Treasury yield</strong> traded at <strong>4.974%</strong> on <strong>11 September 2026</strong>, its highest since it briefly topped <strong>5%</strong> in October 2023.</li>\n<li>Markets are now pricing roughly a <strong>70%</strong> chance — some estimates put it near <strong>90%</strong> — that the <strong>Federal Reserve</strong> raises rates by <strong>0.25 percentage points</strong> at its meeting on <strong>15–16 September</strong>.</li>\n<li>Stocks recovered on Friday after a four-day slide: the <strong>Dow</strong> rose <strong>0.98%</strong> to <strong>52,573</strong>, the <strong>S&amp;P 500</strong> <strong>0.86%</strong> to <strong>7,657</strong>, and the <strong>Nasdaq</strong> <strong>0.96%</strong> to <strong>26,333</strong>.</li>\n<li>Helping the mood: inflation landed broadly in line with forecasts, and oil prices retreated after the <strong>IEA</strong> cut its demand outlook, warning consumption may fall further while the Iran war drags on.</li>\n<li>Corporate profits remain strong, with <strong>S&amp;P 500</strong> operating earnings tracking near <strong>32%</strong> growth year on year.</li>\n</ul>",
+     "whyHtml": "The 10-year yield is the closest thing finance has to a universal price tag — mortgage rates, business loans and the value of every long-dated investment are measured against it. Pushing back toward 5% makes borrowing more expensive across the economy and makes safe government bonds a real competitor to shares, which is why rising yields tend to cap how far stock markets can run.",
+     "noteHtml": "<p><strong>Jargon note:</strong> A bond's <em>yield</em> is the annual return a buyer earns at today's price; when investors sell bonds, prices fall and yields rise.</p>",
+     "sourceHtml": "Source: CNBC / Reuters / StockMarketWatch, September 11–12, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-09-11",
    "label": "Friday, 11 September 2026",
