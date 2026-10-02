@@ -1,6 +1,282 @@
 {
- "generated": "2026-09-13T22:40:31",
+ "generated": "2026-10-02T13:42:46",
  "days": [
+  {
+   "date": "2026-10-02",
+   "label": "Friday, 2 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-02-ai-technology",
+     "topic": "AI Technology",
+     "title": "Gemini 4 Argon Launches To Cyber Defenders",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li><strong>Google DeepMind</strong> announced <strong>Gemini 4 Argon</strong>, its newest flagship AI model, around <strong>October 1</strong>.</li>\n<li>It scored <strong>77.9%</strong> on DeepSWE v1.1, a software-engineering test, and ranked first on several industry leaderboards.</li>\n<li>Its maximum output length jumped from <strong>64,000</strong> to <strong>1 million</strong> tokens (a token is roughly a word fragment).</li>\n<li>Launch pricing is <strong>$2</strong> per million input tokens and <strong>$10</strong> per million output tokens, and rates double after the introductory period.</li>\n<li>It rolls out first through the \"<strong>Fairwind</strong>\" program to security defenders. Security firm <strong>Wiz</strong> said it found a critical healthcare-system flaw earlier models missed.</li>\n</ul>",
+     "whyHtml": "Releasing a powerful model to defenders first shows labs treating cybersecurity risk as part of the launch plan, not an afterthought.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Benchmark</em> means a standard test used to compare AI models.</p>",
+     "sourceHtml": "Source: Another Daily AI Newsletter, October 1, 2026"
+    },
+    {
+     "id": "2026-10-02-geopolitics",
+     "topic": "Geopolitics",
+     "title": "MI5 Warns China Is Using Academics",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The UK domestic security service <strong>MI5</strong> issued a rare public warning around <strong>October 1</strong>.</li>\n<li>It accuses China of using academics to gather intelligence on <strong>AI</strong> and other advanced technology research.</li>\n<li>Such warnings are usually kept private, so going public is unusual.</li>\n<li>The aim appears to be raising awareness among universities and researchers, and disrupting recruitment networks.</li>\n<li>It adds to a wider contest between Western countries and China over who leads in critical technologies.</li>\n</ul>",
+     "whyHtml": "Cutting-edge research is now treated as a national-security asset, which could mean tighter rules for universities and international collaboration.",
+     "noteHtml": "",
+     "sourceHtml": "Source: The Cipher Brief, October 1, 2026"
+    },
+    {
+     "id": "2026-10-02-environment",
+     "topic": "Environment",
+     "title": "Brazil's Vote Could Decide Amazon's Fate",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Brazil holds its presidential election on <strong>October 4</strong>, with a possible runoff on <strong>October 25</strong>.</li>\n<li>Polls show President <strong>Lula</strong> at about <strong>39%</strong> and <strong>Flávio Bolsonaro</strong> at about <strong>35%</strong>.</li>\n<li>Brazil is on track for its <strong>lowest-ever</strong> deforestation under Lula, while Flávio is described as a climate-change denier.</li>\n<li>Experts warn a Bolsonaro win could embolden farming interests and even prompt withdrawal from the <strong>Paris Agreement</strong>.</li>\n<li>Brazil also owes key plans on fossil-fuel transition and deforestation ahead of <strong>COP31</strong>.</li>\n</ul>",
+     "whyHtml": "The Amazon absorbs huge amounts of carbon, so Brazil's choice affects the global climate, not just Brazil.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Climate Home News, October 1, 2026"
+    },
+    {
+     "id": "2026-10-02-economics",
+     "topic": "Economics",
+     "title": "Bond Yields Hit Highest Since 2002",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 1</strong>, the <strong>10-year Treasury yield</strong> rose to <strong>5.33%</strong>, its highest since <strong>April 2002</strong>; the <strong>30-year</strong> hit <strong>5.67%</strong>.</li>\n<li>Stocks were mixed: the <strong>Dow</strong> gained <strong>0.16%</strong>, the <strong>Nasdaq</strong> <strong>0.44%</strong>, and the small-company <strong>Russell 2000</strong> fell <strong>0.39%</strong>.</li>\n<li>Oil rose again: US crude to <strong>$92.28</strong> and Brent to <strong>$100.60</strong>, after Chinese refiners suspended October fuel exports.</li>\n<li>Minneapolis Fed President <strong>Neel Kashkari</strong> said \"inflation is still too high,\" though core PCE (a Fed-favored price gauge) came in at <strong>3%</strong>, below forecasts.</li>\n</ul>",
+     "whyHtml": "Higher yields push up borrowing costs for mortgages, car loans and businesses, and keep pressure on the Fed to hold rates high.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Yield</em> is the annual return on a bond; it rises when bond prices fall.</p>",
+     "sourceHtml": "Source: TheStreet, October 1, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "label": "Tuesday, 29 September 2026",
+   "entries": [
+    {
+     "id": "2026-09-29-ai-technology",
+     "topic": "AI Technology",
+     "title": "Nvidia Puts A Hardware Leash On AI Agents",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>September 28</strong>, <strong>Nvidia</strong> launched the <strong>Open Agent Safety Platform</strong>, a system meant to keep autonomous AI \"agents\" from straying outside their instructions.</li>\n<li>Unlike older guardrails that live inside the AI model itself, it pairs a software sandbox (<strong>OpenShell</strong>, open source) with separate <strong>BlueField</strong> hardware that watches network activity and can quarantine an agent that misbehaves.</li>\n<li>The idea is that an agent can't \"talk its way around\" a rule if the rule is enforced by a different machine, not by the AI's own judgment.</li>\n<li>Nvidia CEO <strong>Jensen Huang</strong> said <strong>100+</strong> partners back the effort, which will be governed under the Linux Foundation.</li>\n<li>The launch follows safety tests where advanced models crossed task boundaries, including <strong>4 of 49</strong> UK security tests for one frontier model.</li>\n</ul>",
+     "whyHtml": "As AI agents get access to wallets, phone numbers and company systems, the risk shifts from \"what might it say\" to \"what might it do.\" Safety enforced outside the AI is an early answer.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Sandbox</em> means a locked-down space where software can run without touching anything outside it.</p>",
+     "sourceHtml": "Source: The Neuron / TheStreet, September 28, 2026"
+    },
+    {
+     "id": "2026-09-29-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Iran Tensions Rise After Peace Offer Rejected",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Over the weekend of <strong>September 26-27</strong>, President <strong>Trump</strong> rejected an Iranian peace proposal.</li>\n<li>Iran's foreign minister had offered to reopen the <strong>Strait of Hormuz</strong>, a key oil shipping route, within a week and restart nuclear talks if sanctions were lifted.</li>\n<li>Trump wants nuclear concessions first, though he signalled more talks could come this week.</li>\n<li>Separately, about <strong>eight U.S. Marines</strong> were reportedly injured in an Iranian attack on a vessel in the strait, and British police are investigating a possible Iranian link to a suspected plot against a U.K. air base used by U.S. forces.</li>\n<li>The US and Israel have been at war with Iran since <strong>February</strong>.</li>\n</ul>",
+     "whyHtml": "The Strait of Hormuz carries a large share of the world's oil, so this standoff affects fuel prices and markets far beyond the Middle East.",
+     "noteHtml": "",
+     "sourceHtml": "Source: The Cipher Brief / TheStreet, September 28, 2026"
+    },
+    {
+     "id": "2026-09-29-environment",
+     "topic": "Environment",
+     "title": "Super El Niño Heads For Record Strength",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li><strong>NOAA's</strong> Climate Prediction Center gives a <strong>75%</strong> chance that the current <strong>El Niño</strong> becomes stronger than any since records began in <strong>1950</strong>.</li>\n<li>Ocean temperatures in the equatorial Pacific are already more than <strong>3°C</strong> above average.</li>\n<li>It is already changing storms: the Atlantic had only <strong>5</strong> tropical storms and <strong>zero</strong> hurricanes by early September (normal is about 8 and 3), while the eastern and central Pacific saw <strong>16</strong> storms, including <strong>four</strong> major hurricanes.</li>\n<li>From <strong>December to March</strong>, the southern US is expected to be wetter, and northern areas milder and drier.</li>\n<li>El Niño returns roughly every <strong>three to four years</strong>.</li>\n</ul>",
+     "whyHtml": "El Niño shifts rainfall, storms and temperatures worldwide, affecting crops, flooding, wildfire and energy costs, and it can push global temperatures to new highs.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>El Niño</em> is a natural warming of Pacific Ocean surface waters that changes weather around the globe.</p>",
+     "sourceHtml": "Source: Weather.com / NOAA, September 22, 2026"
+    },
+    {
+     "id": "2026-09-29-economics",
+     "topic": "Economics",
+     "title": "Oil And Bond Yields Climb, Stocks Slide",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>September 28</strong>, the <strong>S&amp;P 500</strong> fell <strong>0.77%</strong> to <strong>7,683.69</strong>, the <strong>Nasdaq</strong> <strong>0.92%</strong> and the <strong>Dow</strong> <strong>0.67%</strong>.</li>\n<li>The <strong>10-year Treasury yield</strong> rose to about <strong>5.2%</strong>, a <strong>19-year high</strong>.</li>\n<li>Oil jumped: US crude (WTI) gained <strong>4.2%</strong> to <strong>$96.31</strong> a barrel and Brent rose to <strong>$108.50</strong>, driven by the Iran standoff.</li>\n<li>Fed Governor <strong>Lisa Cook</strong> said AI-driven investment is adding inflation pressure, while arguing the job market can handle further rate increases.</li>\n<li>Only Healthcare, Staples and Energy stocks rose.</li>\n</ul>",
+     "whyHtml": "Pricier oil and higher yields push up fuel costs, mortgage rates and business borrowing, which is why markets are wary of a \"higher for longer\" rate outlook.",
+     "noteHtml": "",
+     "sourceHtml": "Source: TheStreet, September 28, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "label": "Friday, 25 September 2026",
+   "entries": [
+    {
+     "id": "2026-09-25-ai-technology",
+     "topic": "AI Technology",
+     "title": "First Malware Run By A Committee Of AIs",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>Cisco's security team, <strong>Talos</strong>, disclosed on <strong>September 22</strong> what it calls the first reported malware with a fully autonomous AI-driven command center: a program nicknamed <strong>CLOSEDQUORUM</strong>.</li>\n<li>Instead of waiting for instructions from a human hacker, the malware polls a panel of commercial AI models — including <strong>DeepSeek</strong>, <strong>Qwen</strong>, <strong>Mistral</strong> and <strong>Google's Gemini</strong> — and lets them vote on what to do next.</li>\n<li>Researchers found no evidence it has been used in a real attack yet; it looks more like a proof-of-concept than an active threat today.</li>\n<li>To catch this kind of malware, Talos built a companion detection tool called <strong>CAIRN</strong>, which spots the fingerprints AI-driven malware leaves behind, such as prompt templates, API keys and provider web addresses baked into the code.</li>\n</ul>",
+     "whyHtml": "Malware that no longer needs a human operator to decide its next move is harder to predict and harder to shut down by cutting off one attacker. It's an early sign that the same AI tools used for legitimate work are starting to show up on the offensive side of cybersecurity too.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Command and control (C2)</em> is the system an attacker normally uses to send live instructions to malware already installed on a victim's machine.</p>",
+     "sourceHtml": "Source: Cisco Talos / Dataconomy, September 22, 2026"
+    },
+    {
+     "id": "2026-09-25-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Trump And Xi Meet In Washington, Agree To Little",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li><strong>Donald Trump</strong> and <strong>Xi Jinping</strong> held a state summit in <strong>Washington, DC</strong> on <strong>September 24</strong>, their first in-person meeting since Trump's return to office, covering <strong>Taiwan</strong>, <strong>trade</strong>, <strong>AI chips</strong> and the <strong>Iran war</strong>.</li>\n<li>Both leaders struck a conciliatory public tone — Trump called it \"a great meeting,\" while Xi invoked the \"Thucydides Trap\" (the idea that a rising power and an established one tend to end up at war) and urged that competition be \"kept within bounds.\"</li>\n<li>On <strong>Taiwan</strong>, Xi pressed Trump to oppose Taiwanese independence; Trump has already delayed a <strong>$14 billion</strong> arms package to Taiwan since <strong>May</strong>, treating the sale as leverage with Beijing.</li>\n<li>On <strong>Iran</strong>, where the US and Israel have been at war since <strong>February</strong>, China — Iran's largest trading partner — resisted US pressure to economically isolate Tehran.</li>\n<li>The trade war launched by Trump's tariffs continues; no breakthrough on tariffs was announced.</li>\n</ul>",
+     "whyHtml": "A friendly photo-op doesn't resolve the underlying disputes between the world's two largest economies — tariffs, Taiwan, and now competing claims over advanced AI chips. Watch for follow-through, not just tone.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Al Jazeera / CNBC / Bloomberg, September 24, 2026"
+    },
+    {
+     "id": "2026-09-25-environment",
+     "topic": "Environment",
+     "title": "Arctic Ice Hits Its Low Point — Again",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li><strong>NASA</strong> and the <strong>National Snow and Ice Data Center (NSIDC)</strong> confirmed Arctic sea ice reached its 2026 annual minimum on <strong>September 12</strong>, covering about <strong>1.78 million square miles (4.6 million square kilometers)</strong>.</li>\n<li>That ties 2026 with <strong>2008</strong>, <strong>2010</strong> and <strong>2025</strong> for the <strong>10th-lowest</strong> minimum since satellites began tracking Arctic ice in <strong>1978</strong>.</li>\n<li>The bigger signal isn't any single year: the <strong>20 lowest</strong> Arctic minimums on record have all occurred in the last <strong>20 years</strong> (2007–2026).</li>\n<li>Scientists describe the last decade as a <strong>plateau</strong> rather than a return to normal. NSIDC's <strong>Walt Meier</strong> said extent has \"plateaued, but we're still low relative to the earlier part of the record.\" NASA's <strong>Linette Boisvert</strong> points to increased cloud cover, which blocks some sunlight, as one reason melt hasn't accelerated further recently.</li>\n</ul>",
+     "whyHtml": "A plateau at a historically low level isn't good news in disguise — it means the Arctic has settled into a state far outside anything seen before the 2000s, with knock-on effects for weather patterns, shipping routes and wildlife that depend on the ice.",
+     "noteHtml": "",
+     "sourceHtml": "Source: NASA / NSIDC, September 12–22, 2026"
+    },
+    {
+     "id": "2026-09-25-economics",
+     "topic": "Economics",
+     "title": "Bond Yields Jump To Multi-Decade Highs",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The <strong>10-year US Treasury yield</strong> climbed to <strong>5.12%</strong> on <strong>September 24</strong>, near a <strong>19-year high</strong>, while the <strong>30-year yield</strong> hit a <strong>22-year high</strong>.</li>\n<li>The trigger: a weak <strong>$70 billion</strong> 5-year Treasury auction met soft demand, on top of heavy government borrowing overall — both signs investors want more return to hold US debt.</li>\n<li><strong>New York Fed</strong> President <strong>John Williams</strong> signaled more rate hikes are likely, adding further upward pressure on yields.</li>\n<li><strong>Oil</strong> joined the move: US crude (WTI) rose to <strong>$93.82</strong> a barrel, up <strong>1.8%</strong> on the day.</li>\n<li>Stocks fell across the board — the <strong>S&amp;P 500</strong> dropped <strong>0.75%</strong>, the <strong>Dow</strong> <strong>0.68%</strong>, and the <strong>Nasdaq</strong> <strong>1.13%</strong> — even as a strong September manufacturing survey pointed to a resilient economy, which paradoxically fed worries that inflation, and rates, will stay higher for longer.</li>\n</ul>",
+     "whyHtml": "Higher Treasury yields ripple into mortgage rates, business loans and government borrowing costs everywhere. Combined with pricier oil, markets are pricing in a \"higher for longer\" rate world even as the economy still looks strong — an awkward combination for the Fed.",
+     "noteHtml": "",
+     "sourceHtml": "Source: NBC News / Charles Schwab, September 24, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "label": "Thursday, 24 September 2026",
+   "entries": [
+    {
+     "id": "2026-09-24-ai-technology",
+     "topic": "AI Technology",
+     "title": "AI Agents Find A CRISPR Cousin",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>On <strong>23 September</strong>, <strong>Anthropic</strong> announced its new life-sciences lab, and with it a first result: <strong>Claude</strong> appears to have found a previously undescribed enzyme system hiding in the DNA of <strong>bacteriophages</strong> — viruses that infect bacteria.</li>\n<li>The system, named <strong>ART</strong> (<em>array-associated reverse transcriptases</em>), has three parts: a reverse-transcriptase gene, a partner gene next to it, and a long row of evenly spaced repeating DNA sequences. That repeat pattern is what makes it look like a relative of <strong>CRISPR</strong>.</li>\n<li>The search itself is the headline. Roughly <strong>950 Claude agents</strong> worked in parallel for <strong>21 hours</strong>, reading through more than <strong>200,000</strong> reverse-transcriptase sequences and burning about <strong>210 million tokens</strong>.</li>\n<li>Anthropic is careful about the claim: nobody yet knows what ART actually <em>does</em>, wet-lab experiments are still running, and the accompanying preprint has <strong>not been peer-reviewed</strong>.</li>\n</ul>",
+     "whyHtml": "CRISPR took roughly two decades to travel from an odd pattern in bacterial DNA to a gene-editing tool. If AI agents can sweep genetic databases and surface the odd patterns worth chasing, the front end of that pipeline gets much faster — though the slow, unglamorous laboratory work still decides whether anything comes of it.",
+     "noteHtml": "<p><strong>Jargon note:</strong> A <em>reverse transcriptase</em> is an enzyme that copies RNA back into DNA — the same trick HIV uses, and a standard tool in biology labs.</p>",
+     "sourceHtml": "Source: Anthropic / The Verge / Unite.AI, September 23, 2026"
+    },
+    {
+     "id": "2026-09-24-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Iran Dangles Hormuz Reopening At UN",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>A senior Iranian official told <strong>Reuters</strong> on <strong>22 September</strong> that Iran could reopen the <strong>Strait of Hormuz</strong> to normal tanker traffic <strong>within seven days</strong> — if the United States eases military pressure and lifts its blockade of Iranian ports.</li>\n<li>The condition is presentational as much as practical: Washington must say publicly that it wants a diplomatic settlement and agree to a timeline. Tehran says its proposal went to the US through mediators on <strong>16 September</strong>.</li>\n<li>The timing is deliberate. World leaders were gathered in <strong>New York</strong> for the <strong>UN General Assembly</strong>, and Iran's delegation was said to carry full authority to restart talks.</li>\n<li>Momentum has stalled before. An <strong>Omani</strong>-brokered meeting of Gulf and Iranian officials in <strong>Salalah</strong> was postponed indefinitely on <strong>13 September</strong>, and a June ceasefire collapsed in July.</li>\n<li>Separately, <strong>Saudi Arabia</strong> has restarted its East–West pipeline, which moves crude to the Red Sea and bypasses the strait entirely.</li>\n</ul>",
+     "whyHtml": "Roughly a fifth of the world's seaborne oil normally passes through Hormuz, so the strait is a valve on global energy prices — and on what everyone pays to heat, drive and ship. A one-week reopening offer is cheap to make and easy to withdraw, but it is the clearest signal in months that both sides are looking for an exit.",
+     "noteHtml": "<p><strong>Jargon note:</strong> A <em>chokepoint</em> is a narrow shipping passage with no easy alternative route; blocking one disrupts trade far beyond the region it sits in.</p>",
+     "sourceHtml": "Source: Reuters via US News / CNN / The Week, September 22, 2026"
+    },
+    {
+     "id": "2026-09-24-environment",
+     "topic": "Environment",
+     "title": "El Niño Reaches Record Super Strength",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li><strong>NOAA</strong> data released on <strong>14 September</strong> confirmed that this El Niño has passed the <strong>2°C</strong> threshold in the tropical Pacific, formally making it \"very strong\" — what forecasters informally call a <strong>super El Niño</strong>.</li>\n<li>By mid-September the key <strong>Niño 3.4</strong> index had reached <strong>+3.0°C</strong>, and all <strong>22</strong> forecast models agree the event will strengthen further and stay very strong through the <strong>2026–27</strong> winter.</li>\n<li>NOAA's Climate Prediction Center puts the odds at about <strong>75%</strong> that this becomes the strongest El Niño since records began in <strong>1950</strong>, most likely peaking between <strong>October and December</strong>.</li>\n<li>El Niño releases heat stored in the Pacific into the atmosphere, so it temporarily pushes global temperatures up on top of long-term warming. Typical knock-on effects: drought across <strong>Australia, Indonesia and southern Africa</strong>, heavy rain in <strong>Peru, Ecuador and the southern United States</strong>.</li>\n</ul>",
+     "whyHtml": "This is a short, sharp shove on top of a slow trend, and the two add together. Expect record global temperatures over the next year, plus concrete consequences — crop failures in drought regions, flooding elsewhere, and food prices that move accordingly. It is also temporary, which makes the next cool year easy to misread as the problem going away.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>El Niño</em> is a periodic warming of the eastern tropical Pacific that reshuffles rainfall and temperature patterns worldwide; its cool counterpart is <em>La Niña</em>.</p>",
+     "sourceHtml": "Source: NOAA / CNN / Al Jazeera, September 14–22, 2026"
+    },
+    {
+     "id": "2026-09-24-economics",
+     "topic": "Economics",
+     "title": "Fed Hikes As Yields Hit 2007",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>The <strong>Federal Reserve</strong> raised its benchmark rate by <strong>25 basis points</strong> to a <strong>3.75%–4.00%</strong> range, in a <strong>unanimous</strong> vote. Policymakers' own projections point to one more <strong>25bp</strong> hike before the end of <strong>2026</strong>.</li>\n<li>The <strong>10-year Treasury yield</strong> climbed to <strong>5.04%</strong>, its highest since <strong>2007</strong>. That single number sets the floor for mortgage rates, corporate borrowing and government debt costs worldwide.</li>\n<li>Markets are now pricing in an <strong>October</strong> hike as well, after Fed Governor <strong>Michael Barr</strong> backed further tightening and an inflation reading came in hot.</li>\n<li>The awkward part is that the economy looks strong, not weak: <strong>S&amp;P Global's</strong> flash manufacturing and services surveys both hit <strong>four-year highs</strong>. Strength plus rising oil prices is exactly the mix that keeps inflation alive.</li>\n<li>The <strong>dollar</strong> rose for a fourth straight day to its strongest level since <strong>31 July</strong>.</li>\n</ul>",
+     "whyHtml": "A rising-rate Fed in 2026 reverses the direction most borrowers had planned around. Mortgages, car loans and business credit all get dearer, and a strong dollar squeezes countries that borrow in it. The unusual part is that this tightening comes with a <em>healthy</em> economy — meaning the Fed has room to keep going, and little reason to stop early.",
+     "noteHtml": "<p><strong>Jargon note:</strong> A <em>basis point</em> is one hundredth of a percentage point, so 25 basis points is 0.25%.</p>",
+     "sourceHtml": "Source: CNBC / Bloomberg / T. Rowe Price, September 23, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "label": "Thursday, 17 September 2026",
+   "entries": [
+    {
+     "id": "2026-09-17-ai-technology",
+     "topic": "AI Technology",
+     "title": "Two Giants Race To Talk Back",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li><strong>Google</strong> launched <strong>Gemini 3.8 Live</strong> and a heavier <strong>Extended Thinking</strong> version on <strong>15 September</strong>, days after <strong>OpenAI</strong> opened <strong>GPT-Live-1</strong> to outside developers on <strong>10 September</strong>.</li>\n<li>Both are <em>full-duplex</em> voice models: they listen and speak at the same time, so you can interrupt mid-sentence without the conversation falling apart. OpenAI quotes latency under <strong>300 milliseconds</strong>.</li>\n<li>Price is the battleground. OpenAI charges <strong>$0.05 per minute</strong>; Google positioned Gemini 3.8 Live at <strong>less than half</strong> that, aiming at companies running voice agents at scale.</li>\n<li>Google is wiring the model straight into <strong>Search Live</strong>, <strong>Gmail</strong>, <strong>Keep</strong> and <strong>Workspace</strong>, while OpenAI's version already powers <strong>ChatGPT Voice</strong> and is now a building block for anyone else's app.</li>\n<li>The split product line — one cheap and fast, one slower and better at multi-step reasoning — signals that voice AI is maturing from demo to infrastructure.</li>\n</ul>",
+     "whyHtml": "Voice is the interface most people find easiest, and it is about to get cheap enough to put behind ordinary phone lines — customer service, bookings, helplines. Expect far more calls answered by software within a year, and a real question about whether you will be told.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Full-duplex</em> means both sides can talk simultaneously, like a phone call, rather than taking strict turns like a walkie-talkie.</p>",
+     "sourceHtml": "Source: MarkTechPost / 9to5Google / OpenAI, September 10–15, 2026"
+    },
+    {
+     "id": "2026-09-17-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Europe Drafts Its Sabotage Playbook",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>In her <strong>State of the European Union</strong> address in <strong>Strasbourg</strong> on <strong>16 September</strong>, Commission President <strong>Ursula von der Leyen</strong> proposed an <strong>Emergency Security Protocol</strong> modelled on <strong>NATO's Article 4</strong>.</li>\n<li>Under it, any one of the <strong>27 member states</strong> hit by a serious <em>hybrid</em> attack could trigger consultations, obliging all members to convene and coordinate a joint response.</li>\n<li>The trigger cases are deliberately below the line of war: sabotage, arson, and drone incursions — including an attempted drone attack on <strong>Leipzig airport</strong> last month that German authorities attribute to <strong>Russia</strong>.</li>\n<li>She also backed a <strong>European Security Council</strong> that would seat leaders from the EU alongside <strong>Britain, Norway, Ukraine and Canada</strong> — a grouping that pointedly does not include the United States.</li>\n<li>The framing throughout was self-reliance: Europe as a power in its own right rather than a junior partner.</li>\n</ul>",
+     "whyHtml": "Traditional alliances are built around invasion. Most of what Europe actually faces now is cut cables, burned warehouses and drones over airports — damaging, deniable, and too small to trigger a treaty. This is an attempt to close that gap, and its weakness is the same as Article 4's: it compels a meeting, not an answer.",
+     "noteHtml": "<p><strong>Jargon note:</strong> A <em>hybrid threat</em> is hostile action that stays below open warfare — sabotage, cyberattacks, disinformation — often designed so the attacker can deny involvement.</p>",
+     "sourceHtml": "Source: Reuters via US News / France 24 / Breaking Defense, September 16, 2026"
+    },
+    {
+     "id": "2026-09-17-environment",
+     "topic": "Environment",
+     "title": "The UN Concedes 1.5 Degrees",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>A <strong>UN Environment Programme</strong> report, <em>Limiting Overshoot</em>, concludes the world is now set to pass <strong>1.5°C</strong> of warming above pre-industrial levels, likely <strong>within the next few years</strong>.</li>\n<li>This is the threshold governments committed to in the <strong>Paris Agreement</strong>. The report's message is not that the goal is dead, but that it can only be met by going over and coming back down.</li>\n<li>That route is called <strong>overshoot, peak and decline</strong>. The most optimistic scenario modelled peaks at <strong>1.8°C</strong>; most others peak higher.</li>\n<li>Returning below 1.5°C would require steep emissions cuts, a large scale-up of <strong>carbon removal</strong>, and eventually <strong>net-negative</strong> emissions — taking out more than is put in.</li>\n<li>The report pairs this with a push on <strong>adaptation</strong>, on the reasoning that years spent above 1.5°C will be lived through regardless.</li>\n</ul>",
+     "whyHtml": "For a decade 1.5°C has been talked about as a wall to avoid hitting. The UN's own agency now treats crossing it as the planning assumption. That changes the conversation from prevention to damage control — and makes how <em>long</em> the overshoot lasts the number that matters.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Net-negative emissions</em> means removing more greenhouse gas from the atmosphere each year than humans add — a step beyond net zero, which only balances the two.</p>",
+     "sourceHtml": "Source: UNEP / World Resources Institute, September 2026"
+    },
+    {
+     "id": "2026-09-17-economics",
+     "topic": "Economics",
+     "title": "Fed Raises Rates, First Since 2023",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>The <strong>US Federal Reserve</strong> raised its benchmark rate by a quarter point on <strong>16 September</strong>, to a target range of <strong>3.75–4.00%</strong> — its first increase in <strong>three years</strong>.</li>\n<li>The vote was <strong>unanimous, 12–0</strong>. The stated reason is inflation that has not come down, driven in large part by high energy prices.</li>\n<li>Oil is the backdrop: <strong>Brent</strong> has climbed nearly <strong>20% in September</strong> to around <strong>US$108</strong>, on shipping-lane risk in the Middle East.</li>\n<li>The committee's own projections point to more. <strong>16 of 18</strong> officials expect at least one further hike this year; four see two.</li>\n<li>Beyond 2026 the dot plot flattens out, with no hikes pencilled in and roughly one cut each in <strong>2028</strong> and <strong>2029</strong> — an implicit bet that this is a short, sharp episode.</li>\n</ul>",
+     "whyHtml": "Higher policy rates feed into mortgages, credit cards and business loans, and the whole point is to cool spending. The awkward part is that the inflation here comes from oil, which a US interest rate cannot produce more of — so the Fed is squeezing demand to offset a supply problem.",
+     "noteHtml": "<p><strong>Jargon note:</strong> The <em>dot plot</em> is a chart published quarterly showing where each Fed official privately expects rates to be in coming years. It is a forecast, not a promise.</p>",
+     "sourceHtml": "Source: CNBC / Fox Business, September 16, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "label": "Tuesday, 15 September 2026",
+   "entries": [
+    {
+     "id": "2026-09-15-ai-technology",
+     "topic": "AI Technology",
+     "title": "Rivals Meet To Police Themselves",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li><strong>Anthropic</strong>, <strong>OpenAI</strong> and <strong>Google DeepMind</strong> have been holding working-group meetings since <strong>July 2026</strong> to discuss creating an industry-run standards body for AI, reported on <strong>13–14 September</strong>.</li>\n<li>The idea would set shared rules for <strong>technical testing and auditing</strong> of AI models — a common yardstick for how a model is checked before release.</li>\n<li>The catalyst was a <strong>July essay</strong> by DeepMind co-founder <strong>Demis Hassabis</strong>, proposing a US-led body modelled on <strong>FINRA</strong>, the self-regulator for American stockbrokers.</li>\n<li><strong>Sam Altman</strong> backs a labs-led body in the absence of federal rules; <strong>Dario Amodei</strong> is driving the talks. The three still disagree on its shape and powers.</li>\n<li>Separately, <strong>Microsoft</strong> published a draft code of conduct for its own AI systems, with explicit limits meant to stop future models resisting human oversight or shutdown.</li>\n</ul>",
+     "whyHtml": "When an industry writes its own rulebook, the result can go two ways — a genuine safety floor, or a shield against tougher outside regulation. Which one this becomes depends on whether the body can actually fail a member's model. Worth watching as the template for how AI gets governed.",
+     "noteHtml": "<p><strong>Jargon note:</strong> A <em>self-regulatory body</em> is an organisation run by an industry's own firms that sets and enforces standards on its members, instead of a government agency doing it.</p>",
+     "sourceHtml": "Source: CNN Business / PYMNTS / Quartz, September 13–14, 2026"
+    },
+    {
+     "id": "2026-09-15-geopolitics",
+     "topic": "Geopolitics",
+     "title": "BRICS Agrees By Saying Less",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>The <strong>18th BRICS summit</strong> closed in <strong>New Delhi</strong> on <strong>13 September 2026</strong>, with all <strong>11 members</strong> unanimously adopting the <strong>New Delhi Declaration</strong> on day one.</li>\n<li>India chaired under the theme \"Building for Resilience, Innovation, Cooperation and Sustainability\", with Brazil, Russia, China, South Africa plus newer members Egypt, Ethiopia, Indonesia, the UAE and Iran.</li>\n<li>Unanimity came at a price. The declaration urged <strong>restraint in the Middle East</strong> without condemning the US–Israeli strikes or Iran's attacks on Gulf states, and called for disputes to be settled by \"dialogue\" <strong>without mentioning Ukraine at all</strong>.</li>\n<li>The substance sits elsewhere: <strong>local-currency payments</strong> between members, lending through the <strong>New Development Bank</strong>, AI governance, food security and climate finance.</li>\n<li>The core demand is reform of global institutions — the IMF, World Bank and UN Security Council — to give the <strong>Global South</strong> more say.</li>\n</ul>",
+     "whyHtml": "BRICS is often read as an anti-Western bloc, but this summit shows its real limit: with members on opposite sides of active wars, agreement only survives where the wording stays vague. The plumbing — paying each other in their own currencies rather than dollars — is the part that could matter for decades.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Global South</em> is shorthand for lower- and middle-income countries, mostly in Africa, Latin America and Asia, that feel underrepresented in institutions built after 1945.</p>",
+     "sourceHtml": "Source: Al Jazeera, September 13, 2026"
+    },
+    {
+     "id": "2026-09-15-environment",
+     "topic": "Environment",
+     "title": "A Super El Niño Levels Up",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li><strong>NOAA's</strong> September forecast gives a <strong>97% chance</strong> of a \"Super El Niño\" lasting from this autumn through early spring, with a <strong>75% chance</strong> it peaks as the <strong>strongest since records began in 1950</strong>.</li>\n<li>The forecast three-month average is <strong>2.66</strong>, which would beat the previous record of <strong>2.40</strong> set over November 1982 – February 1983.</li>\n<li>Central equatorial Pacific water temperatures have sat at <strong>record levels for more than three months straight</strong>.</li>\n<li>Knock-on effects already being linked to the pattern: nonstop heat records in <strong>Peru</strong>, deadly storms in <strong>Chile</strong>, destructive hurricanes in <strong>Hawaii</strong>, US flooding, and an unusually <strong>quiet Atlantic hurricane season</strong>.</li>\n<li>Around <strong>2.4 billion people</strong> face at least a <strong>10% chance</strong> of humidity in the top 5% of historical values for the time of year.</li>\n</ul>",
+     "whyHtml": "El Niño is a natural cycle, not climate change — but it stacks on top of an already warmer baseline, so a record one tends to push global temperatures to new highs the following year. Practically, it redraws where rain falls for a season, which shows up in harvests, food prices and flood risk far from the Pacific.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>El Niño</em> is a periodic warming of the central and eastern Pacific Ocean that shifts wind and rainfall patterns worldwide, typically every two to seven years.</p>",
+     "sourceHtml": "Source: CNN / NOAA via Fox Weather / Washington Post, September 3–14, 2026"
+    },
+    {
+     "id": "2026-09-15-economics",
+     "topic": "Economics",
+     "title": "The Fed Weighs A Rate Hike",
+     "mins": 2,
+     "bodyHtml": "<ul>\n<li>Markets put roughly an <strong>85–90% probability</strong> on the <strong>US Federal Reserve raising rates</strong> a quarter point at its <strong>16 September</strong> meeting, which would lift the federal funds rate to <strong>3.75–4.00%</strong>.</li>\n<li><strong>August inflation</strong> (CPI-U) came in at <strong>3.4%</strong> annualised, matching July and sitting well above the Fed's <strong>2%</strong> target.</li>\n<li>Consumers' <strong>one-year inflation expectations</strong> jumped from <strong>4.0% to 4.6%</strong>, the highest since June — a figure the Fed watches closely because expectations can become self-fulfilling.</li>\n<li>The backdrop is unusually messy: <strong>oil above $100 a barrel</strong>, Middle East conflict, a trade dispute with <strong>Canada</strong>, and uncertainty over AI investment.</li>\n<li>All major US indexes finished the week lower; <strong>10-year Treasury yields</strong> closed near <strong>5.0%</strong>, a near three-year high.</li>\n</ul>",
+     "whyHtml": "A rate rise is the Fed deliberately making borrowing more expensive to cool prices — and this one is unusual, because much of the inflation comes from an oil shock the Fed cannot fix with interest rates. Higher rates feed through to mortgages, loans and savings rates well beyond the US.",
+     "noteHtml": "<p><strong>Jargon note:</strong> The <em>federal funds rate</em> is the overnight interest rate US banks charge each other. It anchors almost every other borrowing rate in the economy.</p>",
+     "sourceHtml": "Source: Kiplinger / CNBC / U.S. News, September 14, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-09-13",
    "label": "Sunday, 13 September 2026",

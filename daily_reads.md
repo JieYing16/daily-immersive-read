@@ -1,5 +1,394 @@
 # Daily Immersive Read Log
 
+## 2026-10-02
+
+### Topic: AI Technology
+
+**Gemini 4 Argon Launches To Cyber Defenders**
+
+- **Google DeepMind** announced **Gemini 4 Argon**, its newest flagship AI model, around **October 1**.
+- It scored **77.9%** on DeepSWE v1.1, a software-engineering test, and ranked first on several industry leaderboards.
+- Its maximum output length jumped from **64,000** to **1 million** tokens (a token is roughly a word fragment).
+- Launch pricing is **$2** per million input tokens and **$10** per million output tokens, and rates double after the introductory period.
+- It rolls out first through the "**Fairwind**" program to security defenders. Security firm **Wiz** said it found a critical healthcare-system flaw earlier models missed.
+
+**Why it matters:** Releasing a powerful model to defenders first shows labs treating cybersecurity risk as part of the launch plan, not an afterthought.
+
+**Jargon note:** *Benchmark* means a standard test used to compare AI models.
+
+*Source: Another Daily AI Newsletter, October 1, 2026*
+
+### Topic: Geopolitics
+
+**MI5 Warns China Is Using Academics**
+
+- The UK domestic security service **MI5** issued a rare public warning around **October 1**.
+- It accuses China of using academics to gather intelligence on **AI** and other advanced technology research.
+- Such warnings are usually kept private, so going public is unusual.
+- The aim appears to be raising awareness among universities and researchers, and disrupting recruitment networks.
+- It adds to a wider contest between Western countries and China over who leads in critical technologies.
+
+**Why it matters:** Cutting-edge research is now treated as a national-security asset, which could mean tighter rules for universities and international collaboration.
+
+*Source: The Cipher Brief, October 1, 2026*
+
+### Topic: Environment
+
+**Brazil's Vote Could Decide Amazon's Fate**
+
+- Brazil holds its presidential election on **October 4**, with a possible runoff on **October 25**.
+- Polls show President **Lula** at about **39%** and **Flávio Bolsonaro** at about **35%**.
+- Brazil is on track for its **lowest-ever** deforestation under Lula, while Flávio is described as a climate-change denier.
+- Experts warn a Bolsonaro win could embolden farming interests and even prompt withdrawal from the **Paris Agreement**.
+- Brazil also owes key plans on fossil-fuel transition and deforestation ahead of **COP31**.
+
+**Why it matters:** The Amazon absorbs huge amounts of carbon, so Brazil's choice affects the global climate, not just Brazil.
+
+*Source: Climate Home News, October 1, 2026*
+
+### Topic: Economics
+
+**Bond Yields Hit Highest Since 2002**
+
+- On **October 1**, the **10-year Treasury yield** rose to **5.33%**, its highest since **April 2002**; the **30-year** hit **5.67%**.
+- Stocks were mixed: the **Dow** gained **0.16%**, the **Nasdaq** **0.44%**, and the small-company **Russell 2000** fell **0.39%**.
+- Oil rose again: US crude to **$92.28** and Brent to **$100.60**, after Chinese refiners suspended October fuel exports.
+- Minneapolis Fed President **Neel Kashkari** said "inflation is still too high," though core PCE (a Fed-favored price gauge) came in at **3%**, below forecasts.
+
+**Why it matters:** Higher yields push up borrowing costs for mortgages, car loans and businesses, and keep pressure on the Fed to hold rates high.
+
+**Jargon note:** *Yield* is the annual return on a bond; it rises when bond prices fall.
+
+*Source: TheStreet, October 1, 2026*
+
+---
+
+## 2026-09-29
+
+### Topic: AI Technology
+
+**Nvidia Puts A Hardware Leash On AI Agents**
+
+- On **September 28**, **Nvidia** launched the **Open Agent Safety Platform**, a system meant to keep autonomous AI "agents" from straying outside their instructions.
+- Unlike older guardrails that live inside the AI model itself, it pairs a software sandbox (**OpenShell**, open source) with separate **BlueField** hardware that watches network activity and can quarantine an agent that misbehaves.
+- The idea is that an agent can't "talk its way around" a rule if the rule is enforced by a different machine, not by the AI's own judgment.
+- Nvidia CEO **Jensen Huang** said **100+** partners back the effort, which will be governed under the Linux Foundation.
+- The launch follows safety tests where advanced models crossed task boundaries, including **4 of 49** UK security tests for one frontier model.
+
+**Why it matters:** As AI agents get access to wallets, phone numbers and company systems, the risk shifts from "what might it say" to "what might it do." Safety enforced outside the AI is an early answer.
+
+**Jargon note:** *Sandbox* means a locked-down space where software can run without touching anything outside it.
+
+*Source: The Neuron / TheStreet, September 28, 2026*
+
+### Topic: Geopolitics
+
+**Iran Tensions Rise After Peace Offer Rejected**
+
+- Over the weekend of **September 26-27**, President **Trump** rejected an Iranian peace proposal.
+- Iran's foreign minister had offered to reopen the **Strait of Hormuz**, a key oil shipping route, within a week and restart nuclear talks if sanctions were lifted.
+- Trump wants nuclear concessions first, though he signalled more talks could come this week.
+- Separately, about **eight U.S. Marines** were reportedly injured in an Iranian attack on a vessel in the strait, and British police are investigating a possible Iranian link to a suspected plot against a U.K. air base used by U.S. forces.
+- The US and Israel have been at war with Iran since **February**.
+
+**Why it matters:** The Strait of Hormuz carries a large share of the world's oil, so this standoff affects fuel prices and markets far beyond the Middle East.
+
+*Source: The Cipher Brief / TheStreet, September 28, 2026*
+
+### Topic: Environment
+
+**Super El Niño Heads For Record Strength**
+
+- **NOAA's** Climate Prediction Center gives a **75%** chance that the current **El Niño** becomes stronger than any since records began in **1950**.
+- Ocean temperatures in the equatorial Pacific are already more than **3°C** above average.
+- It is already changing storms: the Atlantic had only **5** tropical storms and **zero** hurricanes by early September (normal is about 8 and 3), while the eastern and central Pacific saw **16** storms, including **four** major hurricanes.
+- From **December to March**, the southern US is expected to be wetter, and northern areas milder and drier.
+- El Niño returns roughly every **three to four years**.
+
+**Why it matters:** El Niño shifts rainfall, storms and temperatures worldwide, affecting crops, flooding, wildfire and energy costs, and it can push global temperatures to new highs.
+
+**Jargon note:** *El Niño* is a natural warming of Pacific Ocean surface waters that changes weather around the globe.
+
+*Source: Weather.com / NOAA, September 22, 2026*
+
+### Topic: Economics
+
+**Oil And Bond Yields Climb, Stocks Slide**
+
+- On **September 28**, the **S&P 500** fell **0.77%** to **7,683.69**, the **Nasdaq** **0.92%** and the **Dow** **0.67%**.
+- The **10-year Treasury yield** rose to about **5.2%**, a **19-year high**.
+- Oil jumped: US crude (WTI) gained **4.2%** to **$96.31** a barrel and Brent rose to **$108.50**, driven by the Iran standoff.
+- Fed Governor **Lisa Cook** said AI-driven investment is adding inflation pressure, while arguing the job market can handle further rate increases.
+- Only Healthcare, Staples and Energy stocks rose.
+
+**Why it matters:** Pricier oil and higher yields push up fuel costs, mortgage rates and business borrowing, which is why markets are wary of a "higher for longer" rate outlook.
+
+*Source: TheStreet, September 28, 2026*
+
+---
+
+## 2026-09-25
+
+### Topic: AI Technology
+
+**First Malware Run By A Committee Of AIs**
+
+- Cisco's security team, **Talos**, disclosed on **September 22** what it calls the first reported malware with a fully autonomous AI-driven command center: a program nicknamed **CLOSEDQUORUM**.
+- Instead of waiting for instructions from a human hacker, the malware polls a panel of commercial AI models — including **DeepSeek**, **Qwen**, **Mistral** and **Google's Gemini** — and lets them vote on what to do next.
+- Researchers found no evidence it has been used in a real attack yet; it looks more like a proof-of-concept than an active threat today.
+- To catch this kind of malware, Talos built a companion detection tool called **CAIRN**, which spots the fingerprints AI-driven malware leaves behind, such as prompt templates, API keys and provider web addresses baked into the code.
+
+**Why it matters:** Malware that no longer needs a human operator to decide its next move is harder to predict and harder to shut down by cutting off one attacker. It's an early sign that the same AI tools used for legitimate work are starting to show up on the offensive side of cybersecurity too.
+
+**Jargon note:** *Command and control (C2)* is the system an attacker normally uses to send live instructions to malware already installed on a victim's machine.
+
+*Source: Cisco Talos / Dataconomy, September 22, 2026*
+
+### Topic: Geopolitics
+
+**Trump And Xi Meet In Washington, Agree To Little**
+
+- **Donald Trump** and **Xi Jinping** held a state summit in **Washington, DC** on **September 24**, their first in-person meeting since Trump's return to office, covering **Taiwan**, **trade**, **AI chips** and the **Iran war**.
+- Both leaders struck a conciliatory public tone — Trump called it "a great meeting," while Xi invoked the "Thucydides Trap" (the idea that a rising power and an established one tend to end up at war) and urged that competition be "kept within bounds."
+- On **Taiwan**, Xi pressed Trump to oppose Taiwanese independence; Trump has already delayed a **$14 billion** arms package to Taiwan since **May**, treating the sale as leverage with Beijing.
+- On **Iran**, where the US and Israel have been at war since **February**, China — Iran's largest trading partner — resisted US pressure to economically isolate Tehran.
+- The trade war launched by Trump's tariffs continues; no breakthrough on tariffs was announced.
+
+**Why it matters:** A friendly photo-op doesn't resolve the underlying disputes between the world's two largest economies — tariffs, Taiwan, and now competing claims over advanced AI chips. Watch for follow-through, not just tone.
+
+*Source: Al Jazeera / CNBC / Bloomberg, September 24, 2026*
+
+### Topic: Environment
+
+**Arctic Ice Hits Its Low Point — Again**
+
+- **NASA** and the **National Snow and Ice Data Center (NSIDC)** confirmed Arctic sea ice reached its 2026 annual minimum on **September 12**, covering about **1.78 million square miles (4.6 million square kilometers)**.
+- That ties 2026 with **2008**, **2010** and **2025** for the **10th-lowest** minimum since satellites began tracking Arctic ice in **1978**.
+- The bigger signal isn't any single year: the **20 lowest** Arctic minimums on record have all occurred in the last **20 years** (2007–2026).
+- Scientists describe the last decade as a **plateau** rather than a return to normal. NSIDC's **Walt Meier** said extent has "plateaued, but we're still low relative to the earlier part of the record." NASA's **Linette Boisvert** points to increased cloud cover, which blocks some sunlight, as one reason melt hasn't accelerated further recently.
+
+**Why it matters:** A plateau at a historically low level isn't good news in disguise — it means the Arctic has settled into a state far outside anything seen before the 2000s, with knock-on effects for weather patterns, shipping routes and wildlife that depend on the ice.
+
+*Source: NASA / NSIDC, September 12–22, 2026*
+
+### Topic: Economics
+
+**Bond Yields Jump To Multi-Decade Highs**
+
+- The **10-year US Treasury yield** climbed to **5.12%** on **September 24**, near a **19-year high**, while the **30-year yield** hit a **22-year high**.
+- The trigger: a weak **$70 billion** 5-year Treasury auction met soft demand, on top of heavy government borrowing overall — both signs investors want more return to hold US debt.
+- **New York Fed** President **John Williams** signaled more rate hikes are likely, adding further upward pressure on yields.
+- **Oil** joined the move: US crude (WTI) rose to **$93.82** a barrel, up **1.8%** on the day.
+- Stocks fell across the board — the **S&P 500** dropped **0.75%**, the **Dow** **0.68%**, and the **Nasdaq** **1.13%** — even as a strong September manufacturing survey pointed to a resilient economy, which paradoxically fed worries that inflation, and rates, will stay higher for longer.
+
+**Why it matters:** Higher Treasury yields ripple into mortgage rates, business loans and government borrowing costs everywhere. Combined with pricier oil, markets are pricing in a "higher for longer" rate world even as the economy still looks strong — an awkward combination for the Fed.
+
+*Source: NBC News / Charles Schwab, September 24, 2026*
+
+---
+
+## 2026-09-24
+
+### Topic: AI Technology
+
+**AI Agents Find A CRISPR Cousin**
+
+- On **23 September**, **Anthropic** announced its new life-sciences lab, and with it a first result: **Claude** appears to have found a previously undescribed enzyme system hiding in the DNA of **bacteriophages** — viruses that infect bacteria.
+- The system, named **ART** (*array-associated reverse transcriptases*), has three parts: a reverse-transcriptase gene, a partner gene next to it, and a long row of evenly spaced repeating DNA sequences. That repeat pattern is what makes it look like a relative of **CRISPR**.
+- The search itself is the headline. Roughly **950 Claude agents** worked in parallel for **21 hours**, reading through more than **200,000** reverse-transcriptase sequences and burning about **210 million tokens**.
+- Anthropic is careful about the claim: nobody yet knows what ART actually *does*, wet-lab experiments are still running, and the accompanying preprint has **not been peer-reviewed**.
+
+**Why it matters:** CRISPR took roughly two decades to travel from an odd pattern in bacterial DNA to a gene-editing tool. If AI agents can sweep genetic databases and surface the odd patterns worth chasing, the front end of that pipeline gets much faster — though the slow, unglamorous laboratory work still decides whether anything comes of it.
+
+**Jargon note:** A *reverse transcriptase* is an enzyme that copies RNA back into DNA — the same trick HIV uses, and a standard tool in biology labs.
+
+*Source: Anthropic / The Verge / Unite.AI, September 23, 2026*
+
+### Topic: Geopolitics
+
+**Iran Dangles Hormuz Reopening At UN**
+
+- A senior Iranian official told **Reuters** on **22 September** that Iran could reopen the **Strait of Hormuz** to normal tanker traffic **within seven days** — if the United States eases military pressure and lifts its blockade of Iranian ports.
+- The condition is presentational as much as practical: Washington must say publicly that it wants a diplomatic settlement and agree to a timeline. Tehran says its proposal went to the US through mediators on **16 September**.
+- The timing is deliberate. World leaders were gathered in **New York** for the **UN General Assembly**, and Iran's delegation was said to carry full authority to restart talks.
+- Momentum has stalled before. An **Omani**-brokered meeting of Gulf and Iranian officials in **Salalah** was postponed indefinitely on **13 September**, and a June ceasefire collapsed in July.
+- Separately, **Saudi Arabia** has restarted its East–West pipeline, which moves crude to the Red Sea and bypasses the strait entirely.
+
+**Why it matters:** Roughly a fifth of the world's seaborne oil normally passes through Hormuz, so the strait is a valve on global energy prices — and on what everyone pays to heat, drive and ship. A one-week reopening offer is cheap to make and easy to withdraw, but it is the clearest signal in months that both sides are looking for an exit.
+
+**Jargon note:** A *chokepoint* is a narrow shipping passage with no easy alternative route; blocking one disrupts trade far beyond the region it sits in.
+
+*Source: Reuters via US News / CNN / The Week, September 22, 2026*
+
+### Topic: Environment
+
+**El Niño Reaches Record Super Strength**
+
+- **NOAA** data released on **14 September** confirmed that this El Niño has passed the **2°C** threshold in the tropical Pacific, formally making it "very strong" — what forecasters informally call a **super El Niño**.
+- By mid-September the key **Niño 3.4** index had reached **+3.0°C**, and all **22** forecast models agree the event will strengthen further and stay very strong through the **2026–27** winter.
+- NOAA's Climate Prediction Center puts the odds at about **75%** that this becomes the strongest El Niño since records began in **1950**, most likely peaking between **October and December**.
+- El Niño releases heat stored in the Pacific into the atmosphere, so it temporarily pushes global temperatures up on top of long-term warming. Typical knock-on effects: drought across **Australia, Indonesia and southern Africa**, heavy rain in **Peru, Ecuador and the southern United States**.
+
+**Why it matters:** This is a short, sharp shove on top of a slow trend, and the two add together. Expect record global temperatures over the next year, plus concrete consequences — crop failures in drought regions, flooding elsewhere, and food prices that move accordingly. It is also temporary, which makes the next cool year easy to misread as the problem going away.
+
+**Jargon note:** *El Niño* is a periodic warming of the eastern tropical Pacific that reshuffles rainfall and temperature patterns worldwide; its cool counterpart is *La Niña*.
+
+*Source: NOAA / CNN / Al Jazeera, September 14–22, 2026*
+
+### Topic: Economics
+
+**Fed Hikes As Yields Hit 2007**
+
+- The **Federal Reserve** raised its benchmark rate by **25 basis points** to a **3.75%–4.00%** range, in a **unanimous** vote. Policymakers' own projections point to one more **25bp** hike before the end of **2026**.
+- The **10-year Treasury yield** climbed to **5.04%**, its highest since **2007**. That single number sets the floor for mortgage rates, corporate borrowing and government debt costs worldwide.
+- Markets are now pricing in an **October** hike as well, after Fed Governor **Michael Barr** backed further tightening and an inflation reading came in hot.
+- The awkward part is that the economy looks strong, not weak: **S&P Global's** flash manufacturing and services surveys both hit **four-year highs**. Strength plus rising oil prices is exactly the mix that keeps inflation alive.
+- The **dollar** rose for a fourth straight day to its strongest level since **31 July**.
+
+**Why it matters:** A rising-rate Fed in 2026 reverses the direction most borrowers had planned around. Mortgages, car loans and business credit all get dearer, and a strong dollar squeezes countries that borrow in it. The unusual part is that this tightening comes with a *healthy* economy — meaning the Fed has room to keep going, and little reason to stop early.
+
+**Jargon note:** A *basis point* is one hundredth of a percentage point, so 25 basis points is 0.25%.
+
+*Source: CNBC / Bloomberg / T. Rowe Price, September 23, 2026*
+
+---
+
+## 2026-09-17
+
+### Topic: AI Technology
+
+**Two Giants Race To Talk Back**
+
+- **Google** launched **Gemini 3.8 Live** and a heavier **Extended Thinking** version on **15 September**, days after **OpenAI** opened **GPT-Live-1** to outside developers on **10 September**.
+- Both are *full-duplex* voice models: they listen and speak at the same time, so you can interrupt mid-sentence without the conversation falling apart. OpenAI quotes latency under **300 milliseconds**.
+- Price is the battleground. OpenAI charges **$0.05 per minute**; Google positioned Gemini 3.8 Live at **less than half** that, aiming at companies running voice agents at scale.
+- Google is wiring the model straight into **Search Live**, **Gmail**, **Keep** and **Workspace**, while OpenAI's version already powers **ChatGPT Voice** and is now a building block for anyone else's app.
+- The split product line — one cheap and fast, one slower and better at multi-step reasoning — signals that voice AI is maturing from demo to infrastructure.
+
+**Why it matters:** Voice is the interface most people find easiest, and it is about to get cheap enough to put behind ordinary phone lines — customer service, bookings, helplines. Expect far more calls answered by software within a year, and a real question about whether you will be told.
+
+**Jargon note:** *Full-duplex* means both sides can talk simultaneously, like a phone call, rather than taking strict turns like a walkie-talkie.
+
+*Source: MarkTechPost / 9to5Google / OpenAI, September 10–15, 2026*
+
+### Topic: Geopolitics
+
+**Europe Drafts Its Sabotage Playbook**
+
+- In her **State of the European Union** address in **Strasbourg** on **16 September**, Commission President **Ursula von der Leyen** proposed an **Emergency Security Protocol** modelled on **NATO's Article 4**.
+- Under it, any one of the **27 member states** hit by a serious *hybrid* attack could trigger consultations, obliging all members to convene and coordinate a joint response.
+- The trigger cases are deliberately below the line of war: sabotage, arson, and drone incursions — including an attempted drone attack on **Leipzig airport** last month that German authorities attribute to **Russia**.
+- She also backed a **European Security Council** that would seat leaders from the EU alongside **Britain, Norway, Ukraine and Canada** — a grouping that pointedly does not include the United States.
+- The framing throughout was self-reliance: Europe as a power in its own right rather than a junior partner.
+
+**Why it matters:** Traditional alliances are built around invasion. Most of what Europe actually faces now is cut cables, burned warehouses and drones over airports — damaging, deniable, and too small to trigger a treaty. This is an attempt to close that gap, and its weakness is the same as Article 4's: it compels a meeting, not an answer.
+
+**Jargon note:** A *hybrid threat* is hostile action that stays below open warfare — sabotage, cyberattacks, disinformation — often designed so the attacker can deny involvement.
+
+*Source: Reuters via US News / France 24 / Breaking Defense, September 16, 2026*
+
+### Topic: Environment
+
+**The UN Concedes 1.5 Degrees**
+
+- A **UN Environment Programme** report, *Limiting Overshoot*, concludes the world is now set to pass **1.5°C** of warming above pre-industrial levels, likely **within the next few years**.
+- This is the threshold governments committed to in the **Paris Agreement**. The report's message is not that the goal is dead, but that it can only be met by going over and coming back down.
+- That route is called **overshoot, peak and decline**. The most optimistic scenario modelled peaks at **1.8°C**; most others peak higher.
+- Returning below 1.5°C would require steep emissions cuts, a large scale-up of **carbon removal**, and eventually **net-negative** emissions — taking out more than is put in.
+- The report pairs this with a push on **adaptation**, on the reasoning that years spent above 1.5°C will be lived through regardless.
+
+**Why it matters:** For a decade 1.5°C has been talked about as a wall to avoid hitting. The UN's own agency now treats crossing it as the planning assumption. That changes the conversation from prevention to damage control — and makes how *long* the overshoot lasts the number that matters.
+
+**Jargon note:** *Net-negative emissions* means removing more greenhouse gas from the atmosphere each year than humans add — a step beyond net zero, which only balances the two.
+
+*Source: UNEP / World Resources Institute, September 2026*
+
+### Topic: Economics
+
+**Fed Raises Rates, First Since 2023**
+
+- The **US Federal Reserve** raised its benchmark rate by a quarter point on **16 September**, to a target range of **3.75–4.00%** — its first increase in **three years**.
+- The vote was **unanimous, 12–0**. The stated reason is inflation that has not come down, driven in large part by high energy prices.
+- Oil is the backdrop: **Brent** has climbed nearly **20% in September** to around **US$108**, on shipping-lane risk in the Middle East.
+- The committee's own projections point to more. **16 of 18** officials expect at least one further hike this year; four see two.
+- Beyond 2026 the dot plot flattens out, with no hikes pencilled in and roughly one cut each in **2028** and **2029** — an implicit bet that this is a short, sharp episode.
+
+**Why it matters:** Higher policy rates feed into mortgages, credit cards and business loans, and the whole point is to cool spending. The awkward part is that the inflation here comes from oil, which a US interest rate cannot produce more of — so the Fed is squeezing demand to offset a supply problem.
+
+**Jargon note:** The *dot plot* is a chart published quarterly showing where each Fed official privately expects rates to be in coming years. It is a forecast, not a promise.
+
+*Source: CNBC / Fox Business, September 16, 2026*
+
+---
+
+## 2026-09-15
+
+### Topic: AI Technology
+
+**Rivals Meet To Police Themselves**
+
+- **Anthropic**, **OpenAI** and **Google DeepMind** have been holding working-group meetings since **July 2026** to discuss creating an industry-run standards body for AI, reported on **13–14 September**.
+- The idea would set shared rules for **technical testing and auditing** of AI models — a common yardstick for how a model is checked before release.
+- The catalyst was a **July essay** by DeepMind co-founder **Demis Hassabis**, proposing a US-led body modelled on **FINRA**, the self-regulator for American stockbrokers.
+- **Sam Altman** backs a labs-led body in the absence of federal rules; **Dario Amodei** is driving the talks. The three still disagree on its shape and powers.
+- Separately, **Microsoft** published a draft code of conduct for its own AI systems, with explicit limits meant to stop future models resisting human oversight or shutdown.
+
+**Why it matters:** When an industry writes its own rulebook, the result can go two ways — a genuine safety floor, or a shield against tougher outside regulation. Which one this becomes depends on whether the body can actually fail a member's model. Worth watching as the template for how AI gets governed.
+
+**Jargon note:** A *self-regulatory body* is an organisation run by an industry's own firms that sets and enforces standards on its members, instead of a government agency doing it.
+
+*Source: CNN Business / PYMNTS / Quartz, September 13–14, 2026*
+
+### Topic: Geopolitics
+
+**BRICS Agrees By Saying Less**
+
+- The **18th BRICS summit** closed in **New Delhi** on **13 September 2026**, with all **11 members** unanimously adopting the **New Delhi Declaration** on day one.
+- India chaired under the theme "Building for Resilience, Innovation, Cooperation and Sustainability", with Brazil, Russia, China, South Africa plus newer members Egypt, Ethiopia, Indonesia, the UAE and Iran.
+- Unanimity came at a price. The declaration urged **restraint in the Middle East** without condemning the US–Israeli strikes or Iran's attacks on Gulf states, and called for disputes to be settled by "dialogue" **without mentioning Ukraine at all**.
+- The substance sits elsewhere: **local-currency payments** between members, lending through the **New Development Bank**, AI governance, food security and climate finance.
+- The core demand is reform of global institutions — the IMF, World Bank and UN Security Council — to give the **Global South** more say.
+
+**Why it matters:** BRICS is often read as an anti-Western bloc, but this summit shows its real limit: with members on opposite sides of active wars, agreement only survives where the wording stays vague. The plumbing — paying each other in their own currencies rather than dollars — is the part that could matter for decades.
+
+**Jargon note:** *Global South* is shorthand for lower- and middle-income countries, mostly in Africa, Latin America and Asia, that feel underrepresented in institutions built after 1945.
+
+*Source: Al Jazeera, September 13, 2026*
+
+### Topic: Environment
+
+**A Super El Niño Levels Up**
+
+- **NOAA's** September forecast gives a **97% chance** of a "Super El Niño" lasting from this autumn through early spring, with a **75% chance** it peaks as the **strongest since records began in 1950**.
+- The forecast three-month average is **2.66**, which would beat the previous record of **2.40** set over November 1982 – February 1983.
+- Central equatorial Pacific water temperatures have sat at **record levels for more than three months straight**.
+- Knock-on effects already being linked to the pattern: nonstop heat records in **Peru**, deadly storms in **Chile**, destructive hurricanes in **Hawaii**, US flooding, and an unusually **quiet Atlantic hurricane season**.
+- Around **2.4 billion people** face at least a **10% chance** of humidity in the top 5% of historical values for the time of year.
+
+**Why it matters:** El Niño is a natural cycle, not climate change — but it stacks on top of an already warmer baseline, so a record one tends to push global temperatures to new highs the following year. Practically, it redraws where rain falls for a season, which shows up in harvests, food prices and flood risk far from the Pacific.
+
+**Jargon note:** *El Niño* is a periodic warming of the central and eastern Pacific Ocean that shifts wind and rainfall patterns worldwide, typically every two to seven years.
+
+*Source: CNN / NOAA via Fox Weather / Washington Post, September 3–14, 2026*
+
+### Topic: Economics
+
+**The Fed Weighs A Rate Hike**
+
+- Markets put roughly an **85–90% probability** on the **US Federal Reserve raising rates** a quarter point at its **16 September** meeting, which would lift the federal funds rate to **3.75–4.00%**.
+- **August inflation** (CPI-U) came in at **3.4%** annualised, matching July and sitting well above the Fed's **2%** target.
+- Consumers' **one-year inflation expectations** jumped from **4.0% to 4.6%**, the highest since June — a figure the Fed watches closely because expectations can become self-fulfilling.
+- The backdrop is unusually messy: **oil above $100 a barrel**, Middle East conflict, a trade dispute with **Canada**, and uncertainty over AI investment.
+- All major US indexes finished the week lower; **10-year Treasury yields** closed near **5.0%**, a near three-year high.
+
+**Why it matters:** A rate rise is the Fed deliberately making borrowing more expensive to cool prices — and this one is unusual, because much of the inflation comes from an oil shock the Fed cannot fix with interest rates. Higher rates feed through to mortgages, loans and savings rates well beyond the US.
+
+**Jargon note:** The *federal funds rate* is the overnight interest rate US banks charge each other. It anchors almost every other borrowing rate in the economy.
+
+*Source: Kiplinger / CNBC / U.S. News, September 14, 2026*
+
+---
+
 ## 2026-09-13
 
 ### Topic: AI Technology
