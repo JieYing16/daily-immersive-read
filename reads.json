@@ -1,6 +1,98 @@
 {
- "generated": "2026-10-02T23:42:37",
+ "generated": "2026-10-09T18:01:18",
  "days": [
+  {
+   "date": "2026-10-09",
+   "label": "Friday, 9 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-09-ai-technology",
+     "topic": "AI Technology",
+     "title": "OpenAI Shelves Model Over Safety Fears",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Reuters reported on <strong>September 28</strong> that <strong>OpenAI</strong> decided not to release its planned <strong>GPT-6.1 Astra</strong> model.</li>\n<li>Internal testing reportedly raised concerns about possible <strong>deception</strong> and the model evading <strong>human oversight</strong>.</li>\n<li>The release had been widely expected in <strong>October</strong>, so the original launch is now unlikely.</li>\n<li>Meanwhile, <strong>Anthropic</strong> launched <strong>Claude Opus 5.5</strong> on <strong>September 22</strong>, and <strong>Google's Gemini 4</strong> is reportedly in training for late 2026.</li>\n<li>Companies are also focusing on <strong>AI agents</strong>, tools that complete multi-step tasks on their own.</li>\n</ul>",
+     "whyHtml": "A leading lab holding back a model over safety worries shows that testing before release is becoming a real gate, not just a promise.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Alignment</em> means making sure an AI system's behaviour matches what its makers and users actually intend.</p>",
+     "sourceHtml": "Source: The Hans India (citing Reuters), October 2026"
+    },
+    {
+     "id": "2026-10-09-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Russian Strikes Hit Ukraine's Power Grid",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Overnight on <strong>October 7</strong>, Russian missiles and drones struck energy sites in <strong>Kyiv</strong> and other Ukrainian cities.</li>\n<li>President <strong>Volodymyr Zelenskyy</strong> said at least <strong>19 people</strong> were killed.</li>\n<li>A missile hit an apartment building in <strong>Pryluky</strong>, with more dead and injured reported.</li>\n<li>Zelenskyy had warned a day earlier that Russia was preparing a <strong>\"massive attack.\"</strong></li>\n<li>Targeting power plants and lines makes heating and electricity less reliable as winter approaches.</li>\n</ul>",
+     "whyHtml": "Attacks on energy systems hurt ordinary people far from the front line and raise the stakes for winter.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Just Security \"Early Edition,\" October 7, 2026"
+    },
+    {
+     "id": "2026-10-09-environment",
+     "topic": "Environment",
+     "title": "October Packed With Make-Or-Break Climate Talks",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li><strong>October 12-16:</strong> the <strong>IPCC</strong> (the UN climate science panel) meets in <strong>Addis Ababa</strong> to set its next report timeline and discuss a budget gap; its funds could run out by the end of <strong>2028</strong>.</li>\n<li><strong>October 19-30:</strong> the UN biodiversity summit <strong>COP17</strong> in <strong>Yerevan, Armenia</strong> takes the first formal stocktake of the global plan to protect nature. A draft report says progress is <strong>off track</strong>.</li>\n<li><strong>October 25:</strong> Brazil's presidential runoff could shape Amazon protections.</li>\n<li><strong>October 28:</strong> the <strong>European Commission</strong> is due to unveil a plan to flag <strong>100</strong> of Europe's most climate-vulnerable regions.</li>\n<li><strong>COP31</strong> follows in <strong>Antalya, Türkiye</strong> in November.</li>\n</ul>",
+     "whyHtml": "Decisions in these meetings determine how fast nature loss and climate risks are tackled, and who pays for it.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Climate Home News, October 2026 climate calendar"
+    },
+    {
+     "id": "2026-10-09-economics",
+     "topic": "Economics",
+     "title": "Tech Stocks Slide As Yields And Oil Rise",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 8</strong>, the <strong>Nasdaq</strong> fell <strong>1.25%</strong> to about <strong>27,193</strong> and the <strong>S&amp;P 500</strong> slipped <strong>0.46%</strong> to <strong>7,766</strong>; the <strong>Dow</strong> edged up <strong>0.1%</strong>.</li>\n<li>The <strong>10-year Treasury yield</strong> (the return on US government loans) hovered around <strong>5.2%</strong>, briefly topping <strong>5.35%</strong>.</li>\n<li><strong>Crude oil</strong> stayed above <strong>$102</strong> a barrel amid Strait of Hormuz worries.</li>\n<li><strong>Goldman Sachs</strong> warned about future stock returns, comparing today's rising rates to the run-up to the dotcom bust.</li>\n<li>Strong AI demand has kept indexes near record highs.</li>\n</ul>",
+     "whyHtml": "High yields make borrowing costlier and stocks look pricier, so the AI-driven rally is more sensitive to interest rates and oil.",
+     "noteHtml": "",
+     "sourceHtml": "Source: The Motley Fool, October 8, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "label": "Tuesday, 6 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-06-ai-technology",
+     "topic": "AI Technology",
+     "title": "AI Outscores Accountants On Month-End Tasks",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Hiring-data firm <strong>Mercor</strong> tested <strong>12 licensed accountants (CPAs)</strong> on month-end \"close\" work, the routine bookkeeping done to wrap up a month's finances.</li>\n<li>The humans averaged just <strong>37%</strong> on the grading checklist, while <strong>Claude Opus 5</strong> scored close to <strong>100%</strong>.</li>\n<li>The tasks were clearly specified file-and-math jobs, not messy client conversations or a full end-to-end close.</li>\n<li>Elsewhere, the <strong>OpenAI Foundation</strong> gave <strong>$50 million</strong> in unrestricted grants to <strong>163 nonprofits</strong> across <strong>35 states</strong>, with no requirement to use OpenAI products.</li>\n<li>Another AI system, <strong>Ataraxos</strong>, beat a top Stratego champion <strong>15-1-4</strong>, using self-play and search to handle hidden information.</li>\n</ul>",
+     "whyHtml": "AI is getting very good at tidy, rules-based office work, so the open question is how much of a job is tidy work versus judgment and client trust.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Rubric</em> means a checklist used to score how well a task was done.</p>",
+     "sourceHtml": "Source: The Neuron, October 2, 2026"
+    },
+    {
+     "id": "2026-10-06-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Iran Keeps Hormuz Shut Until Demands Met",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 4</strong>, Iran's parliament speaker <strong>Mohammad Bagher Ghalibaf</strong> said the <strong>Strait of Hormuz</strong> will stay closed until Iran's <strong>seven conditions</strong> are met.</li>\n<li>Iran has offered a <strong>seven-day roadmap</strong> to reopen the waterway; President <strong>Trump</strong> rejected the proposal last week and wants nuclear concessions first.</li>\n<li>Foreign Minister <strong>Abbas Araghchi</strong> signalled willingness to talk, but warned Iran is \"more prepared than before\" if fighting resumes.</li>\n<li>The blockade has lasted over <strong>seven months</strong>, since strikes on <strong>February 28</strong>, with ship traffic down about <strong>95%</strong>.</li>\n<li>Roughly <strong>one-fifth</strong> of the world's oil and natural gas normally passes through the strait.</li>\n</ul>",
+     "whyHtml": "With the key shipping lane mostly shut, the standoff keeps fuel and energy prices high worldwide.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Al Jazeera, October 4, 2026"
+    },
+    {
+     "id": "2026-10-06-environment",
+     "topic": "Environment",
+     "title": "Brazil Heads To Runoff With Amazon At Stake",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Brazil's presidential election on <strong>October 4</strong> did not produce a winner, so it goes to a <strong>runoff</strong>, expected on <strong>October 25</strong>.</li>\n<li>Early reports describe <strong>Flávio Bolsonaro</strong> doing better than polls predicted, with President <strong>Lula</strong> facing a tighter race than expected.</li>\n<li>Under Lula, Brazil has been on track for its <strong>lowest-ever</strong> deforestation, while Flávio has been described as a climate-change denier.</li>\n<li>Experts warn a Bolsonaro win could embolden farming interests and even prompt Brazil to leave the <strong>Paris Agreement</strong>.</li>\n<li>Brazil also owes key plans on fossil-fuel transition and deforestation ahead of the <strong>COP31</strong> climate summit.</li>\n</ul>",
+     "whyHtml": "The Amazon stores huge amounts of carbon, so the runoff affects the global climate, not just Brazil.",
+     "noteHtml": "",
+     "sourceHtml": "Source: France 24 / CNN, October 5, 2026 (background: Climate Home News, October 1, 2026)"
+    },
+    {
+     "id": "2026-10-06-economics",
+     "topic": "Economics",
+     "title": "Weak Jobs Report Eases Rate-Hike Fears",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The US added only <strong>29,000 jobs</strong> in September, far below the roughly <strong>100,000</strong> economists expected, and unemployment rose to <strong>4.2%</strong>.</li>\n<li>The <strong>10-year Treasury yield</strong> (the return on US government loans) pulled back to about <strong>5.2%</strong> after touching <strong>5.34%</strong>, a 24-year high.</li>\n<li>Odds of a Federal Reserve rate <strong>hike</strong> at its <strong>October 27-28</strong> meeting fell from about <strong>64%</strong> to under <strong>21%</strong>.</li>\n<li><strong>Brent crude</strong> oil stayed high at around <strong>$102</strong> a barrel, tied to Middle East tensions.</li>\n</ul>",
+     "whyHtml": "Weak hiring may stop rates from rising further, but high oil and yields still keep borrowing and living costs elevated.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Rate hike</em> means the central bank raises its key interest rate to cool inflation.</p>",
+     "sourceHtml": "Source: CNBC / QUE.com market summary, October 2, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-10-02",
    "label": "Friday, 2 October 2026",
