@@ -1,6 +1,52 @@
 {
- "generated": "2026-10-09T23:26:48",
+ "generated": "2026-10-10T18:01:18",
  "days": [
+  {
+   "date": "2026-10-10",
+   "label": "Saturday, 10 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-10-ai-technology",
+     "topic": "AI Technology",
+     "title": "ChatGPT Now Builds Interactive Tools Mid-Chat",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 7</strong>, <strong>OpenAI</strong> began rolling out <strong>GPT-6 with \"Intelligent UI\"</strong> to paid users, with <strong>Free</strong> and <strong>Go</strong> users following on <strong>October 8</strong>.</li>\n<li>Instead of only text, ChatGPT can now generate <strong>charts, forms, buttons and calculators</strong> right inside a conversation.</li>\n<li>OpenAI says more than <strong>1.2 billion</strong> people use ChatGPT every week.</li>\n<li>It also claims <strong>GPT-6 Instant</strong> starts answering about <strong>44% sooner</strong> than <strong>GPT-5.6 Instant</strong> on questions that need web searches (company testing, not independently verified).</li>\n<li>The shift turns a chatbot from something you read into something you can click and use.</li>\n</ul>",
+     "whyHtml": "Chat is becoming a mini app builder, so everyday tasks like budgeting or comparing options may need fewer separate apps.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>UI</em> (user interface) means the buttons, forms and screens you interact with.</p>",
+     "sourceHtml": "Source: Tech Startups, October 8, 2026"
+    },
+    {
+     "id": "2026-10-10-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Trump Announces Russian Diesel Deal Amid War",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>After a <strong>Putin-Trump call</strong> reported on <strong>October 9</strong>, Trump said Russia would supply over <strong>300,000 tonnes of diesel</strong> right away, with more from <strong>November</strong>.</li>\n<li>The Kremlin said the call focused on <strong>Ukraine</strong> and also touched on <strong>Iran</strong>.</li>\n<li>Analysts doubt the deal will lower fuel prices much; US diesel averages <strong>$6.27 a gallon</strong>, versus <strong>$3.67</strong> a year ago.</li>\n<li>Senator <strong>Chuck Schumer</strong> called it a \"filthy deal.\"</li>\n<li>Separately, Houthi attacks on <strong>Riyadh</strong> and <strong>Abha</strong> airports on <strong>October 8</strong> killed <strong>three</strong> people, and a Saudi-led coalition said it hit <strong>136</strong> Houthi targets.</li>\n</ul>",
+     "whyHtml": "The Middle East war is pushing governments into awkward energy bargains, even with countries they are in conflict with.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Al Jazeera live blog, October 9, 2026"
+    },
+    {
+     "id": "2026-10-10-environment",
+     "topic": "Environment",
+     "title": "Oil Reserves Run \"Scarily Thin\" Worldwide",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li><strong>Saudi Aramco</strong> CEO <strong>Amin Nasser</strong> warned that global oil stockpiles are \"scarily thin.\"</li>\n<li>He said the Middle East war has cut regional supply by nearly <strong>3 billion barrels</strong>, and over <strong>1 billion</strong> barrels have been pulled from reserves to cover it.</li>\n<li><strong>G7</strong> countries agreed to release <strong>100 million barrels</strong> over four months, part of <strong>400 million</strong> announced earlier by the <strong>IEA</strong> (the international energy watchdog).</li>\n<li>On <strong>October 5</strong>, the <strong>US Supreme Court</strong> heard a case on whether <strong>Boulder, Colorado</strong> can sue oil firms over climate damage; a ruling is due in spring.</li>\n<li>Meanwhile, high petrol prices helped push EVs to nearly <strong>a quarter</strong> of Philippine car sales.</li>\n</ul>",
+     "whyHtml": "Shrinking oil reserves and pricey fuel strengthen the case for electric vehicles, while court cases could decide who pays for climate damage.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Carbon Brief \"DeBriefed,\" October 9, 2026"
+    },
+    {
+     "id": "2026-10-10-economics",
+     "topic": "Economics",
+     "title": "Weak Jobs Report Cools Rate-Hike Fears",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The US added only <strong>29,000 jobs</strong> in September, far below the roughly <strong>84,000-95,000</strong> expected.</li>\n<li>Unemployment rose to <strong>4.2%</strong>; wages grew just <strong>0.1%</strong> for the month and <strong>3.0%</strong> over the year, below inflation of <strong>3.4%</strong>.</li>\n<li>July and August were revised down by a combined <strong>60,000</strong> jobs.</li>\n<li>The <strong>Fed</strong> raised rates to <strong>3.75%-4.00%</strong> on <strong>September 16</strong>; markets now see a <strong>77%</strong> chance it holds in October.</li>\n<li>After the report, the <strong>10-year Treasury yield</strong> fell to about <strong>5.18%</strong>. Next up: inflation data on <strong>October 14</strong>.</li>\n</ul>",
+     "whyHtml": "Slower hiring and pay that lags prices squeeze households, but may ease pressure on the Fed to keep raising borrowing costs.",
+     "noteHtml": "",
+     "sourceHtml": "Source: BabyPips, October 2, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-10-09",
    "label": "Friday, 9 October 2026",

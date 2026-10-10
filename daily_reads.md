@@ -1,5 +1,67 @@
 # Daily Immersive Read Log
 
+## 2026-10-10
+
+### Topic: AI Technology
+
+**ChatGPT Now Builds Interactive Tools Mid-Chat**
+
+- On **October 7**, **OpenAI** began rolling out **GPT-6 with "Intelligent UI"** to paid users, with **Free** and **Go** users following on **October 8**.
+- Instead of only text, ChatGPT can now generate **charts, forms, buttons and calculators** right inside a conversation.
+- OpenAI says more than **1.2 billion** people use ChatGPT every week.
+- It also claims **GPT-6 Instant** starts answering about **44% sooner** than **GPT-5.6 Instant** on questions that need web searches (company testing, not independently verified).
+- The shift turns a chatbot from something you read into something you can click and use.
+
+**Why it matters:** Chat is becoming a mini app builder, so everyday tasks like budgeting or comparing options may need fewer separate apps.
+
+**Jargon note:** *UI* (user interface) means the buttons, forms and screens you interact with.
+
+*Source: Tech Startups, October 8, 2026*
+
+### Topic: Geopolitics
+
+**Trump Announces Russian Diesel Deal Amid War**
+
+- After a **Putin-Trump call** reported on **October 9**, Trump said Russia would supply over **300,000 tonnes of diesel** right away, with more from **November**.
+- The Kremlin said the call focused on **Ukraine** and also touched on **Iran**.
+- Analysts doubt the deal will lower fuel prices much; US diesel averages **$6.27 a gallon**, versus **$3.67** a year ago.
+- Senator **Chuck Schumer** called it a "filthy deal."
+- Separately, Houthi attacks on **Riyadh** and **Abha** airports on **October 8** killed **three** people, and a Saudi-led coalition said it hit **136** Houthi targets.
+
+**Why it matters:** The Middle East war is pushing governments into awkward energy bargains, even with countries they are in conflict with.
+
+*Source: Al Jazeera live blog, October 9, 2026*
+
+### Topic: Environment
+
+**Oil Reserves Run "Scarily Thin" Worldwide**
+
+- **Saudi Aramco** CEO **Amin Nasser** warned that global oil stockpiles are "scarily thin."
+- He said the Middle East war has cut regional supply by nearly **3 billion barrels**, and over **1 billion** barrels have been pulled from reserves to cover it.
+- **G7** countries agreed to release **100 million barrels** over four months, part of **400 million** announced earlier by the **IEA** (the international energy watchdog).
+- On **October 5**, the **US Supreme Court** heard a case on whether **Boulder, Colorado** can sue oil firms over climate damage; a ruling is due in spring.
+- Meanwhile, high petrol prices helped push EVs to nearly **a quarter** of Philippine car sales.
+
+**Why it matters:** Shrinking oil reserves and pricey fuel strengthen the case for electric vehicles, while court cases could decide who pays for climate damage.
+
+*Source: Carbon Brief "DeBriefed," October 9, 2026*
+
+### Topic: Economics
+
+**Weak Jobs Report Cools Rate-Hike Fears**
+
+- The US added only **29,000 jobs** in September, far below the roughly **84,000-95,000** expected.
+- Unemployment rose to **4.2%**; wages grew just **0.1%** for the month and **3.0%** over the year, below inflation of **3.4%**.
+- July and August were revised down by a combined **60,000** jobs.
+- The **Fed** raised rates to **3.75%-4.00%** on **September 16**; markets now see a **77%** chance it holds in October.
+- After the report, the **10-year Treasury yield** fell to about **5.18%**. Next up: inflation data on **October 14**.
+
+**Why it matters:** Slower hiring and pay that lags prices squeeze households, but may ease pressure on the Fed to keep raising borrowing costs.
+
+*Source: BabyPips, October 2, 2026*
+
+---
+
 ## 2026-10-09
 
 ### Topic: AI Technology
