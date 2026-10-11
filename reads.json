@@ -1,6 +1,52 @@
 {
- "generated": "2026-10-10T23:05:04",
+ "generated": "2026-10-11T18:05:03",
  "days": [
+  {
+   "date": "2026-10-11",
+   "label": "Sunday, 11 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-11-ai-technology",
+     "topic": "AI Technology",
+     "title": "Meta and Apple Eye October AI Launches",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Reports say <strong>Meta</strong> is working on a consumer <strong>AI agent</strong> platform called <strong>\"Hatch\"</strong> and a flagship model codenamed <strong>\"Watermelon\"</strong>; Meta has not confirmed either.</li>\n<li><strong>Apple's</strong> Siri AI is set to add <strong>French, Japanese, Korean, Portuguese and Spanish</strong> in <strong>iOS 27.2</strong>, now in testing.</li>\n<li>Apple watchers expect <strong>iOS 27.1</strong> and <strong>27.2</strong> to arrive before the end of <strong>October</strong>.</li>\n<li>Google's <strong>Gemini 4</strong> is in post-training, but no release date is announced.</li>\n<li>An <em>AI agent</em> is a program that completes multi-step tasks for you, like booking or researching, instead of just answering questions.</li>\n</ul>",
+     "whyHtml": "AI assistants are moving onto phones in more languages, so more people may soon use them daily without installing anything new.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Post-training</em> is the polishing stage after a model learns from raw data, where it is tuned to be helpful and safe.</p>",
+     "sourceHtml": "Source: The Hans India, September 29, 2026"
+    },
+    {
+     "id": "2026-10-11-geopolitics",
+     "topic": "Geopolitics",
+     "title": "US Pushes Restart of Ukraine Peace Talks",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>September 25</strong>, Kyiv and Moscow both confirmed plans to relaunch <strong>three-way talks</strong> with the US; the <strong>UAE</strong> was proposed as host.</li>\n<li>The earlier talks stalled when US attention shifted to its <strong>war on Iran</strong>.</li>\n<li>Zelenskyy said <strong>Trump</strong> will let Ukraine produce advanced <strong>Patriot</strong> air-defence missiles, though a licence would take <strong>over a year</strong> to deliver systems.</li>\n<li>The <strong>EU</strong> agreed to release <strong>$7.5 billion</strong> from the European Peace Facility for joint military purchases.</li>\n<li>Fighting continues: Russian strikes on <strong>Kyiv</strong> killed at least <strong>7</strong> people, while Ukraine hit refineries in <strong>Moscow</strong> and <strong>Yaroslavl</strong>.</li>\n</ul>",
+     "whyHtml": "Talks are only restarting while strikes continue, so any real pause in the war still looks far off.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Al Jazeera, September 25, 2026"
+    },
+    {
+     "id": "2026-10-11-environment",
+     "topic": "Environment",
+     "title": "Island Nations Push Ocean Plan Before COP31",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>From <strong>October 5-8</strong>, ministers met in <strong>Tuvalu</strong> and <strong>Fiji</strong> for the <strong>Pre-COP</strong>, a warm-up meeting before the main UN climate summit.</li>\n<li><strong>Australia</strong> planned to present a climate-finance action plan to help small island states and the poorest countries get funding.</li>\n<li>Governments may also advance an <strong>ocean protection roadmap</strong>.</li>\n<li><strong>COP31</strong> takes place in <strong>Antalya, Türkiye</strong> in <strong>November</strong>; its text could acknowledge the \"inevitable overshoot\" of the <strong>1.5C</strong> warming limit.</li>\n<li>Brazil's election matters too: a runoff on <strong>October 25</strong> could affect its place in the <strong>Paris Agreement</strong>.</li>\n</ul>",
+     "whyHtml": "Island nations face rising seas first, so how much money and ocean protection they win will show whether climate talks deliver real help.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Climate Home News, October 1, 2026"
+    },
+    {
+     "id": "2026-10-11-economics",
+     "topic": "Economics",
+     "title": "US Inflation Report Tests Fed Next Week",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 14</strong>, the US releases <strong>September inflation (CPI)</strong>, a measure of how fast consumer prices rise.</li>\n<li>Forecasters expect headline inflation to rise to <strong>3.6%</strong> from <strong>3.4%</strong> a year earlier.</li>\n<li><strong>Core</strong> inflation, which leaves out food and energy, is expected to ease slightly to <strong>+0.2%</strong> for the month.</li>\n<li><strong>Retail sales</strong> and producer prices follow on <strong>October 15</strong>, and Fed Chair <strong>Kevin Warsh</strong> speaks that evening.</li>\n<li>Europe and the UK also have central bank speeches and UK GDP data.</li>\n</ul>",
+     "whyHtml": "Prices rising faster than hoped could keep interest rates high, affecting mortgages, loans and savings for ordinary households.",
+     "noteHtml": "",
+     "sourceHtml": "Source: investingLive, October 9, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-10-10",
    "label": "Saturday, 10 October 2026",

@@ -1,5 +1,67 @@
 # Daily Immersive Read Log
 
+## 2026-10-11
+
+### Topic: AI Technology
+
+**Meta and Apple Eye October AI Launches**
+
+- Reports say **Meta** is working on a consumer **AI agent** platform called **"Hatch"** and a flagship model codenamed **"Watermelon"**; Meta has not confirmed either.
+- **Apple's** Siri AI is set to add **French, Japanese, Korean, Portuguese and Spanish** in **iOS 27.2**, now in testing.
+- Apple watchers expect **iOS 27.1** and **27.2** to arrive before the end of **October**.
+- Google's **Gemini 4** is in post-training, but no release date is announced.
+- An *AI agent* is a program that completes multi-step tasks for you, like booking or researching, instead of just answering questions.
+
+**Why it matters:** AI assistants are moving onto phones in more languages, so more people may soon use them daily without installing anything new.
+
+**Jargon note:** *Post-training* is the polishing stage after a model learns from raw data, where it is tuned to be helpful and safe.
+
+*Source: The Hans India, September 29, 2026*
+
+### Topic: Geopolitics
+
+**US Pushes Restart of Ukraine Peace Talks**
+
+- On **September 25**, Kyiv and Moscow both confirmed plans to relaunch **three-way talks** with the US; the **UAE** was proposed as host.
+- The earlier talks stalled when US attention shifted to its **war on Iran**.
+- Zelenskyy said **Trump** will let Ukraine produce advanced **Patriot** air-defence missiles, though a licence would take **over a year** to deliver systems.
+- The **EU** agreed to release **$7.5 billion** from the European Peace Facility for joint military purchases.
+- Fighting continues: Russian strikes on **Kyiv** killed at least **7** people, while Ukraine hit refineries in **Moscow** and **Yaroslavl**.
+
+**Why it matters:** Talks are only restarting while strikes continue, so any real pause in the war still looks far off.
+
+*Source: Al Jazeera, September 25, 2026*
+
+### Topic: Environment
+
+**Island Nations Push Ocean Plan Before COP31**
+
+- From **October 5-8**, ministers met in **Tuvalu** and **Fiji** for the **Pre-COP**, a warm-up meeting before the main UN climate summit.
+- **Australia** planned to present a climate-finance action plan to help small island states and the poorest countries get funding.
+- Governments may also advance an **ocean protection roadmap**.
+- **COP31** takes place in **Antalya, Türkiye** in **November**; its text could acknowledge the "inevitable overshoot" of the **1.5C** warming limit.
+- Brazil's election matters too: a runoff on **October 25** could affect its place in the **Paris Agreement**.
+
+**Why it matters:** Island nations face rising seas first, so how much money and ocean protection they win will show whether climate talks deliver real help.
+
+*Source: Climate Home News, October 1, 2026*
+
+### Topic: Economics
+
+**US Inflation Report Tests Fed Next Week**
+
+- On **October 14**, the US releases **September inflation (CPI)**, a measure of how fast consumer prices rise.
+- Forecasters expect headline inflation to rise to **3.6%** from **3.4%** a year earlier.
+- **Core** inflation, which leaves out food and energy, is expected to ease slightly to **+0.2%** for the month.
+- **Retail sales** and producer prices follow on **October 15**, and Fed Chair **Kevin Warsh** speaks that evening.
+- Europe and the UK also have central bank speeches and UK GDP data.
+
+**Why it matters:** Prices rising faster than hoped could keep interest rates high, affecting mortgages, loans and savings for ordinary households.
+
+*Source: investingLive, October 9, 2026*
+
+---
+
 ## 2026-10-10
 
 ### Topic: AI Technology
