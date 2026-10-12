@@ -1,6 +1,52 @@
 {
- "generated": "2026-10-11T23:05:03",
+ "generated": "2026-10-12T18:11:24",
  "days": [
+  {
+   "date": "2026-10-12",
+   "label": "Monday, 12 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-12-ai-technology",
+     "topic": "AI Technology",
+     "title": "Three Rival AI Models Land in One Week",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>In the week to <strong>October 2</strong>, <strong>OpenAI</strong> launched <strong>GPT-6.1 Sol</strong>, a new product called <strong>Dots</strong>, and a <strong>$500</strong> subscription plan.</li>\n<li><strong>Anthropic</strong> released <strong>Claude Sonnet 5.5</strong>, and <strong>Google</strong> released <strong>Gemini 4 Argon</strong>.</li>\n<li>The roundup also reports that OpenAI <strong>paused new model work</strong> over safety concerns; details were not given, so treat this as unconfirmed.</li>\n<li>The <strong>AP</strong> ran a piece arguing that AI systems do <strong>not have feelings</strong>, even when they sound like they do.</li>\n<li>Details on each model's abilities were not in the summary, so benchmarks and prices beyond the <strong>$500</strong> plan remain unclear.</li>\n</ul>",
+     "whyHtml": "The big AI labs now ship major updates within days of each other, so the tools you use can change quickly, and a premium tier priced at <strong>$500</strong> shows how much companies think heavy users will pay.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Subscription tier</em> means a paid plan level; higher tiers usually unlock more usage or the newest models.</p>",
+     "sourceHtml": "Source: Micro Center \"This Week in AI\", October 2, 2026"
+    },
+    {
+     "id": "2026-10-12-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Putin Offers Help Ending Iran War",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 9</strong>, <strong>Vladimir Putin</strong> met Iran's president <strong>Masoud Pezeshkian</strong> on Turkmenistan's Caspian coast and pledged to do \"everything in our power\" to help end the US-Iran war.</li>\n<li>Pezeshkian said Iran and the US have <strong>exchanged proposals</strong> to end the war and reopen the <strong>Strait of Hormuz</strong>, a key shipping route for oil.</li>\n<li>Russia is <strong>not</strong> a formal mediator; <strong>Qatar</strong> and <strong>Pakistan</strong> have led the talks.</li>\n<li>Russia's own invasion of <strong>Ukraine</strong> continues into its fifth year.</li>\n<li>Iranian media reported Russia was ready to lend <strong>$1 billion</strong>, the first part of a <strong>$20 billion</strong> package, but the transfer is stalled over how Iran would spend it.</li>\n</ul>",
+     "whyHtml": "Two wars are now linked through Russia and Iran's partnership, so a deal on one front could shape the other, and the reopening of Hormuz affects fuel prices everywhere.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Euronews, October 9, 2026"
+    },
+    {
+     "id": "2026-10-12-environment",
+     "topic": "Environment",
+     "title": "Thawing Permafrost Adds Extra Warming Risk",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Two new studies project that <strong>methane</strong> released from thawing <strong>permafrost</strong> (frozen ground in cold regions) will add about <strong>0.25°C</strong> of warming by the end of this century.</li>\n<li>A separate <strong>Planetary Health Check 2026</strong> found <strong>seven of nine</strong> planetary boundaries, the safe limits for Earth's systems, are now exceeded.</li>\n<li>Antarctic winter sea ice peaked at the <strong>third-smallest</strong> extent in <strong>48 years</strong> of satellite records.</li>\n<li>The <strong>IPCC</strong> (the UN climate science panel) meets <strong>October 12-16</strong> in Ethiopia to try again to agree a timeline for its next assessment reports.</li>\n</ul>",
+     "whyHtml": "Permafrost warming is a \"feedback loop\": heat releases gas, which causes more heat, so even cuts to human emissions face an added headwind.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Skeptical Science roundup (citing AP, Carbon Brief) and Climate Home News, October 2, 2026"
+    },
+    {
+     "id": "2026-10-12-economics",
+     "topic": "Economics",
+     "title": "US Hiring Stalls as Jobless Rate Rises",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The US added just <strong>29,000 jobs</strong> in September, far below forecasts, according to the government's jobs report released <strong>October 2</strong>.</li>\n<li>The <strong>unemployment rate</strong> rose to <strong>4.2%</strong>.</li>\n<li>Earlier in 2026, hiring was stronger: <strong>115,000</strong> jobs in April and <strong>178,000</strong> in March, so September marks a sharp slowdown.</li>\n<li>Higher fuel prices since the Iran war began add pressure on households and employers.</li>\n<li>The <strong>IMF and World Bank Annual Meetings</strong> open in <strong>Bangkok</strong> on <strong>October 12</strong>, where leaders will discuss the global outlook.</li>\n</ul>",
+     "whyHtml": "Slower hiring can make job hunting harder, and it puts the Federal Reserve in a bind between fighting inflation and supporting jobs.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNBC, October 2, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-10-11",
    "label": "Sunday, 11 October 2026",
