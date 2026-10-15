@@ -1,6 +1,52 @@
 {
- "generated": "2026-10-13T20:23:12",
+ "generated": "2026-10-15T10:46:17",
  "days": [
+  {
+   "date": "2026-10-15",
+   "label": "Thursday, 15 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-15-ai-technology",
+     "topic": "AI Technology",
+     "title": "Meta Trades Thousands of Jobs for AI",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Meta announced on <strong>April 23</strong> that it would cut about <strong>10% of its workforce</strong>, roughly <strong>8,000 jobs</strong>, while spending heavily on AI.</li>\n<li>Earlier, in <strong>March</strong>, <strong>Reuters</strong> had reported the company was weighing cuts of up to <strong>16,000</strong> people, about a fifth of staff.</li>\n<li>Meta has said it plans to invest around <strong>$600 billion</strong> in AI infrastructure and data centres by <strong>2028</strong>.</li>\n<li>It has also been hiring AI specialists from <strong>OpenAI, Google and Anthropic</strong> for its \"superintelligence\" team.</li>\n<li>Reports of further cuts keep circulating, but only the 8,000 figure is a confirmed announcement.</li>\n</ul>",
+     "whyHtml": "Big tech is moving money and people from ordinary roles into AI, a shift that may reshape which jobs exist at the companies you use every day.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Superintelligence</em> is a term for AI that would outperform humans at almost every thinking task; it is a goal, not a product that exists today.</p>",
+     "sourceHtml": "Source: CNBC and Capacity (citing Reuters), March–April 2026"
+    },
+    {
+     "id": "2026-10-15-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Hormuz Tanker Strikes Deepen Iran Standoff",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 5</strong>, a <strong>third tanker in two days</strong> was reported hit near the <strong>Strait of Hormuz</strong>.</li>\n<li>Another tanker turned back after Iran's <strong>Revolutionary Guards</strong> threatened to target it, about 11 nautical miles from Khasab, Oman.</li>\n<li>Iranian President <strong>Masoud Pezeshkian</strong> called talks with the US \"meaningless\", while <strong>Donald Trump</strong> said he remains open to direct negotiations.</li>\n<li>Iran's military chief warned that any new US strike would be answered \"without limits\".</li>\n<li>Gas shipments are recovering but remain more than <strong>75% below</strong> pre-war levels, according to Bloomberg.</li>\n</ul>",
+     "whyHtml": "Roughly a fifth of the world's oil and gas normally flows through this strait, so attacks on ships push up energy and shipping costs for people far from the region.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Iran International (citing Bloomberg, UKMTO), October 5, 2026"
+    },
+    {
+     "id": "2026-10-15-environment",
+     "topic": "Environment",
+     "title": "August 2026 Becomes Hottest Month Ever",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The EU's <strong>Copernicus Climate Change Service</strong> reported that <strong>August 2026</strong> was the hottest month on record worldwide.</li>\n<li>Global temperature was <strong>0.85 °C above</strong> the 1991–2020 average and about <strong>1.65 °C above</strong> pre-industrial levels.</li>\n<li>Ocean temperatures also hit record highs, and floods and landslides struck several countries.</li>\n<li>A natural <strong>El Niño</strong> warming pattern is adding heat and is expected to peak around <strong>December 2026</strong>, so more records may follow.</li>\n<li>Greenhouse gas emissions reached record levels in <strong>2025</strong>, and the UN warns warming will continue while fossil fuel use does.</li>\n</ul>",
+     "whyHtml": "A single month above 1.5 °C is not the same as the long-term Paris Agreement limit being broken, but it shows how close to that line the planet is running.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>El Niño</em> is a periodic warming of Pacific Ocean waters that shifts weather worldwide and lifts global temperatures.</p>",
+     "sourceHtml": "Source: Copernicus via Canal N, September 10, 2026"
+    },
+    {
+     "id": "2026-10-15-economics",
+     "topic": "Economics",
+     "title": "IMF Nudges Growth Up, Warns Resilience Fading",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 13</strong>, the <strong>IMF</strong> raised its 2026 global growth forecast by <strong>0.2 points</strong> to <strong>3.1%</strong>, still below <strong>3.5%</strong> in 2025.</li>\n<li><strong>China</strong> is forecast at <strong>4.5%</strong> (down 0.5 points) on weak domestic demand; the <strong>eurozone</strong> at <strong>1.1%</strong>; the <strong>UK</strong> at <strong>1.3%</strong>.</li>\n<li>Global inflation is expected at <strong>4.7%</strong>, pushed up by the Iran war and the AI investment boom.</li>\n<li>Refined fuel prices remain <strong>70–95% above</strong> pre-war levels.</li>\n<li>The IMF calls the outlook \"bifurcated\": AI-linked economies like Taiwan and South Korea grow fast, while energy importers and poorer countries struggle.</li>\n</ul>",
+     "whyHtml": "Growth is holding up, but high prices and a possible AI-profit reversal mean household costs could stay elevated and the economy is more fragile than headline numbers suggest.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Euronews (citing IMF World Economic Outlook), October 13, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-10-13",
    "label": "Tuesday, 13 October 2026",
@@ -44,6 +90,52 @@
      "whyHtml": "The IMF's forecasts guide government budgets and central bank decisions, so they hint at what to expect for jobs, prices and interest rates.",
      "noteHtml": "",
      "sourceHtml": "Source: The Nation Thailand, October 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "label": "Monday, 12 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-12-ai-technology",
+     "topic": "AI Technology",
+     "title": "Three Rival AI Models Land in One Week",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>In the week to <strong>October 2</strong>, <strong>OpenAI</strong> launched <strong>GPT-6.1 Sol</strong>, a new product called <strong>Dots</strong>, and a <strong>$500</strong> subscription plan.</li>\n<li><strong>Anthropic</strong> released <strong>Claude Sonnet 5.5</strong>, and <strong>Google</strong> released <strong>Gemini 4 Argon</strong>.</li>\n<li>The roundup also reports that OpenAI <strong>paused new model work</strong> over safety concerns; details were not given, so treat this as unconfirmed.</li>\n<li>The <strong>AP</strong> ran a piece arguing that AI systems do <strong>not have feelings</strong>, even when they sound like they do.</li>\n<li>Details on each model's abilities were not in the summary, so benchmarks and prices beyond the <strong>$500</strong> plan remain unclear.</li>\n</ul>",
+     "whyHtml": "The big AI labs now ship major updates within days of each other, so the tools you use can change quickly, and a premium tier priced at <strong>$500</strong> shows how much companies think heavy users will pay.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Subscription tier</em> means a paid plan level; higher tiers usually unlock more usage or the newest models.</p>",
+     "sourceHtml": "Source: Micro Center \"This Week in AI\", October 2, 2026"
+    },
+    {
+     "id": "2026-10-12-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Putin Offers Help Ending Iran War",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 9</strong>, <strong>Vladimir Putin</strong> met Iran's president <strong>Masoud Pezeshkian</strong> on Turkmenistan's Caspian coast and pledged to do \"everything in our power\" to help end the US-Iran war.</li>\n<li>Pezeshkian said Iran and the US have <strong>exchanged proposals</strong> to end the war and reopen the <strong>Strait of Hormuz</strong>, a key shipping route for oil.</li>\n<li>Russia is <strong>not</strong> a formal mediator; <strong>Qatar</strong> and <strong>Pakistan</strong> have led the talks.</li>\n<li>Russia's own invasion of <strong>Ukraine</strong> continues into its fifth year.</li>\n<li>Iranian media reported Russia was ready to lend <strong>$1 billion</strong>, the first part of a <strong>$20 billion</strong> package, but the transfer is stalled over how Iran would spend it.</li>\n</ul>",
+     "whyHtml": "Two wars are now linked through Russia and Iran's partnership, so a deal on one front could shape the other, and the reopening of Hormuz affects fuel prices everywhere.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Euronews, October 9, 2026"
+    },
+    {
+     "id": "2026-10-12-environment",
+     "topic": "Environment",
+     "title": "Thawing Permafrost Adds Extra Warming Risk",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Two new studies project that <strong>methane</strong> released from thawing <strong>permafrost</strong> (frozen ground in cold regions) will add about <strong>0.25°C</strong> of warming by the end of this century.</li>\n<li>A separate <strong>Planetary Health Check 2026</strong> found <strong>seven of nine</strong> planetary boundaries, the safe limits for Earth's systems, are now exceeded.</li>\n<li>Antarctic winter sea ice peaked at the <strong>third-smallest</strong> extent in <strong>48 years</strong> of satellite records.</li>\n<li>The <strong>IPCC</strong> (the UN climate science panel) meets <strong>October 12-16</strong> in Ethiopia to try again to agree a timeline for its next assessment reports.</li>\n</ul>",
+     "whyHtml": "Permafrost warming is a \"feedback loop\": heat releases gas, which causes more heat, so even cuts to human emissions face an added headwind.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Skeptical Science roundup (citing AP, Carbon Brief) and Climate Home News, October 2, 2026"
+    },
+    {
+     "id": "2026-10-12-economics",
+     "topic": "Economics",
+     "title": "US Hiring Stalls as Jobless Rate Rises",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The US added just <strong>29,000 jobs</strong> in September, far below forecasts, according to the government's jobs report released <strong>October 2</strong>.</li>\n<li>The <strong>unemployment rate</strong> rose to <strong>4.2%</strong>.</li>\n<li>Earlier in 2026, hiring was stronger: <strong>115,000</strong> jobs in April and <strong>178,000</strong> in March, so September marks a sharp slowdown.</li>\n<li>Higher fuel prices since the Iran war began add pressure on households and employers.</li>\n<li>The <strong>IMF and World Bank Annual Meetings</strong> open in <strong>Bangkok</strong> on <strong>October 12</strong>, where leaders will discuss the global outlook.</li>\n</ul>",
+     "whyHtml": "Slower hiring can make job hunting harder, and it puts the Federal Reserve in a bind between fighting inflation and supporting jobs.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNBC, October 2, 2026"
     }
    ]
   },

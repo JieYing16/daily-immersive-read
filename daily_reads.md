@@ -1,5 +1,130 @@
 # Daily Immersive Read Log
 
+## 2026-10-15
+
+### Topic: AI Technology
+
+**Meta Trades Thousands of Jobs for AI**
+
+- Meta announced on **April 23** that it would cut about **10% of its workforce**, roughly **8,000 jobs**, while spending heavily on AI.
+- Earlier, in **March**, **Reuters** had reported the company was weighing cuts of up to **16,000** people, about a fifth of staff.
+- Meta has said it plans to invest around **$600 billion** in AI infrastructure and data centres by **2028**.
+- It has also been hiring AI specialists from **OpenAI, Google and Anthropic** for its "superintelligence" team.
+- Reports of further cuts keep circulating, but only the 8,000 figure is a confirmed announcement.
+
+**Why it matters:** Big tech is moving money and people from ordinary roles into AI, a shift that may reshape which jobs exist at the companies you use every day.
+
+**Jargon note:** *Superintelligence* is a term for AI that would outperform humans at almost every thinking task; it is a goal, not a product that exists today.
+
+*Source: CNBC and Capacity (citing Reuters), March–April 2026*
+
+### Topic: Geopolitics
+
+**Hormuz Tanker Strikes Deepen Iran Standoff**
+
+- On **October 5**, a **third tanker in two days** was reported hit near the **Strait of Hormuz**.
+- Another tanker turned back after Iran's **Revolutionary Guards** threatened to target it, about 11 nautical miles from Khasab, Oman.
+- Iranian President **Masoud Pezeshkian** called talks with the US "meaningless", while **Donald Trump** said he remains open to direct negotiations.
+- Iran's military chief warned that any new US strike would be answered "without limits".
+- Gas shipments are recovering but remain more than **75% below** pre-war levels, according to Bloomberg.
+
+**Why it matters:** Roughly a fifth of the world's oil and gas normally flows through this strait, so attacks on ships push up energy and shipping costs for people far from the region.
+
+*Source: Iran International (citing Bloomberg, UKMTO), October 5, 2026*
+
+### Topic: Environment
+
+**August 2026 Becomes Hottest Month Ever**
+
+- The EU's **Copernicus Climate Change Service** reported that **August 2026** was the hottest month on record worldwide.
+- Global temperature was **0.85 °C above** the 1991–2020 average and about **1.65 °C above** pre-industrial levels.
+- Ocean temperatures also hit record highs, and floods and landslides struck several countries.
+- A natural **El Niño** warming pattern is adding heat and is expected to peak around **December 2026**, so more records may follow.
+- Greenhouse gas emissions reached record levels in **2025**, and the UN warns warming will continue while fossil fuel use does.
+
+**Why it matters:** A single month above 1.5 °C is not the same as the long-term Paris Agreement limit being broken, but it shows how close to that line the planet is running.
+
+**Jargon note:** *El Niño* is a periodic warming of Pacific Ocean waters that shifts weather worldwide and lifts global temperatures.
+
+*Source: Copernicus via Canal N, September 10, 2026*
+
+### Topic: Economics
+
+**IMF Nudges Growth Up, Warns Resilience Fading**
+
+- On **October 13**, the **IMF** raised its 2026 global growth forecast by **0.2 points** to **3.1%**, still below **3.5%** in 2025.
+- **China** is forecast at **4.5%** (down 0.5 points) on weak domestic demand; the **eurozone** at **1.1%**; the **UK** at **1.3%**.
+- Global inflation is expected at **4.7%**, pushed up by the Iran war and the AI investment boom.
+- Refined fuel prices remain **70–95% above** pre-war levels.
+- The IMF calls the outlook "bifurcated": AI-linked economies like Taiwan and South Korea grow fast, while energy importers and poorer countries struggle.
+
+**Why it matters:** Growth is holding up, but high prices and a possible AI-profit reversal mean household costs could stay elevated and the economy is more fragile than headline numbers suggest.
+
+*Source: Euronews (citing IMF World Economic Outlook), October 13, 2026*
+
+---
+
+## 2026-10-12
+
+### Topic: AI Technology
+
+**Three Rival AI Models Land in One Week**
+
+- In the week to **October 2**, **OpenAI** launched **GPT-6.1 Sol**, a new product called **Dots**, and a **$500** subscription plan.
+- **Anthropic** released **Claude Sonnet 5.5**, and **Google** released **Gemini 4 Argon**.
+- The roundup also reports that OpenAI **paused new model work** over safety concerns; details were not given, so treat this as unconfirmed.
+- The **AP** ran a piece arguing that AI systems do **not have feelings**, even when they sound like they do.
+- Details on each model's abilities were not in the summary, so benchmarks and prices beyond the **$500** plan remain unclear.
+
+**Why it matters:** The big AI labs now ship major updates within days of each other, so the tools you use can change quickly, and a premium tier priced at **$500** shows how much companies think heavy users will pay.
+
+**Jargon note:** *Subscription tier* means a paid plan level; higher tiers usually unlock more usage or the newest models.
+
+*Source: Micro Center "This Week in AI", October 2, 2026*
+
+### Topic: Geopolitics
+
+**Putin Offers Help Ending Iran War**
+
+- On **October 9**, **Vladimir Putin** met Iran's president **Masoud Pezeshkian** on Turkmenistan's Caspian coast and pledged to do "everything in our power" to help end the US-Iran war.
+- Pezeshkian said Iran and the US have **exchanged proposals** to end the war and reopen the **Strait of Hormuz**, a key shipping route for oil.
+- Russia is **not** a formal mediator; **Qatar** and **Pakistan** have led the talks.
+- Russia's own invasion of **Ukraine** continues into its fifth year.
+- Iranian media reported Russia was ready to lend **$1 billion**, the first part of a **$20 billion** package, but the transfer is stalled over how Iran would spend it.
+
+**Why it matters:** Two wars are now linked through Russia and Iran's partnership, so a deal on one front could shape the other, and the reopening of Hormuz affects fuel prices everywhere.
+
+*Source: Euronews, October 9, 2026*
+
+### Topic: Environment
+
+**Thawing Permafrost Adds Extra Warming Risk**
+
+- Two new studies project that **methane** released from thawing **permafrost** (frozen ground in cold regions) will add about **0.25°C** of warming by the end of this century.
+- A separate **Planetary Health Check 2026** found **seven of nine** planetary boundaries, the safe limits for Earth's systems, are now exceeded.
+- Antarctic winter sea ice peaked at the **third-smallest** extent in **48 years** of satellite records.
+- The **IPCC** (the UN climate science panel) meets **October 12-16** in Ethiopia to try again to agree a timeline for its next assessment reports.
+
+**Why it matters:** Permafrost warming is a "feedback loop": heat releases gas, which causes more heat, so even cuts to human emissions face an added headwind.
+
+*Source: Skeptical Science roundup (citing AP, Carbon Brief) and Climate Home News, October 2, 2026*
+
+### Topic: Economics
+
+**US Hiring Stalls as Jobless Rate Rises**
+
+- The US added just **29,000 jobs** in September, far below forecasts, according to the government's jobs report released **October 2**.
+- The **unemployment rate** rose to **4.2%**.
+- Earlier in 2026, hiring was stronger: **115,000** jobs in April and **178,000** in March, so September marks a sharp slowdown.
+- Higher fuel prices since the Iran war began add pressure on households and employers.
+- The **IMF and World Bank Annual Meetings** open in **Bangkok** on **October 12**, where leaders will discuss the global outlook.
+
+**Why it matters:** Slower hiring can make job hunting harder, and it puts the Federal Reserve in a bind between fighting inflation and supporting jobs.
+
+*Source: CNBC, October 2, 2026*
+
+---
+
 ## 2026-10-13
 
 ### Topic: AI Technology
