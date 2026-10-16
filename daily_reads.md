@@ -1,5 +1,71 @@
 # Daily Immersive Read Log
 
+## 2026-10-16
+
+### Topic: AI Technology
+
+**Record AI Release Day Reported Oct 6**
+
+- A widely shared post by AI commentator **Alex Volkov** called **October 6, 2026** possibly "the heaviest AI release day in recent history". These are one person's claims, not confirmed announcements.
+- **Meta, Stripe and Shopify** were said to announce an **Agent Protocol**, a shared way for AI agents (programs that act on your behalf) to work with online services.
+- **Mistral** reportedly unveiled a **1-trillion-parameter** model, with open weights promised soon.
+- **Perplexity** reportedly released open weights for a model said to **halve** its price, and **Claude** was said to be integrated into **Google Docs, Sheets and Slides**.
+- Few details were independently confirmed, so check company announcements before relying on any item.
+
+**Why it matters:** AI tools are arriving inside the everyday apps you already use, and shared standards could make AI assistants far more able to act for you, not just chat.
+
+**Jargon note:** *Open weights* means a company publishes the trained model's internal numbers so anyone can run or adapt it.
+
+*Source: Digg (citing Alex Volkov on X), October 6, 2026*
+
+### Topic: Geopolitics
+
+**Iran War Squeezes Oil, Bonds, Currency**
+
+- As of **September 29**, Iran was awaiting a US reply to its plan for a **seven-day ceasefire** and a phased reopening of the **Strait of Hormuz**.
+- **Donald Trump** said he had "offered them NOTHING", though he confirmed indirect talks through mediators.
+- The US Treasury sanctioned **10 people and companies** in Iran, China (including Hong Kong) and Pakistan accused of helping Iran's military buy weapons and electronics.
+- **Brent crude** was about **$96** a barrel versus roughly **$72** before the war began in late February.
+- The Iranian rial hit a record low of over **2.5 million** per US dollar.
+
+**Why it matters:** The war is no longer only a regional conflict; it is raising fuel prices and borrowing costs worldwide while sanctions pull in countries far from the Gulf.
+
+*Source: CBS News live updates, September 29, 2026*
+
+### Topic: Environment
+
+**Climate Talks Crowd October Calendar**
+
+- From **October 12–16**, governments meet in **Addis Ababa** to try again to agree a timeline for the next **IPCC** climate science reports, with budget shortfalls also on the table.
+- **Brazil** voted on **October 4**, with a possible runoff on **October 25**; experts warn the result could affect Amazon protection.
+- Pacific nations hosted a **pre-COP** (October 5–8) focused on ocean protection and the **1.5°C** warming limit.
+- **CBD COP17** in Armenia (**October 19–30**) will review the goal to protect **30%** of land and seas by 2030; a draft report says it "will not be achieved" without faster action.
+- The EU plans a climate resilience plan on **October 28**.
+
+**Why it matters:** Much climate policy is decided in these meetings, so this month shapes whether nature and warming targets stay realistic ahead of the COP31 summit.
+
+**Jargon note:** *IPCC* is the UN panel that summarises climate science for governments.
+
+*Source: Climate Home News, October 1, 2026*
+
+### Topic: Economics
+
+**Fed Hikes Rates as Inflation Climbs Again**
+
+- In **September**, the US Federal Reserve, led by Chair **Kevin Warsh**, raised its target rate to **3.75%–4.00%**, its first increase since **2023**.
+- September inflation (**CPI**, released **October 14**) was forecast at **3.6%** a year, up from **3.4%**. Check the actual release; these were forecasts.
+- Retail sales jumped **1.2%** in August, nearly double forecasts, and were expected to grow about **0.65%** in September.
+- The National Retail Federation expects holiday-season sales growth of about **4.4%**, above the usual **3.6%**.
+- Big banks including JPMorgan and Goldman Sachs reported earnings this week.
+
+**Why it matters:** Higher interest rates make loans and mortgages costlier, while stubborn inflation squeezes budgets even as consumers keep spending.
+
+**Jargon note:** *CPI* (Consumer Price Index) tracks the average change in prices households pay.
+
+*Source: Political.org, October 10, 2026*
+
+---
+
 ## 2026-10-15
 
 ### Topic: AI Technology
