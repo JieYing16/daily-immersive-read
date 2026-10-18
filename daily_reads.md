@@ -1,5 +1,263 @@
 # Daily Immersive Read Log
 
+## 2026-10-18
+
+### Topic: AI Technology
+
+**Open AI Models Catch Up to Giants**
+
+- **Google** made **Gemini 4 Argon** widely available on **October 13**, with a **1 million-token** memory window (roughly several novels of text at once).
+- On **October 15**, **Meta** released **Muse Spark Open**, a free-to-download model with about **816 billion** parameters (the adjustable "dials" a model learns); Meta calls it the strongest US open-weight model yet.
+- On **October 16**, startup **Reflection** released **Beam**, a **501 billion**-parameter model under the permissive Apache 2.0 license.
+- "Open-weight" means anyone can download and run the model, not just rent it.
+- Details come from a weekly digest, so check each company's announcement.
+
+**Why it matters:** Powerful AI is no longer locked behind a few companies' paid services, which could lower costs and spread both benefits and risks.
+
+**Jargon note:** *Parameters* are the numbers inside an AI model that store what it has learned; more usually means more capable.
+
+*Source: DEV Community weekly digest, October 10–17, 2026*
+
+### Topic: Geopolitics
+
+**Iran War Spills Into Saudi Skies**
+
+- As of **October 16**, the **Houthis** (an Iran-backed group in Yemen) struck the presidential palace in **Aden**; the government reported multiple deaths.
+- The Saudi-led coalition says the Houthis attacked **Riyadh's airport 20 times** this month; one strike killed **13 people** and halted flights.
+- Saudi Arabia accuses **Iran** of arming the group and intercepted a cruise missile over **Medina** on **October 15**.
+- At sea, **23 ship attacks** have been logged near the Strait of Hormuz since **October 1**, nearly double the monthly average.
+- The **EU-GCC summit** set for **October 24** was postponed.
+
+**Why it matters:** The US-Iran standoff is widening into a regional conflict, putting travel, trade and Gulf diplomacy at risk.
+
+*Source: CBS News live updates, October 16, 2026*
+
+### Topic: Environment
+
+**World Gathers to Check Nature Pledges**
+
+- The **UN Biodiversity Conference (COP17)** runs **October 19–30** in **Yerevan, Armenia**.
+- It is the first big test of the 2022 **Kunming-Montreal framework**, with **23 targets**, including protecting **30%** of land and sea by **2030**.
+- Countries will use new reporting and review procedures to show whether they are on track.
+- The EU says it is on track to double international biodiversity funding from **€3.5 billion to €7 billion**.
+- The **Cali Fund** asks firms that profit from genetic data of wild species, such as drug makers, to share benefits.
+
+**Why it matters:** Healthy ecosystems supply food, clean water and climate protection, and this meeting shows whether promises are becoming action.
+
+*Source: European Commission, October 16, 2026*
+
+### Topic: Economics
+
+**Hot Inflation Shakes Wall Street**
+
+- US inflation hit **3.7%** in **September**, above the **3.6%** forecast; producer prices rose **6.3%**.
+- The tech-heavy **Nasdaq** fell **4.48%** for the week, its worst since June; the **S&P 500** fell **1.95%** to **7,659**.
+- The 10-year Treasury yield briefly topped **5.30%**; higher yields make borrowing costlier and tech stocks less attractive.
+- Doubts about debt-laden AI data-centre firms hit shares such as **CoreWeave**, down about **25%**.
+- On **October 16**, Fed chair **Kevin Warsh** gave no hint on rates; the Fed meets **October 27–28** after a September hike.
+
+**Why it matters:** Energy-driven inflation is pushing rates up, which can raise loan costs and test the AI investment boom.
+
+*Source: The Epoch Times and Axios, October 16, 2026*
+
+---
+
+## 2026-10-16
+
+### Topic: AI Technology
+
+**Record AI Release Day Reported Oct 6**
+
+- A widely shared post by AI commentator **Alex Volkov** called **October 6, 2026** possibly "the heaviest AI release day in recent history". These are one person's claims, not confirmed announcements.
+- **Meta, Stripe and Shopify** were said to announce an **Agent Protocol**, a shared way for AI agents (programs that act on your behalf) to work with online services.
+- **Mistral** reportedly unveiled a **1-trillion-parameter** model, with open weights promised soon.
+- **Perplexity** reportedly released open weights for a model said to **halve** its price, and **Claude** was said to be integrated into **Google Docs, Sheets and Slides**.
+- Few details were independently confirmed, so check company announcements before relying on any item.
+
+**Why it matters:** AI tools are arriving inside the everyday apps you already use, and shared standards could make AI assistants far more able to act for you, not just chat.
+
+**Jargon note:** *Open weights* means a company publishes the trained model's internal numbers so anyone can run or adapt it.
+
+*Source: Digg (citing Alex Volkov on X), October 6, 2026*
+
+### Topic: Geopolitics
+
+**Iran War Squeezes Oil, Bonds, Currency**
+
+- As of **September 29**, Iran was awaiting a US reply to its plan for a **seven-day ceasefire** and a phased reopening of the **Strait of Hormuz**.
+- **Donald Trump** said he had "offered them NOTHING", though he confirmed indirect talks through mediators.
+- The US Treasury sanctioned **10 people and companies** in Iran, China (including Hong Kong) and Pakistan accused of helping Iran's military buy weapons and electronics.
+- **Brent crude** was about **$96** a barrel versus roughly **$72** before the war began in late February.
+- The Iranian rial hit a record low of over **2.5 million** per US dollar.
+
+**Why it matters:** The war is no longer only a regional conflict; it is raising fuel prices and borrowing costs worldwide while sanctions pull in countries far from the Gulf.
+
+*Source: CBS News live updates, September 29, 2026*
+
+### Topic: Environment
+
+**Climate Talks Crowd October Calendar**
+
+- From **October 12–16**, governments meet in **Addis Ababa** to try again to agree a timeline for the next **IPCC** climate science reports, with budget shortfalls also on the table.
+- **Brazil** voted on **October 4**, with a possible runoff on **October 25**; experts warn the result could affect Amazon protection.
+- Pacific nations hosted a **pre-COP** (October 5–8) focused on ocean protection and the **1.5°C** warming limit.
+- **CBD COP17** in Armenia (**October 19–30**) will review the goal to protect **30%** of land and seas by 2030; a draft report says it "will not be achieved" without faster action.
+- The EU plans a climate resilience plan on **October 28**.
+
+**Why it matters:** Much climate policy is decided in these meetings, so this month shapes whether nature and warming targets stay realistic ahead of the COP31 summit.
+
+**Jargon note:** *IPCC* is the UN panel that summarises climate science for governments.
+
+*Source: Climate Home News, October 1, 2026*
+
+### Topic: Economics
+
+**Fed Hikes Rates as Inflation Climbs Again**
+
+- In **September**, the US Federal Reserve, led by Chair **Kevin Warsh**, raised its target rate to **3.75%–4.00%**, its first increase since **2023**.
+- September inflation (**CPI**, released **October 14**) was forecast at **3.6%** a year, up from **3.4%**. Check the actual release; these were forecasts.
+- Retail sales jumped **1.2%** in August, nearly double forecasts, and were expected to grow about **0.65%** in September.
+- The National Retail Federation expects holiday-season sales growth of about **4.4%**, above the usual **3.6%**.
+- Big banks including JPMorgan and Goldman Sachs reported earnings this week.
+
+**Why it matters:** Higher interest rates make loans and mortgages costlier, while stubborn inflation squeezes budgets even as consumers keep spending.
+
+**Jargon note:** *CPI* (Consumer Price Index) tracks the average change in prices households pay.
+
+*Source: Political.org, October 10, 2026*
+
+---
+
+## 2026-10-17
+
+### Topic: AI Technology
+
+**AI Starts Clicking Buttons For You**
+
+- **OpenAI** released a model that can operate software on a user's behalf, clicking buttons and filling in screens much as a person would.
+- **The AI Report** newsletter also noted **Meta** is restructuring around AI, with reports of up to **16,000** job cuts (only an earlier **8,000** figure was confirmed).
+- On **October 15**, OpenAI was reported to have sued **Apple** over a former employee, while Apple, Amazon and Microsoft race to launch AI gadgets for the holidays.
+- On **October 14**, about **350 scientists** reportedly called for an international AI security body.
+- Several items come from a newsletter summary, so check company announcements.
+
+**Why it matters:** AI is shifting from answering questions to doing tasks for you, which raises both convenience and new safety questions.
+
+**Jargon note:** *Agent* means an AI program that takes actions, not just replies with text.
+
+*Source: The AI Report newsletter, October 13–15, 2026*
+
+### Topic: Geopolitics
+
+**US-Iran Standoff Locks Up Hormuz**
+
+- The war began on **February 28**; a June ceasefire collapsed over control of the **Strait of Hormuz**, which carried at least **20%** of world oil and gas.
+- Oil is about **$104** a barrel, versus roughly **$72** before the war.
+- The UK maritime centre logged **15 attacks** on ships between **October 6 and 14**.
+- The US keeps a naval blockade of Iran's ports; indirect talks via Pakistan and Qatar continue, but Trump rejected Iran's latest offer.
+- Trump says he won't attack before the **November 3** midterms; about **65%** of Americans disapprove of his handling of the war (Pew).
+
+**Why it matters:** A deadlock at one narrow waterway keeps fuel and shipping costs high worldwide, and the next move may wait until after US elections.
+
+*Source: Al Jazeera, October 15, 2026*
+
+### Topic: Environment
+
+**Record El Niño Looms Over Climate**
+
+- **NOAA** says an El Niño (a warming of Pacific waters that shifts weather worldwide) has been under way since **August 3**.
+- Its **October 8** update puts the Pacific **2.1°C** above average and gives an **83%** chance this winter's event beats any since **1950**.
+- Carbon Brief's **October 16** newsletter also flagged nature-protection plans called "insufficient" ahead of **CBD COP17** (October 19–30).
+- Over **130** firms urged governments to start reforming **$2.6 trillion** a year in environmentally harmful subsidies.
+- Analysts argue money for preparing for floods, droughts and heat is cheaper than rebuilding afterwards.
+
+**Why it matters:** A strong El Niño can bring extreme heat, drought and floods, and may push global temperatures to new records.
+
+*Source: OneStop ESG (citing NOAA) and Carbon Brief, October 8–16, 2026*
+
+### Topic: Economics
+
+**Gasoline Surge Pushes US Prices Up**
+
+- US consumer prices (**CPI**) rose **0.6%** in **September**, up from **0.4%** in August, the biggest monthly gain since April.
+- **Energy** jumped **5.2%**, and gasoline alone rose **9.1%**, accounting for over half the increase.
+- **Core CPI** (excluding food and energy) rose **0.3%**, above the **0.2%** forecast.
+- Housing costs rose **0.4%**; food was flat as restaurant prices rose while groceries fell.
+- The report, released **October 14**, keeps pressure on the Federal Reserve after its September rate hike.
+
+**Why it matters:** Fuel costs ripple through the whole economy, so Middle East tensions show up in your grocery trips and loan rates.
+
+**Jargon note:** *Core inflation* strips out volatile food and energy to show underlying price trends.
+
+*Source: Trading Economics (US BLS data), October 14, 2026*
+
+---
+
+## 2026-10-16
+
+### Topic: AI Technology
+
+**Record AI Release Day Reported Oct 6**
+
+- A widely shared post by AI commentator **Alex Volkov** called **October 6, 2026** possibly "the heaviest AI release day in recent history". These are one person's claims, not confirmed announcements.
+- **Meta, Stripe and Shopify** were said to announce an **Agent Protocol**, a shared way for AI agents (programs that act on your behalf) to work with online services.
+- **Mistral** reportedly unveiled a **1-trillion-parameter** model, with open weights promised soon.
+- **Perplexity** reportedly released open weights for a model said to **halve** its price, and **Claude** was said to be integrated into **Google Docs, Sheets and Slides**.
+- Few details were independently confirmed, so check company announcements before relying on any item.
+
+**Why it matters:** AI tools are arriving inside the everyday apps you already use, and shared standards could make AI assistants far more able to act for you, not just chat.
+
+**Jargon note:** *Open weights* means a company publishes the trained model's internal numbers so anyone can run or adapt it.
+
+*Source: Digg (citing Alex Volkov on X), October 6, 2026*
+
+### Topic: Geopolitics
+
+**Iran War Squeezes Oil, Bonds, Currency**
+
+- As of **September 29**, Iran was awaiting a US reply to its plan for a **seven-day ceasefire** and a phased reopening of the **Strait of Hormuz**.
+- **Donald Trump** said he had "offered them NOTHING", though he confirmed indirect talks through mediators.
+- The US Treasury sanctioned **10 people and companies** in Iran, China (including Hong Kong) and Pakistan accused of helping Iran's military buy weapons and electronics.
+- **Brent crude** was about **$96** a barrel versus roughly **$72** before the war began in late February.
+- The Iranian rial hit a record low of over **2.5 million** per US dollar.
+
+**Why it matters:** The war is no longer only a regional conflict; it is raising fuel prices and borrowing costs worldwide while sanctions pull in countries far from the Gulf.
+
+*Source: CBS News live updates, September 29, 2026*
+
+### Topic: Environment
+
+**Climate Talks Crowd October Calendar**
+
+- From **October 12–16**, governments meet in **Addis Ababa** to try again to agree a timeline for the next **IPCC** climate science reports, with budget shortfalls also on the table.
+- **Brazil** voted on **October 4**, with a possible runoff on **October 25**; experts warn the result could affect Amazon protection.
+- Pacific nations hosted a **pre-COP** (October 5–8) focused on ocean protection and the **1.5°C** warming limit.
+- **CBD COP17** in Armenia (**October 19–30**) will review the goal to protect **30%** of land and seas by 2030; a draft report says it "will not be achieved" without faster action.
+- The EU plans a climate resilience plan on **October 28**.
+
+**Why it matters:** Much climate policy is decided in these meetings, so this month shapes whether nature and warming targets stay realistic ahead of the COP31 summit.
+
+**Jargon note:** *IPCC* is the UN panel that summarises climate science for governments.
+
+*Source: Climate Home News, October 1, 2026*
+
+### Topic: Economics
+
+**Fed Hikes Rates as Inflation Climbs Again**
+
+- In **September**, the US Federal Reserve, led by Chair **Kevin Warsh**, raised its target rate to **3.75%–4.00%**, its first increase since **2023**.
+- September inflation (**CPI**, released **October 14**) was forecast at **3.6%** a year, up from **3.4%**. Check the actual release; these were forecasts.
+- Retail sales jumped **1.2%** in August, nearly double forecasts, and were expected to grow about **0.65%** in September.
+- The National Retail Federation expects holiday-season sales growth of about **4.4%**, above the usual **3.6%**.
+- Big banks including JPMorgan and Goldman Sachs reported earnings this week.
+
+**Why it matters:** Higher interest rates make loans and mortgages costlier, while stubborn inflation squeezes budgets even as consumers keep spending.
+
+**Jargon note:** *CPI* (Consumer Price Index) tracks the average change in prices households pay.
+
+*Source: Political.org, October 10, 2026*
+
+---
+
 ## 2026-10-16
 
 ### Topic: AI Technology

@@ -1,6 +1,190 @@
 {
- "generated": "2026-10-16T15:27:06",
+ "generated": "2026-10-18T16:06:33",
  "days": [
+  {
+   "date": "2026-10-18",
+   "label": "Sunday, 18 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-18-ai-technology",
+     "topic": "AI Technology",
+     "title": "Open AI Models Catch Up to Giants",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li><strong>Google</strong> made <strong>Gemini 4 Argon</strong> widely available on <strong>October 13</strong>, with a <strong>1 million-token</strong> memory window (roughly several novels of text at once).</li>\n<li>On <strong>October 15</strong>, <strong>Meta</strong> released <strong>Muse Spark Open</strong>, a free-to-download model with about <strong>816 billion</strong> parameters (the adjustable \"dials\" a model learns); Meta calls it the strongest US open-weight model yet.</li>\n<li>On <strong>October 16</strong>, startup <strong>Reflection</strong> released <strong>Beam</strong>, a <strong>501 billion</strong>-parameter model under the permissive Apache 2.0 license.</li>\n<li>\"Open-weight\" means anyone can download and run the model, not just rent it.</li>\n<li>Details come from a weekly digest, so check each company's announcement.</li>\n</ul>",
+     "whyHtml": "Powerful AI is no longer locked behind a few companies' paid services, which could lower costs and spread both benefits and risks.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Parameters</em> are the numbers inside an AI model that store what it has learned; more usually means more capable.</p>",
+     "sourceHtml": "Source: DEV Community weekly digest, October 10–17, 2026"
+    },
+    {
+     "id": "2026-10-18-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Iran War Spills Into Saudi Skies",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>As of <strong>October 16</strong>, the <strong>Houthis</strong> (an Iran-backed group in Yemen) struck the presidential palace in <strong>Aden</strong>; the government reported multiple deaths.</li>\n<li>The Saudi-led coalition says the Houthis attacked <strong>Riyadh's airport 20 times</strong> this month; one strike killed <strong>13 people</strong> and halted flights.</li>\n<li>Saudi Arabia accuses <strong>Iran</strong> of arming the group and intercepted a cruise missile over <strong>Medina</strong> on <strong>October 15</strong>.</li>\n<li>At sea, <strong>23 ship attacks</strong> have been logged near the Strait of Hormuz since <strong>October 1</strong>, nearly double the monthly average.</li>\n<li>The <strong>EU-GCC summit</strong> set for <strong>October 24</strong> was postponed.</li>\n</ul>",
+     "whyHtml": "The US-Iran standoff is widening into a regional conflict, putting travel, trade and Gulf diplomacy at risk.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CBS News live updates, October 16, 2026"
+    },
+    {
+     "id": "2026-10-18-environment",
+     "topic": "Environment",
+     "title": "World Gathers to Check Nature Pledges",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The <strong>UN Biodiversity Conference (COP17)</strong> runs <strong>October 19–30</strong> in <strong>Yerevan, Armenia</strong>.</li>\n<li>It is the first big test of the 2022 <strong>Kunming-Montreal framework</strong>, with <strong>23 targets</strong>, including protecting <strong>30%</strong> of land and sea by <strong>2030</strong>.</li>\n<li>Countries will use new reporting and review procedures to show whether they are on track.</li>\n<li>The EU says it is on track to double international biodiversity funding from <strong>€3.5 billion to €7 billion</strong>.</li>\n<li>The <strong>Cali Fund</strong> asks firms that profit from genetic data of wild species, such as drug makers, to share benefits.</li>\n</ul>",
+     "whyHtml": "Healthy ecosystems supply food, clean water and climate protection, and this meeting shows whether promises are becoming action.",
+     "noteHtml": "",
+     "sourceHtml": "Source: European Commission, October 16, 2026"
+    },
+    {
+     "id": "2026-10-18-economics",
+     "topic": "Economics",
+     "title": "Hot Inflation Shakes Wall Street",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>US inflation hit <strong>3.7%</strong> in <strong>September</strong>, above the <strong>3.6%</strong> forecast; producer prices rose <strong>6.3%</strong>.</li>\n<li>The tech-heavy <strong>Nasdaq</strong> fell <strong>4.48%</strong> for the week, its worst since June; the <strong>S&amp;P 500</strong> fell <strong>1.95%</strong> to <strong>7,659</strong>.</li>\n<li>The 10-year Treasury yield briefly topped <strong>5.30%</strong>; higher yields make borrowing costlier and tech stocks less attractive.</li>\n<li>Doubts about debt-laden AI data-centre firms hit shares such as <strong>CoreWeave</strong>, down about <strong>25%</strong>.</li>\n<li>On <strong>October 16</strong>, Fed chair <strong>Kevin Warsh</strong> gave no hint on rates; the Fed meets <strong>October 27–28</strong> after a September hike.</li>\n</ul>",
+     "whyHtml": "Energy-driven inflation is pushing rates up, which can raise loan costs and test the AI investment boom.",
+     "noteHtml": "",
+     "sourceHtml": "Source: The Epoch Times and Axios, October 16, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "label": "Saturday, 17 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-17-ai-technology",
+     "topic": "AI Technology",
+     "title": "AI Starts Clicking Buttons For You",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li><strong>OpenAI</strong> released a model that can operate software on a user's behalf, clicking buttons and filling in screens much as a person would.</li>\n<li><strong>The AI Report</strong> newsletter also noted <strong>Meta</strong> is restructuring around AI, with reports of up to <strong>16,000</strong> job cuts (only an earlier <strong>8,000</strong> figure was confirmed).</li>\n<li>On <strong>October 15</strong>, OpenAI was reported to have sued <strong>Apple</strong> over a former employee, while Apple, Amazon and Microsoft race to launch AI gadgets for the holidays.</li>\n<li>On <strong>October 14</strong>, about <strong>350 scientists</strong> reportedly called for an international AI security body.</li>\n<li>Several items come from a newsletter summary, so check company announcements.</li>\n</ul>",
+     "whyHtml": "AI is shifting from answering questions to doing tasks for you, which raises both convenience and new safety questions.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Agent</em> means an AI program that takes actions, not just replies with text.</p>",
+     "sourceHtml": "Source: The AI Report newsletter, October 13–15, 2026"
+    },
+    {
+     "id": "2026-10-17-geopolitics",
+     "topic": "Geopolitics",
+     "title": "US-Iran Standoff Locks Up Hormuz",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The war began on <strong>February 28</strong>; a June ceasefire collapsed over control of the <strong>Strait of Hormuz</strong>, which carried at least <strong>20%</strong> of world oil and gas.</li>\n<li>Oil is about <strong>$104</strong> a barrel, versus roughly <strong>$72</strong> before the war.</li>\n<li>The UK maritime centre logged <strong>15 attacks</strong> on ships between <strong>October 6 and 14</strong>.</li>\n<li>The US keeps a naval blockade of Iran's ports; indirect talks via Pakistan and Qatar continue, but Trump rejected Iran's latest offer.</li>\n<li>Trump says he won't attack before the <strong>November 3</strong> midterms; about <strong>65%</strong> of Americans disapprove of his handling of the war (Pew).</li>\n</ul>",
+     "whyHtml": "A deadlock at one narrow waterway keeps fuel and shipping costs high worldwide, and the next move may wait until after US elections.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Al Jazeera, October 15, 2026"
+    },
+    {
+     "id": "2026-10-17-environment",
+     "topic": "Environment",
+     "title": "Record El Niño Looms Over Climate",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li><strong>NOAA</strong> says an El Niño (a warming of Pacific waters that shifts weather worldwide) has been under way since <strong>August 3</strong>.</li>\n<li>Its <strong>October 8</strong> update puts the Pacific <strong>2.1°C</strong> above average and gives an <strong>83%</strong> chance this winter's event beats any since <strong>1950</strong>.</li>\n<li>Carbon Brief's <strong>October 16</strong> newsletter also flagged nature-protection plans called \"insufficient\" ahead of <strong>CBD COP17</strong> (October 19–30).</li>\n<li>Over <strong>130</strong> firms urged governments to start reforming <strong>$2.6 trillion</strong> a year in environmentally harmful subsidies.</li>\n<li>Analysts argue money for preparing for floods, droughts and heat is cheaper than rebuilding afterwards.</li>\n</ul>",
+     "whyHtml": "A strong El Niño can bring extreme heat, drought and floods, and may push global temperatures to new records.",
+     "noteHtml": "",
+     "sourceHtml": "Source: OneStop ESG (citing NOAA) and Carbon Brief, October 8–16, 2026"
+    },
+    {
+     "id": "2026-10-17-economics",
+     "topic": "Economics",
+     "title": "Gasoline Surge Pushes US Prices Up",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>US consumer prices (<strong>CPI</strong>) rose <strong>0.6%</strong> in <strong>September</strong>, up from <strong>0.4%</strong> in August, the biggest monthly gain since April.</li>\n<li><strong>Energy</strong> jumped <strong>5.2%</strong>, and gasoline alone rose <strong>9.1%</strong>, accounting for over half the increase.</li>\n<li><strong>Core CPI</strong> (excluding food and energy) rose <strong>0.3%</strong>, above the <strong>0.2%</strong> forecast.</li>\n<li>Housing costs rose <strong>0.4%</strong>; food was flat as restaurant prices rose while groceries fell.</li>\n<li>The report, released <strong>October 14</strong>, keeps pressure on the Federal Reserve after its September rate hike.</li>\n</ul>",
+     "whyHtml": "Fuel costs ripple through the whole economy, so Middle East tensions show up in your grocery trips and loan rates.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Core inflation</em> strips out volatile food and energy to show underlying price trends.</p>",
+     "sourceHtml": "Source: Trading Economics (US BLS data), October 14, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "label": "Friday, 16 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-16-ai-technology",
+     "topic": "AI Technology",
+     "title": "Record AI Release Day Reported Oct 6",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>A widely shared post by AI commentator <strong>Alex Volkov</strong> called <strong>October 6, 2026</strong> possibly \"the heaviest AI release day in recent history\". These are one person's claims, not confirmed announcements.</li>\n<li><strong>Meta, Stripe and Shopify</strong> were said to announce an <strong>Agent Protocol</strong>, a shared way for AI agents (programs that act on your behalf) to work with online services.</li>\n<li><strong>Mistral</strong> reportedly unveiled a <strong>1-trillion-parameter</strong> model, with open weights promised soon.</li>\n<li><strong>Perplexity</strong> reportedly released open weights for a model said to <strong>halve</strong> its price, and <strong>Claude</strong> was said to be integrated into <strong>Google Docs, Sheets and Slides</strong>.</li>\n<li>Few details were independently confirmed, so check company announcements before relying on any item.</li>\n</ul>",
+     "whyHtml": "AI tools are arriving inside the everyday apps you already use, and shared standards could make AI assistants far more able to act for you, not just chat.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Open weights</em> means a company publishes the trained model's internal numbers so anyone can run or adapt it.</p>",
+     "sourceHtml": "Source: Digg (citing Alex Volkov on X), October 6, 2026"
+    },
+    {
+     "id": "2026-10-16-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Iran War Squeezes Oil, Bonds, Currency",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>As of <strong>September 29</strong>, Iran was awaiting a US reply to its plan for a <strong>seven-day ceasefire</strong> and a phased reopening of the <strong>Strait of Hormuz</strong>.</li>\n<li><strong>Donald Trump</strong> said he had \"offered them NOTHING\", though he confirmed indirect talks through mediators.</li>\n<li>The US Treasury sanctioned <strong>10 people and companies</strong> in Iran, China (including Hong Kong) and Pakistan accused of helping Iran's military buy weapons and electronics.</li>\n<li><strong>Brent crude</strong> was about <strong>$96</strong> a barrel versus roughly <strong>$72</strong> before the war began in late February.</li>\n<li>The Iranian rial hit a record low of over <strong>2.5 million</strong> per US dollar.</li>\n</ul>",
+     "whyHtml": "The war is no longer only a regional conflict; it is raising fuel prices and borrowing costs worldwide while sanctions pull in countries far from the Gulf.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CBS News live updates, September 29, 2026"
+    },
+    {
+     "id": "2026-10-16-environment",
+     "topic": "Environment",
+     "title": "Climate Talks Crowd October Calendar",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>From <strong>October 12–16</strong>, governments meet in <strong>Addis Ababa</strong> to try again to agree a timeline for the next <strong>IPCC</strong> climate science reports, with budget shortfalls also on the table.</li>\n<li><strong>Brazil</strong> voted on <strong>October 4</strong>, with a possible runoff on <strong>October 25</strong>; experts warn the result could affect Amazon protection.</li>\n<li>Pacific nations hosted a <strong>pre-COP</strong> (October 5–8) focused on ocean protection and the <strong>1.5°C</strong> warming limit.</li>\n<li><strong>CBD COP17</strong> in Armenia (<strong>October 19–30</strong>) will review the goal to protect <strong>30%</strong> of land and seas by 2030; a draft report says it \"will not be achieved\" without faster action.</li>\n<li>The EU plans a climate resilience plan on <strong>October 28</strong>.</li>\n</ul>",
+     "whyHtml": "Much climate policy is decided in these meetings, so this month shapes whether nature and warming targets stay realistic ahead of the COP31 summit.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>IPCC</em> is the UN panel that summarises climate science for governments.</p>",
+     "sourceHtml": "Source: Climate Home News, October 1, 2026"
+    },
+    {
+     "id": "2026-10-16-economics",
+     "topic": "Economics",
+     "title": "Fed Hikes Rates as Inflation Climbs Again",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>In <strong>September</strong>, the US Federal Reserve, led by Chair <strong>Kevin Warsh</strong>, raised its target rate to <strong>3.75%–4.00%</strong>, its first increase since <strong>2023</strong>.</li>\n<li>September inflation (<strong>CPI</strong>, released <strong>October 14</strong>) was forecast at <strong>3.6%</strong> a year, up from <strong>3.4%</strong>. Check the actual release; these were forecasts.</li>\n<li>Retail sales jumped <strong>1.2%</strong> in August, nearly double forecasts, and were expected to grow about <strong>0.65%</strong> in September.</li>\n<li>The National Retail Federation expects holiday-season sales growth of about <strong>4.4%</strong>, above the usual <strong>3.6%</strong>.</li>\n<li>Big banks including JPMorgan and Goldman Sachs reported earnings this week.</li>\n</ul>",
+     "whyHtml": "Higher interest rates make loans and mortgages costlier, while stubborn inflation squeezes budgets even as consumers keep spending.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>CPI</em> (Consumer Price Index) tracks the average change in prices households pay.</p>",
+     "sourceHtml": "Source: Political.org, October 10, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "label": "Friday, 16 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-16-ai-technology",
+     "topic": "AI Technology",
+     "title": "Record AI Release Day Reported Oct 6",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>A widely shared post by AI commentator <strong>Alex Volkov</strong> called <strong>October 6, 2026</strong> possibly \"the heaviest AI release day in recent history\". These are one person's claims, not confirmed announcements.</li>\n<li><strong>Meta, Stripe and Shopify</strong> were said to announce an <strong>Agent Protocol</strong>, a shared way for AI agents (programs that act on your behalf) to work with online services.</li>\n<li><strong>Mistral</strong> reportedly unveiled a <strong>1-trillion-parameter</strong> model, with open weights promised soon.</li>\n<li><strong>Perplexity</strong> reportedly released open weights for a model said to <strong>halve</strong> its price, and <strong>Claude</strong> was said to be integrated into <strong>Google Docs, Sheets and Slides</strong>.</li>\n<li>Few details were independently confirmed, so check company announcements before relying on any item.</li>\n</ul>",
+     "whyHtml": "AI tools are arriving inside the everyday apps you already use, and shared standards could make AI assistants far more able to act for you, not just chat.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Open weights</em> means a company publishes the trained model's internal numbers so anyone can run or adapt it.</p>",
+     "sourceHtml": "Source: Digg (citing Alex Volkov on X), October 6, 2026"
+    },
+    {
+     "id": "2026-10-16-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Iran War Squeezes Oil, Bonds, Currency",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>As of <strong>September 29</strong>, Iran was awaiting a US reply to its plan for a <strong>seven-day ceasefire</strong> and a phased reopening of the <strong>Strait of Hormuz</strong>.</li>\n<li><strong>Donald Trump</strong> said he had \"offered them NOTHING\", though he confirmed indirect talks through mediators.</li>\n<li>The US Treasury sanctioned <strong>10 people and companies</strong> in Iran, China (including Hong Kong) and Pakistan accused of helping Iran's military buy weapons and electronics.</li>\n<li><strong>Brent crude</strong> was about <strong>$96</strong> a barrel versus roughly <strong>$72</strong> before the war began in late February.</li>\n<li>The Iranian rial hit a record low of over <strong>2.5 million</strong> per US dollar.</li>\n</ul>",
+     "whyHtml": "The war is no longer only a regional conflict; it is raising fuel prices and borrowing costs worldwide while sanctions pull in countries far from the Gulf.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CBS News live updates, September 29, 2026"
+    },
+    {
+     "id": "2026-10-16-environment",
+     "topic": "Environment",
+     "title": "Climate Talks Crowd October Calendar",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>From <strong>October 12–16</strong>, governments meet in <strong>Addis Ababa</strong> to try again to agree a timeline for the next <strong>IPCC</strong> climate science reports, with budget shortfalls also on the table.</li>\n<li><strong>Brazil</strong> voted on <strong>October 4</strong>, with a possible runoff on <strong>October 25</strong>; experts warn the result could affect Amazon protection.</li>\n<li>Pacific nations hosted a <strong>pre-COP</strong> (October 5–8) focused on ocean protection and the <strong>1.5°C</strong> warming limit.</li>\n<li><strong>CBD COP17</strong> in Armenia (<strong>October 19–30</strong>) will review the goal to protect <strong>30%</strong> of land and seas by 2030; a draft report says it \"will not be achieved\" without faster action.</li>\n<li>The EU plans a climate resilience plan on <strong>October 28</strong>.</li>\n</ul>",
+     "whyHtml": "Much climate policy is decided in these meetings, so this month shapes whether nature and warming targets stay realistic ahead of the COP31 summit.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>IPCC</em> is the UN panel that summarises climate science for governments.</p>",
+     "sourceHtml": "Source: Climate Home News, October 1, 2026"
+    },
+    {
+     "id": "2026-10-16-economics",
+     "topic": "Economics",
+     "title": "Fed Hikes Rates as Inflation Climbs Again",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>In <strong>September</strong>, the US Federal Reserve, led by Chair <strong>Kevin Warsh</strong>, raised its target rate to <strong>3.75%–4.00%</strong>, its first increase since <strong>2023</strong>.</li>\n<li>September inflation (<strong>CPI</strong>, released <strong>October 14</strong>) was forecast at <strong>3.6%</strong> a year, up from <strong>3.4%</strong>. Check the actual release; these were forecasts.</li>\n<li>Retail sales jumped <strong>1.2%</strong> in August, nearly double forecasts, and were expected to grow about <strong>0.65%</strong> in September.</li>\n<li>The National Retail Federation expects holiday-season sales growth of about <strong>4.4%</strong>, above the usual <strong>3.6%</strong>.</li>\n<li>Big banks including JPMorgan and Goldman Sachs reported earnings this week.</li>\n</ul>",
+     "whyHtml": "Higher interest rates make loans and mortgages costlier, while stubborn inflation squeezes budgets even as consumers keep spending.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>CPI</em> (Consumer Price Index) tracks the average change in prices households pay.</p>",
+     "sourceHtml": "Source: Political.org, October 10, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-10-16",
    "label": "Friday, 16 October 2026",
