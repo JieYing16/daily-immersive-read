@@ -1,5 +1,67 @@
 # Daily Immersive Read Log
 
+## 2026-10-19
+
+### Topic: AI Technology
+
+**Big Tech Cuts Jobs, Sells AI Tools**
+
+- A **October 12** analysis by 24/7 Wall St. says **Meta** cut roughly **8,000 jobs** in **May 2026**, and **Amazon** booked **$1.8 billion** in severance for planned role cuts.
+- Both firms are spending heavily on AI: second-quarter capital spending (money for data centres and equipment) was **$54.2 billion** at Amazon and **$30.1 billion** at Meta.
+- Amazon's cloud arm **AWS** grew **37%** to **$42.23 billion** in revenue, and Amazon plans to **more than double** its warehouse robotic arms in 2026.
+- Meta's profit missed forecasts (**$6.18** per share vs **$7.22** expected) as costs rose.
+- The author argues Amazon gains twice: it cuts its own costs with AI and sells the same tools to others. This is one analyst's view.
+
+**Why it matters:** AI is changing who companies hire, and the firms building it profit even when jobs shrink, which shapes the job market for everyone.
+
+**Jargon note:** *Capital spending* is money spent on long-lasting assets such as data centres and chips.
+
+*Source: 24/7 Wall St., October 12, 2026*
+
+### Topic: Geopolitics
+
+**Hormuz Shipping Attacks Keep Climbing**
+
+- Greek maritime monitor **Marisks** said on **October 16** that ships in the **Strait of Hormuz** still face "indiscriminate attacks"; three vessels were confirmed hit that week.
+- At least **23 attacks** have been recorded in **October**, and a container ship reportedly sank (one mine-related claim is unverified).
+- **Riyadh's** airport suspended operations after a strike killed **13 people**, and the **EU-GCC summit** planned for **October 24** was postponed.
+- Reuters reports the US is considering easing sanctions on Iran's "shadow fleet" tankers to lower shipping costs.
+- **Brent crude** hovered around **$105** a barrel.
+
+**Why it matters:** The Strait of Hormuz carries a large share of the world's oil, so attacks there raise fuel prices far beyond the Middle East.
+
+*Source: CBS News live updates, October 16, 2026*
+
+### Topic: Environment
+
+**UN Biodiversity Summit Opens in Armenia**
+
+- **COP17**, the UN biodiversity conference, opened in **Yerevan, Armenia** and runs **October 19–30** under the theme "Taking Action for Nature".
+- Armenian PM **Nikol Pashinyan** urged countries to turn pledges into "concrete actions and measurable results".
+- The main task is the first global review of progress on the **Kunming-Montreal Global Biodiversity Framework**, agreed in **2022**.
+- That plan aims to halt and reverse nature loss by **2030**, with a vision of living in harmony with nature by **2050**.
+- **Astrid Schomaker**, who leads the Convention on Biological Diversity, hopes the meeting shows cooperation between countries still works.
+
+**Why it matters:** Food, water and a stable climate depend on healthy ecosystems, and this review shows whether countries are keeping their promises.
+
+*Source: CGTN, October 19, 2026*
+
+### Topic: Economics
+
+**Stocks Slide as Bond Yields Soar**
+
+- In the week to **October 16**, the **Nasdaq** fell **4.48%**, its worst week since June, and the **S&P 500** fell **1.95%** to **7,659**.
+- September US inflation reached **3.7%**, driven by a **9.1%** jump in gasoline prices; producer prices rose **6.3%** over the year.
+- The **10-year Treasury yield** (the interest rate on US government loans) topped **5.2%** during the week and closed near **5.08%**.
+- Chip stocks fell **11.41%** over eight straight sessions, and a fear gauge sat in "extreme fear" at **18**.
+- This week brings earnings from **Meta, Tesla and Netflix**, plus the Fed's late-October meeting.
+
+**Why it matters:** Higher yields raise borrowing costs for mortgages and businesses and make risky stocks less appealing.
+
+*Source: TradingKey, October 19, 2026*
+
+---
+
 ## 2026-10-18
 
 ### Topic: AI Technology

@@ -1,6 +1,52 @@
 {
- "generated": "2026-10-18T23:50:11",
+ "generated": "2026-10-19T18:05:46",
  "days": [
+  {
+   "date": "2026-10-19",
+   "label": "Monday, 19 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-19-ai-technology",
+     "topic": "AI Technology",
+     "title": "Big Tech Cuts Jobs, Sells AI Tools",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>A <strong>October 12</strong> analysis by 24/7 Wall St. says <strong>Meta</strong> cut roughly <strong>8,000 jobs</strong> in <strong>May 2026</strong>, and <strong>Amazon</strong> booked <strong>$1.8 billion</strong> in severance for planned role cuts.</li>\n<li>Both firms are spending heavily on AI: second-quarter capital spending (money for data centres and equipment) was <strong>$54.2 billion</strong> at Amazon and <strong>$30.1 billion</strong> at Meta.</li>\n<li>Amazon's cloud arm <strong>AWS</strong> grew <strong>37%</strong> to <strong>$42.23 billion</strong> in revenue, and Amazon plans to <strong>more than double</strong> its warehouse robotic arms in 2026.</li>\n<li>Meta's profit missed forecasts (<strong>$6.18</strong> per share vs <strong>$7.22</strong> expected) as costs rose.</li>\n<li>The author argues Amazon gains twice: it cuts its own costs with AI and sells the same tools to others. This is one analyst's view.</li>\n</ul>",
+     "whyHtml": "AI is changing who companies hire, and the firms building it profit even when jobs shrink, which shapes the job market for everyone.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Capital spending</em> is money spent on long-lasting assets such as data centres and chips.</p>",
+     "sourceHtml": "Source: 24/7 Wall St., October 12, 2026"
+    },
+    {
+     "id": "2026-10-19-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Hormuz Shipping Attacks Keep Climbing",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Greek maritime monitor <strong>Marisks</strong> said on <strong>October 16</strong> that ships in the <strong>Strait of Hormuz</strong> still face \"indiscriminate attacks\"; three vessels were confirmed hit that week.</li>\n<li>At least <strong>23 attacks</strong> have been recorded in <strong>October</strong>, and a container ship reportedly sank (one mine-related claim is unverified).</li>\n<li><strong>Riyadh's</strong> airport suspended operations after a strike killed <strong>13 people</strong>, and the <strong>EU-GCC summit</strong> planned for <strong>October 24</strong> was postponed.</li>\n<li>Reuters reports the US is considering easing sanctions on Iran's \"shadow fleet\" tankers to lower shipping costs.</li>\n<li><strong>Brent crude</strong> hovered around <strong>$105</strong> a barrel.</li>\n</ul>",
+     "whyHtml": "The Strait of Hormuz carries a large share of the world's oil, so attacks there raise fuel prices far beyond the Middle East.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CBS News live updates, October 16, 2026"
+    },
+    {
+     "id": "2026-10-19-environment",
+     "topic": "Environment",
+     "title": "UN Biodiversity Summit Opens in Armenia",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li><strong>COP17</strong>, the UN biodiversity conference, opened in <strong>Yerevan, Armenia</strong> and runs <strong>October 19–30</strong> under the theme \"Taking Action for Nature\".</li>\n<li>Armenian PM <strong>Nikol Pashinyan</strong> urged countries to turn pledges into \"concrete actions and measurable results\".</li>\n<li>The main task is the first global review of progress on the <strong>Kunming-Montreal Global Biodiversity Framework</strong>, agreed in <strong>2022</strong>.</li>\n<li>That plan aims to halt and reverse nature loss by <strong>2030</strong>, with a vision of living in harmony with nature by <strong>2050</strong>.</li>\n<li><strong>Astrid Schomaker</strong>, who leads the Convention on Biological Diversity, hopes the meeting shows cooperation between countries still works.</li>\n</ul>",
+     "whyHtml": "Food, water and a stable climate depend on healthy ecosystems, and this review shows whether countries are keeping their promises.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CGTN, October 19, 2026"
+    },
+    {
+     "id": "2026-10-19-economics",
+     "topic": "Economics",
+     "title": "Stocks Slide as Bond Yields Soar",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>In the week to <strong>October 16</strong>, the <strong>Nasdaq</strong> fell <strong>4.48%</strong>, its worst week since June, and the <strong>S&amp;P 500</strong> fell <strong>1.95%</strong> to <strong>7,659</strong>.</li>\n<li>September US inflation reached <strong>3.7%</strong>, driven by a <strong>9.1%</strong> jump in gasoline prices; producer prices rose <strong>6.3%</strong> over the year.</li>\n<li>The <strong>10-year Treasury yield</strong> (the interest rate on US government loans) topped <strong>5.2%</strong> during the week and closed near <strong>5.08%</strong>.</li>\n<li>Chip stocks fell <strong>11.41%</strong> over eight straight sessions, and a fear gauge sat in \"extreme fear\" at <strong>18</strong>.</li>\n<li>This week brings earnings from <strong>Meta, Tesla and Netflix</strong>, plus the Fed's late-October meeting.</li>\n</ul>",
+     "whyHtml": "Higher yields raise borrowing costs for mortgages and businesses and make risky stocks less appealing.",
+     "noteHtml": "",
+     "sourceHtml": "Source: TradingKey, October 19, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-10-18",
    "label": "Sunday, 18 October 2026",
