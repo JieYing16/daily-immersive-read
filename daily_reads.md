@@ -1,5 +1,67 @@
 # Daily Immersive Read Log
 
+## 2026-10-22
+
+### Topic: AI Technology
+
+**US Bars DeepSeek From Federal Systems**
+
+- The **Department of Homeland Security** ordered civilian federal agencies to remove **DeepSeek**, a Chinese AI company's products, from their IT systems and stop buying them.
+- The order, signed on **July 24**, was published in the Federal Register on **October 19, 2026**.
+- It also covers third-party tools built on DeepSeek's models and bars the firm from federal contracts.
+- DHS cites data risks: user information could reach Beijing under Chinese security laws, and the models may hide malware or security flaws.
+- Earlier steps included a Pentagon block in **January 2025** and bans by the Commerce Department, the Navy, and several states.
+
+**Why it matters:** AI tools now sit inside government work, so who builds them, and where data flows, has become a national security question.
+
+**Jargon note:** *Distillation* means training a smaller AI model by copying the answers of a larger one.
+
+*Source: The Next Web, October 19–21, 2026*
+
+### Topic: Geopolitics
+
+**Hormuz Standoff Spreads to Saudi Arabia**
+
+- On **October 21**, Brent crude rose to **$110.11** a barrel after Houthi attacks in Saudi Arabia, including a strike on **Dammam's airport** that killed one person.
+- The US State Department ordered non-emergency staff and families to leave Saudi Arabia; the UK is sending Typhoon jets.
+- President **Trump** says a US blockade is in place at the **Strait of Hormuz** and that Iran is "decimated".
+- Iran's foreign minister says Tehran wants a deal but will defend itself, and its president says a plan has been sent to Washington.
+- Iran's Guard threatened to cut **seven undersea cables** in the strait; two tankers hit sea mines on **October 17**.
+
+**Why it matters:** A narrow waterway carrying much of the world's oil is now a bargaining chip, so the dispute affects fuel prices and shipping everywhere.
+
+*Source: Fox News live blog, October 21, 2026*
+
+### Topic: Environment
+
+**Nature Talks Stall on Money and Rights**
+
+- At **COP17** in **Yerevan, Armenia** (**October 19–30**), nearly 200 countries are reviewing progress on the 2022 plan to halt nature loss by **2030**.
+- That plan has **23 targets**, including protecting **30%** of land and sea and restoring **30%** of degraded ecosystems.
+- Countries disagree on the **Cali Fund**, which asks companies using wildlife genetic data to share benefits; the argument is whether payments should be mandatory.
+- Negotiators also failed to agree on forest-protection wording that references human rights safeguards.
+- Poorer countries want dedicated funding windows; some wealthier ones oppose earmarking money.
+
+**Why it matters:** Healthy ecosystems supply food, water and climate stability, and without agreed funding, promises to protect nature may stay on paper.
+
+*Source: The Climate Watch, October 2026*
+
+### Topic: Economics
+
+**IMF: Growth Holds Up Thanks to AI Spending**
+
+- On **October 13**, the IMF raised its 2026 world growth forecast to **3.1%**, up **0.1** point from July; it sees **3.4%** in 2027.
+- Advanced economies are forecast at **2.1%** growth in 2026, emerging economies at **3.7%**.
+- Global inflation is expected to rise from **4.1%** in 2025 to **4.7%** in 2026.
+- The IMF blames an energy price shock from the Middle East war for dragging growth down.
+- Strong **AI infrastructure investment**, such as data centres, is offsetting part of that drag, said chief **Kristalina Georgieva**.
+
+**Why it matters:** Your costs and job prospects depend on global growth, and right now it leans heavily on both an AI building boom and oil prices.
+
+*Source: CGTN / IMF World Economic Outlook, October 13, 2026*
+
+---
+
 ## 2026-10-19
 
 ### Topic: AI Technology

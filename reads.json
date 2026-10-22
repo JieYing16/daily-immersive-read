@@ -1,6 +1,52 @@
 {
- "generated": "2026-10-19T23:05:45",
+ "generated": "2026-10-22T19:11:47",
  "days": [
+  {
+   "date": "2026-10-22",
+   "label": "Thursday, 22 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-22-ai-technology",
+     "topic": "AI Technology",
+     "title": "US Bars DeepSeek From Federal Systems",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The <strong>Department of Homeland Security</strong> ordered civilian federal agencies to remove <strong>DeepSeek</strong>, a Chinese AI company's products, from their IT systems and stop buying them.</li>\n<li>The order, signed on <strong>July 24</strong>, was published in the Federal Register on <strong>October 19, 2026</strong>.</li>\n<li>It also covers third-party tools built on DeepSeek's models and bars the firm from federal contracts.</li>\n<li>DHS cites data risks: user information could reach Beijing under Chinese security laws, and the models may hide malware or security flaws.</li>\n<li>Earlier steps included a Pentagon block in <strong>January 2025</strong> and bans by the Commerce Department, the Navy, and several states.</li>\n</ul>",
+     "whyHtml": "AI tools now sit inside government work, so who builds them, and where data flows, has become a national security question.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Distillation</em> means training a smaller AI model by copying the answers of a larger one.</p>",
+     "sourceHtml": "Source: The Next Web, October 19–21, 2026"
+    },
+    {
+     "id": "2026-10-22-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Hormuz Standoff Spreads to Saudi Arabia",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 21</strong>, Brent crude rose to <strong>$110.11</strong> a barrel after Houthi attacks in Saudi Arabia, including a strike on <strong>Dammam's airport</strong> that killed one person.</li>\n<li>The US State Department ordered non-emergency staff and families to leave Saudi Arabia; the UK is sending Typhoon jets.</li>\n<li>President <strong>Trump</strong> says a US blockade is in place at the <strong>Strait of Hormuz</strong> and that Iran is \"decimated\".</li>\n<li>Iran's foreign minister says Tehran wants a deal but will defend itself, and its president says a plan has been sent to Washington.</li>\n<li>Iran's Guard threatened to cut <strong>seven undersea cables</strong> in the strait; two tankers hit sea mines on <strong>October 17</strong>.</li>\n</ul>",
+     "whyHtml": "A narrow waterway carrying much of the world's oil is now a bargaining chip, so the dispute affects fuel prices and shipping everywhere.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Fox News live blog, October 21, 2026"
+    },
+    {
+     "id": "2026-10-22-environment",
+     "topic": "Environment",
+     "title": "Nature Talks Stall on Money and Rights",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>At <strong>COP17</strong> in <strong>Yerevan, Armenia</strong> (<strong>October 19–30</strong>), nearly 200 countries are reviewing progress on the 2022 plan to halt nature loss by <strong>2030</strong>.</li>\n<li>That plan has <strong>23 targets</strong>, including protecting <strong>30%</strong> of land and sea and restoring <strong>30%</strong> of degraded ecosystems.</li>\n<li>Countries disagree on the <strong>Cali Fund</strong>, which asks companies using wildlife genetic data to share benefits; the argument is whether payments should be mandatory.</li>\n<li>Negotiators also failed to agree on forest-protection wording that references human rights safeguards.</li>\n<li>Poorer countries want dedicated funding windows; some wealthier ones oppose earmarking money.</li>\n</ul>",
+     "whyHtml": "Healthy ecosystems supply food, water and climate stability, and without agreed funding, promises to protect nature may stay on paper.",
+     "noteHtml": "",
+     "sourceHtml": "Source: The Climate Watch, October 2026"
+    },
+    {
+     "id": "2026-10-22-economics",
+     "topic": "Economics",
+     "title": "IMF: Growth Holds Up Thanks to AI Spending",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 13</strong>, the IMF raised its 2026 world growth forecast to <strong>3.1%</strong>, up <strong>0.1</strong> point from July; it sees <strong>3.4%</strong> in 2027.</li>\n<li>Advanced economies are forecast at <strong>2.1%</strong> growth in 2026, emerging economies at <strong>3.7%</strong>.</li>\n<li>Global inflation is expected to rise from <strong>4.1%</strong> in 2025 to <strong>4.7%</strong> in 2026.</li>\n<li>The IMF blames an energy price shock from the Middle East war for dragging growth down.</li>\n<li>Strong <strong>AI infrastructure investment</strong>, such as data centres, is offsetting part of that drag, said chief <strong>Kristalina Georgieva</strong>.</li>\n</ul>",
+     "whyHtml": "Your costs and job prospects depend on global growth, and right now it leans heavily on both an AI building boom and oil prices.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CGTN / IMF World Economic Outlook, October 13, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-10-19",
    "label": "Monday, 19 October 2026",
