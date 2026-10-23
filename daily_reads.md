@@ -1,5 +1,74 @@
 # Daily Immersive Read Log
 
+## 2026-10-23
+
+### Topic: AI Technology
+
+**Next-Gen AI Models Reportedly Near Launch**
+
+- Reports citing The Information say **OpenAI**, **Anthropic** and **Google** are all preparing new AI models, though none is official yet.
+- OpenAI may release **GPT-6.1 Terra**, a cheaper model meant to beat **GPT-6.1 Sol**, which costs **$2** per million input tokens and **$10** per million output tokens.
+- References to Terra were spotted in Microsoft code, which often signals a launch is close.
+- Anthropic is said to be testing a model that infers what users want from vague instructions and spots deeper causes of software bugs.
+- Google is reportedly readying **Gemini 4 Carbon** after the recent **Gemini 4 Argon**, with strengths in video analysis.
+- Some launches could slip into **November**.
+
+**Why it matters:** Cheaper, smarter AI tools reach everyday apps quickly, so price cuts and new abilities soon show up in the software you use.
+
+**Jargon note:** *Tokens* are small chunks of text (roughly three-quarters of a word) that AI companies use to measure usage and set prices.
+
+*Source: Android Headlines (citing The Information), October 20, 2026*
+
+### Topic: Geopolitics
+
+**Putin Agrees to Resume Ukraine Peace Talks**
+
+- On **October 21**, the Kremlin said **Putin** agreed to restart US-mediated talks with Ukraine as soon as **next month**, after meeting US envoy **Steve Witkoff**.
+- **Zelenskiy** backs three-way talks with Russia and the US, preferably by **early November**.
+- Fighting continues: missiles hit **Kyiv** on **October 22**, and Ukraine sent hundreds of drones toward Moscow.
+- Seven commercial ships have been hit by Russian drones off **Bulgaria** and **Romania** since early October, per Bloomberg.
+- Germany's army now rates the threat of Russian sabotage as "significant", its second-highest level.
+- Russia also freed a former American schoolteacher held since early in the invasion.
+
+**Why it matters:** Talks may signal a path to ending Europe's largest war in decades, yet the strikes show peace is far from certain.
+
+*Source: FDD Overnight Brief (citing Reuters, Bloomberg), October 22, 2026*
+
+### Topic: Environment
+
+**UN: 1.5°C Warming Limit Is Lost**
+
+- The UN's **Emissions Gap Report**, released **October 21**, says the chance of holding warming to **1.5°C** has been "lost" after decades of too little action.
+- The world has already warmed about **1.4°C**; current pledges point to roughly **2.6°C** by 2100, and current policies to **2.8°C**.
+- To limit overshoot, emissions must fall **18%** by 2030, **45%** by 2035 and **69%** by 2040 versus 2025.
+- Coal power must drop at least **75%** by 2035 and be phased out by **2040**.
+- The **US** had the largest 2025 emissions rise (**133 megatons**), driven by power demand and a coal rebound.
+- The topic will dominate **COP31** in Antalya, Turkey, **November 9-20**.
+
+**Why it matters:** Each extra fraction of a degree raises the risk of heatwaves, floods and crop losses, so how fast countries cut emissions now sets the stakes for decades.
+
+**Jargon note:** *Overshoot* means temporarily passing a warming limit, then bringing temperatures back down by cutting emissions and removing carbon from the air.
+
+*Source: Euronews (UNEP Emissions Gap Report), October 21, 2026*
+
+### Topic: Economics
+
+**Oil Spike Sinks Stocks, Revives Rate Fears**
+
+- On **October 22**, the **S&P 500** fell **1.21%** to **7,663.43**, while the **Nasdaq 100** dropped **2.90%** amid worries about AI spending and rising oil prices.
+- Houthi attacks in Saudi Arabia pushed oil higher, reviving inflation fears and lifting bond yields.
+- Traders expect the **Federal Reserve** to hold rates at its **October 27-28** meeting, but see a **76%** chance of a **December hike**.
+- Gold fell **3.6%** this week to about **$4,021** an ounce, its steepest weekly drop in over four months, as higher rates make non-yielding gold less attractive.
+- Analysts say $4,000 is the key level to watch.
+
+**Why it matters:** Higher rates make mortgages, car loans and credit cards costlier, so an oil shock far away can reach your monthly budget.
+
+**Jargon note:** *Non-yielding* assets like gold pay no interest, so they look less appealing when savings and bonds pay more.
+
+*Source: Reuters via MarketScreener, October 23, 2026*
+
+---
+
 ## 2026-10-22
 
 ### Topic: AI Technology

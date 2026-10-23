@@ -1,6 +1,52 @@
 {
- "generated": "2026-10-22T19:11:47",
+ "generated": "2026-10-23T18:12:21",
  "days": [
+  {
+   "date": "2026-10-23",
+   "label": "Friday, 23 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-23-ai-technology",
+     "topic": "AI Technology",
+     "title": "Next-Gen AI Models Reportedly Near Launch",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Reports citing The Information say <strong>OpenAI</strong>, <strong>Anthropic</strong> and <strong>Google</strong> are all preparing new AI models, though none is official yet.</li>\n<li>OpenAI may release <strong>GPT-6.1 Terra</strong>, a cheaper model meant to beat <strong>GPT-6.1 Sol</strong>, which costs <strong>$2</strong> per million input tokens and <strong>$10</strong> per million output tokens.</li>\n<li>References to Terra were spotted in Microsoft code, which often signals a launch is close.</li>\n<li>Anthropic is said to be testing a model that infers what users want from vague instructions and spots deeper causes of software bugs.</li>\n<li>Google is reportedly readying <strong>Gemini 4 Carbon</strong> after the recent <strong>Gemini 4 Argon</strong>, with strengths in video analysis.</li>\n<li>Some launches could slip into <strong>November</strong>.</li>\n</ul>",
+     "whyHtml": "Cheaper, smarter AI tools reach everyday apps quickly, so price cuts and new abilities soon show up in the software you use.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Tokens</em> are small chunks of text (roughly three-quarters of a word) that AI companies use to measure usage and set prices.</p>",
+     "sourceHtml": "Source: Android Headlines (citing The Information), October 20, 2026"
+    },
+    {
+     "id": "2026-10-23-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Putin Agrees to Resume Ukraine Peace Talks",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 21</strong>, the Kremlin said <strong>Putin</strong> agreed to restart US-mediated talks with Ukraine as soon as <strong>next month</strong>, after meeting US envoy <strong>Steve Witkoff</strong>.</li>\n<li><strong>Zelenskiy</strong> backs three-way talks with Russia and the US, preferably by <strong>early November</strong>.</li>\n<li>Fighting continues: missiles hit <strong>Kyiv</strong> on <strong>October 22</strong>, and Ukraine sent hundreds of drones toward Moscow.</li>\n<li>Seven commercial ships have been hit by Russian drones off <strong>Bulgaria</strong> and <strong>Romania</strong> since early October, per Bloomberg.</li>\n<li>Germany's army now rates the threat of Russian sabotage as \"significant\", its second-highest level.</li>\n<li>Russia also freed a former American schoolteacher held since early in the invasion.</li>\n</ul>",
+     "whyHtml": "Talks may signal a path to ending Europe's largest war in decades, yet the strikes show peace is far from certain.",
+     "noteHtml": "",
+     "sourceHtml": "Source: FDD Overnight Brief (citing Reuters, Bloomberg), October 22, 2026"
+    },
+    {
+     "id": "2026-10-23-environment",
+     "topic": "Environment",
+     "title": "UN: 1.5°C Warming Limit Is Lost",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The UN's <strong>Emissions Gap Report</strong>, released <strong>October 21</strong>, says the chance of holding warming to <strong>1.5°C</strong> has been \"lost\" after decades of too little action.</li>\n<li>The world has already warmed about <strong>1.4°C</strong>; current pledges point to roughly <strong>2.6°C</strong> by 2100, and current policies to <strong>2.8°C</strong>.</li>\n<li>To limit overshoot, emissions must fall <strong>18%</strong> by 2030, <strong>45%</strong> by 2035 and <strong>69%</strong> by 2040 versus 2025.</li>\n<li>Coal power must drop at least <strong>75%</strong> by 2035 and be phased out by <strong>2040</strong>.</li>\n<li>The <strong>US</strong> had the largest 2025 emissions rise (<strong>133 megatons</strong>), driven by power demand and a coal rebound.</li>\n<li>The topic will dominate <strong>COP31</strong> in Antalya, Turkey, <strong>November 9-20</strong>.</li>\n</ul>",
+     "whyHtml": "Each extra fraction of a degree raises the risk of heatwaves, floods and crop losses, so how fast countries cut emissions now sets the stakes for decades.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Overshoot</em> means temporarily passing a warming limit, then bringing temperatures back down by cutting emissions and removing carbon from the air.</p>",
+     "sourceHtml": "Source: Euronews (UNEP Emissions Gap Report), October 21, 2026"
+    },
+    {
+     "id": "2026-10-23-economics",
+     "topic": "Economics",
+     "title": "Oil Spike Sinks Stocks, Revives Rate Fears",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 22</strong>, the <strong>S&amp;P 500</strong> fell <strong>1.21%</strong> to <strong>7,663.43</strong>, while the <strong>Nasdaq 100</strong> dropped <strong>2.90%</strong> amid worries about AI spending and rising oil prices.</li>\n<li>Houthi attacks in Saudi Arabia pushed oil higher, reviving inflation fears and lifting bond yields.</li>\n<li>Traders expect the <strong>Federal Reserve</strong> to hold rates at its <strong>October 27-28</strong> meeting, but see a <strong>76%</strong> chance of a <strong>December hike</strong>.</li>\n<li>Gold fell <strong>3.6%</strong> this week to about <strong>$4,021</strong> an ounce, its steepest weekly drop in over four months, as higher rates make non-yielding gold less attractive.</li>\n<li>Analysts say $4,000 is the key level to watch.</li>\n</ul>",
+     "whyHtml": "Higher rates make mortgages, car loans and credit cards costlier, so an oil shock far away can reach your monthly budget.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Non-yielding</em> assets like gold pay no interest, so they look less appealing when savings and bonds pay more.</p>",
+     "sourceHtml": "Source: Reuters via MarketScreener, October 23, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-10-22",
    "label": "Thursday, 22 October 2026",
