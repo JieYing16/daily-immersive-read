@@ -1,6 +1,52 @@
 {
- "generated": "2026-10-23T19:12:21",
+ "generated": "2026-10-26T15:05:04",
  "days": [
+  {
+   "date": "2026-10-26",
+   "label": "Monday, 26 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-26-ai-technology",
+     "topic": "AI Technology",
+     "title": "Kimi K3.1 Tops Open-Weight AI Rankings",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 23</strong>, China's <strong>Moonshot</strong> released <strong>Kimi K3.1 Pro</strong>, scoring <strong>55</strong> on the Artificial Analysis Intelligence Index, the highest ever for an \"open-weight\" model.</li>\n<li>It costs <strong>$2</strong> per million input tokens and <strong>$10</strong> per million output tokens, similar to leading paid models.</li>\n<li>Full model files are due <strong>November 4</strong>, so anyone can download and run them.</li>\n<li>It joins a busy month: <strong>Claude Haiku 5.5</strong> (<strong>October 7</strong>, <strong>$0.10</strong>/<strong>$0.50</strong>), <strong>Gemini 4 Argon</strong> (<strong>October 13</strong>) and Meta's first frontier model, <strong>Muse Wonder</strong> (<strong>October 12</strong>).</li>\n<li>The Wall Street Journal reportedly says OpenAI cancelled <strong>GPT-6.1 Astra</strong> after safety tests.</li>\n</ul>",
+     "whyHtml": "Free-to-download models that rival paid ones push prices down and let smaller companies build their own AI tools.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Open-weight</em> means the trained model's files are public, so others can run and adapt it, though the training data may stay secret.</p>",
+     "sourceHtml": "Source: Local AI Zone (AI model tracker), updated October 24, 2026"
+    },
+    {
+     "id": "2026-10-26-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Brazil Votes in Tight Presidential Runoff",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Brazil held its presidential runoff on <strong>October 25</strong> between President <strong>Lula da Silva</strong>, 80, and Senator <strong>Flávio Bolsonaro</strong>, 45.</li>\n<li>In the first round, Bolsonaro won about <strong>47%</strong> and Lula about <strong>45%</strong>; neither passed the <strong>50%</strong> needed to win outright.</li>\n<li>Voters' top worries were security, corruption and the economy.</li>\n<li>Bolsonaro promises to cut the deficit and move Brazil closer to <strong>Washington</strong>; Lula pledges more social spending and resists US pressure on Latin America.</li>\n<li>The right also gained seats in Congress, especially the Senate.</li>\n<li>Check official results, as this entry was written before the outcome was confirmed.</li>\n</ul>",
+     "whyHtml": "Brazil is South America's largest economy, so its choice shapes regional trade, US relations and the future of the Amazon.",
+     "noteHtml": "",
+     "sourceHtml": "Source: NPR (via St. Louis Public Radio), October 4, 2026"
+    },
+    {
+     "id": "2026-10-26-environment",
+     "topic": "Environment",
+     "title": "Brazil's Vote Could Decide Amazon's Fate",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The same runoff may decide whether the <strong>Amazon</strong> reaches a \"tipping point\", where rainforest turns into drier savanna.</li>\n<li>About <strong>17%</strong> of the forest is cleared and about <strong>40%</strong> is degraded; warming is around <strong>1.4°C</strong>.</li>\n<li>Some research suggests losing over <strong>20%</strong> of the forest, plus about <strong>2°C</strong> of warming, could trigger widespread change.</li>\n<li>A Nature study found the Amazon released <strong>1.17 billion</strong> tons more CO₂ than it absorbed each year from 2010 to 2024.</li>\n<li>Lula's government recently reported the <strong>lowest deforestation rate on record</strong>; Bolsonaro wants to loosen environmental laws, which critics say would speed clearing.</li>\n<li>Scientist <strong>Carlos Nobre</strong> says the goal must be zero deforestation, degradation and fires.</li>\n</ul>",
+     "whyHtml": "The Amazon stores huge amounts of carbon and drives rainfall across South America, so its health affects global climate.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Degradation</em> means a forest is damaged (by fire, logging or drought) but not fully cleared.</p>",
+     "sourceHtml": "Source: Associated Press via WSLS, October 23, 2026"
+    },
+    {
+     "id": "2026-10-26-economics",
+     "topic": "Economics",
+     "title": "Oil Hits $116 as Stocks Slide Again",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 23</strong>, the <strong>S&amp;P 500</strong> fell <strong>0.5%</strong> to <strong>7,623.68</strong>, its second straight weekly loss; the <strong>Dow</strong> dropped <strong>652</strong> points (<strong>1.2%</strong>).</li>\n<li><strong>Brent crude</strong>, the global oil benchmark, rose <strong>3.1%</strong> to <strong>$116.72</strong> a barrel, the highest since <strong>June 2022</strong>. It began October below <strong>$97</strong>.</li>\n<li>The <strong>10-year Treasury yield</strong> climbed to <strong>4.99%</strong>.</li>\n<li>The Fed raised rates at its last meeting because inflation stays well above <strong>3%</strong>.</li>\n<li>Analysts expect a hold at next week's meeting but increasingly foresee a <strong>December hike</strong>.</li>\n</ul>",
+     "whyHtml": "Costlier oil and higher rates raise fuel, loan and credit card costs, squeezing household budgets.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Treasury yield</em> is the interest the US government pays to borrow; it influences mortgage rates.</p>",
+     "sourceHtml": "Source: Associated Press via KSL, October 23, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-10-23",
    "label": "Friday, 23 October 2026",

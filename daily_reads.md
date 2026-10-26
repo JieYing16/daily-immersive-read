@@ -1,5 +1,73 @@
 # Daily Immersive Read Log
 
+## 2026-10-26
+
+### Topic: AI Technology
+
+**Kimi K3.1 Tops Open-Weight AI Rankings**
+
+- On **October 23**, China's **Moonshot** released **Kimi K3.1 Pro**, scoring **55** on the Artificial Analysis Intelligence Index, the highest ever for an "open-weight" model.
+- It costs **$2** per million input tokens and **$10** per million output tokens, similar to leading paid models.
+- Full model files are due **November 4**, so anyone can download and run them.
+- It joins a busy month: **Claude Haiku 5.5** (**October 7**, **$0.10**/**$0.50**), **Gemini 4 Argon** (**October 13**) and Meta's first frontier model, **Muse Wonder** (**October 12**).
+- The Wall Street Journal reportedly says OpenAI cancelled **GPT-6.1 Astra** after safety tests.
+
+**Why it matters:** Free-to-download models that rival paid ones push prices down and let smaller companies build their own AI tools.
+
+**Jargon note:** *Open-weight* means the trained model's files are public, so others can run and adapt it, though the training data may stay secret.
+
+*Source: Local AI Zone (AI model tracker), updated October 24, 2026*
+
+### Topic: Geopolitics
+
+**Brazil Votes in Tight Presidential Runoff**
+
+- Brazil held its presidential runoff on **October 25** between President **Lula da Silva**, 80, and Senator **Flávio Bolsonaro**, 45.
+- In the first round, Bolsonaro won about **47%** and Lula about **45%**; neither passed the **50%** needed to win outright.
+- Voters' top worries were security, corruption and the economy.
+- Bolsonaro promises to cut the deficit and move Brazil closer to **Washington**; Lula pledges more social spending and resists US pressure on Latin America.
+- The right also gained seats in Congress, especially the Senate.
+- Check official results, as this entry was written before the outcome was confirmed.
+
+**Why it matters:** Brazil is South America's largest economy, so its choice shapes regional trade, US relations and the future of the Amazon.
+
+*Source: NPR (via St. Louis Public Radio), October 4, 2026*
+
+### Topic: Environment
+
+**Brazil's Vote Could Decide Amazon's Fate**
+
+- The same runoff may decide whether the **Amazon** reaches a "tipping point", where rainforest turns into drier savanna.
+- About **17%** of the forest is cleared and about **40%** is degraded; warming is around **1.4°C**.
+- Some research suggests losing over **20%** of the forest, plus about **2°C** of warming, could trigger widespread change.
+- A Nature study found the Amazon released **1.17 billion** tons more CO₂ than it absorbed each year from 2010 to 2024.
+- Lula's government recently reported the **lowest deforestation rate on record**; Bolsonaro wants to loosen environmental laws, which critics say would speed clearing.
+- Scientist **Carlos Nobre** says the goal must be zero deforestation, degradation and fires.
+
+**Why it matters:** The Amazon stores huge amounts of carbon and drives rainfall across South America, so its health affects global climate.
+
+**Jargon note:** *Degradation* means a forest is damaged (by fire, logging or drought) but not fully cleared.
+
+*Source: Associated Press via WSLS, October 23, 2026*
+
+### Topic: Economics
+
+**Oil Hits $116 as Stocks Slide Again**
+
+- On **October 23**, the **S&P 500** fell **0.5%** to **7,623.68**, its second straight weekly loss; the **Dow** dropped **652** points (**1.2%**).
+- **Brent crude**, the global oil benchmark, rose **3.1%** to **$116.72** a barrel, the highest since **June 2022**. It began October below **$97**.
+- The **10-year Treasury yield** climbed to **4.99%**.
+- The Fed raised rates at its last meeting because inflation stays well above **3%**.
+- Analysts expect a hold at next week's meeting but increasingly foresee a **December hike**.
+
+**Why it matters:** Costlier oil and higher rates raise fuel, loan and credit card costs, squeezing household budgets.
+
+**Jargon note:** *Treasury yield* is the interest the US government pays to borrow; it influences mortgage rates.
+
+*Source: Associated Press via KSL, October 23, 2026*
+
+---
+
 ## 2026-10-23
 
 ### Topic: AI Technology
