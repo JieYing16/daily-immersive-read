@@ -1,6 +1,98 @@
 {
- "generated": "2026-10-26T18:05:03",
+ "generated": "2026-10-27T20:59:23",
  "days": [
+  {
+   "date": "2026-10-27",
+   "label": "Tuesday, 27 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-27-ai-technology",
+     "topic": "AI Technology",
+     "title": "Anthropic Files Publicly for Record IPO",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 26</strong>, AI company <strong>Anthropic</strong> publicly filed to list its shares on the <strong>Nasdaq</strong> under the ticker <strong>\"ANT\"</strong>.</li>\n<li>Its filing shows <strong>$16.3 billion</strong> in revenue for the first six months of 2026, up from <strong>$1.2 billion</strong> a year earlier.</li>\n<li>It also reports an <strong>$80.7 billion</strong> net loss, but about <strong>$72 billion</strong> came from a one-time accounting charge, not cash spent.</li>\n<li>Anthropic has not named a price or valuation. The Wall Street Journal reports a target of <strong>$1.5-$2 trillion</strong>, raising <strong>$100 billion or more</strong>.</li>\n<li>Goldman Sachs and Morgan Stanley lead the deal, with a listing reportedly planned for the week of <strong>November 16</strong>.</li>\n</ul>",
+     "whyHtml": "If it goes ahead, it would be among the largest stock listings ever and shows how much money investors are betting on AI.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>IPO</em> (initial public offering) is when a private company first sells shares to the public on a stock exchange.</p>",
+     "sourceHtml": "Source: Investing.com (citing the S-1 filing and WSJ), October 26, 2026"
+    },
+    {
+     "id": "2026-10-27-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Lula Wins Fourth Term, Rival Cries Foul",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li><strong>Luiz Inácio Lula da Silva</strong> won Brazil's runoff on <strong>October 25</strong> with <strong>51.8%</strong>, a lead of nearly <strong>4.4 million</strong> votes.</li>\n<li>He beat Senator <strong>Flávio Bolsonaro</strong>, who led the first round <strong>47% to 45%</strong>.</li>\n<li>Bolsonaro refused to concede and asked for the result to be annulled.</li>\n<li>He points to a Supreme Court justice extending voting by <strong>two hours</strong> just before polls closed, after both campaigns asked for it. Critics note the justice was once Lula's lawyer.</li>\n<li>Lula's new term starts <strong>January 5, 2027</strong>.</li>\n</ul>",
+     "whyHtml": "A disputed result in South America's largest economy could mean political tension, and it shapes trade, US ties and Amazon policy.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CBS News, October 26, 2026"
+    },
+    {
+     "id": "2026-10-27-environment",
+     "topic": "Environment",
+     "title": "UN Report: World Heading for 2.8°C Warming",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The UN Environment Programme's <strong>Emissions Gap Report 2026</strong>, released <strong>October 21</strong>, says current policies point to about <strong>2.8°C</strong> of warming by 2100.</li>\n<li>Even if every country met its climate pledges, warming would still reach about <strong>2.6°C</strong>.</li>\n<li>To stay on track, global emissions must fall about <strong>18% by 2030</strong> and <strong>45% by 2035</strong> versus 2025. Pledges deliver only <strong>11-15%</strong> by 2035.</li>\n<li>Overshooting <strong>1.5°C</strong> now looks hard to avoid, so the world may need to pull about <strong>320 billion tons</strong> of CO₂ from the air later.</li>\n<li>UNEP urges tripling renewable power by <strong>2035</strong> and cutting methane <strong>25%</strong>.</li>\n</ul>",
+     "whyHtml": "Each extra tenth of a degree raises risks like ice-sheet loss and coral death, so today's choices set the future climate.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Overshoot</em> means temporarily passing a warming limit, then trying to bring temperatures back down.</p>",
+     "sourceHtml": "Source: UNEP via Renewable Matter, October 21, 2026"
+    },
+    {
+     "id": "2026-10-27-economics",
+     "topic": "Economics",
+     "title": "Oil Tops $100 as Fed Meeting Nears",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 23</strong>, the <strong>Dow</strong> fell <strong>652 points (1.2%)</strong> to <strong>52,215</strong>, and the <strong>S&amp;P 500</strong> dropped <strong>0.5%</strong> to <strong>7,623.68</strong>.</li>\n<li>US crude oil rose nearly <strong>4%</strong> to above <strong>$100</strong> a barrel, while Brent, the global benchmark, hit a six-month high.</li>\n<li>On <strong>October 26</strong>, crude slipped more than <strong>2%</strong> and stock futures pointed higher, helped by excitement over Anthropic's IPO filing.</li>\n<li>The Federal Reserve announces its decision on <strong>Wednesday, October 28</strong>. It is widely expected to hold rates steady.</li>\n<li>Markets favor a <strong>0.25-point</strong> rate hike in <strong>December</strong>.</li>\n</ul>",
+     "whyHtml": "Expensive oil and higher interest rates push up fuel, loan and credit card costs for households.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Brent crude</em> is the international oil price benchmark, so it influences petrol prices worldwide.</p>",
+     "sourceHtml": "Source: Yahoo Finance, October 26, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "label": "Monday, 26 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-26-ai-technology",
+     "topic": "AI Technology",
+     "title": "Kimi K3.1 Tops Open-Weight AI Rankings",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 23</strong>, China's <strong>Moonshot</strong> released <strong>Kimi K3.1 Pro</strong>, scoring <strong>55</strong> on the Artificial Analysis Intelligence Index, the highest ever for an \"open-weight\" model.</li>\n<li>It costs <strong>$2</strong> per million input tokens and <strong>$10</strong> per million output tokens, similar to leading paid models.</li>\n<li>Full model files are due <strong>November 4</strong>, so anyone can download and run them.</li>\n<li>It joins a busy month: <strong>Claude Haiku 5.5</strong> (<strong>October 7</strong>, <strong>$0.10</strong>/<strong>$0.50</strong>), <strong>Gemini 4 Argon</strong> (<strong>October 13</strong>) and Meta's first frontier model, <strong>Muse Wonder</strong> (<strong>October 12</strong>).</li>\n<li>The Wall Street Journal reportedly says OpenAI cancelled <strong>GPT-6.1 Astra</strong> after safety tests.</li>\n</ul>",
+     "whyHtml": "Free-to-download models that rival paid ones push prices down and let smaller companies build their own AI tools.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Open-weight</em> means the trained model's files are public, so others can run and adapt it, though the training data may stay secret.</p>",
+     "sourceHtml": "Source: Local AI Zone (AI model tracker), updated October 24, 2026"
+    },
+    {
+     "id": "2026-10-26-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Brazil Votes in Tight Presidential Runoff",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Brazil held its presidential runoff on <strong>October 25</strong> between President <strong>Lula da Silva</strong>, 80, and Senator <strong>Flávio Bolsonaro</strong>, 45.</li>\n<li>In the first round, Bolsonaro won about <strong>47%</strong> and Lula about <strong>45%</strong>; neither passed the <strong>50%</strong> needed to win outright.</li>\n<li>Voters' top worries were security, corruption and the economy.</li>\n<li>Bolsonaro promises to cut the deficit and move Brazil closer to <strong>Washington</strong>; Lula pledges more social spending and resists US pressure on Latin America.</li>\n<li>The right also gained seats in Congress, especially the Senate.</li>\n<li>Check official results, as this entry was written before the outcome was confirmed.</li>\n</ul>",
+     "whyHtml": "Brazil is South America's largest economy, so its choice shapes regional trade, US relations and the future of the Amazon.",
+     "noteHtml": "",
+     "sourceHtml": "Source: NPR (via St. Louis Public Radio), October 4, 2026"
+    },
+    {
+     "id": "2026-10-26-environment",
+     "topic": "Environment",
+     "title": "Brazil's Vote Could Decide Amazon's Fate",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The same runoff may decide whether the <strong>Amazon</strong> reaches a \"tipping point\", where rainforest turns into drier savanna.</li>\n<li>About <strong>17%</strong> of the forest is cleared and about <strong>40%</strong> is degraded; warming is around <strong>1.4°C</strong>.</li>\n<li>Some research suggests losing over <strong>20%</strong> of the forest, plus about <strong>2°C</strong> of warming, could trigger widespread change.</li>\n<li>A Nature study found the Amazon released <strong>1.17 billion</strong> tons more CO₂ than it absorbed each year from 2010 to 2024.</li>\n<li>Lula's government recently reported the <strong>lowest deforestation rate on record</strong>; Bolsonaro wants to loosen environmental laws, which critics say would speed clearing.</li>\n<li>Scientist <strong>Carlos Nobre</strong> says the goal must be zero deforestation, degradation and fires.</li>\n</ul>",
+     "whyHtml": "The Amazon stores huge amounts of carbon and drives rainfall across South America, so its health affects global climate.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Degradation</em> means a forest is damaged (by fire, logging or drought) but not fully cleared.</p>",
+     "sourceHtml": "Source: Associated Press via WSLS, October 23, 2026"
+    },
+    {
+     "id": "2026-10-26-economics",
+     "topic": "Economics",
+     "title": "Oil Hits $116 as Stocks Slide Again",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 23</strong>, the <strong>S&amp;P 500</strong> fell <strong>0.5%</strong> to <strong>7,623.68</strong>, its second straight weekly loss; the <strong>Dow</strong> dropped <strong>652</strong> points (<strong>1.2%</strong>).</li>\n<li><strong>Brent crude</strong>, the global oil benchmark, rose <strong>3.1%</strong> to <strong>$116.72</strong> a barrel, the highest since <strong>June 2022</strong>. It began October below <strong>$97</strong>.</li>\n<li>The <strong>10-year Treasury yield</strong> climbed to <strong>4.99%</strong>.</li>\n<li>The Fed raised rates at its last meeting because inflation stays well above <strong>3%</strong>.</li>\n<li>Analysts expect a hold at next week's meeting but increasingly foresee a <strong>December hike</strong>.</li>\n</ul>",
+     "whyHtml": "Costlier oil and higher rates raise fuel, loan and credit card costs, squeezing household budgets.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Treasury yield</em> is the interest the US government pays to borrow; it influences mortgage rates.</p>",
+     "sourceHtml": "Source: Associated Press via KSL, October 23, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-10-26",
    "label": "Monday, 26 October 2026",

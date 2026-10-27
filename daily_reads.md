@@ -1,5 +1,139 @@
 # Daily Immersive Read Log
 
+## 2026-10-27
+
+### Topic: AI Technology
+
+**Anthropic Files Publicly for Record IPO**
+
+- On **October 26**, AI company **Anthropic** publicly filed to list its shares on the **Nasdaq** under the ticker **"ANT"**.
+- Its filing shows **$16.3 billion** in revenue for the first six months of 2026, up from **$1.2 billion** a year earlier.
+- It also reports an **$80.7 billion** net loss, but about **$72 billion** came from a one-time accounting charge, not cash spent.
+- Anthropic has not named a price or valuation. The Wall Street Journal reports a target of **$1.5-$2 trillion**, raising **$100 billion or more**.
+- Goldman Sachs and Morgan Stanley lead the deal, with a listing reportedly planned for the week of **November 16**.
+
+**Why it matters:** If it goes ahead, it would be among the largest stock listings ever and shows how much money investors are betting on AI.
+
+**Jargon note:** *IPO* (initial public offering) is when a private company first sells shares to the public on a stock exchange.
+
+*Source: Investing.com (citing the S-1 filing and WSJ), October 26, 2026*
+
+### Topic: Geopolitics
+
+**Lula Wins Fourth Term, Rival Cries Foul**
+
+- **Luiz Inácio Lula da Silva** won Brazil's runoff on **October 25** with **51.8%**, a lead of nearly **4.4 million** votes.
+- He beat Senator **Flávio Bolsonaro**, who led the first round **47% to 45%**.
+- Bolsonaro refused to concede and asked for the result to be annulled.
+- He points to a Supreme Court justice extending voting by **two hours** just before polls closed, after both campaigns asked for it. Critics note the justice was once Lula's lawyer.
+- Lula's new term starts **January 5, 2027**.
+
+**Why it matters:** A disputed result in South America's largest economy could mean political tension, and it shapes trade, US ties and Amazon policy.
+
+*Source: CBS News, October 26, 2026*
+
+### Topic: Environment
+
+**UN Report: World Heading for 2.8°C Warming**
+
+- The UN Environment Programme's **Emissions Gap Report 2026**, released **October 21**, says current policies point to about **2.8°C** of warming by 2100.
+- Even if every country met its climate pledges, warming would still reach about **2.6°C**.
+- To stay on track, global emissions must fall about **18% by 2030** and **45% by 2035** versus 2025. Pledges deliver only **11-15%** by 2035.
+- Overshooting **1.5°C** now looks hard to avoid, so the world may need to pull about **320 billion tons** of CO₂ from the air later.
+- UNEP urges tripling renewable power by **2035** and cutting methane **25%**.
+
+**Why it matters:** Each extra tenth of a degree raises risks like ice-sheet loss and coral death, so today's choices set the future climate.
+
+**Jargon note:** *Overshoot* means temporarily passing a warming limit, then trying to bring temperatures back down.
+
+*Source: UNEP via Renewable Matter, October 21, 2026*
+
+### Topic: Economics
+
+**Oil Tops $100 as Fed Meeting Nears**
+
+- On **October 23**, the **Dow** fell **652 points (1.2%)** to **52,215**, and the **S&P 500** dropped **0.5%** to **7,623.68**.
+- US crude oil rose nearly **4%** to above **$100** a barrel, while Brent, the global benchmark, hit a six-month high.
+- On **October 26**, crude slipped more than **2%** and stock futures pointed higher, helped by excitement over Anthropic's IPO filing.
+- The Federal Reserve announces its decision on **Wednesday, October 28**. It is widely expected to hold rates steady.
+- Markets favor a **0.25-point** rate hike in **December**.
+
+**Why it matters:** Expensive oil and higher interest rates push up fuel, loan and credit card costs for households.
+
+**Jargon note:** *Brent crude* is the international oil price benchmark, so it influences petrol prices worldwide.
+
+*Source: Yahoo Finance, October 26, 2026*
+
+---
+
+## 2026-10-26
+
+### Topic: AI Technology
+
+**Kimi K3.1 Tops Open-Weight AI Rankings**
+
+- On **October 23**, China's **Moonshot** released **Kimi K3.1 Pro**, scoring **55** on the Artificial Analysis Intelligence Index, the highest ever for an "open-weight" model.
+- It costs **$2** per million input tokens and **$10** per million output tokens, similar to leading paid models.
+- Full model files are due **November 4**, so anyone can download and run them.
+- It joins a busy month: **Claude Haiku 5.5** (**October 7**, **$0.10**/**$0.50**), **Gemini 4 Argon** (**October 13**) and Meta's first frontier model, **Muse Wonder** (**October 12**).
+- The Wall Street Journal reportedly says OpenAI cancelled **GPT-6.1 Astra** after safety tests.
+
+**Why it matters:** Free-to-download models that rival paid ones push prices down and let smaller companies build their own AI tools.
+
+**Jargon note:** *Open-weight* means the trained model's files are public, so others can run and adapt it, though the training data may stay secret.
+
+*Source: Local AI Zone (AI model tracker), updated October 24, 2026*
+
+### Topic: Geopolitics
+
+**Brazil Votes in Tight Presidential Runoff**
+
+- Brazil held its presidential runoff on **October 25** between President **Lula da Silva**, 80, and Senator **Flávio Bolsonaro**, 45.
+- In the first round, Bolsonaro won about **47%** and Lula about **45%**; neither passed the **50%** needed to win outright.
+- Voters' top worries were security, corruption and the economy.
+- Bolsonaro promises to cut the deficit and move Brazil closer to **Washington**; Lula pledges more social spending and resists US pressure on Latin America.
+- The right also gained seats in Congress, especially the Senate.
+- Check official results, as this entry was written before the outcome was confirmed.
+
+**Why it matters:** Brazil is South America's largest economy, so its choice shapes regional trade, US relations and the future of the Amazon.
+
+*Source: NPR (via St. Louis Public Radio), October 4, 2026*
+
+### Topic: Environment
+
+**Brazil's Vote Could Decide Amazon's Fate**
+
+- The same runoff may decide whether the **Amazon** reaches a "tipping point", where rainforest turns into drier savanna.
+- About **17%** of the forest is cleared and about **40%** is degraded; warming is around **1.4°C**.
+- Some research suggests losing over **20%** of the forest, plus about **2°C** of warming, could trigger widespread change.
+- A Nature study found the Amazon released **1.17 billion** tons more CO₂ than it absorbed each year from 2010 to 2024.
+- Lula's government recently reported the **lowest deforestation rate on record**; Bolsonaro wants to loosen environmental laws, which critics say would speed clearing.
+- Scientist **Carlos Nobre** says the goal must be zero deforestation, degradation and fires.
+
+**Why it matters:** The Amazon stores huge amounts of carbon and drives rainfall across South America, so its health affects global climate.
+
+**Jargon note:** *Degradation* means a forest is damaged (by fire, logging or drought) but not fully cleared.
+
+*Source: Associated Press via WSLS, October 23, 2026*
+
+### Topic: Economics
+
+**Oil Hits $116 as Stocks Slide Again**
+
+- On **October 23**, the **S&P 500** fell **0.5%** to **7,623.68**, its second straight weekly loss; the **Dow** dropped **652** points (**1.2%**).
+- **Brent crude**, the global oil benchmark, rose **3.1%** to **$116.72** a barrel, the highest since **June 2022**. It began October below **$97**.
+- The **10-year Treasury yield** climbed to **4.99%**.
+- The Fed raised rates at its last meeting because inflation stays well above **3%**.
+- Analysts expect a hold at next week's meeting but increasingly foresee a **December hike**.
+
+**Why it matters:** Costlier oil and higher rates raise fuel, loan and credit card costs, squeezing household budgets.
+
+**Jargon note:** *Treasury yield* is the interest the US government pays to borrow; it influences mortgage rates.
+
+*Source: Associated Press via KSL, October 23, 2026*
+
+---
+
 ## 2026-10-26
 
 ### Topic: AI Technology
