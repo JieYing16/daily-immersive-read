@@ -1,6 +1,52 @@
 {
- "generated": "2026-10-27T22:35:46",
+ "generated": "2026-10-28T19:03:36",
  "days": [
+  {
+   "date": "2026-10-28",
+   "label": "Wednesday, 28 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-28-ai-technology",
+     "topic": "AI Technology",
+     "title": "AI Chip Costs Pull PC Making Back to China",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li><strong>HP, Asus and Acer</strong> are reportedly moving some PC production from <strong>Thailand and Vietnam</strong> back to <strong>China</strong>.</li>\n<li>The reason is that AI-driven demand has sharply raised the cost of components such as <strong>memory chips and substrates</strong> (the base layers chips sit on).</li>\n<li>This reverses the \"China+1\" plan, where firms added factories outside China to spread risk.</li>\n<li><strong>Dell</strong> is reportedly weighing a similar move, and smaller contract manufacturers may gain business.</li>\n<li>The report shows AI's appetite for chips is now reshaping ordinary consumer electronics supply chains.</li>\n</ul>",
+     "whyHtml": "The AI boom can make everyday laptops pricier or scarcer, because data centers compete with PCs for the same parts.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Supply chain</em> is the network of factories and suppliers that turn raw parts into finished products.</p>",
+     "sourceHtml": "Source: Nikkei Asia (via AI Weekly), October 27-28, 2026"
+    },
+    {
+     "id": "2026-10-28-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Trump Says Putin-Zelensky Meeting Coming Soon",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 28</strong>, US President <strong>Donald Trump</strong> said a meeting between Russia's <strong>Vladimir Putin</strong> and Ukraine's <strong>Volodymyr Zelensky</strong> would be set up \"very soon.\"</li>\n<li>Zelensky said a three-way Kyiv-Washington-Moscow meeting would take place in <strong>November</strong> to restart stalled peace talks; the Kremlin said it is planned for the <strong>United Arab Emirates</strong>.</li>\n<li>The war is now in its <strong>fifth year</strong>, and over a year of US-led talks has produced no breakthrough.</li>\n<li>Putin has long refused face-to-face talks and says Moscow intends to seize the rest of eastern Ukraine.</li>\n<li>Trump has also touted a deal for Russia to sell diesel to ease fuel prices.</li>\n</ul>",
+     "whyHtml": "A direct leaders' meeting would be a rare opening in a long war, but past promises have fallen through, so expect caution.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Philstar (AFP), October 28, 2026"
+    },
+    {
+     "id": "2026-10-28-environment",
+     "topic": "Environment",
+     "title": "UN Warns Climate Summit Faces Trust Test",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The <strong>COP31</strong> climate summit runs <strong>November 9-20</strong> in <strong>Antalya, Türkiye</strong>, with a leaders' summit on <strong>November 11-12</strong>.</li>\n<li>Current policies still point to about <strong>2.8°C</strong> of warming above pre-industrial levels, well beyond Paris Agreement goals.</li>\n<li>UN General Assembly President <strong>Khalilur Rahman</strong> warned this year's <strong>El Niño</strong> could be among the strongest since at least <strong>1950</strong>.</li>\n<li>He said COP31 \"must be more than another negotiating milestone.\"</li>\n<li><strong>Africa</strong> produces only about <strong>3%</strong> of global emissions but faces some of the harshest impacts.</li>\n</ul>",
+     "whyHtml": "Rich and poor countries must agree on who pays for climate action, and mounting disasters make failure costlier.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>El Niño</em> is a natural warming of Pacific Ocean waters that shifts weather worldwide, often bringing heat, floods and droughts.</p>",
+     "sourceHtml": "Source: UN News, October 2026"
+    },
+    {
+     "id": "2026-10-28-economics",
+     "topic": "Economics",
+     "title": "Fed Decision Day With Oil Near $100",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The US Federal Reserve announces its rate decision on <strong>October 28</strong>. It is widely expected to hold rates steady after a <strong>hike last month</strong>.</li>\n<li>Markets price in <strong>at least two more hikes</strong> by mid-2027 as inflation stays high amid the US-Iran conflict.</li>\n<li>On <strong>October 27</strong>, <strong>Brent</strong> crude was about <strong>$109.86</strong> and US crude about <strong>$101</strong>, near their highest since late April.</li>\n<li><strong>Alphabet, Microsoft and Amazon</strong> report earnings this week; Jefferies expects <strong>21%</strong> profit growth for the \"Magnificent 7\" tech giants versus <strong>32%</strong> for the rest of the S&amp;P 500.</li>\n<li>Stock futures were slightly higher that morning.</li>\n</ul>",
+     "whyHtml": "High oil and interest rates raise costs for fuel, loans and mortgages, so the Fed's tone matters to households.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Brent crude</em> is the international oil price benchmark.</p>",
+     "sourceHtml": "Source: Reuters via Investing.com, October 27, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-10-27",
    "label": "Tuesday, 27 October 2026",

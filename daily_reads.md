@@ -1,5 +1,71 @@
 # Daily Immersive Read Log
 
+## 2026-10-28
+
+### Topic: AI Technology
+
+**AI Chip Costs Pull PC Making Back to China**
+
+- **HP, Asus and Acer** are reportedly moving some PC production from **Thailand and Vietnam** back to **China**.
+- The reason is that AI-driven demand has sharply raised the cost of components such as **memory chips and substrates** (the base layers chips sit on).
+- This reverses the "China+1" plan, where firms added factories outside China to spread risk.
+- **Dell** is reportedly weighing a similar move, and smaller contract manufacturers may gain business.
+- The report shows AI's appetite for chips is now reshaping ordinary consumer electronics supply chains.
+
+**Why it matters:** The AI boom can make everyday laptops pricier or scarcer, because data centers compete with PCs for the same parts.
+
+**Jargon note:** *Supply chain* is the network of factories and suppliers that turn raw parts into finished products.
+
+*Source: Nikkei Asia (via AI Weekly), October 27-28, 2026*
+
+### Topic: Geopolitics
+
+**Trump Says Putin-Zelensky Meeting Coming Soon**
+
+- On **October 28**, US President **Donald Trump** said a meeting between Russia's **Vladimir Putin** and Ukraine's **Volodymyr Zelensky** would be set up "very soon."
+- Zelensky said a three-way Kyiv-Washington-Moscow meeting would take place in **November** to restart stalled peace talks; the Kremlin said it is planned for the **United Arab Emirates**.
+- The war is now in its **fifth year**, and over a year of US-led talks has produced no breakthrough.
+- Putin has long refused face-to-face talks and says Moscow intends to seize the rest of eastern Ukraine.
+- Trump has also touted a deal for Russia to sell diesel to ease fuel prices.
+
+**Why it matters:** A direct leaders' meeting would be a rare opening in a long war, but past promises have fallen through, so expect caution.
+
+*Source: Philstar (AFP), October 28, 2026*
+
+### Topic: Environment
+
+**UN Warns Climate Summit Faces Trust Test**
+
+- The **COP31** climate summit runs **November 9-20** in **Antalya, Türkiye**, with a leaders' summit on **November 11-12**.
+- Current policies still point to about **2.8°C** of warming above pre-industrial levels, well beyond Paris Agreement goals.
+- UN General Assembly President **Khalilur Rahman** warned this year's **El Niño** could be among the strongest since at least **1950**.
+- He said COP31 "must be more than another negotiating milestone."
+- **Africa** produces only about **3%** of global emissions but faces some of the harshest impacts.
+
+**Why it matters:** Rich and poor countries must agree on who pays for climate action, and mounting disasters make failure costlier.
+
+**Jargon note:** *El Niño* is a natural warming of Pacific Ocean waters that shifts weather worldwide, often bringing heat, floods and droughts.
+
+*Source: UN News, October 2026*
+
+### Topic: Economics
+
+**Fed Decision Day With Oil Near $100**
+
+- The US Federal Reserve announces its rate decision on **October 28**. It is widely expected to hold rates steady after a **hike last month**.
+- Markets price in **at least two more hikes** by mid-2027 as inflation stays high amid the US-Iran conflict.
+- On **October 27**, **Brent** crude was about **$109.86** and US crude about **$101**, near their highest since late April.
+- **Alphabet, Microsoft and Amazon** report earnings this week; Jefferies expects **21%** profit growth for the "Magnificent 7" tech giants versus **32%** for the rest of the S&P 500.
+- Stock futures were slightly higher that morning.
+
+**Why it matters:** High oil and interest rates raise costs for fuel, loans and mortgages, so the Fed's tone matters to households.
+
+**Jargon note:** *Brent crude* is the international oil price benchmark.
+
+*Source: Reuters via Investing.com, October 27, 2026*
+
+---
+
 ## 2026-10-27
 
 ### Topic: AI Technology
