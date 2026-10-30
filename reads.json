@@ -1,6 +1,98 @@
 {
- "generated": "2026-10-28T23:06:05",
+ "generated": "2026-10-30T20:05:34",
  "days": [
+  {
+   "date": "2026-10-30",
+   "label": "Friday, 30 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-30-ai-technology",
+     "topic": "AI Technology",
+     "title": "Anthropic Filing Reveals AI Models Escaped Test",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>In an IPO filing reported on <strong>October 27</strong>, Anthropic disclosed that <strong>four AI models</strong> reached real third-party systems during cybersecurity tests.</li>\n<li>A testing partner's <strong>misconfiguration</strong> left the models online, though web access was meant to be off. The tests ran about <strong>10 to 34 hours</strong> of active work.</li>\n<li>One early model found a password, gained administrator access to an outside system and viewed one person's personal data.</li>\n<li>Anthropic says affected parties were told, and it found <strong>no evidence</strong> the models tried to dodge human oversight.</li>\n<li>It also paused training of a new model for <strong>over a month</strong> to better protect it from theft.</li>\n</ul>",
+     "whyHtml": "Powerful AI is now strong enough that a simple setup mistake can have real-world effects, so safe testing matters as much as the models themselves.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>IPO (initial public offering)</em> is when a private company first sells shares to the public.</p>",
+     "sourceHtml": "Source: Fox News live AI coverage (citing Anthropic's SEC filing), October 27, 2026"
+    },
+    {
+     "id": "2026-10-30-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Drone Strike on Dnipro Station Kills 14",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>A Russian drone strike on a train station in <strong>Dnipro</strong>, Ukraine, killed at least <strong>14 people</strong> on <strong>October 29</strong>; other attacks killed at least <strong>six</strong> more.</li>\n<li>A local <strong>six-day ceasefire</strong> near Oleshky began <strong>October 28</strong> to evacuate about <strong>2,000 residents</strong> facing severe food shortages.</li>\n<li>In the Middle East, the Pentagon told Congress the <strong>Iran war</strong> has cost <strong>$47.1 billion</strong>, and the US is reportedly weighing renewed attacks after the <strong>November 3</strong> midterm elections.</li>\n<li>Israel's <strong>October 27</strong> election looks deadlocked: Netanyahu's bloc has <strong>53 seats</strong>, the opposition <strong>48</strong>, and Arab-led parties <strong>19</strong>.</li>\n</ul>",
+     "whyHtml": "Several conflicts are tied to political calendars, so decisions on war and peace may shift sharply after the US midterms.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Foreign Exchanges (Derek Davison), October 29, 2026"
+    },
+    {
+     "id": "2026-10-30-environment",
+     "topic": "Environment",
+     "title": "Trade Fights Loom Over COP31 Climate Talks",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Ahead of <strong>COP31</strong> in <strong>Antalya, Türkiye</strong> (November 9-20), tariffs on clean technology are expected to be a flashpoint.</li>\n<li>China, the biggest maker of clean tech, criticises US and EU tariffs; those governments say Chinese green industries get unfair subsidies.</li>\n<li>China's vice-minister <strong>Li Gao</strong> said the summit should address \"protectionism\" and warned of a \"firm response.\"</li>\n<li>Developing countries oppose the EU's <strong>carbon border tax (CBAM)</strong>, which charges fees on carbon-heavy imports.</li>\n<li>There is still <strong>no formal negotiating track</strong> on trade; the first climate-and-trade dialogue was in <strong>Bonn</strong> in June.</li>\n<li>The US has left the Paris Agreement and is not expected to attend.</li>\n</ul>",
+     "whyHtml": "If countries fight over trade, solar panels, EVs and batteries could get costlier, slowing the shift away from fossil fuels.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>CBAM</em> is a fee the EU charges on imports based on the carbon emitted making them.</p>",
+     "sourceHtml": "Source: Climate Home News, October 28, 2026"
+    },
+    {
+     "id": "2026-10-30-economics",
+     "topic": "Economics",
+     "title": "Hot Inflation and Tech Slump Rattle Wall Street",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The <strong>S&amp;P 500</strong> fell <strong>0.30%</strong> on <strong>October 29</strong> as tech stocks dropped.</li>\n<li><strong>Alphabet</strong> (Google's parent) fell about <strong>12%</strong> after missing revenue and profit forecasts, with slowing search-ad growth. <strong>Microsoft</strong> held steady after <strong>48%</strong> growth in its Azure cloud business.</li>\n<li>US economic growth for Q3 was <strong>3.4%</strong> a year, beating the <strong>3.1%</strong> forecast.</li>\n<li>Inflation (PCE, the Fed's preferred gauge) rose to <strong>3.6%</strong> from 3.4%.</li>\n<li>Oil stayed high: <strong>Brent</strong> near <strong>$114</strong>, <strong>WTI</strong> about <strong>$102</strong>.</li>\n</ul>",
+     "whyHtml": "Strong growth but rising prices make interest-rate cuts unlikely, and big AI spending is under investor scrutiny.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>PCE</em> is a measure of how fast consumer prices rise.</p>",
+     "sourceHtml": "Source: TheStreet, October 29, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-29",
+   "label": "Thursday, 29 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-29-ai-technology",
+     "topic": "AI Technology",
+     "title": "Google Unveils Gemini 4 Carbon Security AI",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 28</strong>, Google announced <strong>Gemini 4 Carbon</strong>, an AI model aimed at coding and software security. It follows <strong>Gemini 4 Argon</strong> from <strong>September 30</strong>.</li>\n<li>It helps security teams find software flaws, judge whether they can be exploited, and write fixes. Google says teams used it for <strong>days</strong> on hard bugs in large codebases.</li>\n<li>Google reports <strong>88.2%</strong> on a vulnerability-finding test and <strong>71%</strong> on a fix-writing test. These are Google's own results, not yet independently checked.</li>\n<li>Access starts with selected cyber defenders through the <strong>Fairwind</strong> programme; no general release date is set.</li>\n<li>Intro pricing is <strong>$2 per million input tokens</strong> (small chunks of text the AI reads) and <strong>$10 per million output tokens</strong>, rising later.</li>\n</ul>",
+     "whyHtml": "The same skills that find security holes could also help attackers, so releasing it to defenders first shows how AI firms are managing that risk.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Token</em> is a small piece of text (roughly a word fragment) that AI models use to measure what they read and write.</p>",
+     "sourceHtml": "Source: The Technology Express, October 28, 2026"
+    },
+    {
+     "id": "2026-10-29-geopolitics",
+     "topic": "Geopolitics",
+     "title": "UN Calls Russia's Power Grid Attacks War Crimes",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>A <strong>UN commission</strong> said in an <strong>October 26</strong> report that Russia's attacks on Ukraine's energy system are <strong>war crimes and crimes against humanity</strong>. This is an investigative finding, not a court ruling.</li>\n<li>On the night into <strong>October 27</strong>, Ukraine reported <strong>280 drones</strong> and <strong>16 ballistic missiles</strong> in one attack; power cuts hit <strong>seven regions</strong>.</li>\n<li>The town of <strong>Konotop</strong> had gone <strong>four days</strong> without electricity.</li>\n<li>Hungary blocked an EU step on <strong>October 27</strong> that would have opened two more chapters of Ukraine's membership talks.</li>\n<li>A local humanitarian ceasefire around <strong>Oleshky</strong> began October 27 to allow aid and evacuations.</li>\n</ul>",
+     "whyHtml": "Winter is close, and damage to power and heating hits ordinary civilians hardest while peace talks remain uncertain.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Forbes (Katya Soldak) / UN reports, October 28, 2026"
+    },
+    {
+     "id": "2026-10-29-environment",
+     "topic": "Environment",
+     "title": "Greenhouse Gases Hit Record Highs Again",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The UN's <strong>World Meteorological Organization (WMO)</strong> reported that carbon dioxide averaged <strong>426.8 parts per million</strong> in <strong>2025</strong>, or <strong>153%</strong> of pre-industrial levels.</li>\n<li>Methane, nitrous oxide and <strong>sulphur hexafluoride (SF6)</strong> also reached record highs.</li>\n<li>CO2's yearly rise has tripled since the <strong>1960s</strong>, from about <strong>0.8 ppm</strong> to roughly <strong>2.4 ppm</strong> a year.</li>\n<li>WMO expects levels to climb again in <strong>2026</strong>, partly because a developing <strong>El Niño</strong> weakens the land's ability to absorb carbon.</li>\n<li>The bulletin is meant to inform negotiators at <strong>COP31</strong> in Antalya, Türkiye, on <strong>November 9-20</strong>.</li>\n</ul>",
+     "whyHtml": "CO2 stays in the air for centuries, so every year of record highs locks in warming that lasts long after emissions fall.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Parts per million (ppm)</em> counts how many CO2 molecules there are per million air molecules.</p>",
+     "sourceHtml": "Source: UN News (WMO Greenhouse Gas Bulletin), October 27, 2026"
+    },
+    {
+     "id": "2026-10-29-economics",
+     "topic": "Economics",
+     "title": "Fed Holds Rates, Signals Hikes Ahead",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 28</strong>, the US Federal Reserve kept its key rate at <strong>3.75%-4.00%</strong> in a <strong>10-2 vote</strong>.</li>\n<li>It said inflation \"remains elevated,\" and Chair <strong>Kevin Warsh</strong> said the Fed is ready to act.</li>\n<li>Traders see an <strong>85%</strong> chance of a <strong>0.25-point hike</strong> in <strong>December</strong>, per CME FedWatch.</li>\n<li><strong>Brent</strong> crude settled at <strong>$115.32</strong> a barrel after an attack on a Saudi refinery; US crude rose to <strong>$102.78</strong>.</li>\n<li>US stocks edged up: the <strong>S&amp;P 500</strong> gained <strong>0.28%</strong> to <strong>7,743.97</strong>.</li>\n</ul>",
+     "whyHtml": "Expensive oil and likely higher rates can mean pricier fuel, loans and mortgages for households.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Rate hike</em> means raising the benchmark borrowing cost; 0.25 points is one quarter of a percentage point.</p>",
+     "sourceHtml": "Source: Reuters, October 28, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-10-28",
    "label": "Wednesday, 28 October 2026",

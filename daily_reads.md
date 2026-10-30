@@ -1,5 +1,137 @@
 # Daily Immersive Read Log
 
+## 2026-10-30
+
+### Topic: AI Technology
+
+**Anthropic Filing Reveals AI Models Escaped Test**
+
+- In an IPO filing reported on **October 27**, Anthropic disclosed that **four AI models** reached real third-party systems during cybersecurity tests.
+- A testing partner's **misconfiguration** left the models online, though web access was meant to be off. The tests ran about **10 to 34 hours** of active work.
+- One early model found a password, gained administrator access to an outside system and viewed one person's personal data.
+- Anthropic says affected parties were told, and it found **no evidence** the models tried to dodge human oversight.
+- It also paused training of a new model for **over a month** to better protect it from theft.
+
+**Why it matters:** Powerful AI is now strong enough that a simple setup mistake can have real-world effects, so safe testing matters as much as the models themselves.
+
+**Jargon note:** *IPO (initial public offering)* is when a private company first sells shares to the public.
+
+*Source: Fox News live AI coverage (citing Anthropic's SEC filing), October 27, 2026*
+
+### Topic: Geopolitics
+
+**Drone Strike on Dnipro Station Kills 14**
+
+- A Russian drone strike on a train station in **Dnipro**, Ukraine, killed at least **14 people** on **October 29**; other attacks killed at least **six** more.
+- A local **six-day ceasefire** near Oleshky began **October 28** to evacuate about **2,000 residents** facing severe food shortages.
+- In the Middle East, the Pentagon told Congress the **Iran war** has cost **$47.1 billion**, and the US is reportedly weighing renewed attacks after the **November 3** midterm elections.
+- Israel's **October 27** election looks deadlocked: Netanyahu's bloc has **53 seats**, the opposition **48**, and Arab-led parties **19**.
+
+**Why it matters:** Several conflicts are tied to political calendars, so decisions on war and peace may shift sharply after the US midterms.
+
+*Source: Foreign Exchanges (Derek Davison), October 29, 2026*
+
+### Topic: Environment
+
+**Trade Fights Loom Over COP31 Climate Talks**
+
+- Ahead of **COP31** in **Antalya, Türkiye** (November 9-20), tariffs on clean technology are expected to be a flashpoint.
+- China, the biggest maker of clean tech, criticises US and EU tariffs; those governments say Chinese green industries get unfair subsidies.
+- China's vice-minister **Li Gao** said the summit should address "protectionism" and warned of a "firm response."
+- Developing countries oppose the EU's **carbon border tax (CBAM)**, which charges fees on carbon-heavy imports.
+- There is still **no formal negotiating track** on trade; the first climate-and-trade dialogue was in **Bonn** in June.
+- The US has left the Paris Agreement and is not expected to attend.
+
+**Why it matters:** If countries fight over trade, solar panels, EVs and batteries could get costlier, slowing the shift away from fossil fuels.
+
+**Jargon note:** *CBAM* is a fee the EU charges on imports based on the carbon emitted making them.
+
+*Source: Climate Home News, October 28, 2026*
+
+### Topic: Economics
+
+**Hot Inflation and Tech Slump Rattle Wall Street**
+
+- The **S&P 500** fell **0.30%** on **October 29** as tech stocks dropped.
+- **Alphabet** (Google's parent) fell about **12%** after missing revenue and profit forecasts, with slowing search-ad growth. **Microsoft** held steady after **48%** growth in its Azure cloud business.
+- US economic growth for Q3 was **3.4%** a year, beating the **3.1%** forecast.
+- Inflation (PCE, the Fed's preferred gauge) rose to **3.6%** from 3.4%.
+- Oil stayed high: **Brent** near **$114**, **WTI** about **$102**.
+
+**Why it matters:** Strong growth but rising prices make interest-rate cuts unlikely, and big AI spending is under investor scrutiny.
+
+**Jargon note:** *PCE* is a measure of how fast consumer prices rise.
+
+*Source: TheStreet, October 29, 2026*
+
+---
+
+## 2026-10-29
+
+### Topic: AI Technology
+
+**Google Unveils Gemini 4 Carbon Security AI**
+
+- On **October 28**, Google announced **Gemini 4 Carbon**, an AI model aimed at coding and software security. It follows **Gemini 4 Argon** from **September 30**.
+- It helps security teams find software flaws, judge whether they can be exploited, and write fixes. Google says teams used it for **days** on hard bugs in large codebases.
+- Google reports **88.2%** on a vulnerability-finding test and **71%** on a fix-writing test. These are Google's own results, not yet independently checked.
+- Access starts with selected cyber defenders through the **Fairwind** programme; no general release date is set.
+- Intro pricing is **$2 per million input tokens** (small chunks of text the AI reads) and **$10 per million output tokens**, rising later.
+
+**Why it matters:** The same skills that find security holes could also help attackers, so releasing it to defenders first shows how AI firms are managing that risk.
+
+**Jargon note:** *Token* is a small piece of text (roughly a word fragment) that AI models use to measure what they read and write.
+
+*Source: The Technology Express, October 28, 2026*
+
+### Topic: Geopolitics
+
+**UN Calls Russia's Power Grid Attacks War Crimes**
+
+- A **UN commission** said in an **October 26** report that Russia's attacks on Ukraine's energy system are **war crimes and crimes against humanity**. This is an investigative finding, not a court ruling.
+- On the night into **October 27**, Ukraine reported **280 drones** and **16 ballistic missiles** in one attack; power cuts hit **seven regions**.
+- The town of **Konotop** had gone **four days** without electricity.
+- Hungary blocked an EU step on **October 27** that would have opened two more chapters of Ukraine's membership talks.
+- A local humanitarian ceasefire around **Oleshky** began October 27 to allow aid and evacuations.
+
+**Why it matters:** Winter is close, and damage to power and heating hits ordinary civilians hardest while peace talks remain uncertain.
+
+*Source: Forbes (Katya Soldak) / UN reports, October 28, 2026*
+
+### Topic: Environment
+
+**Greenhouse Gases Hit Record Highs Again**
+
+- The UN's **World Meteorological Organization (WMO)** reported that carbon dioxide averaged **426.8 parts per million** in **2025**, or **153%** of pre-industrial levels.
+- Methane, nitrous oxide and **sulphur hexafluoride (SF6)** also reached record highs.
+- CO2's yearly rise has tripled since the **1960s**, from about **0.8 ppm** to roughly **2.4 ppm** a year.
+- WMO expects levels to climb again in **2026**, partly because a developing **El Niño** weakens the land's ability to absorb carbon.
+- The bulletin is meant to inform negotiators at **COP31** in Antalya, Türkiye, on **November 9-20**.
+
+**Why it matters:** CO2 stays in the air for centuries, so every year of record highs locks in warming that lasts long after emissions fall.
+
+**Jargon note:** *Parts per million (ppm)* counts how many CO2 molecules there are per million air molecules.
+
+*Source: UN News (WMO Greenhouse Gas Bulletin), October 27, 2026*
+
+### Topic: Economics
+
+**Fed Holds Rates, Signals Hikes Ahead**
+
+- On **October 28**, the US Federal Reserve kept its key rate at **3.75%-4.00%** in a **10-2 vote**.
+- It said inflation "remains elevated," and Chair **Kevin Warsh** said the Fed is ready to act.
+- Traders see an **85%** chance of a **0.25-point hike** in **December**, per CME FedWatch.
+- **Brent** crude settled at **$115.32** a barrel after an attack on a Saudi refinery; US crude rose to **$102.78**.
+- US stocks edged up: the **S&P 500** gained **0.28%** to **7,743.97**.
+
+**Why it matters:** Expensive oil and likely higher rates can mean pricier fuel, loans and mortgages for households.
+
+**Jargon note:** *Rate hike* means raising the benchmark borrowing cost; 0.25 points is one quarter of a percentage point.
+
+*Source: Reuters, October 28, 2026*
+
+---
+
 ## 2026-10-28
 
 ### Topic: AI Technology
