@@ -1,5 +1,68 @@
 # Daily Immersive Read Log
 
+## 2026-10-31
+
+### Topic: AI Technology
+
+**Free Kimi AI Model Rivals Paid Leaders**
+
+- China's Moonshot AI released **Kimi K3.1 Pro**, an "open-weight" model, meaning its trained settings can be downloaded and run by anyone. Full weights are due by **November 4**.
+- It can read about **1 million tokens** (roughly 750,000 words) at once.
+- On **Terminal-Bench 4.0**, a test of command-line coding tasks, it scored **65.7%**, ahead of OpenAI's GPT-6 Astra (**58.2%**) and just behind Claude Opus 5.5 (**66.4%**).
+- Moonshot says it removed cyber-attack training data, cutting success on its own exploit test from **90.5% to 81%**.
+- These scores are company-reported and not yet independently checked.
+
+**Why it matters:** Free-to-download models are nearly matching paid ones, which lowers costs for builders but makes it harder to control how powerful AI is used.
+
+**Jargon note:** *Token* is a small chunk of text (a word or part of one) that AI models read and write.
+
+*Source: Trew Knowledge, "AI This Week," October 30, 2026*
+
+### Topic: Geopolitics
+
+**Tanker Attacks Rattle Strait of Hormuz**
+
+- Two tankers were hit near the **Strait of Hormuz**, the narrow waterway between Iran and Oman, within about a day of each other. All crew, including **29 Indian seafarers**, are reported safe.
+- Iran's navy claimed it destroyed an "enemy submarine" and said two tankers caught fire after hitting naval mines. A UK maritime agency reported a tanker hit by **limpet mines** (magnetic bombs attached to hulls).
+- **Brent crude** oil rose **2.7%** to about **$118 a barrel**.
+- At a G20 foreign ministers' meeting in **Atlanta**, India's S. Jaishankar said military solutions will not work and urged freedom of navigation.
+
+**Why it matters:** About a fifth of the world's oil normally passes through this strait, so attacks there can raise fuel and shipping prices far from the region.
+
+*Source: Saachi Baat (international news digest), October 31, 2026*
+
+### Topic: Environment
+
+**Turkey Unveils Plan to Electrify Everything**
+
+- Ahead of **COP31** (Antalya, **November 9-20**), host Turkey released a ten-area **Action Agenda** covering clean energy, zero waste, climate-resilient cities and green industry.
+- Its headline goal: raise electricity's share of final energy use to **35% by 2035** (the "35-by-35" pledge).
+- Turkish officials say meeting such targets could cut global CO₂ by **8.5 to 10 billion tonnes** by 2035.
+- A proposed **Climate Implementation Bridge** would help countries turn climate pledges into projects investors can fund.
+- The voluntary agenda runs alongside formal negotiations led by Australia's **Chris Bowen**. Climate finance for poorer nations is seen as the key test.
+
+**Why it matters:** Pledges only cut emissions if they become funded projects, and this summit aims to test whether that gap can close.
+
+**Jargon note:** *Electrification* means switching things like cars and heating from fuels to electricity.
+
+*Source: Kenya Today, October 30-31, 2026*
+
+### Topic: Economics
+
+**Fed Holds Rates, Hints at December Hike**
+
+- On **October 28**, the US Federal Reserve kept its key interest rate at **3.75%-4.00%**, as widely expected.
+- It had raised rates by **0.25 points in September**, so this is a pause, not a reversal.
+- Inflation has eased from its peak but is still above the Fed's **2%** target.
+- Growth is moderate, but hiring is slowing: **29,000 jobs** were added in September and unemployment rose to **4.2%**.
+- Another **0.25-point** rise at the **December 8-9** meeting remains possible if inflation stays high.
+
+**Why it matters:** The Fed's rate sets borrowing costs for mortgages, cards and business loans, so a possible hike means loans may stay expensive.
+
+*Source: Raisin (Fed statement breakdown), October 28, 2026*
+
+---
+
 ## 2026-10-30
 
 ### Topic: AI Technology

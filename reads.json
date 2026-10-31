@@ -1,6 +1,52 @@
 {
- "generated": "2026-10-30T21:05:32",
+ "generated": "2026-10-31T19:46:01",
  "days": [
+  {
+   "date": "2026-10-31",
+   "label": "Saturday, 31 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-31-ai-technology",
+     "topic": "AI Technology",
+     "title": "Free Kimi AI Model Rivals Paid Leaders",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>China's Moonshot AI released <strong>Kimi K3.1 Pro</strong>, an \"open-weight\" model, meaning its trained settings can be downloaded and run by anyone. Full weights are due by <strong>November 4</strong>.</li>\n<li>It can read about <strong>1 million tokens</strong> (roughly 750,000 words) at once.</li>\n<li>On <strong>Terminal-Bench 4.0</strong>, a test of command-line coding tasks, it scored <strong>65.7%</strong>, ahead of OpenAI's GPT-6 Astra (<strong>58.2%</strong>) and just behind Claude Opus 5.5 (<strong>66.4%</strong>).</li>\n<li>Moonshot says it removed cyber-attack training data, cutting success on its own exploit test from <strong>90.5% to 81%</strong>.</li>\n<li>These scores are company-reported and not yet independently checked.</li>\n</ul>",
+     "whyHtml": "Free-to-download models are nearly matching paid ones, which lowers costs for builders but makes it harder to control how powerful AI is used.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Token</em> is a small chunk of text (a word or part of one) that AI models read and write.</p>",
+     "sourceHtml": "Source: Trew Knowledge, \"AI This Week,\" October 30, 2026"
+    },
+    {
+     "id": "2026-10-31-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Tanker Attacks Rattle Strait of Hormuz",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Two tankers were hit near the <strong>Strait of Hormuz</strong>, the narrow waterway between Iran and Oman, within about a day of each other. All crew, including <strong>29 Indian seafarers</strong>, are reported safe.</li>\n<li>Iran's navy claimed it destroyed an \"enemy submarine\" and said two tankers caught fire after hitting naval mines. A UK maritime agency reported a tanker hit by <strong>limpet mines</strong> (magnetic bombs attached to hulls).</li>\n<li><strong>Brent crude</strong> oil rose <strong>2.7%</strong> to about <strong>$118 a barrel</strong>.</li>\n<li>At a G20 foreign ministers' meeting in <strong>Atlanta</strong>, India's S. Jaishankar said military solutions will not work and urged freedom of navigation.</li>\n</ul>",
+     "whyHtml": "About a fifth of the world's oil normally passes through this strait, so attacks there can raise fuel and shipping prices far from the region.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Saachi Baat (international news digest), October 31, 2026"
+    },
+    {
+     "id": "2026-10-31-environment",
+     "topic": "Environment",
+     "title": "Turkey Unveils Plan to Electrify Everything",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Ahead of <strong>COP31</strong> (Antalya, <strong>November 9-20</strong>), host Turkey released a ten-area <strong>Action Agenda</strong> covering clean energy, zero waste, climate-resilient cities and green industry.</li>\n<li>Its headline goal: raise electricity's share of final energy use to <strong>35% by 2035</strong> (the \"35-by-35\" pledge).</li>\n<li>Turkish officials say meeting such targets could cut global CO₂ by <strong>8.5 to 10 billion tonnes</strong> by 2035.</li>\n<li>A proposed <strong>Climate Implementation Bridge</strong> would help countries turn climate pledges into projects investors can fund.</li>\n<li>The voluntary agenda runs alongside formal negotiations led by Australia's <strong>Chris Bowen</strong>. Climate finance for poorer nations is seen as the key test.</li>\n</ul>",
+     "whyHtml": "Pledges only cut emissions if they become funded projects, and this summit aims to test whether that gap can close.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Electrification</em> means switching things like cars and heating from fuels to electricity.</p>",
+     "sourceHtml": "Source: Kenya Today, October 30-31, 2026"
+    },
+    {
+     "id": "2026-10-31-economics",
+     "topic": "Economics",
+     "title": "Fed Holds Rates, Hints at December Hike",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 28</strong>, the US Federal Reserve kept its key interest rate at <strong>3.75%-4.00%</strong>, as widely expected.</li>\n<li>It had raised rates by <strong>0.25 points in September</strong>, so this is a pause, not a reversal.</li>\n<li>Inflation has eased from its peak but is still above the Fed's <strong>2%</strong> target.</li>\n<li>Growth is moderate, but hiring is slowing: <strong>29,000 jobs</strong> were added in September and unemployment rose to <strong>4.2%</strong>.</li>\n<li>Another <strong>0.25-point</strong> rise at the <strong>December 8-9</strong> meeting remains possible if inflation stays high.</li>\n</ul>",
+     "whyHtml": "The Fed's rate sets borrowing costs for mortgages, cards and business loans, so a possible hike means loans may stay expensive.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Raisin (Fed statement breakdown), October 28, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-10-30",
    "label": "Friday, 30 October 2026",
