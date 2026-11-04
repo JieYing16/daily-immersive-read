@@ -1,5 +1,324 @@
 # Daily Immersive Read Log
 
+## 2026-11-04
+
+### Topic: AI Technology
+
+**Anthropic Files to Go Public on Nasdaq**
+
+- On **October 26**, Anthropic, maker of the Claude AI assistant, filed an **S-1** with the US securities regulator, the first formal step toward a stock market listing.
+- Reports say it plans to list on **Nasdaq** under the ticker **"ANT."**
+- The filing reportedly shows **$16.3 billion** in first-half 2026 revenue, about **13.6 times** the **$1.2 billion** a year earlier, with operating losses narrowing.
+- The number of shares and their price have **not been set** yet.
+- The same week, OpenAI released **GPT-6.1 Terra**, which it says matches its top model at one-tenth the cost (company-reported).
+
+**Why it matters:** A public listing would let ordinary investors own a piece of a leading AI lab and force it to publish more about its finances and risks.
+
+**Jargon note:** *S-1* is the registration document a company files before selling shares to the public for the first time (an IPO).
+
+*Source: note.com weekly AI report (Hokuto), November 2, 2026 (figures as cited from filings and company statements)*
+
+### Topic: Geopolitics
+
+**Midterm Losses Shadow Stalled Iran Talks**
+
+- Republicans suffered widespread losses in the US midterm elections on **November 3**. President **Trump** said "part of it was Iran," but told the Wall Street Journal he doesn't regret the war.
+- Iran's chief negotiator, **Mohammad Bagher Ghalibaf**, said Americans "said NO TO WAR."
+- On **November 4**, Iran's Revolutionary Guard said **four oil tankers** caught fire after hitting **mines** in the Strait of Hormuz, and two other ships were halted.
+- **Qatar, Pakistan and Saudi Arabia** are mediating indirect talks, and Qatari mediators expect feedback from both sides within **36 hours**.
+- Trump has said he is open to a deal but has threatened to resume major strikes.
+
+**Why it matters:** Voters' views on the war may push Washington toward a deal, but ship attacks in the strait keep oil and shipping costs high for everyone.
+
+*Source: CBS News live updates, November 4, 2026*
+
+### Topic: Environment
+
+**Adaptation Funding Tests COP31 Climate Talks**
+
+- The UN climate summit **COP31** runs **November 9-20** in Antalya, Türkiye, and opens the second **Global Stocktake**, a periodic check on how far countries are from their Paris Agreement goals.
+- Talks in Bonn in **June 2026** failed to agree on a Global Goal on Adaptation, meaning how to measure preparation for climate impacts.
+- Negotiators must decide how to use **59 adaptation indicators** agreed at COP30 and how to **triple adaptation finance** for developing countries by **2035**.
+- About **30 countries** backed the Taku Pakasoa Declaration in Fiji and Tuvalu on faster emission cuts and ocean protection.
+- Analysts say the **1.5°C** limit will probably be overshot, so adapting matters more.
+
+**Why it matters:** Poorer, climate-exposed countries need money to prepare for floods, heat and storms, and this summit will show whether promised funds become real.
+
+**Jargon note:** *Adaptation* means adjusting to climate change (sea walls, drought-resistant crops), as opposed to cutting emissions.
+
+*Source: United Nations University, "5 Expectations for COP 31 in Antalya," October 14, 2026*
+
+### Topic: Economics
+
+**Eurozone Inflation Nears 4% Amid Energy Surge**
+
+- Economists expect euro-area inflation to hit **3.9%** in October, the fastest in **three years** and the **eighth straight month** above the European Central Bank's **2%** target.
+- In October, **Brent crude** rose **15%** to about **$117 a barrel**, and European natural gas jumped **39%** to over **€100 per megawatt hour**.
+- Even so, third-quarter eurozone growth beat forecasts at **0.4%**.
+- The ECB considered raising rates in October but held for six weeks; its next decision is **December 17**, when a third hike is under discussion.
+- In the US, traders see about a **75%** chance of a Fed hike in December.
+
+**Why it matters:** Costly energy lifts prices for food, heating and travel, and central banks may keep borrowing costs higher to cool it down.
+
+*Source: IndexBox (citing Reuters and Bloomberg polls), November 1, 2026*
+
+---
+
+## 2026-11-03
+
+### Topic: AI Technology
+
+**Google's Gemini 4 Carbon Hunts Software Bugs**
+
+- Google launched **Gemini 4 Carbon**, an AI model built for cybersecurity, about **two weeks after** Gemini 4 Argon.
+- Google says it can find software weaknesses, test whether they can be exploited, and write fixes ("patches").
+- It reports leading results on outside cyber tests and a score of **59** on the Artificial Analysis Intelligence Index, a public ranking of AI models.
+- Early access is limited to **vetted defenders** through Google's **Fairwind** program.
+- The benchmarks were reportedly run **without the usual safety guardrails**, which are the built-in limits that stop a model from helping with harmful tasks.
+
+**Why it matters:** The same skill that helps defenders fix holes could help attackers exploit them, so how access is controlled matters as much as the model itself.
+
+**Jargon note:** *Benchmark* means a standard test used to compare AI models.
+
+*Source: Mind and Machine Weekly, November 1, 2026 (figures are Google-reported)*
+
+### Topic: Geopolitics
+
+**Iran Offers Faster Two-Day Hormuz Plan**
+
+- On **November 2**, Iran said its seven-step ceasefire plan can be carried out in **two days** instead of seven.
+- The plan covers **reopening the Strait of Hormuz** (a key oil shipping route) and **restarting nuclear talks** with the US.
+- Iran's earlier version asked the US to lift its **naval blockade** and sanctions and guarantee an end to strikes.
+- **Qatar and Pakistan** are mediating indirect talks, and Iran's Supreme Leader reportedly gave the government more power to speed them up.
+- President **Trump** said talks are "going fine" but hinted the US could strike after the **November 3** midterm elections. There is no sign the US has accepted.
+
+**Why it matters:** The war is about eight months old, and whether the strait reopens affects oil prices and fuel costs around the world.
+
+*Source: Al Jazeera, November 2, 2026*
+
+### Topic: Environment
+
+**Record Emissions Loom Over COP31 Talks**
+
+- UN data cited ahead of **COP31** (Antalya, Türkiye, **November 9-20**) puts 2025 global emissions at a record **58 gigatonnes**, still rising.
+- Fully carrying out all new national climate pledges would cut emissions only **5-8% by 2030** versus 2025.
+- Staying on the **1.5°C** path would need emissions about **18% below 2025 levels** by then.
+- One proposal, "**35x35**", would lift electricity's share of world energy use from about **23% to 35% by 2035**.
+- Renewables supply about **34%** of global electricity, but grids and battery storage are lagging behind.
+
+**Why it matters:** The gap between pledges and the 1.5°C goal is large, and cleaner power only helps if wires and storage keep up.
+
+**Jargon note:** *Gigatonne* is one billion tonnes.
+
+*Source: Business Standard (opinion by R R Rashmi, citing UNEP and IEA), November 2, 2026*
+
+### Topic: Economics
+
+**Fed Holds Rates, Hints at December Hike**
+
+- On **October 28**, the Federal Reserve kept its key interest rate at **3.75%-4%**.
+- The vote was **10-2**; two officials wanted a **0.25-point increase**.
+- This follows a **September hike**, the first since July 2023.
+- Inflation has run above the Fed's **2% target** for nearly six years, and higher oil and gas prices pushed it further away this year.
+- Markets put the chance of a **December hike** at about **83%** ahead of the **December 8-9** meeting.
+
+**Why it matters:** Higher rates make loans, mortgages and credit cards costlier, even while the economy is growing strongly.
+
+*Source: Fox Business, October 28, 2026*
+
+---
+
+## 2026-10-31
+
+### Topic: AI Technology
+
+**Open-Weight Kimi Model Rivals Top Rivals**
+
+- China's Moonshot AI released **Kimi K3.1 Pro**, an "open-weight" model, meaning its trained settings can be downloaded and run by anyone. Full weights are due by **November 4**.
+- It can read about **1 million tokens** (roughly 750,000 words) at once.
+- On **Terminal-Bench 4.0**, a test of command-line coding tasks, it scored **65.7%**, ahead of OpenAI's GPT-6 Astra (**58.2%**) and just behind Claude Opus 5.5 (**66.4%**).
+- Moonshot says it removed cyber-attack training data, cutting success on its own exploit test from **90.5% to 81%**.
+- These scores are company-reported and not yet independently checked.
+
+**Why it matters:** Free-to-download models are nearly matching paid ones, which lowers costs for builders but makes it harder to control how powerful AI is used.
+
+**Jargon note:** *Token* is a small chunk of text (a word or part of one) that AI models read and write.
+
+*Source: Trew Knowledge, "AI This Week," October 30, 2026*
+
+### Topic: Geopolitics
+
+**Tanker Attacks Rattle Strait of Hormuz**
+
+- Two tankers were hit near the **Strait of Hormuz**, the narrow waterway between Iran and Oman, within about a day of each other. All crew, including **29 Indian seafarers**, are reported safe.
+- Iran's navy claimed it destroyed an "enemy submarine" and said two tankers caught fire after hitting naval mines. A UK maritime agency reported a tanker hit by **limpet mines** (magnetic bombs attached to hulls).
+- **Brent crude** oil rose **2.7%** to about **$118 a barrel**.
+- At a G20 foreign ministers' meeting in **Atlanta**, India's S. Jaishankar said military solutions will not work and urged freedom of navigation.
+
+**Why it matters:** About a fifth of the world's oil normally passes through this strait, so attacks there can raise fuel and shipping prices far from the region.
+
+*Source: Saachi Baat (international news digest), October 31, 2026*
+
+### Topic: Environment
+
+**Turkey Unveils Plan to Electrify Everything**
+
+- Ahead of **COP31** (Antalya, **November 9-20**), host Turkey released a ten-area **Action Agenda** covering clean energy, zero waste, climate-resilient cities and green industry.
+- Its headline goal: raise electricity's share of final energy use to **35% by 2035** (the "35-by-35" pledge).
+- Turkish officials say meeting such targets could cut global CO₂ by **8.5 to 10 billion tonnes** by 2035.
+- A proposed **Climate Implementation Bridge** would help countries turn climate pledges into projects investors can fund.
+- The voluntary agenda runs alongside formal negotiations led by Australia's **Chris Bowen**. Climate finance for poorer nations is seen as the key test.
+
+**Why it matters:** Pledges only cut emissions if they become funded projects, and this summit aims to test whether that gap can close.
+
+**Jargon note:** *Electrification* means switching things like cars and heating from fuels to electricity.
+
+*Source: Kenya Today, October 30-31, 2026*
+
+### Topic: Economics
+
+**Fed Holds Rates, Hints at December Hike**
+
+- On **October 28**, the US Federal Reserve kept its key interest rate at **3.75%-4.00%**, as widely expected.
+- It had raised rates by **0.25 points in September**, so this is a pause, not a reversal.
+- Inflation has eased from its peak but is still above the Fed's **2%** target.
+- Growth is moderate, but hiring is slowing: **29,000 jobs** were added in September and unemployment rose to **4.2%**.
+- Another **0.25-point** rise at the **December 8-9** meeting remains possible if inflation stays high.
+
+**Why it matters:** The Fed's rate sets borrowing costs for mortgages, cards and business loans, so a possible hike means loans may stay expensive.
+
+*Source: Raisin (Fed statement breakdown), October 28, 2026*
+
+---
+
+## 2026-11-01
+
+### Topic: AI Technology
+
+**Mistral Releases Large 4 With Open Weights**
+
+- French AI company **Mistral** published downloadable "weights" (the trained settings) for **Mistral Large 4**, reported on **October 30**.
+- The model has **low, medium and high reasoning settings**, letting users trade speed and cost for deeper thinking.
+- Its API (the paid online access) costs **$0.70 per million input tokens** and **$2.10 per million output tokens**.
+- The license is not fully open: companies that run a "Model-as-a-Service" business must sign a separate commercial deal.
+- Mistral's own documentation still labels API access a **public preview**, so details may change.
+
+**Why it matters:** More strong models can be downloaded and run privately, but "open" licenses often come with business strings attached.
+
+**Jargon note:** *Model-as-a-Service* means selling access to an AI model over the internet, like a subscription.
+
+*Source: Sam on AI, "AI Brief," October 30, 2026*
+
+### Topic: Geopolitics
+
+**Iran Says No Talks Until Demands Met**
+
+- On **October 31**, a senior Iranian official said there will be **no nuclear talks and no reopening of the Strait of Hormuz** until the US accepts Iran's demands.
+- Iran's foreign minister earlier called a letter from US Vice President **JD Vance** a "positive step," so signals are mixed.
+- An Iranian aide is in **Doha** meeting mediators.
+- Ship attacks in the strait reached a reported **record in October**; one tanker was hit by **limpet mines** on **October 29**.
+- US officials say most traffic still passes safely, while others say transits are near zero. Reports conflict.
+
+**Why it matters:** Talks and shipping attacks move together, and the outcome affects oil prices and fuel costs worldwide.
+
+*Source: Times of Israel liveblog / Al Jazeera / Daily Kos, October 31, 2026*
+
+### Topic: Environment
+
+**Over 90 Leaders Set for COP31 Summit**
+
+- Türkiye says **91 heads of state and government** have confirmed they will attend **COP31** in **Antalya**, **November 9-20**.
+- About **196 countries**, nearly **300 ministers** and around **1.5 million visitors** are expected.
+- Brazil's President **Lula** will attend; Brazil hosted last year's summit, which set no binding deadlines to phase out coal, oil and gas.
+- Experts doubt a fossil-fuel phase-out deal this year, as the Middle East war has put pressure on energy markets.
+- Türkiye's themes include urban development and rebuilding after the **2023 earthquakes**.
+
+**Why it matters:** A big turnout shows interest, but real progress depends on binding commitments, which remain uncertain.
+
+*Source: Daily Sabah (Anadolu) / Turkish Minute, October 31 - November 1, 2026*
+
+### Topic: Economics
+
+**US Economy Grows 3.4% as Inflation Cools**
+
+- The US economy grew at a **3.4% annual rate** in the third quarter, up from **2.2%** in the second, per the government's **October 29** estimate.
+- Forecasters had expected about **3.2%**.
+- Consumer spending added the most (**2.52 points**); businesses stocking up added **1.61**.
+- Imports surged and pulled growth down by **3.32 points**.
+- Price growth by the Fed's preferred gauge (PCE) slowed to **2.1%**, from **5.0%** in Q2; excluding food and energy it was **2.5%**.
+- The figure will be revised on **November 25**.
+
+**Why it matters:** Strong growth with cooling prices is good news, but it may keep the Fed weighing another rate rise in December.
+
+**Jargon note:** *PCE* measures how much prices paid by consumers are rising.
+
+*Source: BEA advance estimate via StockTitan, October 29, 2026*
+
+---
+
+## 2026-10-31
+
+### Topic: AI Technology
+
+**Open-Weight Kimi Model Rivals Top Rivals**
+
+- China's Moonshot AI released **Kimi K3.1 Pro**, an "open-weight" model, meaning its trained settings can be downloaded and run by anyone. Full weights are due by **November 4**.
+- It can read about **1 million tokens** (roughly 750,000 words) at once.
+- On **Terminal-Bench 4.0**, a test of command-line coding tasks, it scored **65.7%**, ahead of OpenAI's GPT-6 Astra (**58.2%**) and just behind Claude Opus 5.5 (**66.4%**).
+- Moonshot says it removed cyber-attack training data, cutting success on its own exploit test from **90.5% to 81%**.
+- These scores are company-reported and not yet independently checked.
+
+**Why it matters:** Free-to-download models are nearly matching paid ones, which lowers costs for builders but makes it harder to control how powerful AI is used.
+
+**Jargon note:** *Token* is a small chunk of text (a word or part of one) that AI models read and write.
+
+*Source: Trew Knowledge, "AI This Week," October 30, 2026*
+
+### Topic: Geopolitics
+
+**Tanker Attacks Rattle Strait of Hormuz**
+
+- Two tankers were hit near the **Strait of Hormuz**, the narrow waterway between Iran and Oman, within about a day of each other. All crew, including **29 Indian seafarers**, are reported safe.
+- Iran's navy claimed it destroyed an "enemy submarine" and said two tankers caught fire after hitting naval mines. A UK maritime agency reported a tanker hit by **limpet mines** (magnetic bombs attached to hulls).
+- **Brent crude** oil rose **2.7%** to about **$118 a barrel**.
+- At a G20 foreign ministers' meeting in **Atlanta**, India's S. Jaishankar said military solutions will not work and urged freedom of navigation.
+
+**Why it matters:** About a fifth of the world's oil normally passes through this strait, so attacks there can raise fuel and shipping prices far from the region.
+
+*Source: Saachi Baat (international news digest), October 31, 2026*
+
+### Topic: Environment
+
+**Turkey Unveils Plan to Electrify Everything**
+
+- Ahead of **COP31** (Antalya, **November 9-20**), host Turkey released a ten-area **Action Agenda** covering clean energy, zero waste, climate-resilient cities and green industry.
+- Its headline goal: raise electricity's share of final energy use to **35% by 2035** (the "35-by-35" pledge).
+- Turkish officials say meeting such targets could cut global CO₂ by **8.5 to 10 billion tonnes** by 2035.
+- A proposed **Climate Implementation Bridge** would help countries turn climate pledges into projects investors can fund.
+- The voluntary agenda runs alongside formal negotiations led by Australia's **Chris Bowen**. Climate finance for poorer nations is seen as the key test.
+
+**Why it matters:** Pledges only cut emissions if they become funded projects, and this summit aims to test whether that gap can close.
+
+**Jargon note:** *Electrification* means switching things like cars and heating from fuels to electricity.
+
+*Source: Kenya Today, October 30-31, 2026*
+
+### Topic: Economics
+
+**Fed Holds Rates, Hints at December Hike**
+
+- On **October 28**, the US Federal Reserve kept its key interest rate at **3.75%-4.00%**, as widely expected.
+- It had raised rates by **0.25 points in September**, so this is a pause, not a reversal.
+- Inflation has eased from its peak but is still above the Fed's **2%** target.
+- Growth is moderate, but hiring is slowing: **29,000 jobs** were added in September and unemployment rose to **4.2%**.
+- Another **0.25-point** rise at the **December 8-9** meeting remains possible if inflation stays high.
+
+**Why it matters:** The Fed's rate sets borrowing costs for mortgages, cards and business loans, so a possible hike means loans may stay expensive.
+
+*Source: Raisin (Fed statement breakdown), October 28, 2026*
+
+---
+
 ## 2026-10-31
 
 ### Topic: AI Technology

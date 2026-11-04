@@ -1,6 +1,236 @@
 {
- "generated": "2026-10-31T20:31:32",
+ "generated": "2026-11-04T18:37:25",
  "days": [
+  {
+   "date": "2026-11-04",
+   "label": "Wednesday, 4 November 2026",
+   "entries": [
+    {
+     "id": "2026-11-04-ai-technology",
+     "topic": "AI Technology",
+     "title": "Anthropic Files to Go Public on Nasdaq",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 26</strong>, Anthropic, maker of the Claude AI assistant, filed an <strong>S-1</strong> with the US securities regulator, the first formal step toward a stock market listing.</li>\n<li>Reports say it plans to list on <strong>Nasdaq</strong> under the ticker <strong>\"ANT.\"</strong></li>\n<li>The filing reportedly shows <strong>$16.3 billion</strong> in first-half 2026 revenue, about <strong>13.6 times</strong> the <strong>$1.2 billion</strong> a year earlier, with operating losses narrowing.</li>\n<li>The number of shares and their price have <strong>not been set</strong> yet.</li>\n<li>The same week, OpenAI released <strong>GPT-6.1 Terra</strong>, which it says matches its top model at one-tenth the cost (company-reported).</li>\n</ul>",
+     "whyHtml": "A public listing would let ordinary investors own a piece of a leading AI lab and force it to publish more about its finances and risks.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>S-1</em> is the registration document a company files before selling shares to the public for the first time (an IPO).</p>",
+     "sourceHtml": "Source: note.com weekly AI report (Hokuto), November 2, 2026 (figures as cited from filings and company statements)"
+    },
+    {
+     "id": "2026-11-04-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Midterm Losses Shadow Stalled Iran Talks",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Republicans suffered widespread losses in the US midterm elections on <strong>November 3</strong>. President <strong>Trump</strong> said \"part of it was Iran,\" but told the Wall Street Journal he doesn't regret the war.</li>\n<li>Iran's chief negotiator, <strong>Mohammad Bagher Ghalibaf</strong>, said Americans \"said NO TO WAR.\"</li>\n<li>On <strong>November 4</strong>, Iran's Revolutionary Guard said <strong>four oil tankers</strong> caught fire after hitting <strong>mines</strong> in the Strait of Hormuz, and two other ships were halted.</li>\n<li><strong>Qatar, Pakistan and Saudi Arabia</strong> are mediating indirect talks, and Qatari mediators expect feedback from both sides within <strong>36 hours</strong>.</li>\n<li>Trump has said he is open to a deal but has threatened to resume major strikes.</li>\n</ul>",
+     "whyHtml": "Voters' views on the war may push Washington toward a deal, but ship attacks in the strait keep oil and shipping costs high for everyone.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CBS News live updates, November 4, 2026"
+    },
+    {
+     "id": "2026-11-04-environment",
+     "topic": "Environment",
+     "title": "Adaptation Funding Tests COP31 Climate Talks",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The UN climate summit <strong>COP31</strong> runs <strong>November 9-20</strong> in Antalya, Türkiye, and opens the second <strong>Global Stocktake</strong>, a periodic check on how far countries are from their Paris Agreement goals.</li>\n<li>Talks in Bonn in <strong>June 2026</strong> failed to agree on a Global Goal on Adaptation, meaning how to measure preparation for climate impacts.</li>\n<li>Negotiators must decide how to use <strong>59 adaptation indicators</strong> agreed at COP30 and how to <strong>triple adaptation finance</strong> for developing countries by <strong>2035</strong>.</li>\n<li>About <strong>30 countries</strong> backed the Taku Pakasoa Declaration in Fiji and Tuvalu on faster emission cuts and ocean protection.</li>\n<li>Analysts say the <strong>1.5°C</strong> limit will probably be overshot, so adapting matters more.</li>\n</ul>",
+     "whyHtml": "Poorer, climate-exposed countries need money to prepare for floods, heat and storms, and this summit will show whether promised funds become real.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Adaptation</em> means adjusting to climate change (sea walls, drought-resistant crops), as opposed to cutting emissions.</p>",
+     "sourceHtml": "Source: United Nations University, \"5 Expectations for COP 31 in Antalya,\" October 14, 2026"
+    },
+    {
+     "id": "2026-11-04-economics",
+     "topic": "Economics",
+     "title": "Eurozone Inflation Nears 4% Amid Energy Surge",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Economists expect euro-area inflation to hit <strong>3.9%</strong> in October, the fastest in <strong>three years</strong> and the <strong>eighth straight month</strong> above the European Central Bank's <strong>2%</strong> target.</li>\n<li>In October, <strong>Brent crude</strong> rose <strong>15%</strong> to about <strong>$117 a barrel</strong>, and European natural gas jumped <strong>39%</strong> to over <strong>€100 per megawatt hour</strong>.</li>\n<li>Even so, third-quarter eurozone growth beat forecasts at <strong>0.4%</strong>.</li>\n<li>The ECB considered raising rates in October but held for six weeks; its next decision is <strong>December 17</strong>, when a third hike is under discussion.</li>\n<li>In the US, traders see about a <strong>75%</strong> chance of a Fed hike in December.</li>\n</ul>",
+     "whyHtml": "Costly energy lifts prices for food, heating and travel, and central banks may keep borrowing costs higher to cool it down.",
+     "noteHtml": "",
+     "sourceHtml": "Source: IndexBox (citing Reuters and Bloomberg polls), November 1, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-03",
+   "label": "Tuesday, 3 November 2026",
+   "entries": [
+    {
+     "id": "2026-11-03-ai-technology",
+     "topic": "AI Technology",
+     "title": "Google's Gemini 4 Carbon Hunts Software Bugs",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Google launched <strong>Gemini 4 Carbon</strong>, an AI model built for cybersecurity, about <strong>two weeks after</strong> Gemini 4 Argon.</li>\n<li>Google says it can find software weaknesses, test whether they can be exploited, and write fixes (\"patches\").</li>\n<li>It reports leading results on outside cyber tests and a score of <strong>59</strong> on the Artificial Analysis Intelligence Index, a public ranking of AI models.</li>\n<li>Early access is limited to <strong>vetted defenders</strong> through Google's <strong>Fairwind</strong> program.</li>\n<li>The benchmarks were reportedly run <strong>without the usual safety guardrails</strong>, which are the built-in limits that stop a model from helping with harmful tasks.</li>\n</ul>",
+     "whyHtml": "The same skill that helps defenders fix holes could help attackers exploit them, so how access is controlled matters as much as the model itself.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Benchmark</em> means a standard test used to compare AI models.</p>",
+     "sourceHtml": "Source: Mind and Machine Weekly, November 1, 2026 (figures are Google-reported)"
+    },
+    {
+     "id": "2026-11-03-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Iran Offers Faster Two-Day Hormuz Plan",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>November 2</strong>, Iran said its seven-step ceasefire plan can be carried out in <strong>two days</strong> instead of seven.</li>\n<li>The plan covers <strong>reopening the Strait of Hormuz</strong> (a key oil shipping route) and <strong>restarting nuclear talks</strong> with the US.</li>\n<li>Iran's earlier version asked the US to lift its <strong>naval blockade</strong> and sanctions and guarantee an end to strikes.</li>\n<li><strong>Qatar and Pakistan</strong> are mediating indirect talks, and Iran's Supreme Leader reportedly gave the government more power to speed them up.</li>\n<li>President <strong>Trump</strong> said talks are \"going fine\" but hinted the US could strike after the <strong>November 3</strong> midterm elections. There is no sign the US has accepted.</li>\n</ul>",
+     "whyHtml": "The war is about eight months old, and whether the strait reopens affects oil prices and fuel costs around the world.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Al Jazeera, November 2, 2026"
+    },
+    {
+     "id": "2026-11-03-environment",
+     "topic": "Environment",
+     "title": "Record Emissions Loom Over COP31 Talks",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>UN data cited ahead of <strong>COP31</strong> (Antalya, Türkiye, <strong>November 9-20</strong>) puts 2025 global emissions at a record <strong>58 gigatonnes</strong>, still rising.</li>\n<li>Fully carrying out all new national climate pledges would cut emissions only <strong>5-8% by 2030</strong> versus 2025.</li>\n<li>Staying on the <strong>1.5°C</strong> path would need emissions about <strong>18% below 2025 levels</strong> by then.</li>\n<li>One proposal, \"<strong>35x35</strong>\", would lift electricity's share of world energy use from about <strong>23% to 35% by 2035</strong>.</li>\n<li>Renewables supply about <strong>34%</strong> of global electricity, but grids and battery storage are lagging behind.</li>\n</ul>",
+     "whyHtml": "The gap between pledges and the 1.5°C goal is large, and cleaner power only helps if wires and storage keep up.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Gigatonne</em> is one billion tonnes.</p>",
+     "sourceHtml": "Source: Business Standard (opinion by R R Rashmi, citing UNEP and IEA), November 2, 2026"
+    },
+    {
+     "id": "2026-11-03-economics",
+     "topic": "Economics",
+     "title": "Fed Holds Rates, Hints at December Hike",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 28</strong>, the Federal Reserve kept its key interest rate at <strong>3.75%-4%</strong>.</li>\n<li>The vote was <strong>10-2</strong>; two officials wanted a <strong>0.25-point increase</strong>.</li>\n<li>This follows a <strong>September hike</strong>, the first since July 2023.</li>\n<li>Inflation has run above the Fed's <strong>2% target</strong> for nearly six years, and higher oil and gas prices pushed it further away this year.</li>\n<li>Markets put the chance of a <strong>December hike</strong> at about <strong>83%</strong> ahead of the <strong>December 8-9</strong> meeting.</li>\n</ul>",
+     "whyHtml": "Higher rates make loans, mortgages and credit cards costlier, even while the economy is growing strongly.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Fox Business, October 28, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-01",
+   "label": "Sunday, 1 November 2026",
+   "entries": [
+    {
+     "id": "2026-11-01-ai-technology",
+     "topic": "AI Technology",
+     "title": "Mistral Releases Large 4 With Open Weights",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>French AI company <strong>Mistral</strong> published downloadable \"weights\" (the trained settings) for <strong>Mistral Large 4</strong>, reported on <strong>October 30</strong>.</li>\n<li>The model has <strong>low, medium and high reasoning settings</strong>, letting users trade speed and cost for deeper thinking.</li>\n<li>Its API (the paid online access) costs <strong>$0.70 per million input tokens</strong> and <strong>$2.10 per million output tokens</strong>.</li>\n<li>The license is not fully open: companies that run a \"Model-as-a-Service\" business must sign a separate commercial deal.</li>\n<li>Mistral's own documentation still labels API access a <strong>public preview</strong>, so details may change.</li>\n</ul>",
+     "whyHtml": "More strong models can be downloaded and run privately, but \"open\" licenses often come with business strings attached.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Model-as-a-Service</em> means selling access to an AI model over the internet, like a subscription.</p>",
+     "sourceHtml": "Source: Sam on AI, \"AI Brief,\" October 30, 2026"
+    },
+    {
+     "id": "2026-11-01-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Iran Says No Talks Until Demands Met",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 31</strong>, a senior Iranian official said there will be <strong>no nuclear talks and no reopening of the Strait of Hormuz</strong> until the US accepts Iran's demands.</li>\n<li>Iran's foreign minister earlier called a letter from US Vice President <strong>JD Vance</strong> a \"positive step,\" so signals are mixed.</li>\n<li>An Iranian aide is in <strong>Doha</strong> meeting mediators.</li>\n<li>Ship attacks in the strait reached a reported <strong>record in October</strong>; one tanker was hit by <strong>limpet mines</strong> on <strong>October 29</strong>.</li>\n<li>US officials say most traffic still passes safely, while others say transits are near zero. Reports conflict.</li>\n</ul>",
+     "whyHtml": "Talks and shipping attacks move together, and the outcome affects oil prices and fuel costs worldwide.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Times of Israel liveblog / Al Jazeera / Daily Kos, October 31, 2026"
+    },
+    {
+     "id": "2026-11-01-environment",
+     "topic": "Environment",
+     "title": "Over 90 Leaders Set for COP31 Summit",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Türkiye says <strong>91 heads of state and government</strong> have confirmed they will attend <strong>COP31</strong> in <strong>Antalya</strong>, <strong>November 9-20</strong>.</li>\n<li>About <strong>196 countries</strong>, nearly <strong>300 ministers</strong> and around <strong>1.5 million visitors</strong> are expected.</li>\n<li>Brazil's President <strong>Lula</strong> will attend; Brazil hosted last year's summit, which set no binding deadlines to phase out coal, oil and gas.</li>\n<li>Experts doubt a fossil-fuel phase-out deal this year, as the Middle East war has put pressure on energy markets.</li>\n<li>Türkiye's themes include urban development and rebuilding after the <strong>2023 earthquakes</strong>.</li>\n</ul>",
+     "whyHtml": "A big turnout shows interest, but real progress depends on binding commitments, which remain uncertain.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Daily Sabah (Anadolu) / Turkish Minute, October 31 - November 1, 2026"
+    },
+    {
+     "id": "2026-11-01-economics",
+     "topic": "Economics",
+     "title": "US Economy Grows 3.4% as Inflation Cools",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The US economy grew at a <strong>3.4% annual rate</strong> in the third quarter, up from <strong>2.2%</strong> in the second, per the government's <strong>October 29</strong> estimate.</li>\n<li>Forecasters had expected about <strong>3.2%</strong>.</li>\n<li>Consumer spending added the most (<strong>2.52 points</strong>); businesses stocking up added <strong>1.61</strong>.</li>\n<li>Imports surged and pulled growth down by <strong>3.32 points</strong>.</li>\n<li>Price growth by the Fed's preferred gauge (PCE) slowed to <strong>2.1%</strong>, from <strong>5.0%</strong> in Q2; excluding food and energy it was <strong>2.5%</strong>.</li>\n<li>The figure will be revised on <strong>November 25</strong>.</li>\n</ul>",
+     "whyHtml": "Strong growth with cooling prices is good news, but it may keep the Fed weighing another rate rise in December.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>PCE</em> measures how much prices paid by consumers are rising.</p>",
+     "sourceHtml": "Source: BEA advance estimate via StockTitan, October 29, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "label": "Saturday, 31 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-31-ai-technology",
+     "topic": "AI Technology",
+     "title": "Open-Weight Kimi Model Rivals Top Rivals",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>China's Moonshot AI released <strong>Kimi K3.1 Pro</strong>, an \"open-weight\" model, meaning its trained settings can be downloaded and run by anyone. Full weights are due by <strong>November 4</strong>.</li>\n<li>It can read about <strong>1 million tokens</strong> (roughly 750,000 words) at once.</li>\n<li>On <strong>Terminal-Bench 4.0</strong>, a test of command-line coding tasks, it scored <strong>65.7%</strong>, ahead of OpenAI's GPT-6 Astra (<strong>58.2%</strong>) and just behind Claude Opus 5.5 (<strong>66.4%</strong>).</li>\n<li>Moonshot says it removed cyber-attack training data, cutting success on its own exploit test from <strong>90.5% to 81%</strong>.</li>\n<li>These scores are company-reported and not yet independently checked.</li>\n</ul>",
+     "whyHtml": "Free-to-download models are nearly matching paid ones, which lowers costs for builders but makes it harder to control how powerful AI is used.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Token</em> is a small chunk of text (a word or part of one) that AI models read and write.</p>",
+     "sourceHtml": "Source: Trew Knowledge, \"AI This Week,\" October 30, 2026"
+    },
+    {
+     "id": "2026-10-31-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Tanker Attacks Rattle Strait of Hormuz",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Two tankers were hit near the <strong>Strait of Hormuz</strong>, the narrow waterway between Iran and Oman, within about a day of each other. All crew, including <strong>29 Indian seafarers</strong>, are reported safe.</li>\n<li>Iran's navy claimed it destroyed an \"enemy submarine\" and said two tankers caught fire after hitting naval mines. A UK maritime agency reported a tanker hit by <strong>limpet mines</strong> (magnetic bombs attached to hulls).</li>\n<li><strong>Brent crude</strong> oil rose <strong>2.7%</strong> to about <strong>$118 a barrel</strong>.</li>\n<li>At a G20 foreign ministers' meeting in <strong>Atlanta</strong>, India's S. Jaishankar said military solutions will not work and urged freedom of navigation.</li>\n</ul>",
+     "whyHtml": "About a fifth of the world's oil normally passes through this strait, so attacks there can raise fuel and shipping prices far from the region.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Saachi Baat (international news digest), October 31, 2026"
+    },
+    {
+     "id": "2026-10-31-environment",
+     "topic": "Environment",
+     "title": "Turkey Unveils Plan to Electrify Everything",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Ahead of <strong>COP31</strong> (Antalya, <strong>November 9-20</strong>), host Turkey released a ten-area <strong>Action Agenda</strong> covering clean energy, zero waste, climate-resilient cities and green industry.</li>\n<li>Its headline goal: raise electricity's share of final energy use to <strong>35% by 2035</strong> (the \"35-by-35\" pledge).</li>\n<li>Turkish officials say meeting such targets could cut global CO₂ by <strong>8.5 to 10 billion tonnes</strong> by 2035.</li>\n<li>A proposed <strong>Climate Implementation Bridge</strong> would help countries turn climate pledges into projects investors can fund.</li>\n<li>The voluntary agenda runs alongside formal negotiations led by Australia's <strong>Chris Bowen</strong>. Climate finance for poorer nations is seen as the key test.</li>\n</ul>",
+     "whyHtml": "Pledges only cut emissions if they become funded projects, and this summit aims to test whether that gap can close.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Electrification</em> means switching things like cars and heating from fuels to electricity.</p>",
+     "sourceHtml": "Source: Kenya Today, October 30-31, 2026"
+    },
+    {
+     "id": "2026-10-31-economics",
+     "topic": "Economics",
+     "title": "Fed Holds Rates, Hints at December Hike",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 28</strong>, the US Federal Reserve kept its key interest rate at <strong>3.75%-4.00%</strong>, as widely expected.</li>\n<li>It had raised rates by <strong>0.25 points in September</strong>, so this is a pause, not a reversal.</li>\n<li>Inflation has eased from its peak but is still above the Fed's <strong>2%</strong> target.</li>\n<li>Growth is moderate, but hiring is slowing: <strong>29,000 jobs</strong> were added in September and unemployment rose to <strong>4.2%</strong>.</li>\n<li>Another <strong>0.25-point</strong> rise at the <strong>December 8-9</strong> meeting remains possible if inflation stays high.</li>\n</ul>",
+     "whyHtml": "The Fed's rate sets borrowing costs for mortgages, cards and business loans, so a possible hike means loans may stay expensive.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Raisin (Fed statement breakdown), October 28, 2026"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "label": "Saturday, 31 October 2026",
+   "entries": [
+    {
+     "id": "2026-10-31-ai-technology",
+     "topic": "AI Technology",
+     "title": "Open-Weight Kimi Model Rivals Top Rivals",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>China's Moonshot AI released <strong>Kimi K3.1 Pro</strong>, an \"open-weight\" model, meaning its trained settings can be downloaded and run by anyone. Full weights are due by <strong>November 4</strong>.</li>\n<li>It can read about <strong>1 million tokens</strong> (roughly 750,000 words) at once.</li>\n<li>On <strong>Terminal-Bench 4.0</strong>, a test of command-line coding tasks, it scored <strong>65.7%</strong>, ahead of OpenAI's GPT-6 Astra (<strong>58.2%</strong>) and just behind Claude Opus 5.5 (<strong>66.4%</strong>).</li>\n<li>Moonshot says it removed cyber-attack training data, cutting success on its own exploit test from <strong>90.5% to 81%</strong>.</li>\n<li>These scores are company-reported and not yet independently checked.</li>\n</ul>",
+     "whyHtml": "Free-to-download models are nearly matching paid ones, which lowers costs for builders but makes it harder to control how powerful AI is used.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Token</em> is a small chunk of text (a word or part of one) that AI models read and write.</p>",
+     "sourceHtml": "Source: Trew Knowledge, \"AI This Week,\" October 30, 2026"
+    },
+    {
+     "id": "2026-10-31-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Tanker Attacks Rattle Strait of Hormuz",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Two tankers were hit near the <strong>Strait of Hormuz</strong>, the narrow waterway between Iran and Oman, within about a day of each other. All crew, including <strong>29 Indian seafarers</strong>, are reported safe.</li>\n<li>Iran's navy claimed it destroyed an \"enemy submarine\" and said two tankers caught fire after hitting naval mines. A UK maritime agency reported a tanker hit by <strong>limpet mines</strong> (magnetic bombs attached to hulls).</li>\n<li><strong>Brent crude</strong> oil rose <strong>2.7%</strong> to about <strong>$118 a barrel</strong>.</li>\n<li>At a G20 foreign ministers' meeting in <strong>Atlanta</strong>, India's S. Jaishankar said military solutions will not work and urged freedom of navigation.</li>\n</ul>",
+     "whyHtml": "About a fifth of the world's oil normally passes through this strait, so attacks there can raise fuel and shipping prices far from the region.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Saachi Baat (international news digest), October 31, 2026"
+    },
+    {
+     "id": "2026-10-31-environment",
+     "topic": "Environment",
+     "title": "Turkey Unveils Plan to Electrify Everything",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Ahead of <strong>COP31</strong> (Antalya, <strong>November 9-20</strong>), host Turkey released a ten-area <strong>Action Agenda</strong> covering clean energy, zero waste, climate-resilient cities and green industry.</li>\n<li>Its headline goal: raise electricity's share of final energy use to <strong>35% by 2035</strong> (the \"35-by-35\" pledge).</li>\n<li>Turkish officials say meeting such targets could cut global CO₂ by <strong>8.5 to 10 billion tonnes</strong> by 2035.</li>\n<li>A proposed <strong>Climate Implementation Bridge</strong> would help countries turn climate pledges into projects investors can fund.</li>\n<li>The voluntary agenda runs alongside formal negotiations led by Australia's <strong>Chris Bowen</strong>. Climate finance for poorer nations is seen as the key test.</li>\n</ul>",
+     "whyHtml": "Pledges only cut emissions if they become funded projects, and this summit aims to test whether that gap can close.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Electrification</em> means switching things like cars and heating from fuels to electricity.</p>",
+     "sourceHtml": "Source: Kenya Today, October 30-31, 2026"
+    },
+    {
+     "id": "2026-10-31-economics",
+     "topic": "Economics",
+     "title": "Fed Holds Rates, Hints at December Hike",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>October 28</strong>, the US Federal Reserve kept its key interest rate at <strong>3.75%-4.00%</strong>, as widely expected.</li>\n<li>It had raised rates by <strong>0.25 points in September</strong>, so this is a pause, not a reversal.</li>\n<li>Inflation has eased from its peak but is still above the Fed's <strong>2%</strong> target.</li>\n<li>Growth is moderate, but hiring is slowing: <strong>29,000 jobs</strong> were added in September and unemployment rose to <strong>4.2%</strong>.</li>\n<li>Another <strong>0.25-point</strong> rise at the <strong>December 8-9</strong> meeting remains possible if inflation stays high.</li>\n</ul>",
+     "whyHtml": "The Fed's rate sets borrowing costs for mortgages, cards and business loans, so a possible hike means loans may stay expensive.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Raisin (Fed statement breakdown), October 28, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-10-31",
    "label": "Saturday, 31 October 2026",
