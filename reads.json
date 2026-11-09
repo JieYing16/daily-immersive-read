@@ -1,6 +1,52 @@
 {
- "generated": "2026-11-04T23:37:24",
+ "generated": "2026-11-09T13:05:02",
  "days": [
+  {
+   "date": "2026-11-09",
+   "label": "Monday, 9 November 2026",
+   "entries": [
+    {
+     "id": "2026-11-09-ai-technology",
+     "topic": "AI Technology",
+     "title": "OpenAI Agents Uncover 948 Linux Security Flaws",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>OpenAI reported that its autonomous security agents scanned the <strong>Linux kernel</strong> (the core of the Linux operating system) and flagged <strong>2,308</strong> potential flaws.</li>\n<li>The team reproduced <strong>1,724</strong> of them and built working attacks for <strong>948</strong> distinct bugs that could let a limited user become a full administrator.</li>\n<li>The run cost about <strong>$1.21 million</strong> in computing credits, roughly <strong>$1,279</strong> per exploited flaw.</li>\n<li>By the end of the research, Linux maintainers had patched <strong>61</strong> flaws, with <strong>43</strong> more patches in preparation.</li>\n<li>The tests ran in a controlled setting and needed an existing foothold on the machine. In <strong>July</strong>, an earlier system found <strong>166</strong> flaws.</li>\n</ul>",
+     "whyHtml": "AI can now find software weaknesses at scale and at a fairly low price, which helps defenders fix problems faster but also lowers the bar for attackers.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Privilege escalation</em> means a user with limited access tricking a system into granting full control.</p>",
+     "sourceHtml": "Source: The Neuron daily digest, November 5, 2026 (figures are OpenAI-reported)"
+    },
+    {
+     "id": "2026-11-09-geopolitics",
+     "topic": "Geopolitics",
+     "title": "US Strikes Iran Island as Talks Continue",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>November 3-4</strong>, President <strong>Trump</strong> confirmed US forces struck an Iranian anti-aircraft site, which Iranian media placed on <strong>Qeshm Island</strong> near the Strait of Hormuz. He called it a \"minor attack.\"</li>\n<li>US officials described the strike as defensive, after Iranian fire at an American aircraft.</li>\n<li>Iran called Washington's reply to its <strong>seven-step plan</strong> \"not convincing.\" The plan would reopen the Strait within <strong>two days</strong> if the US lifts sanctions and its naval blockade.</li>\n<li><strong>Qatar</strong> says both sides remain committed to talks and are swapping proposals in real time.</li>\n<li>Iran's Revolutionary Guard claimed <strong>four oil tankers</strong> hit <strong>mines</strong> and two ships were detained. These claims could not be independently verified.</li>\n</ul>",
+     "whyHtml": "The Strait of Hormuz carries a large share of the world's oil, so each strike or ship incident can push up fuel and shipping costs far from the region.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Al Jazeera (citing Reuters and Anadolu), November 4, 2026"
+    },
+    {
+     "id": "2026-11-09-environment",
+     "topic": "Environment",
+     "title": "COP31 Opens With an Electrification Push",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Nearly <strong>200 countries</strong> begin two weeks of UN climate talks in <strong>Antalya, Türkiye</strong> on <strong>November 9</strong>, with over <strong>100,000</strong> attendees expected.</li>\n<li>Türkiye holds the presidency, while <strong>Australia</strong> leads the negotiations under a deal that settled a hosting dispute.</li>\n<li>The headline goal is raising electricity's share of global energy use from about <strong>20%</strong> today to <strong>35% by 2035</strong>.</li>\n<li>Tougher action on fossil fuels looks unlikely, and budget-strained rich countries are reluctant to add climate finance for poorer ones.</li>\n<li>The UN warned in <strong>September</strong> that global temperatures are on track to pass <strong>1.5°C</strong> above pre-industrial levels. A strong El Niño could make <strong>2026 or 2027</strong> the hottest year on record.</li>\n</ul>",
+     "whyHtml": "The talks will show whether governments can turn past promises into money and action while energy prices are high and budgets are tight.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>El Niño</em> is a natural warming of Pacific Ocean waters that tends to raise global temperatures.</p>",
+     "sourceHtml": "Source: Hürriyet Daily News, November 2026 (published ahead of COP31)"
+    },
+    {
+     "id": "2026-11-09-economics",
+     "topic": "Economics",
+     "title": "US Jobs Surprise Eases Slowdown Worries",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>US employers added <strong>165,000</strong> jobs in October, well above the <strong>59,000</strong> economists expected, the Labor Department reported on <strong>November 6</strong>.</li>\n<li>The unemployment rate slipped to <strong>4.1%</strong> from <strong>4.2%</strong>. August and September were revised up by a combined <strong>84,000</strong> jobs.</li>\n<li>Gains were led by professional services (<strong>70,000</strong>) and health care (<strong>42,000</strong>).</li>\n<li>Average hourly pay rose <strong>3.1%</strong> over the year, while prices rose <strong>3.7%</strong> in the year to September, so pay is still trailing inflation.</li>\n<li>The Fed held rates at <strong>3.75%-4.00%</strong> on October 28, with two officials voting for a hike. October inflation data arrives <strong>November 10</strong>, and the next Fed decision is <strong>December 9</strong>.</li>\n</ul>",
+     "whyHtml": "A solid job market gives the Fed room to keep rates high to fight inflation, which keeps loans and mortgages costly.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Stock Titan summary of the BLS jobs report, November 6, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-11-04",
    "label": "Wednesday, 4 November 2026",
