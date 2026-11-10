@@ -1,5 +1,69 @@
 # Daily Immersive Read Log
 
+## 2026-11-10
+
+### Topic: AI Technology
+
+**Murati's AI Startup Eyes $40B Valuation**
+
+- **Thinking Machines Lab**, founded by former OpenAI technology chief **Mira Murati**, is reportedly closing a **$5 billion** funding round led by investor **Accel**.
+- The round values the company at **$40 billion** before the new money, more than triple its roughly **$12 billion** valuation from last year's **$2 billion** first round.
+- **Nvidia**, the chip maker, is separately in talks to invest about **$2.5 billion**.
+- The report comes as AI-related stocks wobbled: on **November 5** the Nasdaq 100 fell **6.4%**, with chip stocks hit hardest.
+- Details are from press reports, not company announcements, and could change before the deal closes.
+
+**Why it matters:** Investors are still betting huge sums on a young AI lab with few public products, even as markets show nerves about how long the AI spending boom can last.
+
+**Jargon note:** *Pre-money valuation* is a company's value before new investment is added.
+
+*Source: Business Insider (via AI Weekly), November 6, 2026*
+
+### Topic: Geopolitics
+
+**Ukraine and Russia Edge Toward New Talks**
+
+- Russia and Ukraine have signaled willingness to restart **US-brokered peace talks**, with the Kremlin saying the next round will likely be in **Abu Dhabi** around **mid-November**.
+- It would be the **fourth** round under the Trump administration; the last was in **Geneva** in February.
+- A brief local **ceasefire** was announced so aid could reach a stranded town in Ukraine's **Kherson** region.
+- Big gaps remain: Moscow demands four Ukrainian regions plus Crimea, while Kyiv wants a ceasefire along current front lines first.
+- Hours after Putin agreed "in principle" to talks, Russia launched a deadly missile and drone barrage on Kyiv.
+
+**Why it matters:** A deal would affect European security, energy prices and global trust in security promises, but the distance between the two sides remains wide.
+
+*Source: Associated Press (via WSB-TV), October 24, 2026*
+
+### Topic: Environment
+
+**UN Warns of "Staggering" Climate Adaptation Gap**
+
+- The UN Environment Programme's **Adaptation Gap Report**, released **November 4**, says developing countries will need **$305 billion a year** by **2035** to adapt to climate impacts.
+- Rich countries provided only **$28.2 billion** in **2024**, just **$1 billion** more than in 2023.
+- Even if the goal to triple adaptation finance is met, it would cover only **20-29%** of needs.
+- Over **100** developing countries have applied for **$2.8 billion** from the UN loss and damage fund, which had **$342 million** available in its first round.
+- UN chief **António Guterres** called the shortfall "staggering" as **COP31** talks began in Antalya, Türkiye.
+
+**Why it matters:** Countries that contributed least to warming face floods and heat first, and the money to protect them is far behind what is needed.
+
+**Jargon note:** *Adaptation* means preparing for climate effects, such as sea walls or drought-resistant crops, rather than cutting emissions.
+
+*Source: Carbon Brief (reporting UNEP), November 6, 2026*
+
+### Topic: Economics
+
+**Chip Stocks Slide, Wiping Out $2.3 Trillion**
+
+- On **Thursday, November 5**, the **Nasdaq 100** index fell **6.4%**, erasing about **$2.3 trillion** in market value.
+- The Philadelphia Semiconductor Index, which tracks chip makers, dropped **12%**, and Asian markets followed.
+- **Nvidia** and **Qualcomm** each fell more than **9%**.
+- Investors worried that Democratic midterm election wins could slow the building of AI data centers.
+- Such one-day moves often reflect fear as much as changes in company earnings, so later days may differ.
+
+**Why it matters:** Many retirement and index funds are heavily invested in a few tech giants, so a sharp drop in chip stocks can touch ordinary savings.
+
+*Source: CNBC (via AI Weekly), November 5, 2026*
+
+---
+
 ## 2026-11-09
 
 ### Topic: AI Technology

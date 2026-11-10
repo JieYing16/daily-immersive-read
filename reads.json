@@ -1,6 +1,52 @@
 {
- "generated": "2026-11-09T17:05:02",
+ "generated": "2026-11-10T17:05:03",
  "days": [
+  {
+   "date": "2026-11-10",
+   "label": "Tuesday, 10 November 2026",
+   "entries": [
+    {
+     "id": "2026-11-10-ai-technology",
+     "topic": "AI Technology",
+     "title": "Murati's AI Startup Eyes $40B Valuation",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li><strong>Thinking Machines Lab</strong>, founded by former OpenAI technology chief <strong>Mira Murati</strong>, is reportedly closing a <strong>$5 billion</strong> funding round led by investor <strong>Accel</strong>.</li>\n<li>The round values the company at <strong>$40 billion</strong> before the new money, more than triple its roughly <strong>$12 billion</strong> valuation from last year's <strong>$2 billion</strong> first round.</li>\n<li><strong>Nvidia</strong>, the chip maker, is separately in talks to invest about <strong>$2.5 billion</strong>.</li>\n<li>The report comes as AI-related stocks wobbled: on <strong>November 5</strong> the Nasdaq 100 fell <strong>6.4%</strong>, with chip stocks hit hardest.</li>\n<li>Details are from press reports, not company announcements, and could change before the deal closes.</li>\n</ul>",
+     "whyHtml": "Investors are still betting huge sums on a young AI lab with few public products, even as markets show nerves about how long the AI spending boom can last.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Pre-money valuation</em> is a company's value before new investment is added.</p>",
+     "sourceHtml": "Source: Business Insider (via AI Weekly), November 6, 2026"
+    },
+    {
+     "id": "2026-11-10-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Ukraine and Russia Edge Toward New Talks",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Russia and Ukraine have signaled willingness to restart <strong>US-brokered peace talks</strong>, with the Kremlin saying the next round will likely be in <strong>Abu Dhabi</strong> around <strong>mid-November</strong>.</li>\n<li>It would be the <strong>fourth</strong> round under the Trump administration; the last was in <strong>Geneva</strong> in February.</li>\n<li>A brief local <strong>ceasefire</strong> was announced so aid could reach a stranded town in Ukraine's <strong>Kherson</strong> region.</li>\n<li>Big gaps remain: Moscow demands four Ukrainian regions plus Crimea, while Kyiv wants a ceasefire along current front lines first.</li>\n<li>Hours after Putin agreed \"in principle\" to talks, Russia launched a deadly missile and drone barrage on Kyiv.</li>\n</ul>",
+     "whyHtml": "A deal would affect European security, energy prices and global trust in security promises, but the distance between the two sides remains wide.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Associated Press (via WSB-TV), October 24, 2026"
+    },
+    {
+     "id": "2026-11-10-environment",
+     "topic": "Environment",
+     "title": "UN Warns of \"Staggering\" Climate Adaptation Gap",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The UN Environment Programme's <strong>Adaptation Gap Report</strong>, released <strong>November 4</strong>, says developing countries will need <strong>$305 billion a year</strong> by <strong>2035</strong> to adapt to climate impacts.</li>\n<li>Rich countries provided only <strong>$28.2 billion</strong> in <strong>2024</strong>, just <strong>$1 billion</strong> more than in 2023.</li>\n<li>Even if the goal to triple adaptation finance is met, it would cover only <strong>20-29%</strong> of needs.</li>\n<li>Over <strong>100</strong> developing countries have applied for <strong>$2.8 billion</strong> from the UN loss and damage fund, which had <strong>$342 million</strong> available in its first round.</li>\n<li>UN chief <strong>António Guterres</strong> called the shortfall \"staggering\" as <strong>COP31</strong> talks began in Antalya, Türkiye.</li>\n</ul>",
+     "whyHtml": "Countries that contributed least to warming face floods and heat first, and the money to protect them is far behind what is needed.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Adaptation</em> means preparing for climate effects, such as sea walls or drought-resistant crops, rather than cutting emissions.</p>",
+     "sourceHtml": "Source: Carbon Brief (reporting UNEP), November 6, 2026"
+    },
+    {
+     "id": "2026-11-10-economics",
+     "topic": "Economics",
+     "title": "Chip Stocks Slide, Wiping Out $2.3 Trillion",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>On <strong>Thursday, November 5</strong>, the <strong>Nasdaq 100</strong> index fell <strong>6.4%</strong>, erasing about <strong>$2.3 trillion</strong> in market value.</li>\n<li>The Philadelphia Semiconductor Index, which tracks chip makers, dropped <strong>12%</strong>, and Asian markets followed.</li>\n<li><strong>Nvidia</strong> and <strong>Qualcomm</strong> each fell more than <strong>9%</strong>.</li>\n<li>Investors worried that Democratic midterm election wins could slow the building of AI data centers.</li>\n<li>Such one-day moves often reflect fear as much as changes in company earnings, so later days may differ.</li>\n</ul>",
+     "whyHtml": "Many retirement and index funds are heavily invested in a few tech giants, so a sharp drop in chip stocks can touch ordinary savings.",
+     "noteHtml": "",
+     "sourceHtml": "Source: CNBC (via AI Weekly), November 5, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-11-09",
    "label": "Monday, 9 November 2026",
