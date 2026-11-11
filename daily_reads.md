@@ -1,5 +1,135 @@
 # Daily Immersive Read Log
 
+## 2026-11-11
+
+### Topic: AI Technology
+
+**Anthropic Ships Faster Claude Models, Pulls IPO Figures**
+
+- **Anthropic** released two upgraded AI models, **Claude Fable 5.2** and **Mythos 5.2**, aimed at complex coding and scientific research.
+- Both respond up to **30% faster** than the previous versions.
+- Fable 5.2 is open to everyone at **$8 per million input tokens** and **$40 per million output tokens**, with safeguards that block risky cybersecurity and biology requests. Mythos 5.2 keeps those abilities only for verified research organizations.
+- In one test, the models coordinated more than **1,000 AI agents** over **eight days** to build an operating system that could boot on a laptop.
+- Separately, Reuters reported Anthropic circulated, then retracted, details of a possible **$69.3 billion** stock market listing (IPO), saying the pricing information was inaccurate.
+
+**Why it matters:** AI labs are now offering a "safe public" model and a more powerful restricted version, a pattern that may shape how risky capabilities are released.
+
+**Jargon note:** A *token* is a small chunk of text (roughly ¾ of a word) that AI companies use to measure and charge for usage.
+
+*Source: The Neuron (citing Reuters), November 10, 2026*
+
+### Topic: Geopolitics
+
+**Trump Calls Iran War "Effectively Over"**
+
+- After meeting **Qatar's prime minister** at the White House on **November 9**, President Trump said the war with Iran is "effectively over" militarily.
+- The war began on **February 28** with US and Israeli strikes on Iran; Iran hit back at Gulf neighbours and moved to close the **Strait of Hormuz**, a key oil and gas shipping route.
+- Trump said the US will keep its **naval blockade** of Iranian ports and a new task force to cut land and Caspian Sea trade, while staying ready to strike again.
+- Qatar's prime minister reportedly brought an Iranian proposal to end the war. Iran wants sanctions lifted, frozen funds released and fighting ended on all fronts, including Lebanon.
+- Iranian officials called Trump's remarks "fake news" and say they will not be pressured.
+
+**Why it matters:** An end to the war could ease energy prices worldwide, but with no formal ceasefire and a blockade still in place, the conflict is paused, not settled.
+
+*Source: Al Jazeera, November 9, 2026*
+
+### Topic: Environment
+
+**COP31 Climate Summit Opens in Türkiye**
+
+- The UN's yearly climate summit, **COP31**, opened on **November 9** in **Antalya, Türkiye**, and runs until **November 20**.
+- Nearly **200 countries** are taking part, with more than **90,000 people** expected.
+- Türkiye's environment minister **Murat Kurum** is COP31 President, while Australia's climate minister **Chris Bowen** leads negotiations under an unusual shared arrangement.
+- Organisers say the focus is on **turning existing promises into action**, not a single headline agreement. Money for poorer countries to adapt to climate impacts is expected to be the hardest issue.
+- The WHO estimates **3.3–3.6 billion people** live in areas highly vulnerable to climate change; food and farming produce roughly **one third** of global greenhouse gas emissions.
+
+**Why it matters:** After a year of extreme weather and a warning of a strong El Niño, COP31 tests whether countries can deliver on climate pledges rather than just make new ones.
+
+**Jargon note:** *COP* stands for "Conference of the Parties," the annual meeting of countries that signed the UN climate treaty.
+
+*Source: UN News, November 9, 2026*
+
+### Topic: Economics
+
+**Hot US Inflation Points to December Rate Hike**
+
+- US consumer prices rose **0.4%** from September to **October**, and "core" prices (excluding food and energy) rose **0.3%**, both slightly above forecasts.
+- No official yearly rate was published because October 2025 data was never collected during the government shutdown; one economist estimates yearly inflation at about **4%**.
+- **Gasoline** is up more than **37%** from a year ago, and higher energy costs are spreading to electricity, groceries, restaurants and airfares.
+- AI-driven demand pushed **computer prices** up nearly **10%** over the year.
+- The Federal Reserve raised rates in September and paused in October; a further increase in **December** now looks very likely, and Governor Christopher Waller said a larger half-point hike is possible.
+
+**Why it matters:** Higher interest rates make loans and mortgages more expensive, and the data shows price pressures spreading well beyond fuel.
+
+**Jargon note:** *Core inflation* leaves out volatile food and energy prices to show the underlying price trend.
+
+*Source: PBS NewsHour (Associated Press), November 10, 2026*
+
+---
+
+## 2026-11-10
+
+### Topic: AI Technology
+
+**Murati's AI Startup Eyes $40B Valuation**
+
+- **Thinking Machines Lab**, founded by former OpenAI technology chief **Mira Murati**, is reportedly closing a **$5 billion** funding round led by investor **Accel**.
+- The round values the company at **$40 billion** before the new money, more than triple its roughly **$12 billion** valuation from last year's **$2 billion** first round.
+- **Nvidia**, the chip maker, is separately in talks to invest about **$2.5 billion**.
+- The report comes as AI-related stocks wobbled: on **November 5** the Nasdaq 100 fell **6.4%**, with chip stocks hit hardest.
+- Details are from press reports, not company announcements, and could change before the deal closes.
+
+**Why it matters:** Investors are still betting huge sums on a young AI lab with few public products, even as markets show nerves about how long the AI spending boom can last.
+
+**Jargon note:** *Pre-money valuation* is a company's value before new investment is added.
+
+*Source: Business Insider (via AI Weekly), November 6, 2026*
+
+### Topic: Geopolitics
+
+**Ukraine and Russia Edge Toward New Talks**
+
+- Russia and Ukraine have signaled willingness to restart **US-brokered peace talks**, with the Kremlin saying the next round will likely be in **Abu Dhabi** around **mid-November**.
+- It would be the **fourth** round under the Trump administration; the last was in **Geneva** in February.
+- A brief local **ceasefire** was announced so aid could reach a stranded town in Ukraine's **Kherson** region.
+- Big gaps remain: Moscow demands four Ukrainian regions plus Crimea, while Kyiv wants a ceasefire along current front lines first.
+- Hours after Putin agreed "in principle" to talks, Russia launched a deadly missile and drone barrage on Kyiv.
+
+**Why it matters:** A deal would affect European security, energy prices and global trust in security promises, but the distance between the two sides remains wide.
+
+*Source: Associated Press (via WSB-TV), October 24, 2026*
+
+### Topic: Environment
+
+**UN Warns of "Staggering" Climate Adaptation Gap**
+
+- The UN Environment Programme's **Adaptation Gap Report**, released **November 4**, says developing countries will need **$305 billion a year** by **2035** to adapt to climate impacts.
+- Rich countries provided only **$28.2 billion** in **2024**, just **$1 billion** more than in 2023.
+- Even if the goal to triple adaptation finance is met, it would cover only **20-29%** of needs.
+- Over **100** developing countries have applied for **$2.8 billion** from the UN loss and damage fund, which had **$342 million** available in its first round.
+- UN chief **António Guterres** called the shortfall "staggering" as **COP31** talks began in Antalya, Türkiye.
+
+**Why it matters:** Countries that contributed least to warming face floods and heat first, and the money to protect them is far behind what is needed.
+
+**Jargon note:** *Adaptation* means preparing for climate effects, such as sea walls or drought-resistant crops, rather than cutting emissions.
+
+*Source: Carbon Brief (reporting UNEP), November 6, 2026*
+
+### Topic: Economics
+
+**Chip Stocks Slide, Wiping Out $2.3 Trillion**
+
+- On **Thursday, November 5**, the **Nasdaq 100** index fell **6.4%**, erasing about **$2.3 trillion** in market value.
+- The Philadelphia Semiconductor Index, which tracks chip makers, dropped **12%**, and Asian markets followed.
+- **Nvidia** and **Qualcomm** each fell more than **9%**.
+- Investors worried that Democratic midterm election wins could slow the building of AI data centers.
+- Such one-day moves often reflect fear as much as changes in company earnings, so later days may differ.
+
+**Why it matters:** Many retirement and index funds are heavily invested in a few tech giants, so a sharp drop in chip stocks can touch ordinary savings.
+
+*Source: CNBC (via AI Weekly), November 5, 2026*
+
+---
+
 ## 2026-11-10
 
 ### Topic: AI Technology
