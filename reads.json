@@ -1,6 +1,52 @@
 {
- "generated": "2026-11-11T23:00:22",
+ "generated": "2026-11-12T20:00:26",
  "days": [
+  {
+   "date": "2026-11-12",
+   "label": "Thursday, 12 November 2026",
+   "entries": [
+    {
+     "id": "2026-11-12-ai-technology",
+     "topic": "AI Technology",
+     "title": "OpenAI Hits $10 Billion Quarter, Still Losing Big",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li><strong>OpenAI</strong> told investors on <strong>November 10</strong> that its <strong>third-quarter (Q3)</strong> revenue reached about <strong>$10 billion</strong>, up roughly <strong>50%</strong> from the previous quarter.</li>\n<li>Its <strong>operating loss</strong> (money lost running the business) still widened to <strong>$10.9 billion</strong>, from $10.1 billion in Q2.</li>\n<li>The loss per dollar of sales improved: an adjusted margin of <strong>-109%</strong>, versus <strong>-150%</strong> in Q2.</li>\n<li>Business customers are now OpenAI's biggest revenue source, ahead of consumers, helped by demand for AI coding tools.</li>\n<li>Rival <strong>Anthropic</strong> reported nearly <strong>$17 billion</strong> in Q3 revenue but slipped to a <strong>$567 million</strong> operating loss. OpenAI has pushed its stock market listing (IPO) to next year.</li>\n</ul>",
+     "whyHtml": "AI sales are growing very fast, but so are the costs of building and running the models, so investors are still asking when the business will actually make money.",
+     "noteHtml": "<p><strong>Jargon note:</strong> An <em>operating margin</em> of -109% means the company spent about $2.09 for every $1 it earned.</p>",
+     "sourceHtml": "Source: TipRanks (citing The Wall Street Journal), November 11, 2026"
+    },
+    {
+     "id": "2026-11-12-geopolitics",
+     "topic": "Geopolitics",
+     "title": "Ukraine and Russia Agree Major Prisoner Swap",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>Two days of <strong>US-mediated</strong> talks between <strong>Ukraine</strong> and <strong>Russia</strong> in <strong>Abu Dhabi</strong> ended on <strong>November 11</strong> with an agreement in principle on a large prisoner exchange.</li>\n<li>President <strong>Zelenskyy</strong> said about <strong>1,000 prisoners from each side</strong> were discussed, possibly rising to <strong>1,500</strong> each; the final number is due on <strong>November 12</strong>.</li>\n<li>It was the first direct Kyiv–Moscow meeting in <strong>nine months</strong>. US envoys <strong>Jared Kushner</strong> and <strong>Steve Witkoff</strong> led the mediation.</li>\n<li>There was no progress on a <strong>ceasefire</strong> or <strong>territory</strong>: Russia wants Ukraine to leave the eastern <strong>Donbas</strong> region, which Kyiv refuses.</li>\n<li>Kushner and Witkoff are due to meet <strong>Putin</strong> in Moscow, then <strong>Zelenskyy</strong> in Dublin.</li>\n</ul>",
+     "whyHtml": "Prisoner swaps build a little trust, but the war's core dispute over land remains unsolved, so peace is still far off.",
+     "noteHtml": "",
+     "sourceHtml": "Source: Euronews, November 11, 2026"
+    },
+    {
+     "id": "2026-11-12-environment",
+     "topic": "Environment",
+     "title": "UN Chief Demands \"Climate Justice\" Deal at COP31",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>World leaders began a two-day summit at <strong>COP31</strong> in <strong>Antalya, Türkiye</strong>, on <strong>November 11</strong>.</li>\n<li>UN Secretary-General <strong>António Guterres</strong> called for a <strong>\"climate justice compact\"</strong> and urged governments to <strong>tax fossil fuel companies</strong> to help the countries hit hardest.</li>\n<li>He noted the nine largest oil companies earned <strong>$95 billion</strong> in one quarter, while the fund for climate \"loss and damage\" has received about <strong>$600 million</strong> — roughly 14 hours of those profits.</li>\n<li>Current national plans still point to more than <strong>2.5°C</strong> of warming by 2100, well above the 1.5°C goal.</li>\n<li>Brazil's President <strong>Lula</strong> warned that wars and trade fights are pushing climate down the agenda.</li>\n</ul>",
+     "whyHtml": "The fight at COP31 is about money — who pays to help poorer countries cope and switch to clean energy — and that will decide whether pledges become action.",
+     "noteHtml": "<p><strong>Jargon note:</strong> <em>Loss and damage</em> means harm from climate change that can no longer be avoided, such as homes lost to floods or rising seas.</p>",
+     "sourceHtml": "Source: UN News, November 11, 2026"
+    },
+    {
+     "id": "2026-11-12-economics",
+     "topic": "Economics",
+     "title": "US Borrowing Costs Touch 5% on Inflation Fears",
+     "mins": 1,
+     "bodyHtml": "<ul>\n<li>The yield on the <strong>10-year US Treasury</strong> (the interest the government pays to borrow for 10 years) briefly topped <strong>5%</strong> on <strong>November 10</strong>, closing at <strong>4.99%</strong>.</li>\n<li>The trigger was October's inflation report, the <strong>third</strong> upside surprise in a row: prices rose <strong>0.4%</strong> in the month versus 0.3% expected.</li>\n<li>Markets now fully expect the <strong>Federal Reserve</strong> to raise interest rates in <strong>December</strong>, with two more hikes priced in by next June.</li>\n<li>A <strong>10-year bond auction</strong> saw its weakest demand since June, pushing yields higher.</li>\n<li>Ripple effects: stocks fell (Nvidia down <strong>5.5%</strong>), the US dollar strengthened, and <strong>gold</strong> dropped about <strong>2%</strong> to near <strong>$4,000</strong> an ounce.</li>\n</ul>",
+     "whyHtml": "The 10-year yield sets the tone for mortgages and business loans, so a jump toward 5% makes borrowing more expensive for households and companies.",
+     "noteHtml": "<p><strong>Jargon note:</strong> A bond's <em>yield</em> moves opposite to its price — when investors sell bonds, prices fall and yields rise.</p>",
+     "sourceHtml": "Source: Saxo Bank Market Quick Take, November 11, 2026"
+    }
+   ]
+  },
   {
    "date": "2026-11-11",
    "label": "Wednesday, 11 November 2026",

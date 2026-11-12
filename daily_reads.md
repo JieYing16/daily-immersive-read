@@ -1,5 +1,71 @@
 # Daily Immersive Read Log
 
+## 2026-11-12
+
+### Topic: AI Technology
+
+**OpenAI Hits $10 Billion Quarter, Still Losing Big**
+
+- **OpenAI** told investors on **November 10** that its **third-quarter (Q3)** revenue reached about **$10 billion**, up roughly **50%** from the previous quarter.
+- Its **operating loss** (money lost running the business) still widened to **$10.9 billion**, from $10.1 billion in Q2.
+- The loss per dollar of sales improved: an adjusted margin of **-109%**, versus **-150%** in Q2.
+- Business customers are now OpenAI's biggest revenue source, ahead of consumers, helped by demand for AI coding tools.
+- Rival **Anthropic** reported nearly **$17 billion** in Q3 revenue but slipped to a **$567 million** operating loss. OpenAI has pushed its stock market listing (IPO) to next year.
+
+**Why it matters:** AI sales are growing very fast, but so are the costs of building and running the models, so investors are still asking when the business will actually make money.
+
+**Jargon note:** An *operating margin* of -109% means the company spent about $2.09 for every $1 it earned.
+
+*Source: TipRanks (citing The Wall Street Journal), November 11, 2026*
+
+### Topic: Geopolitics
+
+**Ukraine and Russia Agree Major Prisoner Swap**
+
+- Two days of **US-mediated** talks between **Ukraine** and **Russia** in **Abu Dhabi** ended on **November 11** with an agreement in principle on a large prisoner exchange.
+- President **Zelenskyy** said about **1,000 prisoners from each side** were discussed, possibly rising to **1,500** each; the final number is due on **November 12**.
+- It was the first direct Kyiv–Moscow meeting in **nine months**. US envoys **Jared Kushner** and **Steve Witkoff** led the mediation.
+- There was no progress on a **ceasefire** or **territory**: Russia wants Ukraine to leave the eastern **Donbas** region, which Kyiv refuses.
+- Kushner and Witkoff are due to meet **Putin** in Moscow, then **Zelenskyy** in Dublin.
+
+**Why it matters:** Prisoner swaps build a little trust, but the war's core dispute over land remains unsolved, so peace is still far off.
+
+*Source: Euronews, November 11, 2026*
+
+### Topic: Environment
+
+**UN Chief Demands "Climate Justice" Deal at COP31**
+
+- World leaders began a two-day summit at **COP31** in **Antalya, Türkiye**, on **November 11**.
+- UN Secretary-General **António Guterres** called for a **"climate justice compact"** and urged governments to **tax fossil fuel companies** to help the countries hit hardest.
+- He noted the nine largest oil companies earned **$95 billion** in one quarter, while the fund for climate "loss and damage" has received about **$600 million** — roughly 14 hours of those profits.
+- Current national plans still point to more than **2.5°C** of warming by 2100, well above the 1.5°C goal.
+- Brazil's President **Lula** warned that wars and trade fights are pushing climate down the agenda.
+
+**Why it matters:** The fight at COP31 is about money — who pays to help poorer countries cope and switch to clean energy — and that will decide whether pledges become action.
+
+**Jargon note:** *Loss and damage* means harm from climate change that can no longer be avoided, such as homes lost to floods or rising seas.
+
+*Source: UN News, November 11, 2026*
+
+### Topic: Economics
+
+**US Borrowing Costs Touch 5% on Inflation Fears**
+
+- The yield on the **10-year US Treasury** (the interest the government pays to borrow for 10 years) briefly topped **5%** on **November 10**, closing at **4.99%**.
+- The trigger was October's inflation report, the **third** upside surprise in a row: prices rose **0.4%** in the month versus 0.3% expected.
+- Markets now fully expect the **Federal Reserve** to raise interest rates in **December**, with two more hikes priced in by next June.
+- A **10-year bond auction** saw its weakest demand since June, pushing yields higher.
+- Ripple effects: stocks fell (Nvidia down **5.5%**), the US dollar strengthened, and **gold** dropped about **2%** to near **$4,000** an ounce.
+
+**Why it matters:** The 10-year yield sets the tone for mortgages and business loans, so a jump toward 5% makes borrowing more expensive for households and companies.
+
+**Jargon note:** A bond's *yield* moves opposite to its price — when investors sell bonds, prices fall and yields rise.
+
+*Source: Saxo Bank Market Quick Take, November 11, 2026*
+
+---
+
 ## 2026-11-11
 
 ### Topic: AI Technology
